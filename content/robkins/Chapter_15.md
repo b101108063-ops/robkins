@@ -1,3 +1,4 @@
+layout: single
 # Chapter 15: Oral Cavities and Gastrointestinal Tract
 
 

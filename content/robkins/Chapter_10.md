@@ -1,3 +1,4 @@
+layout: single
 # Chapter 10: Blood Vessels
 
 

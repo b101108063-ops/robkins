@@ -1,3 +1,4 @@
+layout: single
 # Chapter 7: Genetic and Pediatric Diseases
 
 

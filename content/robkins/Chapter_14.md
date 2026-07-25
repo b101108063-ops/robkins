@@ -1,3 +1,4 @@
+layout: single
 # Chapter 14: Kidney and Its Collecting System
 
 

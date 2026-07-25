@@ -1,3 +1,4 @@
+layout: single
 # Chapter 8: Environmental and Nutritional Diseases
 
 

@@ -1,3 +1,4 @@
+layout: single
 # Chapter 1: The Cell as a Unit of Health and Disease
 
 

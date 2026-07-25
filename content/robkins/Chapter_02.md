@@ -1,3 +1,4 @@
+layout: single
 # Chapter 2: Cell Injury, Cell Death, and Adaptations
 
 

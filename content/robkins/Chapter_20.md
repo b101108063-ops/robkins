@@ -1,3 +1,4 @@
+layout: single
 # Chapter 20: Endocrine System
 
 

@@ -1,19 +1,15 @@
 {{ define "main" }}
 <header class="page-header" style="text-align: center; margin-bottom: 2rem;">
-    <h1>麻醉科學 Anaesthesiology</h1>
+    <h1>Robbins Basic Pathology</h1>
 </header>
 
 <div class="bookshelf-container">
     
     <div class="book-card">
-        <h2 class="book-card-title">Anaesthesiology — 麻醉科學</h2>
+        <h2 class="book-card-title">Robbins Basic Pathology — Tenth Edition</h2>
         <div class="book-card-actions">
-            {{ $anesthesia := site.GetPage "anesthesia" }}
-            {{ if $anesthesia }}
-                <a href="{{ $anesthesia.Permalink }}" class="book-action-btn primary">📖 章節選單</a>
-            {{ end }}
-            
-            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 搜尋</a>
+            <a href="{{ "robkins/" | absURL }}" class="book-action-btn primary">章節選單</a>
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">搜尋</a>
         </div>
     </div>
 

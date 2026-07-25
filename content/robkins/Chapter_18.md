@@ -1,3 +1,4 @@
+layout: single
 # Chapter 18: Male Genital System and Lower Urinary Tract
 
 

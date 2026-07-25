@@ -1,3 +1,4 @@
+layout: single
 # Chapter 3: Inflammation and Repair
 
 

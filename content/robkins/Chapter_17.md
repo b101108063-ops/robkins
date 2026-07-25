@@ -1,3 +1,4 @@
+layout: single
 # Chapter 17: Pancreas
 
 

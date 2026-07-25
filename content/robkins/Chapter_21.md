@@ -1,3 +1,4 @@
+layout: single
 # Chapter 21: Bones, Joints, and Soft Tissue Tumors
 
 

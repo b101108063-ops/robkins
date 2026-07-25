@@ -1,3 +1,4 @@
+layout: single
 # Chapter 11: Heart
 
 

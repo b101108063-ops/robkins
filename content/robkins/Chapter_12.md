@@ -1,3 +1,4 @@
+layout: single
 # Chapter 12: Hematopoietic and Lymphoid Systems
 
 

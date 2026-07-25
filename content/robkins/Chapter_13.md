@@ -1,3 +1,4 @@
+layout: single
 # Chapter 13: Lung
 
 

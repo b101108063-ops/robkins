@@ -1,3 +1,4 @@
+layout: single
 # Chapter 22: Peripheral Nerves and Muscles
 
 

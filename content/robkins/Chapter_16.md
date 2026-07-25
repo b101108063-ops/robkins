@@ -1,3 +1,4 @@
+layout: single
 # Chapter 16: Liver and Gallbladder
 
 

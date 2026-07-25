@@ -1,3 +1,4 @@
+layout: single
 # Chapter 23: Central Nervous System
 
 

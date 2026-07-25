@@ -1,3 +1,4 @@
+layout: single
 # Chapter 9: General Pathology of Infectious Diseases
 
 

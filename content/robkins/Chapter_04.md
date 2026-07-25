@@ -1,3 +1,4 @@
+layout: single
 # Chapter 4: Hemodynamic Disorders, Thromboembolism, and Shock
 
 
