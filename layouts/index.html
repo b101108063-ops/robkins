@@ -1,0 +1,33 @@
+{{ define "main" }}
+<header class="page-header" style="text-align: center; margin-bottom: 2rem;">
+    <h1>麻醉科學 Anaesthesiology</h1>
+</header>
+
+<div class="bookshelf-container">
+    
+    <div class="book-card">
+        <h2 class="book-card-title">Anaesthesiology — 麻醉科學</h2>
+        <div class="book-card-actions">
+            {{ $anesthesia := site.GetPage "anesthesia" }}
+            {{ if $anesthesia }}
+                <a href="{{ $anesthesia.Permalink }}" class="book-action-btn primary">📖 章節選單</a>
+            {{ end }}
+            
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 搜尋</a>
+        </div>
+    </div>
+
+</div>
+
+<style>
+    .bookshelf-container { max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 1.5rem; }
+    .book-card { background-color: #1e1f20; border: 1px solid #38393a; border-radius: 10px; padding: 1.8rem; display: flex; flex-direction: column; gap: 1.2rem; }
+    .book-card-title { font-size: 1.25rem; font-weight: bold; color: #3a86ff; margin: 0; line-height: 1.4; }
+    .book-card-actions { display: flex; gap: 12px; }
+    .book-action-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 0.9rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1rem; transition: all 0.2s ease-in-out; box-sizing: border-box; }
+    .book-action-btn.primary { background-color: #3a86ff; color: #ffffff; border: 1px solid #3a86ff; }
+    .book-action-btn.primary:hover { background-color: #2563eb; transform: translateY(-2px); }
+    .book-action-btn.secondary { background-color: #242526; color: #3a86ff; border: 1px solid #38393a; }
+    .book-action-btn.secondary:hover { background-color: #3a86ff; color: #ffffff; border-color: #3a86ff; transform: translateY(-2px); }
+</style>
+{{ end }}

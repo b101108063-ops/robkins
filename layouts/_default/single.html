@@ -1,0 +1,98 @@
+{{ define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    {{- $path := .RelPermalink -}}
+    
+    {{ if in $path "anesthesia" }}
+        <div class="note-breadcrumb">
+            麻醉科學 Anaesthesiology
+        </div>
+        <h1 class="post-title chapter-title">
+            {{ .Params.chapter | default .Title }}
+        </h1>
+        <div class="post-subtitle chapter-subtitle">
+            {{ .Params.title | default .Title }}
+        </div>
+    {{ else }}
+        <h1 class="post-title">{{ .Title }}</h1>
+    {{ end }}
+  </header>
+  
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  <footer class="post-footer">
+    {{- if .Params.tags }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms "tags") }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </footer>
+</article>
+
+<style>
+    /* 隱藏 Markdown 內文可能產生的 H1（防止副標題在內文又出現一次） */
+    .post-content > h1:first-child { display: none !important; }
+
+    /* 全局內文排版 */
+    .post-content { font-size: 1.02rem; line-height: 1.7; color: #e5e7eb; }
+
+    /* 麻醉學專屬標題樣式 */
+    .note-breadcrumb {
+        font-size: 0.85rem;
+        color: #3a86ff;
+        margin-bottom: 0.4rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    .chapter-title {
+        font-size: 1.8rem;
+        color: #60a5fa;
+        margin-bottom: 0.3rem;
+        font-weight: 700;
+    }
+    
+    .chapter-subtitle {
+        font-size: 1.25rem;
+        color: #9ca3af;
+        font-weight: 500;
+        border-bottom: 1px solid #38393a;
+        padding-bottom: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    /* 美化 H2/H3 標題 */
+    .post-content h2 { font-size: 1.4rem; color: #60a5fa; border-left: 4px solid #3a86ff; padding-left: 12px; margin-top: 2.2rem; margin-bottom: 1rem; font-weight: 600; }
+    .post-content h3 { font-size: 1.2rem; color: #93c5fd; margin-top: 1.8rem; margin-bottom: 0.8rem; font-weight: 600; }
+
+    /* 列表與項目符號優化 */
+    .post-content ul { list-style-type: disc; padding-left: 1.5rem; margin-bottom: 1.2rem; }
+    .post-content li { margin-bottom: 0.5rem; line-height: 1.6; }
+
+    /* 表格橫向滾動 */
+    .post-content table { display: block; overflow-x: auto; white-space: nowrap; width: 100%; border-collapse: collapse; margin: 1.8rem 0; font-size: 0.95rem; background-color: #242526; border-radius: 8px; border: 1px solid #38393a; }
+    .post-content th, .post-content td { padding: 12px 16px; text-align: left; border-bottom: 1px solid #38393a; color: #e5e7eb; }
+    .post-content th { background-color: #2a2b2c; color: #3a86ff; font-weight: bold; }
+    .post-content tr:last-child td { border-bottom: none; }
+    .post-content tr:hover { background-color: #2a2b2c; }
+    
+    /* 引用樣式 */
+    .post-content blockquote { 
+        border-left: 4px solid #3a86ff; 
+        padding: 12px 16px; 
+        margin: 1.5rem 0; 
+        background-color: #242526; 
+        border-radius: 4px;
+    }
+    .post-content blockquote p { margin-bottom: 0.5rem; color: #9ca3af; }
+    
+    /* 粗體和斜體 */
+    .post-content strong { color: #60a5fa; font-weight: 600; }
+    .post-content em { color: #93c5fd; }
+</style>
+{{ end }}
