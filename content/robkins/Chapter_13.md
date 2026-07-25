@@ -1,47 +1,9 @@
+---
 layout: single
+title: "Chapter 13: Diseases of the Oral Cavity and Gastrointestinal Tract"
+---
+
 # Chapter 13: Lung
-
-
-*ALVEOLAR*
-
-
-*SPACE*
-
-
-*Type I*
-
-
-pneumocyte
-
-
-*Type II pneumocyte*
-
-
-*Endothelium*
-
-
-*Interstitial*
-
-
-cell
-
-
-*CAPILLARY*
-
-
-*LUMEN*
-
-
-*Type I*
-
-
-pneumocyte
-
-
-*ALVEOLAR SPACE*
-
-
-*Endothelium*
 
 
 Fig. 13.1 Microscopic structure of the alveolar wall. Note that the basement
@@ -140,10 +102,7 @@ prevent hypoxemia and superimposed infection of the col-
 lapsed lung.
 
 
-**ACUTE RESPIRATORY DISTRESS**
-
-
-*SYNDROME*
+## Acute Respiratory Distress Syndrome
 
 
 The epidemiology and definition of acute respiratory dis-
@@ -221,7 +180,7 @@ latter is caused by a deficiency of surfactant caused by
 prematurity.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 In ARDS, the integrity of the alveolar-capillary mem-
@@ -305,9 +264,6 @@ mines the degree of tissue injury and clinical severity of
 the ARDS.
 
 
-*MORPHOL OG Y*
-
-
 In the acute phase of ARDS, the lungs are dark red, firm,
 
 
@@ -329,97 +285,13 @@ finding is the presence of hyaline membranes, particularly
 Acute Respiratory Distress Syndrome
 
 
-*NORMAL ALVEOLUS*
-
-
-*ACUTE LUNG INJURY*
-
-
-*Bronchial epithelium*
-
-
 Sloughed bronchial epithelium
-
-
-*Basement membrane*
-
-
-*Inactivated*
 
 
 surfactant
 
 
-*Necrotic type I cell*
-
-
-*Alveolar macrophage*
-
-
-*Surfactant layer*
-
-
-*Type I cell*
-
-
-*Type II cell*
-
-
-*Interstitium*
-
-
-*Capillary*
-
-
-*Endothelial cell*
-
-
-*Leukotrienes*
-
-
-*PAF*
-
-
-*Proteases*
-
-
-*Edema fluid*
-
-
-*Cellular debris*
-
-
-*Alveolus*
-
-
-*TNF IL-1*
-
-
-*Fibrin*
-
-
-*TNF*
-
-
-*Chemokines*
-
-
-*Edema*
-
-
-*Hyaline*
-
-
 membrane
-
-
-*Fibroblast*
-
-
-*Procollagen*
-
-
-*Neutrophil*
 
 
 sequestration
@@ -488,7 +360,7 @@ the alveolar septa ensues due to proliferation of interstitial cells
 and deposition of collagen.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The clinical syndrome of acute lung injury or ARDS affects
@@ -524,10 +396,7 @@ months, but the rest develop diffuse interstitial fibrosis
 leading to chronic respiratory insufficiency.
 
 
-*SU MMARY*
-
-
-**ACUTE RESPIRATORY DISTRESS SYNDROME**
+### Acute Respiratory Distress Syndrome
 
 
 • ARDS is a clinical syndrome of progressive respiratory insuf-
@@ -557,9 +426,6 @@ epithelial necrosis, accumulation of neutrophils, and presence
 of hyaline membranes lining the alveolar wall and ducts.
 
 
-# Chapter 13: Lung
-
-
 Fig. 13.3 Acute lung injury and acute respiratory distress syndrome.
 
 
@@ -581,10 +447,7 @@ lagen. Numerous reactive type II pneumocytes also are seen at this stage
 (arrows), associated with regeneration and repair.
 
 
-**OBSTRUCTIVE VERSUS RESTRICTIVE**
-
-
-*PULMONARY DISEASES*
+## Obstructive Versus Restrictive Pulmonary Diseases
 
 
 Diffuse pulmonary diseases can be classified into two
@@ -683,9 +546,6 @@ sarcoidosis.
 that affect
 
 
-*OBSTRUCTIVE LUNG*
-
-
 (AIRWAY) DISEASES
 
 
@@ -767,7 +627,7 @@ asthma, which, as discussed later, is characterized by
 reversible airflow obstruction (Fig. 13.4).
 
 
-*Emphysema*
+### Emphysema
 
 
 Emphysema is characterized by permanent enlargement
@@ -818,37 +678,34 @@ Obstructive Lung (Airway) Diseases
 **Table 13.1** Disorders Associated With Airflow Obstruction: The Spectrum of Chronic Obstructive Pulmonary Disease
 
 
-*Clinical Entity*
+**Clinical Entity**
 
 
-*Anatomic*
+**Anatomic**
 
 
-*Site*
+**Site**
 
 
-*Chronic bronchitis*
+**Chronic bronchitis**
 
 
-*Bronchus*
+**Bronchus**
 
 
-*Bronchiectasis*
+### Asthma
 
 
-*Asthma*
+**Bronchus**
 
 
-*Bronchus*
+**Bronchus**
 
 
-*Bronchus*
+**Major Pathologic Changes**
 
 
-*Major Pathologic Changes*
-
-
-*Etiology*
+**Etiology**
 
 
 Signs/Symptoms
@@ -884,7 +741,7 @@ hyperplasia, excessive mucus,
 inflammation
 
 
-*Immunologic or undefined*
+**Immunologic or undefined**
 
 
 Episodic wheezing, cough,
@@ -896,25 +753,22 @@ causes
 dyspnea
 
 
-*Emphysema*
+### Emphysema
 
 
-*Acinus*
+**Acinus**
 
 
 Air space enlargement, wall
 
 
-*Tobacco smoke*
+**Tobacco smoke**
 
 
-*Dyspnea*
+**Dyspnea**
 
 
 Small airway disease,
-
-
-*Bronchiole*
 
 
 bronchiolitis*
@@ -1007,33 +861,6 @@ along the lobular connective tissue septa, and at the
 Chronic injury (e.g., smoking)
 
 
-*Small airway disease*
-
-
-*EMPHYSEMA*
-
-
-*Alveolar wall destruction*
-
-
-*Overinflation*
-
-
-*CHRONIC BRONCHITIS*
-
-
-*Productive cough*
-
-
-*Airway inflammation*
-
-
-*ASTHMA*
-
-
-*Reversible obstruction*
-
-
 Bronchial hyperresponsiveness
 
 
@@ -1076,43 +903,16 @@ comes to attention most often in young adults who
 present with spontaneous pneumothorax.
 
 
-*Alveolus*
-
-
-*NORMAL ACINUS*
-
-
-*Respiratory*
-
-
 bronchiole
-
-
-*Alveolar*
 
 
 duct
 
 
-*Respiratory*
-
-
 bronchiole
 
 
-*Alveolus*
-
-
-*Alveolar*
-
-
 duct
-
-
-*Panacinar emphysema*
-
-
-*Centriacinar emphysema*
 
 
 Fig. 13.5 Major patterns of emphysema. (A) Diagram of normal structure
@@ -1202,9 +1002,6 @@ functional airflow obstruction despite the absence of
 mechanical obstruction.
 
 
-*MORPHOL OG Y*
-
-
 The diagnosis and classification of emphysema depend largely on
 
 
@@ -1244,19 +1041,10 @@ alveolar capillaries is diminished. Terminal and respiratory bron-
 chioles may be deformed because of the loss of septa that help
 
 
-# Chapter 13: Lung
-
-
-*Smoking or air pollutant*
-
-
 +
 
 
 genetic predisposition
-
-
-*Congenital*
 
 
 (cid:31)1-anti-trypsin
@@ -1277,9 +1065,6 @@ apoptosis and
 senescence
 
 
-*Inflammatory*
-
-
 cells, release of
 
 
@@ -1296,9 +1081,6 @@ anti-protease
 
 
 imbalance
-
-
-*Alveolar wall destruction*
 
 
 Fig. 13.6 Pathogenesis of emphysema. See text for details.
@@ -1322,7 +1104,7 @@ cally asymptomatic, this may be the most common form
 of emphysema.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 Inhaled cigarette smoke and other noxious particles cause
@@ -1457,7 +1239,7 @@ obstruction in severe emphysema. Bronchiolar inflammation and
 submucosal fibrosis are consistently present in advanced disease.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Dyspnea usually is the first symptom; it begins insidiously
@@ -1688,12 +1470,6 @@ the air is resorbed spontaneously after the site of
 entry seals.
 
 
-*SU MMARY*
-
-
-*EMPHYSEMA*
-
-
 • Emphysema is a chronic obstructive airway disease charac-
 
 
@@ -1742,10 +1518,7 @@ of concurrent chronic bronchitis, since cigarette smoking is a
 risk factor for both.
 
 
-# Chapter 13: Lung
-
-
-*Chronic Bronchitis*
+### Chronic Bronchitis
 
 
 Chronic bronchitis is diagnosed on clinical grounds: it is
@@ -1787,7 +1560,7 @@ cially heavy smokers, develop chronic outflow obstruction,
 usually with associated emphysema (COPD).
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 The distinctive feature of chronic bronchitis is hyperse-
@@ -1919,7 +1692,7 @@ It is the submucosal fibrosis that leads to luminal narrowing and
 airway obstruction. Emphysematous changes often coexist.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The course of chronic bronchitis is quite variable. In some
@@ -1953,15 +1726,6 @@ sometimes leading to cardiac failure (Chapter 11); recur-
 
 
 rent infections; and ultimately respiratory failure.
-
-
-*MORPH OLOGY*
-
-
-*SU MMARY*
-
-
-*CHRONIC BRONCHITIS*
 
 
 As seen in gross specimens, the mucosal lining of the larger
@@ -2027,7 +1791,7 @@ fibrosis.
 Obstructive Lung (Airway) Diseases
 
 
-*Asthma*
+### Asthma
 
 
 Asthma is a chronic inflammatory disorder of the airways
@@ -2090,7 +1854,7 @@ and subsequent hyperreactivity to immune stimuli later
 in life.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 Major factors contributing to the development of asthma
@@ -2249,7 +2013,7 @@ ated genetic variants to the development of disease remains
 to be determined.
 
 
-*Atopic Asthma*
+#### Atopic Asthma
 
 
 This is the most common type of asthma and is a classic
@@ -2288,7 +2052,7 @@ can be diagnosed based on serum radioallergosorbent tests
 specific allergens.
 
 
-*Non-Atopic Asthma*
+#### Non-Atopic Asthma
 
 
 Patients with nonatopic forms of asthma do not have evi-
@@ -2330,7 +2094,7 @@ common to both atopic and nonatopic variants of asthma,
 so they are treated in a similar way.
 
 
-*Drug-Induced Asthma*
+#### Drug-Induced Asthma
 
 
 Several pharmacologic agents provoke asthma, aspirin
@@ -2354,7 +2118,7 @@ taglandin metabolism stemming from inhibition of cyclo-
 oxygenase by aspirin.
 
 
-*Occupational Asthma*
+#### Occupational Asthma
 
 
 Occupational asthma may be triggered by fumes (epoxy
@@ -2372,214 +2136,64 @@ attacks usually develop after repeated exposure to the
 inciting antigen(s).
 
 
-# Chapter 13: Lung
-
-
-*A NORMAL AIRWAY*
-
-
-*C TRIGGERING OF ASTHMA*
-
-
-*T cell*
-
-
 receptor
 
 
-*Pollen*
-
-
-*Mucus*
-
-
-*Goblet cell*
-
-
-*Epithelium*
-
-
-*Basement*
+**Basement**
 
 
 membrane
-
-
-*Lamina*
 
 
 propria
 
 
-*Smooth*
-
-
 muscle
-
-
-*Glands*
-
-
-*Cartilage*
-
-
-*IgE*
-
-
-*B cell*
-
-
-*IgE antibody*
-
-
-*IgE Fc*
 
 
 receptor
 
 
-*TH2*
-
-
 cell
-
-
-*IL-4*
-
-
-*TH2*
-
-
-*IL-5*
-
-
-*IL-5*
-
-
-*Eotaxin*
-
-
-*Mast cell*
-
-
-*Eosinophil recruitment*
-
-
-*Activation*
-
-
-*Release of granules*
 
 
 and mediators
 
 
-*B AIRWAY IN ASTHMA*
-
-
-*Mucus*
-
-
-*Goblet cell*
-
-
-*Mucosal lining*
-
-
-*Antigen*
-
-
-*Mucus*
-
-
-*Mucus*
-
-
-*Eosinophil*
-
-
-*Basement*
+**Basement**
 
 
 membrane
 
 
-*Macro-*
+**Macro-**
 
 
 phage
 
 
-*Smooth*
-
-
 muscle
-
-
-*Glands*
-
-
-*Vagal afferent nerve*
-
-
-*Mast cell*
-
-
-*Major basic*
 
 
 protein
 
 
-*Eosinophil*
-
-
 cationic protein
-
-
-*Antigen*
 
 
 (allergen)
 
 
-*Dendritic*
-
-
 cell
 
 
-*Mucosal*
+**Mucosal**
 
 
 lining
 
 
-*Goblet*
-
-
 cell
-
-
-*TH2*
-
-
-*TH2*
-
-
-*Mast cell*
-
-
-*Eosinophil*
-
-
-*Neutrophil*
-
-
-*Eosinophil*
-
-
-*Increased vascular*
 
 
 permeability
@@ -2588,34 +2202,7 @@ permeability
 and edema
 
 
-*Lymphocyte*
-
-
-*Vagal efferent nerve*
-
-
-*TH2*
-
-
-*Smooth*
-
-
 muscle
-
-
-*Basophil*
-
-
-*Eosinophil*
-
-
-*Neutrophil*
-
-
-D IMMEDIATE PHASE (MINUTES)
-
-
-E LATE PHASE (HOURS)
 
 
 Fig. 13.10 (A and B) Comparison of a normal airway and an airway involved by asthma. The asthmatic airway is marked by accumulation of mucus in the
@@ -2643,9 +2230,6 @@ initiate the late phase of asthma. Several factors released from eosinophils (e.
 
 
 epithelium.
-
-
-*MORP HOLOGY*
 
 
 The morphologic changes in asthma have been described in
@@ -2702,7 +2286,7 @@ metaplasia of the airway epithelium
 • Hypertrophy and/or hyperplasia of the bronchial muscle
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 An attack of asthma is characterized by severe dyspnea
@@ -2795,12 +2379,6 @@ being evaluated in patients with severe, poorly controlled
 asthma.
 
 
-*SU MMARY*
-
-
-*ASTHMA*
-
-
 • Asthma is characterized by reversible bronchoconstriction
 
 
@@ -2850,9 +2428,6 @@ hypertrophy of bronchial glands and smooth muscle) adds an
 
 
 irreversible component to the obstructive disease.
-
-
-*Bronchiectasis*
 
 
 Bronchiectasis is the permanent dilation of bronchi and
@@ -2930,9 +2505,6 @@ tasis often develops because of recurrent bacterial
 infections.
 
 
-# Chapter 13: Lung
-
-
 • Primary ciliary dyskinesia (also called the immotile
 
 
@@ -2972,7 +2544,7 @@ sis continues to be a significant cause of morbidity in
 endemic areas.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 Two intertwined processes contribute to bronchiectasis:
@@ -3009,9 +2581,6 @@ chial fibrosis and traction on the bronchi, culminating
 
 
 again in full-blown bronchiectasis.
-
-
-*MORPH OLOGY*
 
 
 Bronchiectasis usually affects the lower lobes bilaterally, particu-
@@ -3089,7 +2658,7 @@ more chronic cases. In some instances the necrosis destroys the
 bronchial or bronchiolar walls, producing an abscess cavity.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Bronchiectasis is characterized by severe, persistent
@@ -3155,13 +2724,7 @@ than
 less
 
 
-*CHRONIC INTERSTITIAL*
-
-
 (RESTRICTIVE, INFILTRATIVE)
-
-
-*LUNG DISEASES*
 
 
 Chronic interstitial diseases are a heterogeneous group
@@ -3206,10 +2769,7 @@ pathophysiologic changes justify their consideration as a
 **Table 13.2** Major Categories of Chronic Interstitial Lung
 
 
-*Disease*
-
-
-*Fibrosing*
+**Disease**
 
 
 Usual interstitial pneumonia (idiopathic pulmonary fibrosis)
@@ -3224,25 +2784,10 @@ Cryptogenic organizing pneumonia
 Collagen vascular disease-associated
 
 
-*Pneumoconiosis*
-
-
 Therapy-associated (drugs, radiation)
 
 
-*Granulomatous*
-
-
-*Sarcoidosis*
-
-
 Hypersensitivity pneumonia
-
-
-*Eosinophilic*
-
-
-*Loeffler syndrome*
 
 
 Drug allergy–related
@@ -3251,13 +2796,7 @@ Drug allergy–related
 Idiopathic chronic eosinophilic pneumonia
 
 
-*Smoking-Related*
-
-
 Desquamative interstitial pneumonia
-
-
-*Respiratory bronchiolitis*
 
 
 group. The hallmark of these disorders is reduced compli-
@@ -3299,7 +2838,7 @@ destruction of the lung, referred to as end-stage or “honey-
 comb” lung.
 
 
-*Fibrosing Diseases*
+### Fibrosing Diseases
 
 
 Idiopathic Pulmonary Fibrosis
@@ -3341,7 +2880,7 @@ such as asbestosis, collagen vascular diseases, and other
 conditions. Therefore, IPF is a diagnosis of exclusion.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 The interstitial fibrosis that characterizes IPF is believed
@@ -3434,9 +2973,6 @@ incompletely understood, recent data point to excessive
 activation of profibrotic factors such as TGF-β.
 
 
-*MORPHOL OG Y*
-
-
 Grossly, the pleural surfaces of the lung are cobblestoned due
 
 
@@ -3458,52 +2994,19 @@ interstitial fibrosis, which varies in intensity (Fig. 13.14) and
 Environmental factors:
 
 
-*Smoking*
-
-
-*Occupational exposure*
-
-
 Other irritants, toxins
-
-
-*Viral infection*
 
 
 At risk epithelium:
 
 
-*Age*
-
-
 Genetics:
-
-
-*Telomerase mutations*
-
-
-*Surfactant mutations*
-
-
-*MUC5B variant*
-
-
-*Innate and adaptive*
 
 
 immune response
 
 
-*Persistent epithelial*
-
-
 injury/activation
-
-
-*Pro-fibrogenic factors*
-
-
-*Abnormal intracellular*
 
 
 signaling
@@ -3512,16 +3015,10 @@ signaling
 Proliferation, collagen production
 
 
-*Fibrosis*
-
-
 Fig. 13.13 Proposed pathogenic mechanisms in idiopathic pulmonary fibro-
 
 
 sis. See text for details.
-
-
-# Chapter 13: Lung
 
 
 findings (subpleural and basilar fibrosis, reticular abnor-
@@ -3557,7 +3054,7 @@ survival is only 3 to 5 years, and lung transplantation is the
 only definitive treatment.
 
 
-*Other Fibrosing Diseases*
+#### Other Fibrosing Diseases
 
 
 Other rare pulmonary diseases associated with fibrosis
@@ -3632,10 +3129,7 @@ tosus, which may be complicated by diffuse pulmonary
 fibrosis.
 
 
-*SU MMARY*
-
-
-**CHRONIC INTERSTITIAL LUNG DISEASES**
+***CHRONIC INTERSTITIAL LUNG DISEASES***
 
 
 • Diffuse interstitial fibrosis of the lung gives rise to restrictive
@@ -3677,7 +3171,7 @@ This histologic pattern is known as usual interstitial pneumonia
 (UIP).
 
 
-*Pneumoconioses*
+### Pneumoconioses
 
 
 Pneumoconiosis is a term originally coined to describe lung
@@ -3734,7 +3228,7 @@ cells, and eosinophils. Secondary pulmonary hypertensive changes
 often present.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 IPF usually presents with the gradual onset of a nonpro-
@@ -3770,13 +3264,13 @@ Chronic Interstitial (Restrictive, Infiltrative) Lung Diseases
 **Table 13.3** Mineral Dust–Induced Lung Disease
 
 
-*Agent*
+**Agent**
 
 
-*Coal dust*
+**Coal dust**
 
 
-*Disease*
+**Disease**
 
 
 Simple coal worker’s pneumoconiosis: macules and nodules
@@ -3785,16 +3279,16 @@ Simple coal worker’s pneumoconiosis: macules and nodules
 Complicated coal worker’s pneumoconiosis: PMF
 
 
-*Exposure*
+**Exposure**
 
 
-*Coal mining*
+**Coal mining**
 
 
-*Silica*
+**Silica**
 
 
-*Silicosis*
+### Silicosis
 
 
 Sandblasting, quarrying, mining, stone cutting, foundry
@@ -3803,7 +3297,7 @@ Sandblasting, quarrying, mining, stone cutting, foundry
 work, ceramics
 
 
-*Asbestos*
+**Asbestos**
 
 
 Asbestosis, pleural effusions, pleural plaques, or diffuse fibrosis;
@@ -3854,7 +3348,7 @@ major industries in which the dust exposure may produce
 disease.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 The reaction of the lung to mineral dusts depends on many
@@ -4016,9 +3510,6 @@ anthracite coal; in general, anthracite mining has been
 associated with a higher risk for CWP.
 
 
-*MORPHOL OG Y*
-
-
 Pulmonary anthracosis is the most innocuous coal-induced
 
 
@@ -4082,7 +3573,7 @@ scars larger than 2 cm and sometimes up to 10 cm in greatest
 diameter that consist of dense collagen and pigment (Fig. 13.16).
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 CWP usually is a benign disease that produces little decre-
@@ -4098,9 +3589,6 @@ hypertension, and cor pulmonale. Progression from CWP
 
 
 to PMF has been linked to a variety of variables including
-
-
-# Chapter 13: Lung
 
 
 Fig. 13.16 Progressive massive fibrosis in a coal worker. A large amount of
@@ -4145,7 +3633,7 @@ feature that distinguishes CWP from both silica and asbes-
 tos exposures (discussed next).
 
 
-*Silicosis*
+### Silicosis
 
 
 Silicosis is currently the most prevalent chronic occupa-
@@ -4211,9 +3699,6 @@ mild lung disease because of the protective effect of
 hematite.
 
 
-*MORPHOL OG Y*
-
-
 Silicotic nodules in their early stages are tiny, barely palpable,
 
 
@@ -4265,7 +3750,7 @@ may develop. Fibrotic lesions also may occur in hilar lymph nodes
 and the pleura.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Silicosis usually is detected in asymptomatic workers
@@ -4361,7 +3846,7 @@ general public to the potential hazards of asbestos in the
 environment.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 As with silica crystals, once phagocytosed by macro-
@@ -4419,9 +3904,6 @@ Fig. 13.19 High-power detail of an asbestos body, revealing the typical
 
 
 beading and knobbed ends (arrow).
-
-
-*MORPHOL OG Y*
 
 
 Asbestosis is marked by diffuse pulmonary interstitial fibro-
@@ -4499,7 +3981,7 @@ monly, asbestos exposure induces pleural effusion or diffuse
 pleural fibrosis.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The clinical findings in asbestosis are indistinguishable
@@ -4536,9 +4018,6 @@ oping lung carcinoma is increased about 5-fold for asbestos
 
 
 workers; the relative risk for mesothelioma, normally a very
-
-
-# Chapter 13: Lung
 
 
 fibrous plaques or, rarely, diffuse pleural fibrosis; (3) pleural
@@ -4613,10 +4092,7 @@ resolve with corticosteroid therapy or progress to chronic
 radiation pneumonitis, associated with pulmonary fibrosis.
 
 
-*Granulomatous Diseases*
-
-
-*Sarcoidosis*
+**Granulomatous Diseases**
 
 
 Sarcoidosis is a multisystem disease of unknown etiol-
@@ -4661,7 +4137,7 @@ of cases, and either may occasionally be the presenting
 feature of the disease.
 
 
-*Epidemiology*
+**Epidemiology**
 
 
 Sarcoidosis occurs throughout the world, affecting both
@@ -4697,7 +4173,7 @@ that is virtually unique to sarcoidosis among pulmonary
 diseases.
 
 
-*Etiology and Pathogenesis*
+**Etiology and Pathogenesis**
 
 
 Although the etiology of sarcoidosis remains unknown,
@@ -4730,10 +4206,10 @@ mesothelioma. Lung or pleural cancer associated with
 asbestos exposure carries a particularly poor prognosis.
 
 
-*S UMMARY*
+**S UMMARY**
 
 
-*PNEUMOCONIOSES*
+**PNEUMOCONIOSES**
 
 
 • Pneumoconioses encompass a group of chronic fibrosing dis-
@@ -4829,7 +4305,7 @@ T cells. These immunologic “clues” include the following:
 • Intraalveolar and interstitial accumulation of CD4+ TH1
 
 
-*Several*
+**Several**
 
 
 cells, with peripheral T cell cytopenia
@@ -4899,9 +4375,6 @@ viruses, mycobacteria, Borrelia, pollen), but there is no
 
 
 or infectious agent.
-
-
-*MORP HOLOGY*
 
 
 The cardinal histopathologic feature of sarcoidosis, irrespective
@@ -5105,10 +4578,7 @@ of active vitamin D by the macrophages that form the
 granulomas.
 
 
-# Chapter 13: Lung
-
-
-*Clinical Features*
+#### Clinical Features
 
 
 In many affected individuals, the disease is entirely asymp-
@@ -5189,10 +4659,10 @@ ment. Of the remaining 10% to 15%, most succumb to pro-
 gressive pulmonary fibrosis and cor pulmonale.
 
 
-*SUMMARY*
+**SUMMARY**
 
 
-*SARCOIDOSIS*
+**SARCOIDOSIS**
 
 
 • Sarcoidosis is a multisystem disease of unknown etiology; the
@@ -5285,28 +4755,28 @@ have a very similar pathophysiologic basis.
 **Table 13.4** Sources of Antigens Causing Hypersensitivity
 
 
-*Pneumonitis*
+**Pneumonitis**
 
 
-*Source of Antigen*
+**Source of Antigen**
 
 
-*Types of Exposures*
+**Types of Exposures**
 
 
 Mushrooms, fungi, yeasts
 
 
-*Bacteria*
+**Bacteria**
 
 
-*Mycobacteria*
+**Mycobacteria**
 
 
-*Birds*
+**Birds**
 
 
-*Chemicals*
+**Chemicals**
 
 
 Contaminated wood, humidifiers, central
@@ -5363,9 +4833,6 @@ strated within vessel walls by immunofluorescence.
 thirds of affected patients.
 
 
-*MORPHOL OG Y*
-
-
 The histopathologic picture in both acute and chronic forms of
 
 
@@ -5408,7 +4875,7 @@ formed interstitial granulomas and chronic inflammation are characteristic.
 Pulmonary Diseases of Vascular Origin
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Hypersensitivity pneumonitis may manifest either as
@@ -5450,7 +4917,7 @@ results in an irreversible chronic interstitial pulmonary
 disease.
 
 
-*Pulmonary Eosinophilia*
+**Pulmonary Eosinophilia**
 
 
 A number of disorders are characterized by pulmonary
@@ -5621,10 +5088,10 @@ dyspnea and dry cough, and the symptoms recede with
 smoking cessation.
 
 
-*PULMONARY DISEASES OF*
+**PULMONARY DISEASES OF**
 
 
-*VASCULAR ORIGIN*
+**VASCULAR ORIGIN**
 
 
 Pulmonary Embolism, Hemorrhage, and Infarction
@@ -5700,9 +5167,6 @@ orthopedic surgery on the knee or hip; (3) severe trauma
 
 
 failure; (5) in women, the period around parturition or the
-
-
-# Chapter 13: Lung
 
 
 use of oral contraception pills with high estrogen content;
@@ -5816,9 +5280,6 @@ underventilated as a result of underlying pulmonary
 disease.
 
 
-*MORPH OLOGY*
-
-
 The consequences of pulmonary embolism, as noted, depend
 
 
@@ -5915,7 +5376,7 @@ replacement begins at the margins as a gray-white peripheral
 zone and eventually converts the infarct into a scar.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The clinical consequences of pulmonary thromboembolism
@@ -6083,10 +5544,10 @@ massive trauma and in patients with bone infarction sec-
 ondary to sickle cell anemia.
 
 
-*SUMMARY*
+**SUMMARY**
 
 
-*PULMONARY EMBOLISM*
+**PULMONARY EMBOLISM**
 
 
 • Almost all large pulmonary artery thrombi are embolic in
@@ -6125,7 +5586,7 @@ monary infarction.
 • Risk for recurrence is high.
 
 
-*Pulmonary Hypertension*
+**Pulmonary Hypertension**
 
 
 The pulmonary circulation normally is one of low resis-
@@ -6200,7 +5661,7 @@ including COPD and interstitial lung disease
 mechanisms
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 As can be gathered from this classification, pulmonary
@@ -6279,9 +5740,6 @@ the development of pulmonary hypertension and cor
 
 
 pulmonale.
-
-
-# Chapter 13: Lung
 
 
 Uncommonly, pulmonary hypertension is encountered
@@ -6365,9 +5823,6 @@ environmental triggers also contribute to the pathogenesis
 of the disorder.
 
 
-*MORPH OLOGY*
-
-
 Regardless of their etiology, all forms of pulmonary hypertension
 
 
@@ -6437,7 +5892,7 @@ medial hypertrophy. (C) Plexiform lesion characteristic of advanced pulmo-
 nary hypertension seen in small arteries.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Pulmonary hypertension produces symptoms when the
@@ -6491,7 +5946,7 @@ ing to other groups. Lung transplantation is the definitive
 treatment for selected patients.
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 Diffuse Alveolar Hemorrhage Syndromes
@@ -6512,7 +5967,7 @@ drome, (2) idiopathic pulmonary hemosiderosis, and (3)
 granulomatosis with polyangiitis.
 
 
-*Goodpasture Syndrome*
+**Goodpasture Syndrome**
 
 
 Goodpasture syndrome is an uncommon autoimmune
@@ -6540,9 +5995,6 @@ glomeruli, giving rise to necrotizing hemorrhagic interstitial
 
 
 pneumonitis and rapidly progressive glomerulonephritis.
-
-
-*MORP HOLOGY*
 
 
 The lungs are heavy and have areas of red-brown consolidation
@@ -6641,7 +6093,7 @@ chest pain). Anti-neutrophil cytoplasmic antibodies (PR3-
 ANCAs) are present in close to 95% of cases (Chapter 10).
 
 
-*PULMONARY INFECTIONS*
+**PULMONARY INFECTIONS**
 
 
 Pulmonary infections in the form of pneumonia are
@@ -6707,28 +6159,25 @@ on a background of thickened fibrous septa. (B) The tissue has been stained with
 siderin. (From the Teaching Collection of the Department of Pathology, Children’s Medical Center, Dallas, Texas.)
 
 
-# Chapter 13: Lung
-
-
-*Ciliated respiratory*
+**Ciliated respiratory**
 
 
 epithelial cell
 
 
-*Plasma cell*
+**Plasma cell**
 
 
-*Mucous blanket*
+**Mucous blanket**
 
 
-*Lymph*
+**Lymph**
 
 
 node
 
 
-*IgA*
+**IgA**
 
 
 "Upper"
@@ -6740,16 +6189,16 @@ respiratory
 tract
 
 
-*Lymph*
+**Lymph**
 
 
 node
 
 
-*Lymphatic*
+**Lymphatic**
 
 
-*Macrophage*
+**Macrophage**
 
 
 "Lower"
@@ -6761,43 +6210,40 @@ respiratory
 tract
 
 
-*Complement*
+**Complement**
 
 
-*PMN*
+**PMN**
 
 
-*Mucous*
+**Mucous**
 
 
 gland
 
 
-*Macrophage*
+**Macrophage**
 
 
-*Microorganism*
+**Microorganism**
 
 
-*PMN*
+**PMN**
 
 
-*Microorganism*
+**Microorganism**
 
 
-*Capillary*
+**IgG**
 
 
-*IgG*
+**Immune T cells**
 
 
-*Immune T cells*
+**A INNATE IMMUNE DEFENSES**
 
 
-*A INNATE IMMUNE DEFENSES*
-
-
-**B ADAPTIVE IMMUNE DEFENSES**
+***B ADAPTIVE IMMUNE DEFENSES***
 
 
 Fig. 13.28 Lung defense mechanisms. (A) Innate defenses against infection: 1, In the normal lung, removal of microbial organisms depends on entrapment in
@@ -6920,7 +6366,7 @@ nia and is discussed first, followed by other relative common
 pathogens.
 
 
-*Streptococcus pneumoniae*
+**Streptococcus pneumoniae**
 
 
 Pneumococcal infections occur with increased frequency in
@@ -6956,40 +6402,40 @@ is the major organ responsible for removing pneumococci
 from the blood. The spleen also is an important site for
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 **Table 13.5** The Pneumonia Syndromes and Implicated
 
 
-*Pathogens*
+**Pathogens**
 
 
 Community-Acquired Bacterial Pneumonia
 
 
-*Streptococcus pneumoniae*
+**Streptococcus pneumoniae**
 
 
-*Haemophilus influenzae*
+**Haemophilus influenzae**
 
 
-*Moraxella catarrhalis*
+**Moraxella catarrhalis**
 
 
-*Staphylococcus aureus*
+**Staphylococcus aureus**
 
 
-*Legionella pneumophila*
+**Legionella pneumophila**
 
 
 Enterobacteriaceae (Klebsiella pneumoniae) and Pseudomonas spp.
 
 
-*Mycoplasma pneumoniae*
+**Mycoplasma pneumoniae**
 
 
-*Chlamydia pneumoniae*
+**Chlamydia pneumoniae**
 
 
 Coxiella burnetii (Q fever)
@@ -7007,7 +6453,7 @@ virus (children); influenza A and B (adults); adenovirus (military
 recruits)
 
 
-*Nosocomial Pneumonia*
+**Nosocomial Pneumonia**
 
 
 Gram-negative rods belonging to Enterobacteriaceae (Klebsiella spp.,
@@ -7019,7 +6465,7 @@ Serratia marcescens, Escherichia coli) and Pseudomonas spp.
 S. aureus (usually methicillin-resistant)
 
 
-*Aspiration Pneumonia*
+**Aspiration Pneumonia**
 
 
 Anaerobic oral flora (Bacteroides, Prevotella, Fusobacterium,
@@ -7031,13 +6477,13 @@ Peptostreptococcus), admixed with aerobic bacteria (S. pneumoniae,
 S. aureus, H. influenzae, and Pseudomonas aeruginosa)
 
 
-*Chronic Pneumonia*
+**Chronic Pneumonia**
 
 
-*Nocardia*
+**Nocardia**
 
 
-*Actinomyces*
+**Actinomyces**
 
 
 Granulomatous: Mycobacterium tuberculosis and atypical mycobacteria,
@@ -7064,19 +6510,19 @@ pneumococcus (uncommon)
 Pneumonia in the Immunocompromised Host
 
 
-*Cytomegalovirus*
+**Cytomegalovirus**
 
 
-*Pneumocystis jiroveci*
+**Pneumocystis jiroveci**
 
 
 Mycobacterium avium complex (MAC)
 
 
-*Invasive aspergillosis*
+**Invasive aspergillosis**
 
 
-*Invasive candidiasis*
+**Invasive candidiasis**
 
 
 “Usual” bacterial, viral, and fungal organisms (listed above)
@@ -7127,7 +6573,7 @@ are used in individuals at high risk for pneumococcal
 sepsis.
 
 
-*Haemophilus influenzae*
+**Haemophilus influenzae**
 
 
 Both encapsulated and unencapsulated forms of H.
@@ -7166,7 +6612,7 @@ suppurative meningitis in children, but vaccination against
 this organism in infancy has significantly reduced the risk.
 
 
-*Moraxella catarrhalis*
+**Moraxella catarrhalis**
 
 
 M. catarrhalis is being increasingly recognized as a cause of
@@ -7187,7 +6633,7 @@ enzae, M. catarrhalis is one of the three most frequent causes
 of otitis media (infection of the middle ear) in children.
 
 
-*Staphylococcus aureus*
+**Staphylococcus aureus**
 
 
 S. aureus is an important cause of secondary bacterial pneu-
@@ -7220,7 +6666,7 @@ abuse. It is also an important cause of nosocomial pneumo-
 nia (discussed later).
 
 
-*Klebsiella pneumoniae*
+**Klebsiella pneumoniae**
 
 
 K. pneumoniae is the most frequent cause of gram-negative
@@ -7244,7 +6690,7 @@ dant viscid capsular polysaccharide, which the patient may
 have difficulty coughing up.
 
 
-*Pseudomonas aeruginosa*
+**Pseudomonas aeruginosa**
 
 
 Although discussed here with community-acquired patho-
@@ -7289,7 +6735,7 @@ blood vessels (Pseudomonas vasculitis), leading to secondary
 coagulative necrosis of the pulmonary parenchyma.
 
 
-*Legionella pneumophila*
+**Legionella pneumophila**
 
 
 L. pneumophila is the agent of Legionnaire disease, an
@@ -7305,9 +6751,6 @@ self-limited upper-respiratory tract infection caused by L.
 
 
 pneumophila, without pneumonic symptoms. L. pneumophila
-
-
-# Chapter 13: Lung
 
 
 flourishes in artificial aquatic environments, such as water-
@@ -7358,7 +6801,7 @@ dard diagnostic modality. PCR-based tests can be used on
 bronchial secretions in atypical cases.
 
 
-*Mycoplasma pneumoniae*
+**Mycoplasma pneumoniae**
 
 
 Mycoplasma infections are particularly common among
@@ -7377,9 +6820,6 @@ merase chain reaction (PCR) testing for Mycoplasma DNA
 
 
 are available.
-
-
-*MORPH OLOGY*
 
 
 Bacterial pneumonia has two patterns of anatomic distribution:
@@ -7412,10 +6852,10 @@ egorizations may be difficult to apply in individual cases because
 patterns overlap, and patchy involvement may evolve to become
 
 
-*Bronchopneumonia*
+**Bronchopneumonia**
 
 
-*Lobar pneumonia*
+**Lobar pneumonia**
 
 
 Fig. 13.29 The anatomic distribution of bronchopneumonia and lobar
@@ -7532,10 +6972,10 @@ Histologically, a neutrophil-rich exudate fills the bronchi, bron-
 chioles, and adjacent alveolar spaces (see Fig. 13.31A).
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The major symptoms of typical community-acquired acute
@@ -7655,9 +7095,6 @@ older adults, malnourished patients, alcoholics, and immu-
 nosuppressed individuals.
 
 
-*MORPHOL OG Y*
-
-
 The morphologic patterns in viral pneumonias are similar. The
 
 
@@ -7737,9 +7174,6 @@ joints, causing metastatic abscesses, endocarditis, meningitis, or
 
 
 suppurative arthritis.
-
-
-# Chapter 13: Lung
 
 
 Insight into future pandemics has come from studying
@@ -7829,10 +7263,10 @@ sustained human-to-human transmission (and, thus, of
 causing the next great pandemic).
 
 
-*S UMMARY*
+**S UMMARY**
 
 
-*ACUTE PNEUMONIAS*
+**ACUTE PNEUMONIAS**
 
 
 • S. pneumoniae (the pneumococcus) is the most common cause
@@ -7925,7 +7359,7 @@ lymphocytes and some plasma cells, which are spilling over into alveolar
 spaces. Note the focal alveolar edema (center) and early fibrosis (upper right).
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The clinical course of viral pneumonia is extremely varied.
@@ -7970,7 +7404,7 @@ physical and radiographic findings. Identifying the caus-
 ative agent can be difficult.
 
 
-*Influenza Infections*
+**Influenza Infections**
 
 
 Perhaps no other communicable disorder causes as
@@ -8075,7 +7509,7 @@ isolates; unlike community-acquired pneumonias, S. pneu-
 moniae is not a common pathogen in the hospital setting.
 
 
-*Aspiration Pneumonia*
+**Aspiration Pneumonia**
 
 
 Aspiration pneumonia occurs in debilitated patients or
@@ -8126,7 +7560,7 @@ gastroesophageal reflux, and may exacerbate other lung
 diseases but does not lead to pneumonia.
 
 
-*Lung Abscess*
+**Lung Abscess**
 
 
 Lung abscess refers to a localized area of suppurative
@@ -8216,7 +7650,7 @@ lococcal bacteremia and often results in multiple lung
 abscesses.
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 Anaerobic bacteria are present in almost all lung
@@ -8235,9 +7669,6 @@ principally species of Prevotella, Fusobacterium, Bacteroides,
 
 
 Peptostreptococcus, and microaerophilic streptococci.
-
-
-*MORPHOL OG Y*
 
 
 Abscesses range in diameter from a few millimeters to large
@@ -8318,7 +7749,7 @@ tion (lymphocytes, plasma cells, macrophages), depending on the
 chronicity of the lesion.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 The manifestations of a lung abscess are much like those
@@ -8360,7 +7791,7 @@ gical drainage. Overall, the mortality rate is in the range
 of 10%.
 
 
-*Chronic Pneumonias*
+**Chronic Pneumonias**
 
 
 Chronic pneumonia most often is a localized lesion in an
@@ -8384,9 +7815,6 @@ such as those with debilitating illness, on immunosup-
 pressive regimens, or with human immunodeficiency
 
 
-# Chapter 13: Lung
-
-
 virus (HIV) infection (see later), the usual presenta-
 
 
@@ -8402,7 +7830,7 @@ most important entity within the spectrum of chronic
 pneumonias.
 
 
-*Tuberculosis*
+**Tuberculosis**
 
 
 Tuberculosis is a communicable chronic granulomatous
@@ -8417,7 +7845,7 @@ involves the lungs but may affect any organ or tissue in the
 body.
 
 
-*Epidemiology*
+**Epidemiology**
 
 
 The World Health Organization (WHO) considers tuber-
@@ -8657,7 +8085,7 @@ fraction of those who contract an infection develop active
 disease.
 
 
-*Etiology and Pathogenesis*
+**Etiology and Pathogenesis**
 
 
 Mycobacteria are slender rods that are acid-fast (i.e., they
@@ -8714,7 +8142,7 @@ individuals. However, they cause disease in 10% to 30% of
 patients with AIDS.
 
 
-*Pathogenesis*
+#### Pathogenesis
 
 
 The pathogenesis of tuberculosis in the previously unex-
@@ -8744,13 +8172,13 @@ hypersensitivity that is part and parcel of the host immune
 response. Because the effector cells for both protective
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 A INFECTION BEFORE ACTIVATION OF CELL MEDIATED IMMUNITY
 
 
-*Mycobacterium*
+**Mycobacterium**
 
 
 Mannose, C3b, others
@@ -8762,7 +8190,7 @@ Mannose receptor, CR3, others
 Unchecked bacillary proliferation
 
 
-*Phagosomal manipulation*
+**Phagosomal manipulation**
 
 
 • Maturation arrest
@@ -8774,13 +8202,10 @@ Unchecked bacillary proliferation
 • Ineffective phagolysosome
 
 
-*Alveolar macrophage*
-
-
 formation
 
 
-*Bacteremia with seeding*
+**Bacteremia with seeding**
 
 
 of multiple sites
@@ -8789,25 +8214,22 @@ of multiple sites
 **B INITIATION AND CONSEQUENCES OF CELL MEDIATED IMMUNITY**
 
 
-*Alveolar*
+macrophage
+
+
+**IL-12**
+
+
+**Activated**
 
 
 macrophage
 
 
-*IL-12*
+**T-cell**
 
 
-*Activated*
-
-
-macrophage
-
-
-*T-cell*
-
-
-*TH1*
+**TH1**
 
 
 γ-IFN
@@ -8819,34 +8241,31 @@ TNF,
 chemokines
 
 
-*Caseous*
+**Caseous**
 
 
 necrosis
 
 
-*Monocyte*
+**Monocyte**
 
 
 recruitment
 
 
-*Class II*
+**Class II**
 
 
-*MHC*
-
-
-*T cell*
+**MHC**
 
 
 receptor
 
 
-*MTb antigen*
+**MTb antigen**
 
 
-*Macrophage activation*
+**Macrophage activation**
 
 
 • Phagolysosome maturation
@@ -8855,10 +8274,7 @@ receptor
 and activation
 
 
-*Sensitized*
-
-
-*T cell*
+**Sensitized**
 
 
 • Production of nitric oxide
@@ -8870,16 +8286,16 @@ and activation
 • Autophagy
 
 
-*Epithelioid*
+**Epithelioid**
 
 
 granuloma
 
 
-*Tuberculin positivity*
+**Tuberculin positivity**
 
 
-*Mycobacterial killing*
+**Mycobacterial killing**
 
 
 Fig. 13.33 Sequence of events in the natural history of primary pulmonary tuberculosis. This sequence commences with inhalation of virulent strains of
@@ -9044,9 +8460,6 @@ organisms.
 tion to stimulating macrophages to kill mycobacteria,
 
 
-# Chapter 13: Lung
-
-
 the TH1 response orchestrates the formation of granu-
 
 
@@ -9149,7 +8562,7 @@ patient) is an ominous sign of fading resistance to the
 organism.
 
 
-*Primary Tuberculosis*
+**Primary Tuberculosis**
 
 
 Primary tuberculosis is the form of disease that develops
@@ -9236,9 +8649,6 @@ parenchymal focus (arrow) is under the pleura in the lower part of the upper
 lobe. Hilar lymph nodes with caseation are seen (left).
 
 
-*MORPHOL OG Y*
-
-
 In countries in which bovine tuberculosis and infected milk have
 
 
@@ -9320,7 +8730,7 @@ primary tuberculosis, but more commonly arises from
 reactivation of dormant primary lesions many decades
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 Fig. 13.35 The morphologic spectrum of tuberculosis. A characteristic tubercle at low magnification (A) and at higher power (B) shows central granular
@@ -9446,9 +8856,6 @@ mildly immunosuppressed patients to greater than 50% in
 those with severe immune deficiency.
 
 
-*MORPHOL OG Y*
-
-
 The initial lesion usually is a small focus of consolidation, less than
 
 
@@ -9459,9 +8866,6 @@ foci are sharply circumscribed, firm, gray-white to yellow areas
 
 
 that have a variable amount of central caseation and peripheral
-
-
-# Chapter 13: Lung
 
 
 Isolated-organ tuberculosis may appear in any one of the
@@ -9542,7 +8946,7 @@ overlying mucosa, particularly in the ileum.
 The many patterns of tuberculosis are depicted in Fig. 13.38.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Localized secondary tuberculosis may be asymptomatic.
@@ -9725,16 +9129,16 @@ spleen, adrenal glands, meninges, kidneys, fallopian tubes, and
 epididymis (Fig. 13.37).
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
-*Scar*
+**Scar**
 
 
-*Scar*
+**Scar**
 
 
-*HEALED LESIONS*
+**HEALED LESIONS**
 
 
 (organisms not viable)
@@ -9827,10 +9231,10 @@ o
 m
 
 
-*LATENT*
+**LATENT**
 
 
-*LESIONS*
+**LESIONS**
 
 
 (organisms dormant;
@@ -9839,28 +9243,28 @@ m
 pulmonary or extrapulmonary)
 
 
-*Reactivation*
+**Reactivation**
 
 
-*LOCALIZED CASEATING*
+**LOCALIZED CASEATING**
 
 
-*DESTRUCTIVE LESIONS*
+**DESTRUCTIVE LESIONS**
 
 
 (pulmonary or extrapulmonary)
 
 
-*Cavity*
+**Cavity**
 
 
-*Caseation*
+**Caseation**
 
 
-*Caseation*
+**Caseation**
 
 
-*Scar*
+**Scar**
 
 
 ,
@@ -9956,31 +9360,31 @@ i
 l
 
 
-*Caseation*
+**Caseation**
 
 
-*Caseation*
+**Caseation**
 
 
 in lymph node
 
 
-*SECONDARY*
+**SECONDARY**
 
 
-*TUBERCULOSIS*
+**TUBERCULOSIS**
 
 
-*Reinfection*
+**Reinfection**
 
 
-*PRIMARY COMPLEX*
+**PRIMARY COMPLEX**
 
 
-*PROGRESSIVE PRIMARY TB*
+**PROGRESSIVE PRIMARY TB**
 
 
-*PROGRESSIVE SECONDARY TB*
+**PROGRESSIVE SECONDARY TB**
 
 
 (localized caseation)
@@ -9989,34 +9393,34 @@ in lymph node
 Massive hematogenous dissemination
 
 
-*Massive hematogenous*
+**Massive hematogenous**
 
 
 dissemination
 
 
-*Primary infection*
+**Primary infection**
 
 
-*Liver*
+**Liver**
 
 
-*Spleen*
+**Spleen**
 
 
-*MILIARY TB*
+**MILIARY TB**
 
 
-*MILIARY TB*
+**MILIARY TB**
 
 
-*Weeks*
+**Weeks**
 
 
-*TIME*
+**TIME**
 
 
-*Years*
+**Years**
 
 
 Fig. 13.38 The natural history and spectrum of tuberculosis. (Adapted from a sketch provided by Dr. R.K. Kumar, The University of New South Wales, School of
@@ -10151,10 +9555,10 @@ with multidrug-resistant tuberculosis. Amyloidosis may
 develop in persistent cases.
 
 
-*S UMMARY*
+**S UMMARY**
 
 
-*TUBERCULOSIS*
+**TUBERCULOSIS**
 
 
 • Tuberculosis is a chronic granulomatous disease caused by M.
@@ -10176,9 +9580,6 @@ hypersensitivity (as determined by a positive result on the
 
 
 tuberculin skin test).
-
-
-# Chapter 13: Lung
 
 
 • The TH1 subset of CD4+ T cells has a crucial role in cell-
@@ -10370,7 +9771,7 @@ tious diseases due to all three dimorphic fungi are consid-
 ered together in this section.
 
 
-*Epidemiology*
+**Epidemiology**
 
 
 Each of the dimorphic fungi has a typical geographic dis-
@@ -10415,9 +9816,6 @@ tion is known as “valley fever.”
 overlaps with those in which histoplasmosis is found.
 
 
-*MORPHOL OG Y*
-
-
 The yeast forms are fairly distinctive, which helps in the identi-
 
 
@@ -10445,7 +9843,7 @@ toplasma (5 to 25 µm in diameter) that reproduce by charac-
 teristic broad-based budding (see Fig. 13.39C and D)
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Clinical manifestations may take the form of (1) acute
@@ -10529,7 +9927,7 @@ tissue of the gastrointestinal tract, and bone marrow. The
 adrenal glands and meninges also may be involved, and in
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 Fig. 13.39 (A) Histoplasma capsulatum yeast forms fill phagocytes in a lymph node of a patient with disseminated histoplasmosis (silver stain). (B) Coccidi-
@@ -10604,7 +10002,7 @@ rus); and (3) fungi (P. jiroveci, Candida spp., Aspergillus spp.,
 and Cryptococcus neoformans).
 
 
-*Cytomegalovirus Infection*
+**Cytomegalovirus Infection**
 
 
 Infection by cytomegalovirus (CMV), a member of the her-
@@ -10700,9 +10098,6 @@ and by the fecal-oral route.
 organ transplantation or blood transfusion.
 
 
-# Chapter 13: Lung
-
-
 In all of these settings, serious disseminated CMV infec-
 
 
@@ -10760,7 +10155,7 @@ revolutionized the approach to monitoring patients after
 transplantation.
 
 
-*Pneumocystis*
+**Pneumocystis**
 
 
 P. jiroveci (previously P. carinii), an opportunistic infectious
@@ -10815,9 +10210,6 @@ confined to the lung, where it produces an interstitial
 
 
 pneumonitis.
-
-
-*MORPHOL OG Y*
 
 
 Involved areas of the lung contain a characteristic intraalveolar
@@ -10875,9 +10267,6 @@ Fig. 13.40 Cytomegalovirus infection of the lung. A distinct nuclear inclu-
 
 
 sion and multiple cytoplasmic inclusions are seen in an enlarged cell.
-
-
-*MORPH OLOGY*
 
 
 Histologically, the characteristic enlargement of CMV-infected
@@ -10988,7 +10377,7 @@ tion of a latent infection. CMV is the most common oppor-
 tunistic viral pathogen in AIDS.
 
 
-*Pulmonary Infections*
+**Pulmonary Infections**
 
 
 Fig. 13.41 Pneumocystis pneumonia. (A) The alveoli are filled with a characteristic foamy acellular exudate. (B) Silver stain demonstrates cup-shaped and
@@ -11018,7 +10407,7 @@ is given.
 Opportunistic Fungal Infections
 
 
-*Candidiasis*
+**Candidiasis**
 
 
 Candida albicans is the most common disease-causing
@@ -11040,9 +10429,6 @@ immunocompromised patients that has
 
 
 protean manifestations.
-
-
-*MORP HOLOGY*
 
 
 In tissue sections, C. albicans demonstrates yeastlike forms (blas-
@@ -11069,7 +10455,7 @@ methenamine-silver, periodic acid–Schiff) commonly are used to
 better highlight the pathogens.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Candidiasis can involve the mucous membranes, skin, and
@@ -11216,9 +10602,6 @@ pneumonia, usually presenting with bilateral nodular
 infiltrates, resembling Pneumocystis pneumonia (see
 
 
-# Chapter 13: Lung
-
-
 Fig. 13.42 The morphology of fungal infections. (A) Candida organism has pseudohyphae and budding yeasts (silver stain). (B) Invasive aspergillosis (gross
 
 
@@ -11249,7 +10632,7 @@ carditis, usually occurring in patients with prosthetic
 heart valves or in intravenous drug abusers.
 
 
-*Cryptococcosis*
+**Cryptococcosis**
 
 
 Cryptococcosis, caused by C. neoformans, almost exclusively
@@ -11262,9 +10645,6 @@ compromised hosts, particularly patients with AIDS or
 
 
 hematolymphoid malignancies.
-
-
-*MORPH OLOGY*
 
 
 The fungus, a 5-to 10-µm yeast, has a thick, gelatinous capsule
@@ -11300,7 +10680,7 @@ coccal latex agglutination assay, which is positive in more than
 95% of patients infected with the organism.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Cryptococcosis usually manifests as pulmonary, central
@@ -11345,7 +10725,7 @@ perivascular Virchow-Robin spaces, producing so-called
 “soap-bubble lesions.”
 
 
-*The Opportunistic Molds*
+**The Opportunistic Molds**
 
 
 Mucormycosis and invasive aspergillosis are uncommon
@@ -11364,9 +10744,6 @@ undergoing corticosteroid therapy, or following hemato-
 
 
 poietic stem cell transplant recipients.
-
-
-*MORP HOLOGY*
 
 
 Mucormycosis is caused by the class of fungi known as Zygomyce-
@@ -11399,7 +10776,7 @@ hemorrahage, vascular necrosis and infarction (see
 Fig. 13.42B).
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 In rhinocerebral and pulmonary mucormycosis, zygomycetes
@@ -11489,7 +10866,7 @@ to
 Pulmonary Disease in Human Immunodeficiency
 
 
-*Virus Infection*
+**Virus Infection**
 
 
 Pulmonary disease continues to be the leading contributor
@@ -11507,7 +10884,7 @@ tive chemoprophylaxis has markedly decreased the inci-
 dence and has improved outcomes, the plethora of entities
 
 
-*Lung Tumors*
+**Lung Tumors**
 
 
 involved makes diagnosis and treatment a distinct
@@ -11600,7 +10977,7 @@ cause, and that even common pathogens may be respon-
 sible for disease with atypical manifestations.
 
 
-*LUNG TUMORS*
+**LUNG TUMORS**
 
 
 Roughly 95% of primary lung tumors are carcinomas; the
@@ -11642,7 +11019,7 @@ artoma (which implies a developmental anomaly) is a
 misnomer.
 
 
-*Carcinomas*
+**Carcinomas**
 
 
 Carcinoma of the lung is the most important cause of
@@ -11678,16 +11055,13 @@ females, with more women dying each year from lung
 cancer than from breast cancers since 1987. These sobering
 
 
-# Chapter 13: Lung
-
-
 **Table 13.6** Histologic Classification of Malignant Epithelial
 
 
 Lung Tumors (2015 WHO Classification, Simplified Version)
 
 
-*Adenocarcinoma*
+**Adenocarcinoma**
 
 
 Acinar, papillary, micropapillary, solid, lepidic predominant, mucinous
@@ -11696,28 +11070,28 @@ Acinar, papillary, micropapillary, solid, lepidic predominant, mucinous
 subtypes
 
 
-*Squamous cell carcinoma*
+**Squamous cell carcinoma**
 
 
-*Large cell carcinoma*
+**Large cell carcinoma**
 
 
-*Neuroendocrine carcinoma*
+**Neuroendocrine carcinoma**
 
 
-*Small cell carcinoma*
+**Small cell carcinoma**
 
 
 Large cell neuroendocrine carcinoma
 
 
-*Carcinoid tumor*
+**Carcinoid tumor**
 
 
-*Mixed carcinomas*
+**Mixed carcinomas**
 
 
-*Adenosquamous carcinoma*
+**Adenosquamous carcinoma**
 
 
 Combined small cell carcinoma
@@ -11726,13 +11100,13 @@ Combined small cell carcinoma
 Other unusual morphologic variants
 
 
-*Sarcomatoid carcinoma*
+**Sarcomatoid carcinoma**
 
 
-*Spindle cell carcinoma*
+**Spindle cell carcinoma**
 
 
-*Giant cell carcinoma*
+**Giant cell carcinoma**
 
 
 statistics reflect the fact that the incidence of smoking in
@@ -11879,7 +11253,7 @@ approved for a subset of NSCLC and are being tested in
 SCLC.
 
 
-*Etiology and Pathogenesis*
+**Etiology and Pathogenesis**
 
 
 Like other cancers, smoking-related carcinomas of the
@@ -12047,7 +11421,7 @@ cancer, as does smoking of pipes and cigars, albeit only
 modestly.
 
 
-*Lung Tumors*
+**Lung Tumors**
 
 
 Other carcinogenic influences associated with occupa-
@@ -12201,9 +11575,6 @@ squamous dysplasia and carcinoma in situ, before culmi-
 
 
 nating in invasive cancer.
-
-
-*MORP HOLOGY*
 
 
 Carcinomas of the lung begin as small lesions that typically are
@@ -12410,9 +11781,6 @@ tumor cells with a round to fusiform shape, scant cytoplasm,
 and finely granular chromatin with a salt and pepper
 
 
-# Chapter 13: Lung
-
-
 Fig. 13.43 Adenocarcinoma and associated lesions. (A) Atypical adenomatous hyperplasia with cuboidal epithelium and mild interstitial fibrosis. (B) Adeno-
 
 
@@ -12530,7 +11898,7 @@ tumor-node-metastasis (TNM) categories are used to indicate
 the size and spread of the primary neoplasm.
 
 
-*Clinical Features*
+#### Clinical Features
 
 
 Carcinomas of the lung are insidious lesions that in many
@@ -12542,7 +11910,7 @@ cases have spread so as to be unresectable before they
 produce symptoms. In some instances chronic cough and
 
 
-*Lung Tumors*
+**Lung Tumors**
 
 
 Fig. 13.44 Precursor lesions of squamous cell carcinomas. (A to C) Some of the earliest (and “mild”) changes in smoking-damaged respiratory epithelium
@@ -12573,9 +11941,6 @@ Fig. 13.45 Squamous cell carcinoma. (A) Squamous cell carcinoma appearing as a c
 
 
 differentiated squamous cell carcinoma, showing keratinization and pearls.
-
-
-# Chapter 13: Lung
 
 
 spread to sites such as the brain (mental or neurologic
@@ -12689,13 +12054,13 @@ the tumor presents with symptoms caused by metastatic
 Cell Carcinoma)
 
 
-*Feature*
+**Feature**
 
 
-*Histology*
+**Histology**
 
 
-*Neuroendocrine Markers*
+**Neuroendocrine Markers**
 
 
 For example, dense core granules on electron
@@ -12707,7 +12072,7 @@ microscopy; expression of chromogranin,
 synaptophysin, and CD56
 
 
-*Epithelial Markers*
+**Epithelial Markers**
 
 
 Epithelial membrane antigen, carcinoembryonic antigen,
@@ -12716,13 +12081,13 @@ Epithelial membrane antigen, carcinoembryonic antigen,
 and cytokeratin intermediate filaments
 
 
-*Mucin*
+**Mucin**
 
 
-*Small Cell Lung*
+**Small Cell Lung**
 
 
-*Carcinoma*
+**Carcinoma**
 
 
 Non–Small Cell Lung Carcinoma
@@ -12749,19 +12114,19 @@ coarse chromatin pattern; nucleoli often
 prominent; glandular or squamous architecture
 
 
-*Present*
+**Present**
 
 
-*Absent*
+**Absent**
 
 
-*Present*
+**Present**
 
 
-*Absent*
+**Absent**
 
 
-*Present*
+**Present**
 
 
 Present in adenocarcinomas
@@ -12794,25 +12159,25 @@ Tumor Suppressor Gene Abnormalities
 3p deletions
 
 
-*RB mutations*
+**RB mutations**
 
 
 p16/CDKN2A mutations
 
 
-*TP53 mutations*
+**TP53 mutations**
 
 
 Dominant Oncogene Abnormalities
 
 
-*KRAS mutations*
+**KRAS mutations**
 
 
-*EGFR mutations*
+**EGFR mutations**
 
 
-*ALK rearrangements*
+**ALK rearrangements**
 
 
 >90%
@@ -12827,13 +12192,13 @@ Dominant Oncogene Abnormalities
 >90%
 
 
-*Rare*
+**Rare**
 
 
-*Absent*
+**Absent**
 
 
-*Absent*
+**Absent**
 
 
 >80%
@@ -12866,13 +12231,13 @@ Response to chemotherapy and radiotherapy
 Often complete response but
 
 
-*Incomplete*
+**Incomplete**
 
 
 recur invariably
 
 
-*Lung Tumors*
+**Lung Tumors**
 
 
 neoantigens), and represent a hopeful new avenue for
@@ -13016,7 +12381,7 @@ development and show promise.
 syndromes.
 
 
-*Carcinoid Tumors*
+**Carcinoid Tumors**
 
 
 Carcinoid tumors are malignant tumors composed of cells
@@ -13049,10 +12414,10 @@ occur as part of the multiple endocrine neoplasia syndrome
 neoplasms.
 
 
-*SUMMARY*
+**SUMMARY**
 
 
-*CARCINOMA OF THE LUNG*
+**CARCINOMA OF THE LUNG**
 
 
 • The three major histologic subtypes are adenocarcinoma
@@ -13068,9 +12433,6 @@ Adenocarcinomas are the most common cancers overall and
 
 
 are especially common in women and in nonsmokers.
-
-
-*MORPHOL OG Y*
 
 
 Most carcinoids originate in main bronchi and grow in one of
@@ -13101,9 +12463,6 @@ demonstrating small, rounded, uniform nuclei and moderate cytoplasm. (Courtesy o
 
 
 School of Medicine, Chicago, Illinois.)
-
-
-# Chapter 13: Lung
 
 
 15% of carcinoids have metastasized to the hilar nodes at pre-
@@ -13178,7 +12537,7 @@ for typical carcinoids are above 85%, while these rates drop
 to 56% and 35%, respectively, for atypical carcinoids.
 
 
-*PLEURAL LESIONS*
+**PLEURAL LESIONS**
 
 
 Disease of the pleura usually is a complication of an under-
@@ -13397,7 +12756,7 @@ ducts, usually by an intrathoracic cancer (e.g., a primary
 or secondary mediastinal neoplasm, such as a lymphoma).
 
 
-*Malignant Mesothelioma*
+**Malignant Mesothelioma**
 
 
 Malignant mesothelioma has assumed great importance
@@ -13499,9 +12858,6 @@ DNA repair that also is affected by germ line mutations in
 families showing a high incidence of mesothelioma.
 
 
-*MORP HOLOGY*
-
-
 Malignant mesotheliomas are often preceded by extensive
 
 
@@ -13568,13 +12924,13 @@ in sheets; and (3) biphasic, having both sarcomatous and epi-
 thelial areas.
 
 
-*LESIONS OF THE UPPER*
+**LESIONS OF THE UPPER**
 
 
-*RESPIRATORY TRACT*
+**RESPIRATORY TRACT**
 
 
-*Acute Infections*
+**Acute Infections**
 
 
 Acute infections of the upper respiratory tract are among
@@ -13715,9 +13071,6 @@ Acute laryngitis can result from inhalation of irritants or
 may be caused by allergic reactions. It also may be caused
 
 
-# Chapter 13: Lung
-
-
 by agents that produce the common cold and usually
 
 
@@ -13808,7 +13161,7 @@ ondary bacterial infection, particularly by staphylococci,
 streptococci, and H. influenzae.
 
 
-*Nasopharyngeal Carcinoma*
+**Nasopharyngeal Carcinoma**
 
 
 Nasopharyngeal carcinoma is a rare neoplasm that merits
@@ -13904,7 +13257,7 @@ strategy for tumors that do not respond to conventional
 therapy.
 
 
-*Laryngeal Tumors*
+**Laryngeal Tumors**
 
 
 A variety of nonneoplastic, benign, and malignant neo-
@@ -13925,7 +13278,7 @@ comment. In all of these conditions, the most common
 presenting feature is hoarseness.
 
 
-*Nonmalignant Lesions*
+**Nonmalignant Lesions**
 
 
 Vocal cord nodules (“polyps”) are smooth, hemispherical
@@ -14018,7 +13371,7 @@ against infection with types 6 and 11 provides an opportu-
 nity for prevention of RRP in children.
 
 
-*Carcinoma of the Larynx*
+**Carcinoma of the Larynx**
 
 
 Carcinoma of the larynx represents only 2% of all cancers.
@@ -14150,7 +13503,7 @@ widespread metastases and cachexia, sometimes compli-
 cated by pulmonary infection.
 
 
-*SUGGESTED READINGS*
+**SUGGESTED READINGS**
 
 
 Armanios M, Blackburn EH: The telomere syndromes, Nat Rev Genet
@@ -14318,9 +13671,6 @@ Swanton C, Govinan R: Clinical implications of genomic discoveries
 in lung cancer, N Engl J Med 374:1864, 2016. [A review focused on how
 
 
-# Chapter 13: Lung
-
-
 genomic insights into the pathogenesis of each major subtype of lung
 
 
@@ -14381,31 +13731,31 @@ updated classification of interstitial lung diseases, which is used widely by
 clinicians, radiologists, and pathologists.]
 
 
-*Kidney and Its Collecting*
+**Kidney and Its Collecting**
 
 
-*System14*
+**System14**
 
 
 Clinical Manifestations of Renal
 
 
-*Diseases 549*
+**Diseases 549**
 
 
-*Glomerular Diseases 550*
+**Glomerular Diseases 550**
 
 
 Mechanisms of Glomerular Injury and
 
 
-*Disease 552*
+**Disease 552**
 
 
 Diseases Affecting Tubules and
 
 
-*Interstitium 564*
+**Interstitium 564**
 
 
 Tubulointerstitial Nephritis 564
@@ -14417,7 +13767,7 @@ Acute Tubular Injury/Necrosis 567
 Diseases Involving Blood Vessels 569
 
 
-*Nephrosclerosis 569*
+**Nephrosclerosis 569**
 
 
 Malignant Hypertension 570
@@ -14432,19 +13782,19 @@ Chronic Kidney Disease 572
 Cystic Diseases of the Kidney 573
 
 
-*Simple Cysts 573*
+**Simple Cysts 573**
 
 
 Autosomal Dominant (Adult) Polycystic Kidney
 
 
-*Disease 574*
+**Disease 574**
 
 
 Autosomal Recessive (Childhood) Polycystic
 
 
-*Kidney Disease 575*
+**Kidney Disease 575**
 
 
 Medullary Diseases With Cysts 575
@@ -14456,16 +13806,16 @@ Urinary Outflow Obstruction 576
 Renal Stones (Urolithiasis) 576
 
 
-*Hydronephrosis 577*
+**Hydronephrosis 577**
 
 
 Congenital and Developmental
 
 
-*Anomalies 578*
+**Anomalies 578**
 
 
-*Neoplasms 578*
+**Neoplasms 578**
 
 
 Neoplasms of the Kidney 578
@@ -14570,10 +13920,10 @@ clinical manifestations of kidney diseases shared by several
 disorders.
 
 
-**CLINICAL MANIFESTATIONS OF**
+***CLINICAL MANIFESTATIONS OF***
 
 
-*RENAL DISEASES*
+**RENAL DISEASES**
 
 
 The clinical manifestations of renal disease can be grouped

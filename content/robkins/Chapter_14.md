@@ -1,5 +1,9 @@
+---
 layout: single
-# Chapter 14: Kidney and Its Collecting System
+title: "Chapter 14: Diseases of the Kidneys and Their Collecting System"
+---
+
+# Chapter 14: Diseases of the Kidneys and Their Collecting System
 
 
 neuropathy); and cardiovascular (e.g., uremic fibrinous
@@ -8,10 +12,10 @@ neuropathy); and cardiovascular (e.g., uremic fibrinous
 pericarditis) involvement.
 
 
-• Azotemia
+• **Azotemia**
 
 
-• Hypertension
+• **Hypertension**
 
 
 Below is a brief summary of the various clinical mani-
@@ -29,16 +33,16 @@ ciated with glomerular diseases, nephrotic and nephritic,
 are discussed in detail.
 
 
-• Nephrotic syndrome is characterized by the following:
+• **Nephrotic syndrome** is characterized by the following:
 
 
-• Proteinuria, with daily protein loss in the urine of 3.5 g
+• **Proteinuria**, with daily protein loss in the urine of 3.5 g
 
 
 or more in adults (said to be in the “nephrotic range”)
 
 
-• Hypoalbuminemia, with plasma albumin levels less
+• **Hypoalbuminemia**, with plasma albumin levels less
 
 
 than 3 g/dL
@@ -47,7 +51,7 @@ than 3 g/dL
 • Generalized
 
 
-edema,
+**edema**,
 
 
 the most obvious clinical
@@ -56,10 +60,10 @@ the most obvious clinical
 manifestation
 
 
-• Hyperlipidemia and lipiduria
+• **Hyperlipidemia** and lipiduria
 
 
-The nephrotic syndrome has diverse causes that
+The **nephrotic syndrome** has diverse causes that
 
 
 share a common pathophysiology, a derangement in
@@ -71,13 +75,13 @@ the capillary walls of the glomeruli that results in
 increased permeability to plasma proteins. Increased
 
 
-permeability of the glomerular basement membrane
+permeability of the glomerular **basement membrane**
 
 
-(GBM) may result from structural or physicochemical
+(**GBM**) may result from structural or physicochemical
 
 
-alterations in the GBM. With long-standing or heavy pro-
+alterations in the **GBM**. With long-standing or heavy pro-
 
 
 teinuria, serum albumin is decreased, giving rise to hypo-
@@ -113,28 +117,28 @@ exacerbated by reductions in the cardiac secretion of
 natriuretic factors attributed to decreased intravascular
 
 
-volume. In the face of continuing proteinuria, salt and
+volume. In the face of continuing **proteinuria**, salt and
 
 
-water retention further aggravates the edema and if
+water retention further aggravates the **edema** and if
 
 
 unchecked may lead to the development of generalized
 
 
-edema (termed anasarca). At the onset, there is little or no
+**edema** (termed anasarca). At the onset, there is little or no
 
 
-azotemia, hematuria, or hypertension.
+**azotemia**, **hematuria**, or **hypertension**.
 
 
-The genesis of the hyperlipidemia is more obscure.
+The genesis of the **hyperlipidemia** is more obscure.
 
 
-Presumably, hypoalbuminemia triggers increased syn-
+Presumably, **hypoalbuminemia** triggers increased syn-
 
 
-thesis of lipoproteins in the liver, or massive proteinuria
+thesis of lipoproteins in the liver, or massive **proteinuria**
 
 
 causes loss of an inhibitor of their synthesis. There also
@@ -149,7 +153,7 @@ impairment of peripheral breakdown of lipoproteins.
 The associated lipiduria reflects the increased permea-
 
 
-bility of the GBM to lipoproteins.
+bility of the **GBM** to lipoproteins.
 
 
 The most important of the primary glomerular
@@ -167,43 +171,43 @@ minimal-change disease. The latter is more important
 in children; the former is more important in adults.
 
 
-The nephrotic syndrome is also commonly seen in two
+The **nephrotic syndrome** is also commonly seen in two
 
 
-other primary kidney diseases, membranous nephrop-
+other primary kidney diseases, **membranous** nephrop-
 
 
-athy and membranoproliferative glomerulonephritis,
+athy and membranoproliferative **glomerulonephritis**,
 
 
-and as a complication of the systemic disease diabetes
+and as a complication of the systemic disease **diabetes**
 
 
 mellitus.
 
 
-• By contrast, nephritic syndrome is characterized by the
+• By contrast, **nephritic syndrome** is characterized by the
 
 
 following:
 
 
-• Hematuria (red cells and red cell casts in urine)
+• **Hematuria** (red cells and red cell casts in urine)
 
 
-• Proteinuria (usually in the subnephrotic range) with
+• **Proteinuria** (usually in the subnephrotic range) with
 
 
-or without edema
+or without **edema**
 
 
-The nephritic syndrome usually has an acute onset
+The **nephritic syndrome** usually has an acute onset
 
 
 and is caused by inflammatory lesions of glomeruli.
 
 
-The lesions that cause the nephritic syndrome have in
+The lesions that cause the **nephritic syndrome** have in
 
 
 common proliferation of the cells within the glomeruli,
@@ -218,13 +222,13 @@ inflammatory reaction injures the capillary walls, per-
 mitting blood to pass into the urine, and induces hemo-
 
 
-dynamic changes that lead to a reduction in the GFR. The
+dynamic changes that lead to a reduction in the **GFR**. The
 
 
-reduced GFR is manifested clinically by oliguria, fluid
+reduced **GFR** is manifested clinically by **oliguria**, fluid
 
 
-retention, and azotemia. Hypertension probably is a
+retention, and **azotemia**. **Hypertension** probably is a
 
 
 result of both the fluid retention and augmented renin
@@ -236,49 +240,49 @@ release from the ischemic kidneys. The acute nephritic
 syndrome may be caused by primary glomerular dis-
 
 
-eases, such as postinfectious glomerulonephritis (GN)
+eases, such as postinfectious **glomerulonephritis** (GN)
 
 
-and various forms of crescentic GN, or as a result of sys-
+and various forms of **crescentic** GN, or as a result of sys-
 
 
 temic disorders such as systemic lupus erythematosus.
 
 
-• Asymptomatic hematuria or nonnephrotic proteinuria or a
+• Asymptomatic **hematuria** or nonnephrotic **proteinuria** or a
 
 
 combination of the two is the typical clinical presentation
 
 
-of IgA nephropathy, Alport syndrome, or mild forms or
+of **IgA** nephropathy, Alport syndrome, or mild forms or
 
 
 early presentations of other glomerular diseases.
 
 
-• Rapidly progressive glomerulonephritis (RPGN) results in
+• Rapidly progressive **glomerulonephritis** (RPGN) results in
 
 
 rapid loss of renal function in a few days or weeks, typi-
 
 
-cally in the setting of nephritic syndrome. The charac-
+cally in the setting of **nephritic syndrome**. The charac-
 
 
 teristic histologic finding associated with RPGN is the
 
 
-presence of crescents (crescentic GN). Rapidly progres-
+presence of crescents (**crescentic** GN). Rapidly progres-
 
 
-sive glomerulonephritis is a clinical syndrome and not
+sive **glomerulonephritis** is a clinical syndrome and not
 
 
 a specific etiologic form of GN. If untreated, it leads to
 
 
-death from renal failure within a period of weeks to
+death from **renal failure** within a period of weeks to
 
 
 months.
@@ -290,7 +294,7 @@ months.
 function characterized by an acute increase in serum
 
 
-creatinine often associated with oliguria or anuria
+**creatinine** often associated with **oliguria** or **anuria**
 
 
 (decreased or no urine flow). It can result from glomeru-
@@ -320,7 +324,7 @@ phosphatemia, dyslipidemia, and metabolic acidosis.
 However, it is often asymptomatic until the most
 
 
-advanced stages, when symptoms of uremia develop.
+advanced stages, when symptoms of **uremia** develop.
 
 
 • End-stage renal disease (ESRD) is irreversible loss of renal
@@ -353,24 +357,20 @@ the kidney (pyelonephritis) or the bladder (cystitis) only.
 lecting system and is manifested by renal colic and
 
 
-hematuria (without red cell casts).
+**hematuria** (without red cell casts).
 
 
-*GLOMERULAR DISEASES*
-
-
+## GLOMERULAR DISEASES
 The glomerulus consists of an anastomosing network of
 
 
 capillaries invested by two layers of epithelium. The vis-
 
 
-ceral epithelium (composed of podocytes) is part of the
+ceral epithelium (composed of **podocytes**) is part of the
 
 
-*Glomerular Diseases*
-
-
+## Glomerular Diseases
 *GLOMERULUS*
 
 
@@ -410,10 +410,10 @@ tubule
 *Parietal epithelium*
 
 
-*Mesangial cell*
+***Mesangial** cell*
 
 
-*Mesangial matrix*
+***Mesangial** matrix*
 
 
 *Fenestrae in*
@@ -440,7 +440,7 @@ epithelium
 epithelium
 
 
-(podocytes)
+(**podocytes**)
 
 
 *Basement*
@@ -458,7 +458,7 @@ processes
 *Endothelium*
 
 
-*Basement membrane*
+***Basement membrane***
 
 
 *Complex of signaling*
@@ -497,7 +497,7 @@ Nephrin molecules from adjacent foot
 processes forming slit diaphragm
 
 
-Fig. 14.1 Schematic diagram of a portion of a normal glomerulus.
+**Fig. 14**.1 Schematic diagram of a portion of a normal glomerulus.
 
 
 capillary wall, whereas the parietal epithelium encircles
@@ -521,7 +521,7 @@ and 14.2):
 to 100 nm in diameter.
 
 
-• The glomerular basement membrane (GBM), which has a
+• The glomerular **basement membrane** (**GBM**), which has a
 
 
 thick, electron-dense central layer called the lamina
@@ -530,7 +530,7 @@ thick, electron-dense central layer called the lamina
 densa, and two thinner, electron-lucent peripheral layers,
 
 
-the lamina rara interna and lamina rara externa. The GBM
+the lamina rara interna and lamina rara externa. The **GBM**
 
 
 consists of collagen (mostly type IV), laminin, polyan-
@@ -542,7 +542,7 @@ ionic proteoglycans, fibronectin, and several other
 glycoproteins.
 
 
-• Podocytes, cells that possess interdigitating foot pro-
+• **Podocytes**, cells that possess interdigitating foot pro-
 
 
 cesses that are embedded in and adherent to the lamina
@@ -560,13 +560,11 @@ a thin slit diaphragm composed mainly of the protein
 nephrin (see later).
 
 
-• Mesangial cells, which lie in a mesangial matrix between
+• **Mesangial** cells, which lie in a **mesangial** matrix between
 
 
 the capillaries that supports the glomerular tuft. These
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 *CL*
@@ -599,13 +597,13 @@ the capillaries that supports the glomerular tuft. These
 *CL*
 
 
-Fig. 14.2 Low-power electron micrograph of rat glomerulus. B, Basement
+**Fig. 14**.2 Low-power electron micrograph of rat glomerulus. B, Basement
 
 
 membrane; CL, capillary lumen; End, endothelium; Ep, visceral epithelial cells
 
 
-(podocytes) with foot processes; Mes, mesangium; US, urinary space.
+(**podocytes**) with foot processes; Mes, mesangium; US, urinary space.
 
 
 cells, of mesenchymal origin, are contractile and are
@@ -647,10 +645,10 @@ cationic, the more permeable), and shape. Podocyte slit
 diaphragms are important diffusion barriers for plasma
 
 
-proteins, and podocytes are also largely responsible for
+proteins, and **podocytes** are also largely responsible for
 
 
-synthesis of GBM components. Nephrin, a transmem-
+synthesis of **GBM** components. Nephrin, a transmem-
 
 
 brane glycoprotein, is the major component of the slit
@@ -662,7 +660,7 @@ diaphragms between adjacent foot processes. The intra-
 cellular part of nephrin interacts with several cytoskel-
 
 
-etal and signaling proteins (see Fig. 14.1). Nephrin and
+etal and signaling proteins (see **Fig. 14**.1). Nephrin and
 
 
 its associated proteins, including podocin, have a crucial
@@ -680,16 +678,16 @@ by rare hereditary diseases in which mutations of nephrin
 or its partner proteins lead to abnormal leakage of plasma
 
 
-proteins into the urine and the nephrotic syndrome. As
+proteins into the urine and the **nephrotic syndrome**. As
 
 
-might be expected, acquired defects in podocytes and
+might be expected, acquired defects in **podocytes** and
 
 
 slit diaphragms, which are seen in a number of renal
 
 
-diseases, also are associated with proteinuria of varying
+diseases, also are associated with **proteinuria** of varying
 
 
 severity.
@@ -701,7 +699,7 @@ Mechanisms of Glomerular Injury and Disease
 Glomeruli may be injured by diverse mechanisms in the
 
 
-course of a number of systemic diseases (**Table 14.1**). These
+course of a number of systemic diseases (****Table 14**.1**). These
 
 
 are termed secondary glomerular diseases to differentiate
@@ -740,13 +738,13 @@ immunoglobulins, often with various components of com-
 plement, are found frequently in patients with GN. Two
 
 
-mechanisms of antibody deposition in the glomerulus have
+mechanisms of **antibody** deposition in the glomerulus have
 
 
 been established: (1) deposition of circulating antigen-
 
 
-antibody complexes in the glomerular capillary wall or
+**antibody** complexes in the glomerular capillary wall or
 
 
 mesangium, and (2) antibodies reacting in situ within the
@@ -758,7 +756,7 @@ glomerulus, either with fixed (intrinsic) glomerular anti-
 gens or with extrinsic molecules that are planted in the
 
 
-glomerulus (Fig. 14.3). These pathways are not mutually
+glomerulus (**Fig. 14**.3). These pathways are not mutually
 
 
 exclusive, and in humans all may contribute to injury.
@@ -776,7 +774,7 @@ mediated immune mechanisms also may play a role in
 certain glomerular diseases.
 
 
-Glomerulonephritis Caused by Circulating
+**Glomerulonephritis** Caused by Circulating
 
 
 *Immune Complexes*
@@ -785,13 +783,13 @@ Glomerulonephritis Caused by Circulating
 Deposition of circulating immune complexes in the glo-
 
 
-merulus initiates complement (and/or Fc receptor) medi-
+merulus initiates **complement** (and/or Fc receptor) medi-
 
 
 ated leukocyte activation, resulting in glomerular injury.
 
 
-The pathogenesis of immune complex diseases is discussed
+The pathogenesis of **immune complex** diseases is discussed
 
 
 in detail in Chapter 5. Presented here is a brief review of
@@ -800,7 +798,7 @@ in detail in Chapter 5. Presented here is a brief review of
 the salient features that relate to glomerular injury in GN.
 
 
-In circulating immune complex–mediated diseases, the
+In circulating **immune complex**–mediated diseases, the
 
 
 complexes may be formed with endogenous antigens, as
@@ -821,7 +819,7 @@ B), parasitic (Plasmodium falciparum malaria), and spiro-
 chetal (Treponema pallidum) infections. Often the inciting
 
 
-**Table 14.1** Glomerular Diseases
+****Table 14**.1** Glomerular Diseases
 
 
 Primary Glomerular Diseases
@@ -833,22 +831,22 @@ Primary Glomerular Diseases
 Focal segmental glomerulosclerosis
 
 
-*Membranous nephropathy*
+***Membranous** nephropathy*
 
 
-Acute postinfectious glomerulonephritis
+Acute postinfectious **glomerulonephritis**
 
 
-Membranoproliferative glomerulonephritis
+Membranoproliferative **glomerulonephritis**
 
 
-*IgA nephropathy*
+***IgA** nephropathy*
 
 
 *Dense deposit disease*
 
 
-*C3 glomerulonephritis*
+*C3 **glomerulonephritis***
 
 
 Glomerulopathies Secondary to Systemic Diseases
@@ -860,13 +858,13 @@ Lupus nephritis (systemic lupus erythematosus)
 *Diabetic nephropathy*
 
 
-*Amyloidosis*
+***Amyloidosis***
 
 
 Glomerulopathy secondary to multiple myeloma
 
 
-*Goodpasture syndrome*
+***Goodpasture** syndrome*
 
 
 *Microscopic polyangiitis*
@@ -878,7 +876,7 @@ Granulomatosis with polyangiitis
 Henoch-Schönlein purpura
 
 
-Bacterial endocarditis–related glomerulonephritis
+Bacterial endocarditis–related **glomerulonephritis**
 
 
 Thrombotic microangiopathy
@@ -896,12 +894,10 @@ Thrombotic microangiopathy
 Podocyte/slit-diaphragm protein mutations
 
 
-IgA, Immunoglobulin A.
+**IgA**, Immunoglobulin A.
 
 
-*Glomerular Diseases*
-
-
+## Glomerular Diseases
 *Deposition of circulating*
 
 
@@ -911,7 +907,7 @@ immune complexes
 In situ binding of antibodies with or
 
 
-without immune complex formation
+without **immune complex** formation
 
 
 Subepithelial (at outer
@@ -932,25 +928,25 @@ surface of glomerular
 basement membranes)
 
 
-*Antibody against*
+***Antibody** against*
 
 
 antigen on
 
 
-podocytes
+**podocytes**
 
 
 *Anti-glomerular*
 
 
-basement membrane
+**basement membrane**
 
 
-antibody
+**antibody**
 
 
-*Mesangial*
+***Mesangial***
 
 
 *Subepithelial immune*
@@ -959,7 +955,7 @@ antibody
 complex formation
 
 
-(membranous
+(**membranous**
 
 
 nephropathy)
@@ -968,10 +964,10 @@ nephropathy)
 *Anti-glomerular*
 
 
-basement membrane
+**basement membrane**
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
 (no immune complexes formed)
@@ -983,13 +979,13 @@ Granular immunofluorescence
 *Linear immunofluorescence*
 
 
-Fig. 14.3 Antibody-mediated glomerular injury. Injury can result either from the deposition of circulating immune complexes or from antibody-binding to
+**Fig. 14**.3 **Antibody**-mediated glomerular injury. Injury can result either from the deposition of circulating immune complexes or from **antibody**-binding to
 
 
 glomerular components followed by formation of complexes in situ. Deposition of circulating immune complexes gives a granular immunofluorescence pattern.
 
 
-Anti-glomerular basement membrane (anti-GBM) antibody glomerulonephritis is characterized by a linear immunofluorescence pattern; there is no immune
+Anti-glomerular **basement membrane** (anti-**GBM**) **antibody** **glomerulonephritis** is characterized by a linear immunofluorescence pattern; there is no immune
 
 
 deposit formation in this disease.
@@ -1001,13 +997,13 @@ antigen is unknown, as in most cases of membranoprolif-
 erative GN.
 
 
-Once antigen-antibody complexes are deposited or
+Once antigen-**antibody** complexes are deposited or
 
 
 formed in the glomeruli, they produce injury by activating
 
 
-complement and recruiting leukocytes. Binding of immune
+**complement** and recruiting leukocytes. Binding of immune
 
 
 complexes to Fc receptors on leukocytes also may contrib-
@@ -1019,7 +1015,7 @@ ute to activation of the cells and injury. Morphologically,
 affected glomeruli exhibit leukocytic infiltrates and variable
 
 
-proliferation of mesangial and parietal epithelial cells. Elec-
+proliferation of **mesangial** and parietal epithelial cells. Elec-
 
 
 tron microscopy reveals electron-dense immune deposits
@@ -1028,16 +1024,16 @@ tron microscopy reveals electron-dense immune deposits
 in one or more of three locations: between the endothelial
 
 
-cells and the GBM (subendothelial deposits), between the
+cells and the **GBM** (subendothelial deposits), between the
 
 
-outer surface of the GBM and the podocytes (subepithelial
+outer surface of the **GBM** and the **podocytes** (subepithelial
 
 
 deposits), or in the mesangium. The localization of antigen,
 
 
-antibody, or immune complexes deter mines the glomeru-
+**antibody**, or immune complexes deter mines the glomeru-
 
 
 lar injury response. Studies in experi mental models have
@@ -1061,16 +1057,16 @@ bodies directed to the subepithelial region of glomerular
 capillaries are often noninflammatory, as seen in primary
 
 
-membranous nephropathy (discussed later). The presence
+**membranous** nephropathy (discussed later). The presence
 
 
-of immunoglobulins and complement in these deposits
+of immunoglobulins and **complement** in these deposits
 
 
 can be demonstrated by immunofluorescence microscopy.
 
 
-The pattern of immune complex deposition by immuno-
+The pattern of **immune complex** deposition by immuno-
 
 
 fluorescence microscopy is granular, given the rather pic-
@@ -1079,7 +1075,7 @@ fluorescence microscopy is granular, given the rather pic-
 turesque description of “lumpy-bumpy” by pathologists
 
 
-(Fig. 14.4A).
+(**Fig. 14**.4A).
 
 
 Once deposited in the kidney, immune complexes may
@@ -1088,7 +1084,7 @@ Once deposited in the kidney, immune complexes may
 eventually be cleared by degradation or phagocytosis,
 
 
-mostly by infiltrating leukocytes and mesangial cells. The
+mostly by infiltrating leukocytes and **mesangial** cells. The
 
 
 inflammatory reaction may then subside if the exposure to
@@ -1103,7 +1099,7 @@ cases of poststreptococcal or acute infection–related GN.
 However, if exposure to antigen is sustained, repeated
 
 
-cycles of immune complex formation, deposition, and
+cycles of **immune complex** formation, deposition, and
 
 
 injury occur, leading to chronic GN. In some cases, the
@@ -1118,7 +1114,7 @@ hepatitis B virus infection and self nuclear antigens in sys-
 temic lupus erythematosus, but more often the antigen is
 
 
-unknown. Although immune complex deposition is a
+unknown. Although **immune complex** deposition is a
 
 
 common mechanism of injury, circulating complexes are
@@ -1130,7 +1126,7 @@ almost never identified in human disease, likely because of
 technical limitations.
 
 
-Glomerulonephritis Caused by Immune Complexes
+**Glomerulonephritis** Caused by Immune Complexes
 
 
 *Formed in Situ*
@@ -1145,7 +1141,7 @@ planted (from outside) antigens in the glomerulus is
 another major pathway of glomerular injury. Antigens
 
 
-expressed by podocytes have been implicated in membra-
+expressed by **podocytes** have been implicated in membra-
 
 
 nous nephropathy. Antibodies also may react in situ with
@@ -1184,13 +1180,11 @@ mesangium. Locally formed immune complexes may
 also grow in size through additional interactions with
 
 
-# Chapter 14: Kidney and Its Collecting System
+
+**Fig. 14**.4 Two patterns of deposition of immune complexes as seen by immunofluorescence microscopy. (A) Granular, characteristic of circulating and in
 
 
-Fig. 14.4 Two patterns of deposition of immune complexes as seen by immunofluorescence microscopy. (A) Granular, characteristic of circulating and in
-
-
-situ immune complex deposition. (B) Linear, characteristic of classic anti-glomerular basement membrane (anti-GBM) antibody glomerulonephritis. (A, Courtesy
+situ **immune complex** deposition. (B) Linear, characteristic of classic anti-glomerular **basement membrane** (anti-**GBM**) **antibody** **glomerulonephritis**. (A, Courtesy
 
 
 of Dr. J. Kowalewska, Department of Pathology, University of Washington, Seattle, Washington.)
@@ -1202,67 +1196,67 @@ circulating free antibodies and antigens. Most of these
 planted antigens, as with circulating immune complexes
 
 
-deposited on the GBM, show a granular pattern of deposi-
+deposited on the **GBM**, show a granular pattern of deposi-
 
 
 tion by immunofluorescence microscopy.
 
 
-Anti-Glomerular Basement Membrane
+Anti-Glomerular **Basement Membrane**
 
 
-Antibody–Mediated Glomerulonephritis
+**Antibody**–Mediated **Glomerulonephritis**
 
 
-Antibody-mediated GN results from the glomerular
+**Antibody**-mediated GN results from the glomerular
 
 
 deposition of autoantibodies directed against protein
 
 
-components of the GBM. The best-characterized disease in
+components of the **GBM**. The best-characterized disease in
 
 
-this group is anti-GBM antibody–mediated crescentic GN
+this group is anti-**GBM** **antibody**–mediated **crescentic** GN
 
 
-(see Fig. 14.3), also known as Goodpasture disease. In this type
+(see **Fig. 14**.3), also known as **Goodpasture** disease. In this type
 
 
 of injury, antibodies are directed against fixed antigens in
 
 
-the GBM, creating a linear pattern of staining when visual-
+the **GBM**, creating a linear pattern of staining when visual-
 
 
-ized with immunofluorescence microscopy (Fig. 14.4B).
+ized with immunofluorescence microscopy (**Fig. 14**.4B).
 
 
 This pattern is useful in the diagnosis of glomerular disease.
 
 
-A known antigen that is the target of anti-GBM antibodies
+A known antigen that is the target of anti-**GBM** antibodies
 
 
-is the α3 chain of the type IV collagen of the GBM. Some-
+is the α3 chain of the type IV collagen of the **GBM**. Some-
 
 
-times the anti-GBM antibodies cross-react with basement
+times the anti-**GBM** antibodies cross-react with basement
 
 
 membranes of lung alveoli, resulting in simultaneous lung
 
 
-and kidney lesions (Goodpasture syndrome, Chapter 13).
+and kidney lesions (**Goodpasture** syndrome, Chapter 13).
 
 
-Glomerular Diseases Caused by Complement Activation
+Glomerular Diseases Caused by **Complement** Activation
 
 
 The primary cause of these diseases is unregulated activa-
 
 
-tion of the alternative complement pathway, which may
+tion of the alternative **complement** pathway, which may
 
 
 be triggered by acquired autoantibodies against comple-
@@ -1271,7 +1265,7 @@ be triggered by acquired autoantibodies against comple-
 ment components or inherited abnormalities of comple-
 
 
-ment regulatory proteins. Ensuing complement-mediated
+ment regulatory proteins. Ensuing **complement**-mediated
 
 
 injury may result in renal and systemic disease. Two forms
@@ -1283,13 +1277,13 @@ of GN (dense deposit disease and C3 GN) and one form
 of a systemic disease with significant renal manifesta-
 
 
-tions (complement-mediated thrombotic microangiopathy
+tions (**complement**-mediated thrombotic microangiopathy
 
 
 [TMA] or atypical hemolytic uremic syndrome) belong to
 
 
-this category. Although complement-mediated thrombotic
+this category. Although **complement**-mediated thrombotic
 
 
 microangiopathy is a systemic condition, renal manifesta-
@@ -1301,13 +1295,13 @@ tion represents the major morbidity of the disease.
 Mediators of Immune Injury
 
 
-A major pathway of antibody-initiated glomerular
+A major pathway of **antibody**-initiated glomerular
 
 
-injury involves complement activation and recruitment
+injury involves **complement** activation and recruitment
 
 
-of leukocytes. Activation of complement via the classi-
+of leukocytes. Activation of **complement** via the classi-
 
 
 cal pathway leads to the generation of chemotactic agents
@@ -1316,7 +1310,7 @@ cal pathway leads to the generation of chemotactic agents
 (mainly C5a) for neutrophils and monocytes. Neutro-
 
 
-phils release proteases, which cause GBM degradation;
+phils release proteases, which cause **GBM** degradation;
 
 
 oxygen-derived free radicals, which cause cell damage;
@@ -1325,10 +1319,10 @@ oxygen-derived free radicals, which cause cell damage;
 and arachidonic acid metabolites, which contribute to
 
 
-reduction in GFR. In other types of GN in which neu-
+reduction in **GFR**. In other types of GN in which neu-
 
 
-trophils are not prominent, complement-dependent injury
+trophils are not prominent, **complement**-dependent injury
 
 
 may occur through assembly of the C5b-C9 membrane
@@ -1343,19 +1337,19 @@ attack complex injures epithelial cells, inducing them to
 secrete various inflammatory mediators. The alternative
 
 
-and lectin pathways of complement can be activated by
+and lectin pathways of **complement** can be activated by
 
 
 cell injury or apoptosis, and also perhaps by deposited
 
 
-IgA.
+**IgA**.
 
 
 In addition to neutrophils and monocytes, which are
 
 
-recruited by antibodies and complement, T lymphocytes
+recruited by antibodies and **complement**, T lymphocytes
 
 
 activated during the immune reaction also have been
@@ -1367,7 +1361,7 @@ implicated in glomerular injury. Platelets may aggregate
 and release mediators, including prostaglandins. Resident
 
 
-glomerular cells (epithelial, mesangial, and endothelial) can
+glomerular cells (epithelial, **mesangial**, and endothelial) can
 
 
 be stimulated to secrete mediators such as cytokines
@@ -1403,9 +1397,7 @@ Two that deserve special mention are podocyte injury and
 nephron loss.
 
 
-*Podocyte Injury*
-
-
+### Podocyte Injury
 Podocyte injury can be induced by antibodies to podocyte
 
 
@@ -1421,22 +1413,20 @@ cases of focal segmental glomerulosclerosis (discussed
 later). Podocyte injury produces morphologic changes
 
 
-*Glomerular Diseases*
-
-
+## Glomerular Diseases
 including effacement of foot processes, vacuolization, and
 
 
-retraction and detachment of cells from the GBM, and often
+retraction and detachment of cells from the **GBM**, and often
 
 
-results in the development of proteinuria. Of these changes,
+results in the development of **proteinuria**. Of these changes,
 
 
 it is the loss of normal slit diaphragms that is most highly
 
 
-associated with proteinuria. Germline mutations in the
+associated with **proteinuria**. Germline mutations in the
 
 
 structural components of slit diaphragms, such as nephrin
@@ -1451,13 +1441,11 @@ tions that lead to rare hereditary forms of the nephrotic
 syndrome.
 
 
-*Nephron Loss*
-
-
+### Nephron Loss
 Once renal disease, glomerular or otherwise, destroys
 
 
-sufficient nephrons to reduce the GFR to 30% to 50% of
+sufficient nephrons to reduce the **GFR** to 30% to 50% of
 
 
 normal, symptoms appear and progression to end-stage
@@ -1466,7 +1454,7 @@ normal, symptoms appear and progression to end-stage
 renal disease proceeds at varying rates. Affected indi-
 
 
-viduals have proteinuria, and their glomeruli show wide-
+viduals have **proteinuria**, and their glomeruli show wide-
 
 
 spread scarring, called glomerulosclerosis. Such progressive
@@ -1484,10 +1472,10 @@ glomeruli undergo hypertrophy to maintain renal func-
 tion, an alteration that is associated with hemodynamic
 
 
-changes, including increases in single-nephron GFR, blood
+changes, including increases in single-nephron **GFR**, blood
 
 
-flow, and transcapillary pressure (capillary hypertension).
+flow, and transcapillary pressure (capillary **hypertension**).
 
 
 These alterations are ultimately “maladaptive” and lead
@@ -1499,13 +1487,13 @@ to further endothelial and podocyte injury, increased glo-
 merular permeability to proteins, and accumulation of
 
 
-proteins and lipids in the mesangial matrix. This is fol-
+proteins and lipids in the **mesangial** matrix. This is fol-
 
 
 lowed by capillary obliteration, increased deposition of
 
 
-mesangial matrix and plasma proteins, and finally seg-
+**mesangial** matrix and plasma proteins, and finally seg-
 
 
 mental (affecting a portion) or global (complete) sclero-
@@ -1520,9 +1508,7 @@ nephron mass, initiating a vicious cycle of progressive
 glomerulosclerosis.
 
 
-*SUMMARY*
-
-
+## SUMMARY
 **CLINICAL SYNDROMES AND GLOMERULAR**
 
 
@@ -1532,22 +1518,22 @@ glomerulosclerosis.
 • The clinical manifestations of renal disease include nephrotic
 
 
-syndrome, nephritic syndrome, asymptomatic hematuria,
+syndrome, **nephritic syndrome**, asymptomatic **hematuria**,
 
 
-rapidly progressive glomerulonephritis, acute kidney injury,
+rapidly progressive **glomerulonephritis**, acute kidney injury,
 
 
 chronic kidney disease, and end-stage renal disease.
 
 
-• The dominant feature of nephrotic syndrome is significant (i.e.,
+• The dominant feature of **nephrotic syndrome** is significant (i.e.,
 
 
-“nephrotic range”) proteinuria, while nephritic syndrome is
+“nephrotic range”) **proteinuria**, while **nephritic syndrome** is
 
 
-characterized by proteinuria and hematuria often in associa-
+characterized by **proteinuria** and **hematuria** often in associa-
 
 
 tion with functional impairment.
@@ -1556,13 +1542,13 @@ tion with functional impairment.
 • Glomerular injury is most often caused by depositon of anti-
 
 
-bodies or immune complexes, activation of complement and
+bodies or immune complexes, activation of **complement** and
 
 
 leukocyte recruitment and activation.
 
 
-• The most common forms of glomerulonephritis (GN) are
+• The most common forms of **glomerulonephritis** (GN) are
 
 
 caused by the formation of immune complexes, which may
@@ -1574,22 +1560,22 @@ be deposited from the circulation or form in situ. Immune
 complexes show a granular pattern of deposition.
 
 
-• Autoantibodies against components of the GBM are the
+• Autoantibodies against components of the **GBM** are the
 
 
-cause of anti-GBM-antibody–mediated disease, often associ-
+cause of anti-**GBM**-**antibody**–mediated disease, often associ-
 
 
-ated with severe injury. The pattern of antibody deposition
+ated with severe injury. The pattern of **antibody** deposition
 
 
 is linear.
 
 
-• Less frequently, complement may be activated in the absence
+• Less frequently, **complement** may be activated in the absence
 
 
-of antibody, because of acquired or hereditary defects in its
+of **antibody**, because of acquired or hereditary defects in its
 
 
 regulation.
@@ -1598,34 +1584,32 @@ regulation.
 We now turn to a consideration of specific types of GN
 
 
-and the syndromes they produce (**Table 14.2**). Many
+and the syndromes they produce (****Table 14**.2**). Many
 
 
-primary glomerular disease cause the nephrotic syndrome,
+primary glomerular disease cause the **nephrotic syndrome**,
 
 
 but in adults this syndrome is most often secondary to
 
 
-diabetes, amyloidosis, and systemic lupus erythematosus
+**diabetes**, **amyloidosis**, and systemic lupus erythematosus
 
 
-(**Table 14.3**). The renal lesions produced by lupus and amy-
+(****Table 14**.3**). The renal lesions produced by lupus and amy-
 
 
 loidosis are discussed in Chapter 5, and those caused by
 
 
-diabetes in Chapter 20.
+**diabetes** in Chapter 20.
 
 
-*Minimal-Change Disease*
-
-
+## Minimal-Change Disease
 Minimal-change disease, a relatively benign disorder, is
 
 
-the most frequent cause of the nephrotic syndrome in
+the most frequent cause of the **nephrotic syndrome** in
 
 
 children and is characterized by glomeruli that have a
@@ -1643,16 +1627,14 @@ microscopy. It may develop at any age, but is most common
 between 1 and 7 years of age.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 A popular hypothesis for the pathogenesis of minimal-
 
 
 change disease is that some circulating molecules injure
 
 
-podocytes and cause proteinuria with effacement of foot
+**podocytes** and cause **proteinuria** with effacement of foot
 
 
 processes. Although there are numerous reports of candi-
@@ -1673,13 +1655,11 @@ the pathogenesis of minimal-change disease remains
 unknown.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 Under the light microscope, the glomeruli appear normal, thus
 
 
-giving rise to the name (Fig. 14.5A). The cells of the proximal
+giving rise to the name (**Fig. 14**.5A). The cells of the proximal
 
 
 convoluted tubules often are heavily laden with protein droplets
@@ -1694,16 +1674,16 @@ through the diseased glomeruli. The only obvious glomerular
 abnormality is the diffuse effacement of the foot processes
 
 
-of the podocytes (see Fig. 14.5B). The cytoplasm of the podo-
+of the **podocytes** (see **Fig. 14**.5B). The cytoplasm of the podo-
 
 
-cytes appears flattened over the external aspect of the GBM,
+cytes appears flattened over the external aspect of the **GBM**,
 
 
-obliterating the network of arcades between the podocytes and
+obliterating the network of arcades between the **podocytes** and
 
 
-the GBM. Other changes in podocytes include vacuolization,
+the **GBM**. Other changes in **podocytes** include vacuolization,
 
 
 microvillus formation, and occasional focal detachments, suggest-
@@ -1712,22 +1692,20 @@ microvillus formation, and occasional focal detachments, suggest-
 ing some form of podocyte injury. With reversal of the changes
 
 
-in the podocytes in response to corticosteroids, the proteinuria
+in the **podocytes** in response to corticosteroids, the **proteinuria**
 
 
 remits.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The disease typically manifests with abrupt development of
 
 
-the nephrotic syndrome in an otherwise healthy child. There
+the **nephrotic syndrome** in an otherwise healthy child. There
 
 
-is no hypertension, and renal function is preserved in most
+is no **hypertension**, and renal function is preserved in most
 
 
 of these patients. The protein loss usually is confined to
@@ -1742,13 +1720,13 @@ uria). The prognosis for children with this disorder is
 favorable. More than 90% of children respond to a short
 
 
-course of corticosteroid therapy; however, proteinuria
+course of corticosteroid therapy; however, **proteinuria**
 
 
 recurs in more than two-thirds of the initial responders,
 
 
-some of whom become steroid-dependent with proteinuria
+some of whom become steroid-dependent with **proteinuria**
 
 
 recurring when steroids are withdrawn. Less than 5%
@@ -1763,10 +1741,8 @@ likely that most individuals in this subgroup had nephrotic
 syndrome caused by focal segmental glomerulosclerosis
 
 
-# Chapter 14: Kidney and Its Collecting System
 
-
-**Table 14.2** Summary of Major Primary Glomerular Diseases
+****Table 14**.2** Summary of Major Primary Glomerular Diseases
 
 
 *Disease*
@@ -1781,9 +1757,7 @@ syndrome caused by focal segmental glomerulosclerosis
 *Presentation*
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 *Light Microscopy*
 
 
@@ -1805,7 +1779,7 @@ syndrome caused by focal segmental glomerulosclerosis
 *Minimal-change disease*
 
 
-*Nephrotic syndrome*
+***Nephrotic syndrome***
 
 
 Unknown; podocyte
@@ -1826,13 +1800,13 @@ injury
 glomerulosclerosis
 
 
-Nephrotic syndrome;
+**Nephrotic syndrome**;
 
 
 nonnephrotic range
 
 
-proteinuria
+**proteinuria**
 
 
 Unknown: reaction to
@@ -1889,13 +1863,13 @@ epithelial
 denudation
 
 
-*Membranous*
+***Membranous***
 
 
 nephropathy
 
 
-*Nephrotic syndrome*
+***Nephrotic syndrome***
 
 
 *In situ immune*
@@ -1928,7 +1902,7 @@ formation
 *Granular IgG and*
 
 
-*C3 along GBM*
+*C3 along **GBM***
 
 
 *Subepithelial*
@@ -1940,7 +1914,7 @@ deposits
 *Membranoproliferative*
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
 (MPGN) type I
@@ -1949,7 +1923,7 @@ glomerulonephritis
 Nephrotic/nephritic
 
 
-*Immune complex*
+***Immune complex***
 
 
 syndrome
@@ -1958,7 +1932,7 @@ syndrome
 *Membranoproliferative*
 
 
-pattern; GBM splitting
+pattern; **GBM** splitting
 
 
 Granular IgG, C3,
@@ -1967,7 +1941,7 @@ Granular IgG, C3,
 *C1q and C4*
 
 
-along GBM and
+along **GBM** and
 
 
 mesangium
@@ -1988,7 +1962,7 @@ deposits
 disease and C3
 
 
-glomerulonephritis)
+**glomerulonephritis**)
 
 
 Nephrotic/nephritic
@@ -2000,7 +1974,7 @@ syndrome;
 nonnephrotic
 
 
-proteinuria
+**proteinuria**
 
 
 *Activation of*
@@ -2009,10 +1983,10 @@ proteinuria
 alternative
 
 
-complement
+**complement**
 
 
-pathway; antibody-
+pathway; **antibody**-
 
 
 mediated or
@@ -2024,13 +1998,13 @@ hereditary defect in
 regulation
 
 
-*Mesangial proliferative*
+***Mesangial** proliferative*
 
 
 *C3*
 
 
-Mesangial,
+**Mesangial**,
 
 
 or
@@ -2045,16 +2019,16 @@ patterns
 *Acute postinfectious*
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
-*IgA nephropathy*
+***IgA** nephropathy*
 
 
-*Nephritic syndrome*
+***Nephritic syndrome***
 
 
-*Immune complex*
+***Immune complex***
 
 
 *Diffuse endocapillary*
@@ -2072,19 +2046,19 @@ proliferation;
 leukocytic infiltration
 
 
-*Recurrent hematuria*
+*Recurrent **hematuria***
 
 
-or proteinuria
+or **proteinuria**
 
 
 *Immune complexes*
 
 
-containing IgA
+containing **IgA**
 
 
-*Mesangial or focal*
+***Mesangial** or focal*
 
 
 endocapillary
@@ -2093,34 +2067,34 @@ endocapillary
 proliferative
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
-Anti-GBM disease (e.g.
+Anti-**GBM** disease (e.g.
 
 
 *Rapidly progressive*
 
 
-*Goodpasture*
+***Goodpasture***
 
 
 syndrome)
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
 *Pauci-immune*
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
 *Rapidly progressive*
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
 *Autoantibodies against*
@@ -2147,7 +2121,7 @@ crescents; necrosis
 cytoplasmic
 
 
-antibody
+**antibody**
 
 
 *Extracapillary*
@@ -2159,7 +2133,7 @@ proliferation with
 crescents; necrosis
 
 
-GBM, Glomerular basement membrane; IgA, immunoglobulin A; IgG, immunoglobulin G; IgM, immunoglobulin M.
+**GBM**, Glomerular **basement membrane**; **IgA**, immunoglobulin A; IgG, immunoglobulin G; IgM, immunoglobulin M.
 
 
 intramembranous
@@ -2183,7 +2157,7 @@ deposits
 *Granular IgG and*
 
 
-*C3 along GBM*
+*C3 along **GBM***
 
 
 and mesangium
@@ -2198,7 +2172,7 @@ subepithelial
 humps
 
 
-IgA ± IgG, IgM,
+**IgA** ± IgG, IgM,
 
 
 and C3 in
@@ -2207,7 +2181,7 @@ and C3 in
 mesangium
 
 
-*Mesangial and*
+***Mesangial** and*
 
 
 paramesangial
@@ -2231,13 +2205,13 @@ crescents
 crescents
 
 
-No deposits; GBM
+No deposits; **GBM**
 
 
 disruptions; fibrin
 
 
-No deposits; GBM
+No deposits; **GBM**
 
 
 disruptions; fibrin
@@ -2249,7 +2223,7 @@ not detected by biopsy. Because of its responsiveness to
 therapy in children, minimal-change disease must be dif-
 
 
-ferentiated from other causes of the nephrotic syndrome in
+ferentiated from other causes of the **nephrotic syndrome** in
 
 
 nonresponders. Adults with this disease also respond to
@@ -2291,7 +2265,7 @@ decreasing with improved antiviral therapy.
 • Heroin abuse (heroin nephropathy)
 
 
-• Secondary to other forms of GN (e.g., IgA nephropathy)
+• Secondary to other forms of GN (e.g., **IgA** nephropathy)
 
 
 • As a maladaptation to nephron loss (as discussed earlier)
@@ -2306,25 +2280,23 @@ associated with mutations in cytoskeletal proteins and
 podocin, both of which are required for the integrity of
 
 
-podocytes.
+**podocytes**.
 
 
 Primary FSGS accounts for approximately 20% to 30%
 
 
-of all cases of the nephrotic syndrome. It is an increasingly
+of all cases of the **nephrotic syndrome**. It is an increasingly
 
 
-common cause of nephrotic syndrome in adults and
+common cause of **nephrotic syndrome** in adults and
 
 
 remains a frequent cause in children.
 
 
-*Pathogenesis*
-
-
-Injury to podocytes is thought to represent the initiat-
+### Pathogenesis
+Injury to **podocytes** is thought to represent the initiat-
 
 
 ing event of primary FSGS. However, what causes this
@@ -2348,7 +2320,7 @@ clinicopathologic entities from the outset. As with minimal-
 change disease, permeability-increasing factors produced
 
 
-**Table 14.3** Causes of Nephrotic Syndrome
+****Table 14**.3** Causes of **Nephrotic Syndrome**
 
 
 *Cause*
@@ -2366,16 +2338,16 @@ Primary Glomerular Disease
 glomerulosclerosis
 
 
-*Membranous nephropathy*
+***Membranous** nephropathy*
 
 
 *Membranoproliferative*
 
 
-glomerulonephritis
+**glomerulonephritis**
 
 
-IgA nephropathy and others
+**IgA** nephropathy and others
 
 
 Prevalence (%)*
@@ -2390,10 +2362,10 @@ Prevalence (%)*
 Systemic Diseases With Renal Manifestations
 
 
-*Diabetes mellitus*
+***Diabetes** mellitus*
 
 
-*Amyloidosis*
+***Amyloidosis***
 
 
 Systemic lupus erythematosus
@@ -2432,7 +2404,7 @@ deposition of hyaline in the glomeruli is caused by the
 entrapment of plasma proteins and lipids in foci of injury
 
 
-where sclerosis develops. The recurrence of proteinuria in
+where sclerosis develops. The recurrence of **proteinuria** in
 
 
 patients underoing renal transplantion for FSGS, some-
@@ -2459,10 +2431,10 @@ With progression, eventually all levels of the cortex are affected.
 The lesions occur in some tufts within a glomerulus while sparing
 
 
-others (Fig. 14.6). The affected glomeruli exhibit increased
+others (**Fig. 14**.6). The affected glomeruli exhibit increased
 
 
-mesangial matrix, obliterated capillary lumina, deposi-
+**mesangial** matrix, obliterated capillary lumina, deposi-
 
 
 tion of hyaline (hyalinosis) and foamy (lipid-laden) mac-
@@ -2474,10 +2446,10 @@ rophages. In affected glomeruli, immunofluorescence microscopy
 often reveals nonspecific trapping of immunoglobulins, usually
 
 
-IgM, and complement in the areas of hyalinosis. On electron
+IgM, and **complement** in the areas of hyalinosis. On electron
 
 
-microscopy, the podocytes exhibit effacement of foot pro-
+microscopy, the **podocytes** exhibit effacement of foot pro-
 
 
 cesses, as in minimal-change disease.
@@ -2486,7 +2458,7 @@ cesses, as in minimal-change disease.
 With time, progression leads to global sclerosis of the glom-
 
 
-eruli, pronounced tubular atrophy, and interstitial fibrosis. This
+eruli, pronounced tubular atrophy, and interstitial **fibrosis**. This
 
 
 advanced picture is difficult to differentiate from other forms of
@@ -2513,9 +2485,7 @@ toxicities, and some microvascular injuries. It carries a particu-
 larly poor prognosis.
 
 
-*Glomerular Diseases*
-
-
+## Glomerular Diseases
 *Clinical Course*
 
 
@@ -2528,10 +2498,10 @@ disease, because the clinical courses and responses to
 therapy are markedly different. Both are associated with
 
 
-nephrotic syndrome, but the incidence of hematuria and
+**nephrotic syndrome**, but the incidence of **hematuria** and
 
 
-hypertension is higher in individuals with FSGS. Also,
+**hypertension** is higher in individuals with FSGS. Also,
 
 
 unlike minimal change disease, FSGS-associated protein-
@@ -2549,16 +2519,14 @@ FSGS develop end-stage renal disease within 10 years of
 diagnosis.
 
 
-*Membranous Nephropathy*
-
-
-Membranous nephropathy is characterized by subepithe-
+## **Membranous** Nephropathy
+**Membranous** nephropathy is characterized by subepithe-
 
 
 lial immunoglobulin-containing deposits along the
 
 
-GBM. Early in the disease, the glomeruli may appear
+**GBM**. Early in the disease, the glomeruli may appear
 
 
 normal by light microscopy, but well-developed cases
@@ -2573,7 +2541,7 @@ sents in adults between the ages of 30 and 60 years and
 follows an indolent and slowly progressive course.
 
 
-Up to 80% of cases of membranous nephropathy are
+Up to 80% of cases of **membranous** nephropathy are
 
 
 primary, caused by autoantibodies against podocyte
@@ -2594,19 +2562,17 @@ basement
 membrane
 
 
-Fig. 14.5 Minimal-change disease. (A) When viewed with a light microscope,
+**Fig. 14**.5 Minimal-change disease. (A) When viewed with a light microscope,
 
 
 the silver methenamine–stained glomerulus appears normal, with a delicate
 
 
-basement membrane. (B) Schematic diagram illustrating diffuse effacement
+**basement membrane**. (B) Schematic diagram illustrating diffuse effacement
 
 
-of foot processes of podocytes with no immune deposits.
+of foot processes of **podocytes** with no immune deposits.
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 matrix leads to progressive thickening of basement membranes.
@@ -2621,28 +2587,26 @@ Immunofluorescence microscopy shows
 typical granular
 
 
-deposits of immunoglobulins and complement along the GBM
+deposits of immunoglobulins and **complement** along the **GBM**
 
 
-(see Fig. 14.4A).
+(see **Fig. 14**.4A).
 
 
-*Clinical Features*
+### Clinical Features
+Most cases of **membranous** nephropathy are sudden in
 
 
-Most cases of membranous nephropathy are sudden in
-
-
-onset and present as full-blown nephrotic syndrome, usually
+onset and present as full-blown **nephrotic syndrome**, usually
 
 
 without antecedent illness; other individuals have lesser
 
 
-degrees of proteinuria. In contrast to minimal-change
+degrees of **proteinuria**. In contrast to minimal-change
 
 
-disease, the proteinuria is nonselective, and usually fails to
+disease, the **proteinuria** is nonselective, and usually fails to
 
 
 respond to corticosteroid therapy. Secondary causes of
@@ -2672,22 +2636,22 @@ deposits
 "Spikes"
 
 
-Fig. 14.7 Membranous nephropathy. (A) Diffuse thickening of the glomeru-
+**Fig. 14**.7 **Membranous** nephropathy. (A) Diffuse thickening of the glomeru-
 
 
-lar basement membrane (periodic acid–Schiff stain). (B) Schematic diagram
+lar **basement membrane** (periodic acid–Schiff stain). (B) Schematic diagram
 
 
 illustrating subepithelial deposits, effacement of foot processes, and the pres-
 
 
-ence of spikes of basement membrane material between the immune
+ence of spikes of **basement membrane** material between the immune
 
 
 deposits.
 
 
-Fig. 14.6 Focal and segmental glomerulosclerosis (periodic acid–Schiff
+**Fig. 14**.6 Focal and segmental glomerulosclerosis (periodic acid–Schiff
 
 
 stain), seen as a collection of scarred, obliterated capillaries and accumula-
@@ -2747,13 +2711,11 @@ lupus
 inflammatory agents)
 
 
-*Pathogenesis*
+### Pathogenesis
+**Membranous** nephropathy is a form of chronic immune
 
 
-Membranous nephropathy is a form of chronic immune
-
-
-complex glomerulonephritis induced by antibodies react-
+complex **glomerulonephritis** induced by antibodies react-
 
 
 ing in situ to endogenous or planted glomerular antigens.
@@ -2768,49 +2730,49 @@ receptor (PLA2R) are frequently present but it is not estab-
 lished that they are causative. Formation of subepithelial
 
 
-immune deposits leads to complement activation on the
+immune deposits leads to **complement** activation on the
 
 
-surface of podocytes and generates the membrane attack
+surface of **podocytes** and generates the membrane attack
 
 
 complex (C5-C9). This in turn causes podocyte injury and
 
 
-proteinuria.
+**proteinuria**.
 
 
 *MORPH OLOGY*
 
 
-The main histologic feature of membranous nephropathy is
+The main histologic feature of **membranous** nephropathy is
 
 
 diffuse thickening of the capillary wall on routine H&E
 
 
-stains (Fig. 14.7A). Electron microscopy reveals that this apparent
+stains (**Fig. 14**.7A). Electron microscopy reveals that this apparent
 
 
 thickening is caused in part by subepithelial deposits, which
 
 
-nestle against the GBM and are separated from each other by
+nestle against the **GBM** and are separated from each other by
 
 
-small, spikelike protrusions of GBM matrix that form in reaction
+small, spikelike protrusions of **GBM** matrix that form in reaction
 
 
-to the deposits (spike and dome pattern) (see Fig. 14.7B). As
+to the deposits (spike and dome pattern) (see **Fig. 14**.7B). As
 
 
 the disease progresses, these spikes close over the deposits,
 
 
-incorporating them into the GBM. In addition, as in other causes
+incorporating them into the **GBM**. In addition, as in other causes
 
 
-of nephrotic syndrome, the podocytes show effacement of
+of **nephrotic syndrome**, the **podocytes** show effacement of
 
 
 foot processes. Later in the disease, the incorporated deposits
@@ -2819,49 +2781,47 @@ foot processes. Later in the disease, the incorporated deposits
 may be broken down and eventually disappear, leaving cavities
 
 
-within the GBM. Continued deposition of basement membrane
+within the **GBM**. Continued deposition of **basement membrane**
 
 
-*Glomerular Diseases*
-
-
-membranous nephropathy should be ruled out. Membra-
+## Glomerular Diseases
+**membranous** nephropathy should be ruled out. Membra-
 
 
 nous nephropathy follows a notoriously variable and often
 
 
-indolent course. Overall, although proteinuria persists in
+indolent course. Overall, although **proteinuria** persists in
 
 
 greater than 60% of patients, only about 40% progress to
 
 
-renal failure over a period of 2 to 20 years. An additional
+**renal failure** over a period of 2 to 20 years. An additional
 
 
 10% to 30% of cases have a more benign course with partial
 
 
-or complete remission of proteinuria.
+or complete remission of **proteinuria**.
 
 
-Membranoproliferative Glomerulonephritis
+Membranoproliferative **Glomerulonephritis**
 
 
 MPGN is manifested histologically by alterations in
 
 
-the GBM and mesangium and by proliferation of glo-
+the **GBM** and mesangium and by proliferation of glo-
 
 
 merular cells. It accounts for 5% to 10% of cases of idio-
 
 
-pathic nephrotic syndrome in children and adults. Some
+pathic **nephrotic syndrome** in children and adults. Some
 
 
-patients present only with hematuria or proteinuria in the
+patients present only with **hematuria** or **proteinuria** in the
 
 
 nonnephrotic range; others exhibit a combined nephrotic-
@@ -2891,16 +2851,14 @@ is far more common (about 80% of cases) and is discussed
 here. Dense deposit disease will be discussed later along
 
 
-with the related condition of C3 glomerulonephritis.
+with the related condition of C3 **glomerulonephritis**.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 Type I MPGN may be caused by deposition of circulating
 
 
-immune complexes or by in situ immune complex forma-
+immune complexes or by in situ **immune complex** forma-
 
 
 tion with a planted antigen. The inciting antigen is not
@@ -2909,19 +2867,17 @@ tion with a planted antigen. The inciting antigen is not
 known.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 By light microscopy the glomeruli are large, have an accentuated
 
 
-lobular appearance, and show proliferation of mesangial and
+lobular appearance, and show proliferation of **mesangial** and
 
 
 endothelial cells as well as infiltrating leukocytes (Fig.
 
 
-14.8A). The GBM is thickened, and the glomerular capillary wall
+14.8A). The **GBM** is thickened, and the glomerular capillary wall
 
 
 often shows a double contour, or “tram track,” appearance,
@@ -2930,16 +2886,16 @@ often shows a double contour, or “tram track,” appearance,
 especially evident with use of silver or periodic acid–Schiff (PAS)
 
 
-stains. This “splitting” of the GBM is due to extension of pro-
+stains. This “splitting” of the **GBM** is due to extension of pro-
 
 
-cesses of mesangial and inflammatory cells into the peripheral
+cesses of **mesangial** and inflammatory cells into the peripheral
 
 
-capillary loops and deposition of mesangial matrix as well as
+capillary loops and deposition of **mesangial** matrix as well as
 
 
-subepithelial immune complexes (see Fig. 14.8B). The character-
+subepithelial immune complexes (see **Fig. 14**.8B). The character-
 
 
 istic light microscopic glomerular manifestations are often
@@ -2951,31 +2907,29 @@ referred to as membranoproliferative pattern of glomerular injury.
 By electron microscopy, type I MPGN is characterized by
 
 
-discrete subendothelial deposits (see Fig. 14.8B). By immu-
+discrete subendothelial deposits (see **Fig. 14**.8B). By immu-
 
 
 nofluorescence microscopy, C3 is deposited in an irregular gran-
 
 
-ular pattern, and IgG and early complement components (C1q
+ular pattern, and IgG and early **complement** components (C1q
 
 
-and C4) also often are present, indicative of an immune complex
+and C4) also often are present, indicative of an **immune complex**
 
 
 pathogenesis.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The mode of presentation in approximately 50% of cases is
 
 
-the nephrotic syndrome, although it may begin as acute
+the **nephrotic syndrome**, although it may begin as acute
 
 
-nephritis or mild proteinuria. The prognosis generally is
+nephritis or mild **proteinuria**. The prognosis generally is
 
 
 poor. In one study, none of the 60 patients followed for 1
@@ -2984,7 +2938,7 @@ poor. In one study, none of the 60 patients followed for 1
 to 20 years showed complete remission; 40% progressed to
 
 
-end-stage renal failure, 30% had variable degrees of renal
+end-stage **renal failure**, 30% had variable degrees of renal
 
 
 insufficiency, and the remaining 30% had persistent
@@ -3002,7 +2956,7 @@ deposit
 *Interposed*
 
 
-mesangial
+**mesangial**
 
 
 cell process
@@ -3017,22 +2971,20 @@ deposit
 *Dense Deposit Disease*
 
 
-Fig. 14.8 (A) Membranoproliferative glomerulonephritis (MPGN), showing mesangial cell proliferation, basement membrane duplication, leukocyte infiltration,
+**Fig. 14**.8 (A) Membranoproliferative **glomerulonephritis** (MPGN), showing **mesangial** cell proliferation, **basement membrane** duplication, leukocyte infiltration,
 
 
 and accentuation of lobular architecture. (B) Schematic representation of the two patterns of MPGN. In type I, there are subendothelial deposits; in type II,
 
 
-now called dense deposit disease, intramembranous characteristically dense deposits are seen. In both types, mesangial interposition gives the appearance of
+now called dense deposit disease, intramembranous characteristically dense deposits are seen. In both types, **mesangial** interposition gives the appearance of
 
 
 split basement membranes when viewed by light microscopy.
 
 
-# Chapter 14: Kidney and Its Collecting System
 
-
-nephrotic syndrome without renal failure. MPGN type I
+**nephrotic syndrome** without **renal failure**. MPGN type I
 
 
 also may occur in association with other disorders (second-
@@ -3053,9 +3005,7 @@ believed to be associated with hepatitis C and related
 cryoglobulinemia.
 
 
-*C3 Glomerulopathy*
-
-
+## C3 Glomerulopathy
 The term C3 glomerulopathy encompasses two conditions,
 
 
@@ -3077,7 +3027,7 @@ apart by differences in the electron microscopic appear-
 ance. Patients may present with nephrotic or nephritic syn-
 
 
-drome, however, cases with only mild proteinuria also
+drome, however, cases with only mild **proteinuria** also
 
 
 occur. Patients with dense deposit disease are usually
@@ -3089,13 +3039,11 @@ younger and more likely to have low serum C3 levels than
 patients with C3 GN, although these distinctions are subtle.
 
 
-*Pathogenesis*
+### Pathogenesis
+**Complement** dysregulation due to acquired or hereditary
 
 
-Complement dysregulation due to acquired or hereditary
-
-
-abnormalities of the alternative pathway of complement
+abnormalities of the alternative pathway of **complement**
 
 
 activation is the underlying cause of dense deposit
@@ -3110,10 +3058,10 @@ against C3 convertase, called C3 nephritic factor (C3NeF),
 that causes uncontrolled cleavage of C3 by the alternative
 
 
-complement pathway. In other patients, mutations in
+**complement** pathway. In other patients, mutations in
 
 
-various complement regulatory proteins, such as Factor H,
+various **complement** regulatory proteins, such as Factor H,
 
 
 Factor I, and membrane cofactor protein (MCP), or auto-
@@ -3122,7 +3070,7 @@ Factor I, and membrane cofactor protein (MCP), or auto-
 antibodies to Factor H, are the cause of unregulated activa-
 
 
-tion of the alternative pathway of complement.
+tion of the alternative pathway of **complement**.
 
 
 *MORPH OLOGY*
@@ -3140,13 +3088,13 @@ microscopic presentation is similar to that seen in MPGN,
 type 1. The glomeruli are hypercellular, the capillary walls show
 
 
-duplicated basement membranes, and the mesangial matrix is
+duplicated basement membranes, and the **mesangial** matrix is
 
 
 increased. By immunofluorescence microscopy, there is bright
 
 
-mesangial and glomerular capillary wall staining for C3
+**mesangial** and glomerular capillary wall staining for C3
 
 
 in both dense deposit disease and C3 GN. In dense deposit
@@ -3158,7 +3106,7 @@ disease, C3 staining also may be seen along the tubular base-
 ment membranes. IgG and the early components of the classical
 
 
-complement pathway (C1q and C4) are usually absent in both
+**complement** pathway (C1q and C4) are usually absent in both
 
 
 conditions. By electron microscopy, C3 GN features mesan-
@@ -3173,7 +3121,7 @@ deposits also may be seen along the tubular basement mem-
 branes. By contrast, in the aptly named dense deposit disease,
 
 
-the lamina densa and the subendothelial space of the GBM are
+the lamina densa and the subendothelial space of the **GBM** are
 
 
 transformed into an irregular, ribbonlike, extremely electron-
@@ -3188,10 +3136,10 @@ material.
 dense deposit disease or C3 GN, 29% of patients progressed
 
 
-to end-stage renal failure after a median of 28 months.
+to end-stage **renal failure** after a median of 28 months.
 
 
-Acute Postinfectious (Poststreptococcal) Glomerulonephritis
+Acute Postinfectious (Poststreptococcal) **Glomerulonephritis**
 
 
 Acute postinfectious GN is caused by glomerular deposi-
@@ -3245,22 +3193,20 @@ the pharynx or skin. In rare cases, the disease can develop
 during the infection.
 
 
-*Pathogenesis*
+### Pathogenesis
+Poststreptococcal GN is an **immune complex** disease in
 
 
-Poststreptococcal GN is an immune complex disease in
-
-
-which tissue injury is primarily caused by complement
+which tissue injury is primarily caused by **complement**
 
 
 activation by the classical pathway. Typical features of
 
 
-immune complex disease, such as hypocomplementemia
+**immune complex** disease, such as hypocomplementemia
 
 
-and granular deposits of IgG and complement on the GBM,
+and granular deposits of IgG and **complement** on the **GBM**,
 
 
 are seen. The relevant antigens probably are streptococcal
@@ -3284,12 +3230,10 @@ It is not clear if immune complexes are formed mainly in
 the circulation or in situ (the latter by binding of antibodies
 
 
-to bacterial antigens “planted” in the GBM).
+to bacterial antigens “planted” in the **GBM**).
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 By light microscopy, the most characteristic change in postinfec-
 
 
@@ -3302,7 +3246,7 @@ affects nearly all glomeruli—hence the term diffuse GN (Fig.
 14.9A). The increased cellularity is caused both by proliferation
 
 
-and swelling of endothelial and mesangial cells and by infiltrating
+and swelling of endothelial and **mesangial** cells and by infiltrating
 
 
 neutrophils and monocytes. Sometimes there is necrosis of the
@@ -3320,19 +3264,19 @@ severe injury. Electron microscopy shows deposited immune
 complexes arrayed as subendothelial, intramembranous, or, most
 
 
-often, subepithelial “humps” nestled against the GBM (see
+often, subepithelial “humps” nestled against the **GBM** (see
 
 
-Fig. 14.9B). Mesangial deposits also are occasionally present.
+**Fig. 14**.9B). **Mesangial** deposits also are occasionally present.
 
 
 Immunofluorescence studies reveal scattered granular depos-
 
 
-its of IgG and complement within the capillary walls and
+its of IgG and **complement** within the capillary walls and
 
 
-some mesangial areas, corresponding to the deposits visualized
+some **mesangial** areas, corresponding to the deposits visualized
 
 
 by electron microscopy. These deposits usually are cleared over
@@ -3341,9 +3285,7 @@ by electron microscopy. These deposits usually are cleared over
 a period of about 2 months.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Both dense deposit disease and C3 GN carry a relatively
 
 
@@ -3353,21 +3295,17 @@ poor prognosis and both tend to recur posttransplantation
 at a rate of up to 85%. In a recent study of 70 patients with
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The most common clinical presentation is acute nephritic
 
 
-syndrome. Edema and hypertension are common, with mild
+syndrome. **Edema** and **hypertension** are common, with mild
 
 
-to moderate azotemia. Characteristically, there is gross
+to moderate **azotemia**. Characteristically, there is gross
 
 
-*Glomerular Diseases*
-
-
+## Glomerular Diseases
 *Ep*
 
 
@@ -3377,34 +3315,34 @@ to moderate azotemia. Characteristically, there is gross
 *CL*
 
 
-Fig. 14.9 Poststreptococcal glomerulonephritis. (A) Glomerular hypercellularity is caused by intracapillary leukocytes and proliferation of intrinsic glomerular
+**Fig. 14**.9 Poststreptococcal **glomerulonephritis**. (A) Glomerular hypercellularity is caused by intracapillary leukocytes and proliferation of intrinsic glomerular
 
 
 cells. Note the red blood cell casts in the tubules. (B) Typical electron-dense subepithelial “hump” (arrow) and intramembranous deposits. BM, Basement
 
 
-membrane; CL, capillary lumen; E, endothelial cell; Ep, visceral epithelial cells (podocytes).
+membrane; CL, capillary lumen; E, endothelial cell; Ep, visceral epithelial cells (**podocytes**).
 
 
-hematuria, the urine appearing smoky brown rather than
+**hematuria**, the urine appearing smoky brown rather than
 
 
 bright red due to oxidation of hemoglobin to methemoglo-
 
 
-bin. Some degree of proteinuria is a constant feature, and,
+bin. Some degree of **proteinuria** is a constant feature, and,
 
 
 as mentioned earlier, it occasionally may be severe enough
 
 
-to produce the nephrotic syndrome. Serum complement
+to produce the **nephrotic syndrome**. Serum **complement**
 
 
 levels are low during the active phase of the disease, and
 
 
-serum anti–streptolysin O antibody titers are elevated in
+serum anti–streptolysin O **antibody** titers are elevated in
 
 
 poststreptococcal cases.
@@ -3440,13 +3378,11 @@ cases of acute postinfectious GN, the progression to chro-
 nicity is much lower.
 
 
-*IgA Nephropathy*
+## **IgA** Nephropathy
+**IgA** nephropathy is one of the most common causes of
 
 
-IgA nephropathy is one of the most common causes of
-
-
-recurrent microscopic or gross hematuria and is the most
+recurrent microscopic or gross **hematuria** and is the most
 
 
 common glomerular disease revealed by renal biopsy
@@ -3455,13 +3391,13 @@ common glomerular disease revealed by renal biopsy
 worldwide. This condition usually affects children and
 
 
-young adults and begins as an episode of gross hematuria
+young adults and begins as an episode of gross **hematuria**
 
 
 that occurs within 1 or 2 days of a nonspecific upper-
 
 
-respiratory tract infection. Typically, the hematuria lasts
+respiratory tract infection. Typically, the **hematuria** lasts
 
 
 several days and then subsides, but it recurs periodically,
@@ -3473,19 +3409,19 @@ usually in the setting of a viral infection. It may be associ-
 ated with local pain.
 
 
-The hallmark of the disease is the deposition of IgA
+The hallmark of the disease is the deposition of **IgA**
 
 
-in the mesangium. Some experts have considered IgA
+in the mesangium. Some experts have considered **IgA**
 
 
 nephropathy to be a localized variant of Henoch-Schönlein
 
 
-purpura, also characterized by IgA deposition in the mesan-
+purpura, also characterized by **IgA** deposition in the mesan-
 
 
-gium. In contrast with IgA nephropathy, which is confined
+gium. In contrast with **IgA** nephropathy, which is confined
 
 
 to the kidney, Henoch-Schönlein purpura is a systemic syn-
@@ -3497,22 +3433,20 @@ drome also involving the skin (purpuric rash), gastro-
 intestinal tract (abdominal pain), and joints (arthritis).
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 An abnormally glycosylated IgA1 (i.e., galactose-defi-
 
 
 cient IgA1 [Gd-IgA1]) immunoglobulin is thought to
 
 
-play a central role in the pathogenesis. This abnormal IgA
+play a central role in the pathogenesis. This abnormal **IgA**
 
 
 may elicit an autoimmune response, and autoantibodies
 
 
-may form large immune complexes with circulating IgA.
+may form large immune complexes with circulating **IgA**.
 
 
 These complexes deposit in the glomerular mesangium;
@@ -3521,28 +3455,28 @@ These complexes deposit in the glomerular mesangium;
 this unusual location may be related to physicochemi-
 
 
-cal features of the IgA and may be facilitated by an IgA1
+cal features of the **IgA** and may be facilitated by an IgA1
 
 
-receptor (CD71) on mesangial cells. The presence of C3
+receptor (CD71) on **mesangial** cells. The presence of C3
 
 
 in the mesangium and the absence of C1q and C4 points
 
 
-to activation of the alternative complement pathway in
+to activation of the alternative **complement** pathway in
 
 
 the pathogenesis. A genetic influence is suggested by the
 
 
-occurrence of IgA nephropathy in families and in HLA-
+occurrence of **IgA** nephropathy in families and in HLA-
 
 
 identical siblings, and increased frequency of certain HLA
 
 
-and complement genotypes in some populations. Taken
+and **complement** genotypes in some populations. Taken
 
 
 together, these data suggest that in genetically susceptible
@@ -3554,22 +3488,22 @@ individuals, respiratory or gastrointestinal exposure to
 microbial or other antigens (e.g., viruses, bacteria, food
 
 
-proteins) may lead to increased IgA synthesis, some of
+proteins) may lead to increased **IgA** synthesis, some of
 
 
-which is abnormally glycosylated, and deposition of IgA
+which is abnormally glycosylated, and deposition of **IgA**
 
 
-and IgA-containing immune complexes in the mesangium,
+and **IgA**-containing immune complexes in the mesangium,
 
 
-where they activate the alternative complement pathway
+where they activate the alternative **complement** pathway
 
 
 and initiate glomerular injury. In support of this scenario,
 
 
-IgA nephropathy occurs with increased frequency in indi-
+**IgA** nephropathy occurs with increased frequency in indi-
 
 
 viduals with celiac disease, in whom intestinal mucosal
@@ -3578,25 +3512,21 @@ viduals with celiac disease, in whom intestinal mucosal
 defects are seen, and in liver disease, in which there is
 
 
-defective hepatobiliary clearance of IgA complexes (second-
+defective hepatobiliary clearance of **IgA** complexes (second-
 
 
-ary IgA nephropathy).
+ary **IgA** nephropathy).
 
 
-*MORPHOL OG Y*
+### Morphology
+Histologically, the lesions in **IgA** nephropathy vary considerably.
 
 
-Histologically, the lesions in IgA nephropathy vary considerably.
-
-
-The glomeruli may be normal or may show mesangial widening
+The glomeruli may be normal or may show **mesangial** widening
 
 
 and segmental inflammation confined to some glomeruli (focal
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 This form of type IV collagen is crucial for normal function
@@ -3611,9 +3541,7 @@ the α chains results in defective heterotrimer assembly and,
 consequently, the manifestations of Alport syndrome.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 On histologic examination, glomeruli in hereditary nephritis
 
 
@@ -3623,10 +3551,10 @@ appear unremarkable until late in the course. With progression,
 increasing glomerulosclerosis, vascular sclerosis, tubular atrophy,
 
 
-and interstitial fibrosis are typical changes. Under the electron
+and interstitial **fibrosis** are typical changes. Under the electron
 
 
-microscope, the GBM is thin and attenuated early in the course,
+microscope, the **GBM** is thin and attenuated early in the course,
 
 
 but over time develops irregular foci of thickening or attenuation
@@ -3647,9 +3575,7 @@ ment membranes is the only morphologic finding in thin base-
 ment membrane disease.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The majority of Alport syndrome patients have X-linked
 
 
@@ -3677,10 +3603,10 @@ encode α3 or α4 type IV collagen. Individuals with heredi-
 tary nephritis present at 5 to 20 years of age with gross or
 
 
-microscopic hematuria and proteinuria, and progress to overt
+microscopic **hematuria** and **proteinuria**, and progress to overt
 
 
-renal failure by the ages of 20 to 50 years. Female carriers
+**renal failure** by the ages of 20 to 50 years. Female carriers
 
 
 of X-linked Alport syndrome or carriers of either gender of
@@ -3689,7 +3615,7 @@ of X-linked Alport syndrome or carriers of either gender of
 the autosomal forms usually present with persistent
 
 
-asymptomatic hematuria and follow a benign nonprogres-
+asymptomatic **hematuria** and follow a benign nonprogres-
 
 
 sive clinical course. Heterozygous mutations in the genes
@@ -3698,13 +3624,13 @@ sive clinical course. Heterozygous mutations in the genes
 encoding the α3 and α4 chains of type IV collagen are
 
 
-found in 40% of patients with thin basement membrane
+found in 40% of patients with thin **basement membrane**
 
 
 disease.
 
 
-Rapidly Progressive Glomerulonephritis
+Rapidly Progressive **Glomerulonephritis**
 
 
 RPGN is characterized by the presence of crescents (cres-
@@ -3722,19 +3648,17 @@ etiologic form of GN. RPGN is characterized by rapid loss
 of renal function, laboratory findings typical of the nephritic
 
 
-syndrome, and often severe oliguria. If untreated, it can
+syndrome, and often severe **oliguria**. If untreated, it can
 
 
-rapidly lead to renal failure within a period of weeks to
+rapidly lead to **renal failure** within a period of weeks to
 
 
 months.
 
 
-*Pathogenesis*
-
-
-Crescentic GN may be caused by a number of different
+### Pathogenesis
+**Crescentic** GN may be caused by a number of different
 
 
 diseases, some restricted to the kidney and others systemic.
@@ -3746,16 +3670,16 @@ RPGN may be associated with a number of diseases, as
 follows:
 
 
-• Anti-GBM antibody–mediated crescentic GN (Goodpasture
+• Anti-**GBM** **antibody**–mediated **crescentic** GN (**Goodpasture**
 
 
 disease) is characterized by linear deposits of IgG and,
 
 
-in many cases, C3 in the GBM. In some patients, the
+in many cases, C3 in the **GBM**. In some patients, the
 
 
-anti-GBM antibodies also bind to pulmonary alveolar
+anti-**GBM** antibodies also bind to pulmonary alveolar
 
 
 capillary basement membranes to produce the clinical
@@ -3764,25 +3688,25 @@ capillary basement membranes to produce the clinical
 picture of pulmonary hemorrhages associated with
 
 
-Fig. 14.10 IgA nephropathy. Characteristic immunofluorescence deposition
+**Fig. 14**.10 **IgA** nephropathy. Characteristic immunofluorescence deposition
 
 
-of IgA, principally in mesangial regions, is evident. IgA, Immunoglobulin A.
+of **IgA**, principally in **mesangial** regions, is evident. **IgA**, Immunoglobulin A.
 
 
-proliferative GN); diffuse mesangial proliferation (mesangiopro-
+proliferative GN); diffuse **mesangial** proliferation (mesangiopro-
 
 
-liferative GN); or (rarely) overt crescentic GN. The characteristic
+liferative GN); or (rarely) overt **crescentic** GN. The characteristic
 
 
-immunofluorescence picture is of mesangial deposition of
+immunofluorescence picture is of **mesangial** deposition of
 
 
-IgA, often with C3 and properdin and smaller amounts of IgG
+**IgA**, often with C3 and properdin and smaller amounts of IgG
 
 
-or IgM (Fig. 14.10). Early components of the classical complement
+or IgM (**Fig. 14**.10). Early components of the classical **complement**
 
 
 pathway usually are absent. Electron microscopy confirms the
@@ -3791,28 +3715,26 @@ pathway usually are absent. Electron microscopy confirms the
 presence of electron-dense deposits in the mesangium.
 
 
-*Clinical Features*
-
-
-IgA nephropathy most often affects children and young
+### Clinical Features
+**IgA** nephropathy most often affects children and young
 
 
 adults. More than half of those affected present with gross
 
 
-hematuria after an infection of the respiratory or, less com-
+**hematuria** after an infection of the respiratory or, less com-
 
 
 monly, gastrointestinal or urinary tract; 30% to 40% have
 
 
-only microscopic hematuria, with or without proteinuria,
+only microscopic **hematuria**, with or without **proteinuria**,
 
 
-and 5% to 10% develop a typical acute nephritic syndrome.
+and 5% to 10% develop a typical acute **nephritic syndrome**.
 
 
-The hematuria typically lasts for several days and initially
+The **hematuria** typically lasts for several days and initially
 
 
 subsides, but then recurs periodically, usually in the setting
@@ -3833,13 +3755,13 @@ progression to end-stage renal disease occurs in 25% to
 ings may help identify those with a poorer prognosis, as
 
 
-indicated by diffuse mesangial proliferation, segmental
+indicated by diffuse **mesangial** proliferation, segmental
 
 
 sclerosis, endocapillary proliferation, or tubulointerstitial
 
 
-fibrosis.
+**fibrosis**.
 
 
 *Hereditary Nephritis*
@@ -3848,13 +3770,13 @@ fibrosis.
 Hereditary nephritis refers to a group of glomerular dis-
 
 
-eases caused by mutations in genes encoding GBM pro-
+eases caused by mutations in genes encoding **GBM** pro-
 
 
 teins. The most common of these rare diseases are Alport
 
 
-syndrome and thin basement membrane disease. In Alport syn-
+syndrome and thin **basement membrane** disease. In Alport syn-
 
 
 drome, nephritis is accompanied by sensorineural deafness
@@ -3869,28 +3791,26 @@ terior cataracts, and corneal dystrophy. Thin basement
 membrane disease is the most common cause of benign
 
 
-familial hematuria with no systemic manifestations.
+familial **hematuria** with no systemic manifestations.
 
 
-*Pathogenesis*
-
-
-The GBM is composed largely of type IV collagen, which is
+### Pathogenesis
+The **GBM** is composed largely of type IV collagen, which is
 
 
 made up of heterotrimers of α3, α4, and α5 type IV collagen.
 
 
-renal failure. These patients are said to have Goodpasture
+**renal failure**. These patients are said to have **Goodpasture**
 
 
-syndrome. Anti-GBM antibodies are present in the serum
+syndrome. Anti-**GBM** antibodies are present in the serum
 
 
 and are helpful in diagnosis. It is important to recognize
 
 
-anti-GBM antibody–mediated crescentic GN, because
+anti-**GBM** **antibody**–mediated **crescentic** GN, because
 
 
 affected individuals benefit from plasmapheresis, which
@@ -3899,13 +3819,13 @@ affected individuals benefit from plasmapheresis, which
 removes pathogenic antibodies from the circulation.
 
 
-• Immune complex–mediated crescentic GN may complicate
+• **Immune complex**–mediated **crescentic** GN may complicate
 
 
-any of the immune complex nephritides, including post-
+any of the **immune complex** nephritides, including post-
 
 
-streptococcal GN, systemic lupus erythematosus, IgA
+streptococcal GN, systemic lupus erythematosus, **IgA**
 
 
 nephropathy, and Henoch-Schönlein purpura. In other
@@ -3926,10 +3846,10 @@ kocytes within the glomerular tuft, in addition to cres-
 cent formation. A consistent finding is the characteristic
 
 
-granular pattern of staining of the GBM and/or mesan-
+granular pattern of staining of the **GBM** and/or mesan-
 
 
-gium for immunoglobulin and/or complement on
+gium for immunoglobulin and/or **complement** on
 
 
 immunofluorescence studies. This disorder usually
@@ -3938,10 +3858,10 @@ immunofluorescence studies. This disorder usually
 does not respond to plasmapheresis.
 
 
-• Pauci-immune type crescentic GN is defined by the lack of
+• Pauci-immune type **crescentic** GN is defined by the lack of
 
 
-anti-GBM antibodies or significant immune complex
+anti-**GBM** antibodies or significant **immune complex**
 
 
 deposition. Anti-neutrophil cytoplasmic antibodies
@@ -3953,7 +3873,7 @@ deposition. Anti-neutrophil cytoplasmic antibodies
 discussed in Chapter 10, have a pathogenic role in some
 
 
-vasculitides. In some instances, therefore, crescentic GN
+vasculitides. In some instances, therefore, **crescentic** GN
 
 
 is a component of a systemic vasculitis such as micro-
@@ -3962,7 +3882,7 @@ is a component of a systemic vasculitis such as micro-
 scopic polyangiitis or granulomatosis with polyangiitis.
 
 
-In many cases, however, pauci-immune crescentic GN
+In many cases, however, pauci-immune **crescentic** GN
 
 
 is limited to the kidney.
@@ -3974,13 +3894,13 @@ is limited to the kidney.
 The light microscopic changes are similar although not identical
 
 
-in various forms of crescentic glomerulonephritis. The glomeruli
+in various forms of **crescentic** **glomerulonephritis**. The glomeruli
 
 
 show cellular proliferation outside the capillary loops, sometimes
 
 
-in association with segmental capillary necrosis, breaks in GBM,
+in association with segmental capillary necrosis, breaks in **GBM**,
 
 
 and deposition of fibrin in Bowman’s space. These distinctive
@@ -4004,46 +3924,46 @@ migration of monocytes/macrophages into Bowman’s space (Fig.
 be present. In addition to crescents, cellular proliferation also is
 
 
-seen within the capillary loops and/or in the mesangial areas in
+seen within the capillary loops and/or in the **mesangial** areas in
 
 
-cases with immune complex-mediated pathogenesis, such as
+cases with **immune complex**-mediated pathogenesis, such as
 
 
-postinfectious GN, lupus nephritis, or IgA nephropathy. In con-
+postinfectious GN, lupus nephritis, or **IgA** nephropathy. In con-
 
 
-trast, in cases with anti-GBM antibody–mediated or pauci-
+trast, in cases with anti-**GBM** **antibody**–mediated or pauci-
 
 
-immune crescentic GN, there is no endocapillary hypercellularity.
+immune **crescentic** GN, there is no endocapillary hypercellularity.
 
 
 Immunofluorescence studies reveal the characteristic strong
 
 
-linear staining with IgG and C3 along the GBM in anti-GBM
+linear staining with IgG and C3 along the **GBM** in anti-**GBM**
 
 
-antibody-mediated disease, a granular pattern of glomerular
+**antibody**-mediated disease, a granular pattern of glomerular
 
 
-staining in immune complex-mediated GN, while in pauci-immune
+staining in **immune complex**-mediated GN, while in pauci-immune
 
 
 GN the stains are negative. Electron microscopy shows electron-
 
 
-dense immune complex deposits within the glomeruli in immune
+dense **immune complex** deposits within the glomeruli in immune
 
 
 complex–mediated GN, but not in biopsies from those with
 
 
-anti-GBM and pauci-immune crescentic GN. Electron microscopy
+anti-**GBM** and pauci-immune **crescentic** GN. Electron microscopy
 
 
-may show distinct ruptures in the GBM, signifying severe
+may show distinct ruptures in the **GBM**, signifying severe
 
 
 glomerular injury that is characteristic of this form of GN. The
@@ -4058,19 +3978,15 @@ the glomeruli. In time, crescents may undergo scarring, and glo-
 merulosclerosis develops.
 
 
-*Glomerular Diseases*
-
-
-*Clinical Features*
-
-
+## Glomerular Diseases
+### Clinical Features
 The onset of RPGN is much like that of the nephritic syn-
 
 
-drome, except that the oliguria and azotemia are more pro-
+drome, except that the **oliguria** and **azotemia** are more pro-
 
 
-nounced. Proteinuria sometimes approaching the nephrotic
+nounced. **Proteinuria** sometimes approaching the nephrotic
 
 
 range may occur. Some affected individuals become anuric
@@ -4091,21 +4007,19 @@ than 80% of the glomeruli have a more favorable prognosis
 than those in whom the percentage of crescents is higher.
 
 
-Plasma exchange may be of benefit in those with anti-GBM
+Plasma exchange may be of benefit in those with anti-**GBM**
 
 
-antibody GN and in some cases of ANCA-related pauci-
+**antibody** GN and in some cases of ANCA-related pauci-
 
 
-immune crescentic GN.
+immune **crescentic** GN.
 
 
 *SU MMARY*
 
 
-*GLOMERULAR DISEASES*
-
-
+## GLOMERULAR DISEASES
 Diseases That Present Mostly With Nephrotic
 
 
@@ -4115,13 +4029,13 @@ Diseases That Present Mostly With Nephrotic
 • Minimal-change disease is the most frequent cause of nephrotic
 
 
-syndrome in children. It is manifested by proteinuria and efface-
+syndrome in children. It is manifested by **proteinuria** and efface-
 
 
 ment of glomerular
 
 
-foot processes without antibody
+foot processes without **antibody**
 
 
 deposits.
@@ -4133,7 +4047,7 @@ deposits.
 secondary (e.g., as a consequence of previous glomerulone-
 
 
-phritis, hypertension, or infection such as HIV). Glomeruli
+phritis, **hypertension**, or infection such as HIV). Glomeruli
 
 
 show focal and segmental obliteration of capillary lumina and
@@ -4142,22 +4056,22 @@ show focal and segmental obliteration of capillary lumina and
 loss of foot processes.
 
 
-• Membranous nephropathy is caused by an autoimmune response,
+• **Membranous** nephropathy is caused by an autoimmune response,
 
 
-most often directed against the PLA2R on podocytes. It is
+most often directed against the PLA2R on **podocytes**. It is
 
 
 characterized by granular subepithelial deposits of antibodies
 
 
-with GBM “spike” formation, thickening and loss of foot pro-
+with **GBM** “spike” formation, thickening and loss of foot pro-
 
 
 cesses but little or no inflammation.
 
 
-• Membranoproliferative glomerulonephritis type 1 is an immune
+• Membranoproliferative **glomerulonephritis** type 1 is an immune
 
 
 complex–mediated disease with immune deposits in the sub-
@@ -4166,37 +4080,33 @@ complex–mediated disease with immune deposits in the sub-
 endothelial location.
 
 
-Fig. 14.11 Crescentic glomerulonephritis (silver stain). Arrows indicate
+**Fig. 14**.11 **Crescentic** **glomerulonephritis** (silver stain). Arrows indicate
 
 
 areas of necrosis and crescent formation. The segmental distribution in this
 
 
-case is typical of ANCA (anti-neutrophil cytoplasmic antibody)–associated
+case is typical of ANCA (anti-neutrophil cytoplasmic **antibody**)–associated
 
 
-crescentic glomerulonephritis.
+**crescentic** **glomerulonephritis**.
 
 
-# Chapter 14: Kidney and Its Collecting System
+
+• Dense deposit disease and C3 **glomerulonephritis** are caused by
 
 
-• Dense deposit disease and C3 glomerulonephritis are caused by
-
-
-unregulated activation of the alternative complement pathway.
+unregulated activation of the alternative **complement** pathway.
 
 
 Immunofluorescence is positive for C3 in both conditions.
 
 
-Glomerulonephritis That Presents With
+**Glomerulonephritis** That Presents With
 
 
-*Nephritic Syndrome*
-
-
-• Acute postinfectious glomerulonephritis typically occurs after
+### **Nephritic Syndrome**
+• Acute postinfectious **glomerulonephritis** typically occurs after
 
 
 streptococcal infection in children and young adults but may
@@ -4217,16 +4127,16 @@ tion of glomerular cells.
 Diseases That Present Mostly With
 
 
-*Asymptomatic Hematuria*
+*Asymptomatic **Hematuria***
 
 
-• IgA nephropathy, characterized by mesangial deposits of IgA-
+• **IgA** nephropathy, characterized by **mesangial** deposits of **IgA**-
 
 
 containing immune complexes, is the most common form of
 
 
-glomerulonephritis worldwide. Recurrent asymptomatic hema-
+**glomerulonephritis** worldwide. Recurrent asymptomatic hema-
 
 
 turia is the most common clinical presentation. It commonly
@@ -4238,22 +4148,22 @@ affects children and young adults and has a variable course.
 • Hereditary nephritis (Alport syndrome) is caused by mutations in
 
 
-genes encoding GBM collagen. It manifests as hematuria and
+genes encoding **GBM** collagen. It manifests as **hematuria** and
 
 
-slowly progressing proteinuria and declining renal function.
+slowly progressing **proteinuria** and declining renal function.
 
 
-Thin basement membrane disease is also caused by mutations
+Thin **basement membrane** disease is also caused by mutations
 
 
-encoding the GBM collagen, however, unlike Alport syndrome,
+encoding the **GBM** collagen, however, unlike Alport syndrome,
 
 
 this is usually a benign nonprogressive disorder.
 
 
-Rapidly Progressive Glomerulonephritis
+Rapidly Progressive **Glomerulonephritis**
 
 
 • RPGN is a clinical entity with features of the nephritic syn-
@@ -4265,16 +4175,16 @@ drome and rapid loss of renal function.
 • It is commonly associated with severe glomerular injury with
 
 
-necrosis and GBM breaks and subsequent proliferation of
+necrosis and **GBM** breaks and subsequent proliferation of
 
 
 parietal epithelium (crescents).
 
 
-• RPGN may be mediated by autoantibodies to the GBM (anti-
+• RPGN may be mediated by autoantibodies to the **GBM** (anti-
 
 
-GBM antibody disease), by immune complex deposition, or it
+**GBM** **antibody** disease), by **immune complex** deposition, or it
 
 
 can be pauci-immune often associated with anti-neutrophil
@@ -4361,9 +4271,7 @@ tis followed by consideration of other forms of interstitial
 nephritis.
 
 
-*Acute Pyelonephritis*
-
-
+## Acute Pyelonephritis
 Acute pyelonephritis, a common suppurative inflamma-
 
 
@@ -4394,9 +4302,7 @@ most infections of the lower urinary tract remain localized
 and do not spread to the kidney.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 The principal causative organisms in acute pyelonephri-
 
 
@@ -4433,7 +4339,7 @@ Bacteria can reach the kidneys from the lower urinary
 tract (ascending infection) or through the bloodstream
 
 
-(hematogenous infection) (Fig. 14.12). Ascending infection
+(hematogenous infection) (**Fig. 14**.12). Ascending infection
 
 
 from the lower urinary tract is the most important and
@@ -4580,9 +4486,7 @@ pyelonephritis
 *Pyelonephritis*
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 *Vesicoureteral*
 
 
@@ -4619,7 +4523,7 @@ E. coli
 *Enterobacter*
 
 
-Fig. 14.12 Pathways of renal infection. Hematogenous infection results from
+**Fig. 14**.12 Pathways of renal infection. Hematogenous infection results from
 
 
 bacteremic spread. More common is ascending infection, which results from
@@ -4649,7 +4553,7 @@ the bacteria ascend along the ureters to infect the renal
 pelvis and parenchyma. The frequency of UTI also is
 
 
-increased in diabetes because of the increased suscepti-
+increased in **diabetes** because of the increased suscepti-
 
 
 bility to infection and neurogenic bladder dysfunction,
@@ -4694,7 +4598,7 @@ individuals with a flaccid bladder resulting from spinal
 cord injury or with bladder dysfunction secondary to
 
 
-diabetes. VUR results in residual urine after voiding in
+**diabetes**. VUR results in residual urine after voiding in
 
 
 the urinary tract, which favors bacterial growth. Fur-
@@ -4718,7 +4622,7 @@ be normal in size or enlarged. Characteristically, discrete, yel-
 lowish, raised abscesses are grossly apparent on the
 
 
-renal surface (Fig. 14.13). They may be widely scattered or
+renal surface (**Fig. 14**.13). They may be widely scattered or
 
 
 limited to one region of the kidney, or they may coalesce to form
@@ -4763,7 +4667,7 @@ pyonephrosis.
 A second (rare) form of pyelonephritis is papillary necro-
 
 
-sis, which has three predisposing conditions: diabetes, urinary
+sis, which has three predisposing conditions: **diabetes**, urinary
 
 
 tract obstruction, and sickle cell anemia. This lesion is marked by
@@ -4778,7 +4682,7 @@ mids (renal papillae). The pathognomonic gross feature is sharply
 defined gray-white to yellow necrosis of the apical two-thirds of
 
 
-Fig. 14.13 Acute pyelonephritis. The cortical surface is studded with focal
+**Fig. 14**.13 Acute pyelonephritis. The cortical surface is studded with focal
 
 
 pale abscesses, more numerous in the upper pole and middle region of the
@@ -4789,8 +4693,6 @@ kidney; the lower pole is relatively unaffected. Between the abscesses, there
 
 is dark congestion of the renal surface.
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 the pyramids. One papilla or several or all papillae may be
@@ -4811,9 +4713,7 @@ prostatitis, particularly in older males with benign prostatic
 hyperplasia.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Acute pyelonephritis often is associated with predispos-
 
 
@@ -4868,7 +4768,7 @@ quency, and urgency. The urine appears turbid due to the
 contained pus (pyuria). The disease usually is unilateral, and
 
 
-affected individuals thus do not develop renal failure. In
+affected individuals thus do not develop **renal failure**. In
 
 
 cases in which predisposing factors are present, the disease
@@ -4961,9 +4861,7 @@ dant renal damage may be unilateral or bilateral, the latter
 potentially leading to chronic renal insufficiency.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 One or both kidneys may be involved, either diffusely or in
 
 
@@ -4991,7 +4889,7 @@ nephritis is scarring involving the pelvis or calyces, or both,
 leading to papillary blunting and marked calyceal deformities
 
 
-(Fig. 14.14).
+(**Fig. 14**.14).
 
 
 The microscopic changes are largely nonspecific, and similar
@@ -5006,7 +4904,7 @@ disorders such as analgesic nephropathy. The parenchyma shows
 the following features:
 
 
-• Uneven interstitial fibrosis and an inflammatory infiltrate of
+• Uneven interstitial **fibrosis** and an inflammatory infiltrate of
 
 
 lymphocytes, plasma cells, and occasionally neutrophils
@@ -5030,13 +4928,13 @@ tive term thyroidization. Often, neutrophils are seen within the
 tubules
 
 
-• Chronic inflammatory cell infiltration and fibrosis involving the
+• Chronic inflammatory cell infiltration and **fibrosis** involving the
 
 
 calyceal mucosa and wall
 
 
-• Arteriolosclerosis may be caused by associated hypertension
+• Arteriolosclerosis may be caused by associated **hypertension**
 
 
 • Glomerulosclerosis that usually develops as a secondary
@@ -5048,9 +4946,7 @@ process caused by nephron loss (a maladaptation discussed
 earlier)
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Many patients with chronic pyelonephritis come to medical
 
 
@@ -5066,7 +4962,7 @@ of kidney disease are noticed on routine laboratory tests.
 In other cases, the renal disease is heralded by the develop-
 
 
-ment of hypertension. The radiologic image is characteris-
+ment of **hypertension**. The radiologic image is characteris-
 
 
 tic: affected kidneys are asymmetrically contracted, with
@@ -5081,7 +4977,7 @@ tic: affected kidneys are asymmetrically contracted, with
 *Cortical scar*
 
 
-Fig. 14.14 Typical coarse scars of chronic pyelonephritis associated with
+**Fig. 14**.14 Typical coarse scars of chronic pyelonephritis associated with
 
 
 vesicoureteral reflux. The scars are usually located at the upper or lower
@@ -5120,7 +5016,7 @@ As noted earlier, some individuals with chronic pyelo-
 nephritis or reflux nephropathy ultimately develop sec-
 
 
-ondary glomerulosclerosis, associated with proteinuria;
+ondary glomerulosclerosis, associated with **proteinuria**;
 
 
 eventually, these injuries all contribute to progressive
@@ -5153,9 +5049,7 @@ inflammatory agents, and numerous other drugs (phenind-
 ione, cimetidine, immune checkpoint inhibitors).
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 Many features of the disease suggest an immune mecha-
 
 
@@ -5219,13 +5113,13 @@ basement membranes.
 The abnormalities in acute drug-induced nephritis are in the
 
 
-interstitium, which shows pronounced edema and infiltration
+interstitium, which shows pronounced **edema** and infiltration
 
 
 by mononuclear cells, principally lymphocytes and macrophages
 
 
-(Fig. 14.15). Eosinophils and neutrophils may be present, often
+(**Fig. 14**.15). Eosinophils and neutrophils may be present, often
 
 
 in large numbers. With some drugs (e.g., methicillin, thiazides,
@@ -5249,9 +5143,7 @@ leads to podocyte foot process effacement and the nephrotic
 syndrome.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The disease begins about 15 days after exposure to the drug
 
 
@@ -5261,7 +5153,7 @@ and is characterized by fever, eosinophilia (which may be
 transient), rash (in about 25% of individuals), and renal
 
 
-Fig. 14.15 Drug-induced interstitial nephritis, with prominent eosinophilic
+**Fig. 14**.15 Drug-induced interstitial nephritis, with prominent eosinophilic
 
 
 and mononuclear infiltrate. (Courtesy of Dr. H. Rennke, Department of Pathology,
@@ -5270,16 +5162,16 @@ and mononuclear infiltrate. (Courtesy of Dr. H. Rennke, Department of Pathology,
 Brigham and Women’s Hospital, Boston, Massachusetts.)
 
 
-abnormalities. Urinary findings include hematuria, minimal
+abnormalities. Urinary findings include **hematuria**, minimal
 
 
-or no proteinuria, and leukocyturia (sometimes including
+or no **proteinuria**, and leukocyturia (sometimes including
 
 
-eosinophils). A rising serum creatinine or acute kidney
+eosinophils). A rising serum **creatinine** or acute kidney
 
 
-injury with oliguria develops in about 50% of cases, par-
+injury with **oliguria** develops in about 50% of cases, par-
 
 
 ticularly in older patients. Clinical recognition of drug-
@@ -5342,7 +5234,7 @@ sion of chronic kidney disease.
 immune reaction to a drug; it is characterized by interstitial
 
 
-inflammation, often with abundant eosinophils, and edema.
+inflammation, often with abundant eosinophils, and **edema**.
 
 
 Acute Tubular Injury/Necrosis
@@ -5372,16 +5264,14 @@ pathologists prefer the term acute tubular injury. The con-
 stellation of changes, broadly termed acute kidney injury,
 
 
-manifests clinically as decreased GFR with concurrent
+manifests clinically as decreased **GFR** with concurrent
 
 
-# Chapter 14: Kidney and Its Collecting System
+
+elevation of serum **creatinine**. ATI is the most common
 
 
-elevation of serum creatinine. ATI is the most common
-
-
-cause of acute kidney injury and may produce oliguria
+cause of acute kidney injury and may produce **oliguria**
 
 
 (defined as urine output of <400 mL/day).
@@ -5414,7 +5304,7 @@ pancreatitis and septicemia. Ischemia to tubules may
 also result from reduced intrarenal blood flow, as in
 
 
-microscopic polyangiitis, malignant hypertension, and
+microscopic polyangiitis, malignant **hypertension**, and
 
 
 thrombotic microangiopathies. Mismatched blood
@@ -5444,13 +5334,11 @@ gentamicin and other antibiotics, and radiographic con-
 trast agents.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 Proximal tubular epithelial cells are particularly sensitive
 
 
-to hypoxemia and also are vulnerable to toxins (Fig. 14.16).
+to hypoxemia and also are vulnerable to toxins (**Fig. 14**.16).
 
 
 Several factors predispose these cells to toxic and ische-
@@ -5507,7 +5395,7 @@ latter, through a tubuloglomerular feedback mechanism,
 contributes to afferent arteriolar vasoconstriction and a
 
 
-decrease in GFR, further worsening the perfusion (dis-
+decrease in **GFR**, further worsening the perfusion (dis-
 
 
 cussed below). Injury to the epithelial cells causes detach-
@@ -5525,7 +5413,7 @@ debris builds up, it can block the outflow of urine (obstruc-
 tion by casts), increasing intratubular pressure and thereby
 
 
-exacerbating the decline in GFR. Additionally, fluid from
+exacerbating the decline in **GFR**. Additionally, fluid from
 
 
 the damaged tubules may leak back into the interstitium,
@@ -5558,7 +5446,7 @@ derangements.
 Tubular injury is exacerbated by severe hemodynamic
 
 
-alterations that cause reduced GFR. The major one is intra-
+alterations that cause reduced **GFR**. The major one is intra-
 
 
 renal vasoconstriction, which results in both reduced glo-
@@ -5570,7 +5458,7 @@ merular plasma flow and reduced oxygen delivery to the
 tubules in the outer medulla (thick ascending limb and
 
 
-straight segment of the proximal tubule) (see Fig. 14.16).
+straight segment of the proximal tubule) (see **Fig. 14**.16).
 
 
 Although a number of vasoconstrictor pathways have been
@@ -5606,7 +5494,7 @@ glomerular filtration surface.
 The patchiness of tubular necrosis and maintenance of
 
 
-the integrity of the basement membrane along many seg-
+the integrity of the **basement membrane** along many seg-
 
 
 ments allow repair of the injured foci and recovery of func-
@@ -5651,10 +5539,10 @@ inflammation
 *Obstruction*
 
 
-*Decreased GFR*
+*Decreased **GFR***
 
 
-Fig. 14.16 Postulated sequence in ischemic or toxic tubular injury.
+**Fig. 14**.16 Postulated sequence in ischemic or toxic tubular injury.
 
 
 *MORP HOLOGY*
@@ -5681,7 +5569,7 @@ borders, vacuolization of cells, and detachment of tubular cells
 from their underlying basement membranes with sloughing of
 
 
-cells into the urine (Fig. 14.17). A striking additional finding is the
+cells into the urine (**Fig. 14**.17). A striking additional finding is the
 
 
 presence of proteinaceous casts in the distal tubules and collect-
@@ -5699,7 +5587,7 @@ plasma proteins. When crush injuries have produced ATI, the
 casts also contain myoglobin. The interstitium usually shows gen-
 
 
-eralized edema along with a mild inflammatory infiltrate consist-
+eralized **edema** along with a mild inflammatory infiltrate consist-
 
 
 ing of neutrophils, lymphocytes, and plasma cells. The histologic
@@ -5732,12 +5620,10 @@ reasons that are not entirely clear, acute kidney injury with
 underlying acute tubular injury as its cause may result in tubular
 
 
-atrophy and interstitial fibrosis rather than repair.
+atrophy and interstitial **fibrosis** rather than repair.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The clinical course of ischemic ATI initially is dominated
 
 
@@ -5747,10 +5633,10 @@ by the inciting medical, surgical or obstetric event. Affected
 patients often present with manifestations of acute kidney
 
 
-injury, including oliguria and decreased GFR. Not all
+injury, including **oliguria** and decreased **GFR**. Not all
 
 
-patients have oliguria; both anuric and non-oligouric forms
+patients have **oliguria**; both anuric and non-oligouric forms
 
 
 are seen. The clinical picture is often dominated by electro-
@@ -5759,13 +5645,13 @@ are seen. The clinical picture is often dominated by electro-
 lyte abnormalities, acidosis, and the signs and symptoms
 
 
-of uremia and fluid overload. The prognosis varies depend-
+of **uremia** and fluid overload. The prognosis varies depend-
 
 
 ing upon the severity and nature of the underlying injury
 
 
-Fig. 14.17 Acute tubular epithelial cell injury with blebbing at the luminal
+**Fig. 14**.17 Acute tubular epithelial cell injury with blebbing at the luminal
 
 
 pole, detachment of tubular cells from their underlying basement mem-
@@ -5819,7 +5705,7 @@ unfortunately common.
 cal manifestations are electrolyte abnormalities, acidosis,
 
 
-uremia, and signs of fluid overload, often with oliguria.
+**uremia**, and signs of fluid overload, often with **oliguria**.
 
 
 • ATI results from ischemic or toxic injury to renal tubules, and
@@ -5828,7 +5714,7 @@ uremia, and signs of fluid overload, often with oliguria.
 is associated with intrarenal vasoconstriction resulting in
 
 
-reduced GFR and diminished delivery of oxygen and nutrients
+reduced **GFR** and diminished delivery of oxygen and nutrients
 
 
 to tubular epithelial cells.
@@ -5840,7 +5726,7 @@ to tubular epithelial cells.
 segments of the tubules (typically the proximal tubules), pro-
 
 
-teinaceous casts in distal tubules, and interstitial edema.
+teinaceous casts in distal tubules, and interstitial **edema**.
 
 
 *DISEASES INVOLVING BLOOD*
@@ -5867,15 +5753,13 @@ function (Chapter 10). Conversely, the kidney is intimately
 involved in the pathogenesis of both essential and second-
 
 
-ary hypertension. This section covers the renal lesions
+ary **hypertension**. This section covers the renal lesions
 
 
-associated with hypertension.
+associated with **hypertension**.
 
 
-*Nephrosclerosis*
-
-
+## Nephrosclerosis
 Nephrosclerosis refers to sclerosis of small renal arteries
 
 
@@ -5897,7 +5781,7 @@ resulting in luminal narrowing. The vascular changes
 cause ischemia, which leads to various combinations of
 
 
-interstitial fibrosis, tubular atrophy, and focal global glo-
+interstitial **fibrosis**, tubular atrophy, and focal global glo-
 
 
 merulosclerosis. Some degree of nephrosclerosis, albeit
@@ -5909,10 +5793,10 @@ mild, is present in many individuals older than 60 years of
 age. The frequency and severity of the lesions are increased
 
 
-at any age when hypertension or diabetes are present. Of
+at any age when **hypertension** or **diabetes** are present. Of
 
 
-note, many renal diseases cause hypertension, which in
+note, many renal diseases cause **hypertension**, which in
 
 
 turn is associated with nephrosclerosis. Thus, this renal
@@ -5924,16 +5808,12 @@ lesion often is superimposed on other primary kidney
 diseases.
 
 
-*Pathogenesis*
-
-
-The arterial lesions associated with hypertension are the
+### Pathogenesis
+The arterial lesions associated with **hypertension** are the
 
 
 result mainly of endothelial dysfunction and platelet
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 activation (Chapter 10). Two processes participate in the
@@ -5957,7 +5837,7 @@ bination of these
 tion of plasma proteins through injured endothelium
 
 
-and by increased deposition of basement membrane
+and by increased deposition of **basement membrane**
 
 
 matrix
@@ -5984,7 +5864,7 @@ riolosclerosis. This appears as a homogeneous, pink hyaline
 thickening, at the expense of the vessel lumina, with loss of under-
 
 
-lying cellular detail (Fig. 14.18). The narrowing of the lumen results
+lying cellular detail (**Fig. 14**.18). The narrowing of the lumen results
 
 
 in markedly decreased blood flow through the affected vessels,
@@ -5996,7 +5876,7 @@ with consequent ischemia and renal atrophy. In advanced cases
 of arterionephrosclerosis, the glomerular tufts may become scle-
 
 
-rosed. Diffuse tubular atrophy and interstitial fibrosis are present,
+rosed. Diffuse tubular atrophy and interstitial **fibrosis** are present,
 
 
 but inflammatory inflltrates are absent or scant. The larger blood
@@ -6011,19 +5891,17 @@ with replication of internal elastic lamina along with fibrous
 thickening of the media (fibroelastic hyperplasia).
 
 
-*Clinical Features*
-
-
+### Clinical Features
 This renal lesion alone rarely causes damage severe enough
 
 
-to produce renal failure, except in individuals from some,
+to produce **renal failure**, except in individuals from some,
 
 
 possibly genetically susceptible, groups, such as African
 
 
-Americans, in whom it may lead to uremia and death.
+Americans, in whom it may lead to **uremia** and death.
 
 
 However, all patients usually show some functional
@@ -6032,13 +5910,13 @@ However, all patients usually show some functional
 impairment, such as loss of concentrating ability or a vari-
 
 
-ably diminished GFR. A mild degree of proteinuria is a
+ably diminished **GFR**. A mild degree of **proteinuria** is a
 
 
 frequent finding.
 
 
-Fig. 14.18 Benign nephrosclerosis. High-power view of two arterioles with
+**Fig. 14**.18 Benign nephrosclerosis. High-power view of two arterioles with
 
 
 hyaline deposition, marked thickening of the walls, and a narrowed lumen.
@@ -6050,34 +5928,34 @@ hyaline deposition, marked thickening of the walls, and a narrowed lumen.
 Health Sciences Center, San Antonio, Texas.)
 
 
-*Malignant Hypertension*
+*Malignant **Hypertension***
 
 
-Malignant hypertension, defined as blood pressure usually
+Malignant **hypertension**, defined as blood pressure usually
 
 
 greater than 200/120 mm Hg, is far less common in the
 
 
-United States than essential hypertension and occurs in
+United States than essential **hypertension** and occurs in
 
 
 only about 5% of hypertensive individuals. It may arise
 
 
-de novo (i.e., without preexisting hypertension), or it may
+de novo (i.e., without preexisting **hypertension**), or it may
 
 
 appear suddenly in an individual who had mild hyper-
 
 
-tension. The prevalence of malignant hypertension is
+tension. The prevalence of malignant **hypertension** is
 
 
 higher in developing countries. It may present with severe
 
 
-acute kidney injury and renal failure. Renal changes are
+acute kidney injury and **renal failure**. Renal changes are
 
 
 confined to the vasculature and may include thrombotic
@@ -6086,16 +5964,14 @@ confined to the vasculature and may include thrombotic
 microangiopathy.
 
 
-*Pathogenesis*
-
-
-The renal changes are related to hypertension and the reac-
+### Pathogenesis
+The renal changes are related to **hypertension** and the reac-
 
 
 tions to it.
 
 
-• Injury resulting from long-standing hypertension causes
+• Injury resulting from long-standing **hypertension** causes
 
 
 increased perme ability of the vessels to fibrinogen and
@@ -6131,9 +6007,7 @@ ischemic, which leads to further elevation of blood pres-
 sure via the renin-angiotensin system.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 The kidney may be normal in size or shrunken, depending on the
 
 
@@ -6155,7 +6029,7 @@ The microscopic changes reflect the pathogenetic events dis-
 cussed earlier. Damage to the small vessels is manifested as
 
 
-fibrinoid necrosis of the arterioles (Fig. 14.19A). The vessel
+fibrinoid necrosis of the arterioles (**Fig. 14**.19A). The vessel
 
 
 walls show a homogeneous, granular eosinophilic appearance
@@ -6167,7 +6041,7 @@ masking underlying detail. In the interlobular arteries and larger
 arterioles, proliferation of intimal cells after acute injury pro-
 
 
-duces an onion-skin appearance (see Fig. 14.19B). This name is
+duces an onion-skin appearance (see **Fig. 14**.19B). This name is
 
 
 derived from the concentric arrangement of cells whose origin
@@ -6197,16 +6071,14 @@ acute thrombotic microangiopathies (discussed later), and in
 patients with scleroderma in renal crisis.
 
 
-*Clinical Features*
-
-
-The full-blown syndrome of malignant hypertension is character-
+### Clinical Features
+The full-blown syndrome of malignant **hypertension** is character-
 
 
 ized by papilledema, encephalopathy, cardiovascular abnormali-
 
 
-ties, and renal failure. Most often, the early symptoms are
+ties, and **renal failure**. Most often, the early symptoms are
 
 
 related to increased intracranial pressure and include head-
@@ -6221,7 +6093,7 @@ larly the development of scotomas, or “spots” before the
 Diseases Involving Blood Vessels
 
 
-Fig. 14.19 Malignant hypertension. (A) Fibrinoid necrosis of afferent arteriole (periodic acid–Schiff stain). (B) Hyperplastic arteriolosclerosis (onion-skin
+**Fig. 14**.19 Malignant **hypertension**. (A) Fibrinoid necrosis of afferent arteriole (periodic acid–Schiff stain). (B) Hyperplastic arteriolosclerosis (onion-skin
 
 
 lesion). (Courtesy of Dr. H. Rennke, Department of Pathology, Brigham and Women’s Hospital, Boston, Massachusetts.)
@@ -6230,10 +6102,10 @@ lesion). (Courtesy of Dr. H. Rennke, Department of Pathology, Brigham and Women�
 eyes. At the onset of rapidly mounting blood pressure,
 
 
-there is marked proteinuria and microscopic, or sometimes
+there is marked **proteinuria** and microscopic, or sometimes
 
 
-macroscopic, hematuria but no significant alteration in
+macroscopic, **hematuria** but no significant alteration in
 
 
 renal function. Soon, however, acute kidney injury develops.
@@ -6251,7 +6123,7 @@ before irreversible renal lesions develop. About 50% of
 patients survive at least 5 years; 90% of deaths are caused
 
 
-by uremia, and the other 10% are caused by cerebral hem-
+by **uremia**, and the other 10% are caused by cerebral hem-
 
 
 orrhage or cardiac failure.
@@ -6272,7 +6144,7 @@ syndromes characterized by microvascular thrombosis
 accompanied by microangiopathic hemolytic anemia, thrombo-
 
 
-cytopenia, and, in certain instances, renal failure. The primary
+cytopenia, and, in certain instances, **renal failure**. The primary
 
 
 forms of TMA include those with a known etiology, while
@@ -6290,16 +6162,16 @@ Common primary forms of TMA include Shiga toxin–
 mediated hemolytic uremic syndrome (HUS); atypical HUS,
 
 
-also called complement-mediated TMA because excessive
+also called **complement**-mediated TMA because excessive
 
 
-complement activation is an important pathogenic mecha-
+**complement** activation is an important pathogenic mecha-
 
 
 nism; thrombotic thrombocytopenic purpura (TTP); and some
 
 
-of the drug-mediated TMAs. Malignant hypertension and
+of the drug-mediated TMAs. Malignant **hypertension** and
 
 
 scleroderma-associated TMA represent examples of the
@@ -6308,9 +6180,7 @@ scleroderma-associated TMA represent examples of the
 secondary forms.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 The major pathogenetic factors in the thrombotic micro-
 
 
@@ -6353,13 +6223,13 @@ channels narrowed by thrombi. In the primary forms of
 thrombotic microangiopathies, the etiology is well-defined
 
 
-(**Table 14.4**), while the secondary forms are associated with
+(****Table 14**.4**), while the secondary forms are associated with
 
 
 various underlying conditions and diseases, such as malig-
 
 
-nant hypertension, scleroderma, pregnancy, chemother-
+nant **hypertension**, scleroderma, pregnancy, chemother-
 
 
 apy, anti-phospholipid antibodies, and transplant rejection,
@@ -6410,7 +6280,7 @@ receptor for Shiga toxin. At low doses, the toxin acti-
 vates endothelial cells, leading to leukocyte adhesion,
 
 
-**Table 14.4** Etiologic Classification of the Major Forms of
+****Table 14**.4** Etiologic Classification of the Major Forms of
 
 
 Primary Thrombotic Microangiopathy
@@ -6446,10 +6316,10 @@ serotype 1
 *Inherited*
 
 
-*Complement*
+***Complement***
 
 
-(complement-
+(**complement**-
 
 
 mediated TMA)
@@ -6476,7 +6346,7 @@ genetic abnormalities
 (relatively common)
 
 
-*Acquired complement*
+*Acquired **complement***
 
 
 dysregulation due to
@@ -6508,8 +6378,6 @@ syndrome; TMA, thrombotic microangiopathy; TTP, thrombotic thrombocytopenic
 
 purpura.
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 increased endothelin production and decreased nitric
@@ -6545,7 +6413,7 @@ malities of factors that dampen activation of comple-
 ment by the alternative pathway. Their absence leads to
 
 
-excessive activation of complement, with ensuing
+excessive activation of **complement**, with ensuing
 
 
 microvascular injury and microvascular thrombosis.
@@ -6554,7 +6422,7 @@ microvascular injury and microvascular thrombosis.
 The C5-9 membrane attack complex appears to have a
 
 
-central role, as a therapeutic antibody that inhibits this
+central role, as a therapeutic **antibody** that inhibits this
 
 
 complex turns off platelet consumption and improves
@@ -6563,10 +6431,10 @@ complex turns off platelet consumption and improves
 renal function. Interestingly, abnormalities of the alter-
 
 
-native pathway of complement activation also may lead
+native pathway of **complement** activation also may lead
 
 
-to C3 glomerulonephritis and dense deposit disease, as
+to C3 **glomerulonephritis** and dense deposit disease, as
 
 
 discussed earlier.
@@ -6626,7 +6494,7 @@ in more severe cases. Additional glomerular changes resulting
 from endothelial injury include widening of the subendothelial
 
 
-space, duplication or splitting of GBMs, and lysis of mesangial
+space, duplication or splitting of GBMs, and lysis of **mesangial**
 
 
 cells. Cortical necrosis also may occur in severe cases. If TMA
@@ -6674,7 +6542,7 @@ disease) or remove pathogenic antibodies. Since most com-
 plement factors are produced in the liver, liver transplan-
 
 
-tation can be curative. More recently, antibody inhibitors
+tation can be curative. More recently, **antibody** inhibitors
 
 
 of the membrane attack complex have been shown to be
@@ -6686,7 +6554,7 @@ effective in reducing thrombosis and improving renal func-
 tion, and are now considered to be the first-line therapy in
 
 
-“complement-mediated” forms of HUS.
+“**complement**-mediated” forms of HUS.
 
 
 The typical onset of TTP is also sudden, with a domi-
@@ -6725,7 +6593,7 @@ abnormalities are rare.
 • Arterionephrosclerosis: Progressive, chronic renal damage associ-
 
 
-ated with hypertension. Characteristic features are hyaline
+ated with **hypertension**. Characteristic features are hyaline
 
 
 arteriolosclerosis and narrowing of vascular lumina with resul-
@@ -6734,7 +6602,7 @@ arteriolosclerosis and narrowing of vascular lumina with resul-
 tant cortical atrophy.
 
 
-• Malignant hypertension: Acute kidney injury associated with
+• Malignant **hypertension**: Acute kidney injury associated with
 
 
 severe elevation of blood pressure. Arteries and arterioles
@@ -6764,15 +6632,13 @@ Willebrand factor leading to excessive thrombosis, with plate-
 let consumption. The most common cause of atypical HUS is
 
 
-complement-mediated endothelial injury due to complement
+**complement**-mediated endothelial injury due to **complement**
 
 
 dysregulation.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The clinical course varies according to the etiology and the
 
 
@@ -6794,7 +6660,7 @@ sudden onset, usually after a gastrointestinal or flulike pro-
 dromal episode, of bleeding manifestations (especially
 
 
-hematemesis and melena), severe oliguria, hematuria,
+hematemesis and melena), severe **oliguria**, **hematuria**,
 
 
 microangiopathic hemolytic anemia, and (in some indi-
@@ -6839,7 +6705,7 @@ tubules, interstitium and vessels, regardless of the ana-
 tomic site of the original injury. Unless the disorder is
 
 
-treated with dialysis or transplantation, death from uremia,
+treated with dialysis or transplantation, death from **uremia**,
 
 
 electrolyte disturbances, or other complications of end-
@@ -6854,9 +6720,7 @@ Cystic Diseases of the Kidney
 increased plasma concentrations
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 As progressive renal damage destroys more and more neph-
 
 
@@ -6878,7 +6742,7 @@ An increase in the rate of excretion of solutes per nephron
 via
 
 
-(for creatinine),
+(for **creatinine**),
 
 
 decreased tubular reabsorption (for sodium, phosphate, and
@@ -6899,7 +6763,7 @@ decline varies based on the original disease; however, renal
 function often deteriorates progressively even when the
 
 
-original insult is controlled. Uncontrolled hypertension,
+original insult is controlled. Uncontrolled **hypertension**,
 
 
 regardless of the etiology, results in more rapid renal func-
@@ -6929,7 +6793,7 @@ and have deep scars. Microscopically, the feature common to all
 cases is advanced scarring of the glomeruli, sometimes to the
 
 
-point of complete sclerosis (Fig. 14.20). This obliteration of the
+point of complete sclerosis (**Fig. 14**.20). This obliteration of the
 
 
 glomeruli is the end point of many diseases, and it is impos-
@@ -6938,7 +6802,7 @@ glomeruli is the end point of many diseases, and it is impos-
 sible to ascertain from such kidneys the nature of the initial
 
 
-lesion. There also is marked interstitial fibrosis, associated
+lesion. There also is marked interstitial **fibrosis**, associated
 
 
 with atrophy and dropout of many of the tubules in the cortex,
@@ -6950,7 +6814,7 @@ and diminution and loss of portions of the peritubular capillary
 network. The small-and medium-sized arteries frequently are
 
 
-thick-walled, with narrowed lumina, secondary to hypertension.
+thick-walled, with narrowed lumina, secondary to **hypertension**.
 
 
 Lymphocytic (and, rarely, plasma cell) infiltrates are present in
@@ -6971,7 +6835,7 @@ markedly damaged kidneys have been designated end-stage
 kidneys.
 
 
-Fig. 14.20 Chronic glomerulonephritis. A Masson trichrome preparation
+**Fig. 14**.20 Chronic **glomerulonephritis**. A Masson trichrome preparation
 
 
 shows complete replacement of virtually all glomeruli by blue-staining col-
@@ -7043,9 +6907,7 @@ later in the chapter.
 *Simple Cysts*
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Chronic kidney disease may develop insidiously and be
 
 
@@ -7055,7 +6917,7 @@ discovered late in its course, because it is often asymptom-
 atic. Frequently, renal disease is first detected by the discov-
 
 
-ery of proteinuria, hypertension, or azotemia on routine
+ery of **proteinuria**, **hypertension**, or **azotemia** on routine
 
 
 medical examination. Disease-specific findings may precede
@@ -7064,7 +6926,7 @@ medical examination. Disease-specific findings may precede
 development of chronic kidney disease. In patients with
 
 
-glomerular disease resulting in nephrotic syndrome, as the
+glomerular disease resulting in **nephrotic syndrome**, as the
 
 
 glomeruli undergo sclerotic changes and result in nephron
@@ -7073,16 +6935,16 @@ glomeruli undergo sclerotic changes and result in nephron
 loss, the avenue for protein loss is progressively lessened,
 
 
-and the nephrotic syndrome thus becomes less severe with
+and the **nephrotic syndrome** thus becomes less severe with
 
 
-advanced disease. Some degree of proteinuria, however, is
+advanced disease. Some degree of **proteinuria**, however, is
 
 
-present in almost all cases. Hypertension is very common.
+present in almost all cases. **Hypertension** is very common.
 
 
-Although microscopic hematuria is usually present, grossly
+Although microscopic **hematuria** is usually present, grossly
 
 
 bloody urine is infrequent at this late stage.
@@ -7091,7 +6953,7 @@ bloody urine is infrequent at this late stage.
 Without treatment, the prognosis is poor; relentless pro-
 
 
-gression to uremia and death is the rule. The rate of pro-
+gression to **uremia** and death is the rule. The rate of pro-
 
 
 gression is extremely variable.
@@ -7151,8 +7013,6 @@ are almost always avascular, and produce fluid rather than
 solid tissue signals on ultrasonography.
 
 
-# Chapter 14: Kidney and Its Collecting System
-
 
 Acquired cystic kidney disease occurs in patients with
 
@@ -7163,7 +7023,7 @@ end-stage renal disease who have undergone dialysis for
 many years. Multiple cysts may be present in both the
 
 
-cortex and the medulla and may bleed, causing hematuria.
+cortex and the medulla and may bleed, causing **hematuria**.
 
 
 The risk for renal neoplasms, particularly cystic ones, in
@@ -7205,9 +7065,7 @@ of one of at least two autosomal dominant genes of very
 high penetrance.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 In 85% to 90% of families, PKD1, on the short arm of chro-
 
 
@@ -7250,7 +7108,7 @@ nosensors of fluid flow. Current evidence suggests that
 polycystin mutations produce defects in mechanosensing
 
 
-(Fig. 14.21). This, in turn, alters downstream signaling
+(**Fig. 14**.21). This, in turn, alters downstream signaling
 
 
 events involving calcium influx, leading to dysregulation
@@ -7286,7 +7144,7 @@ epithelial cells with extracellular matrix, and this too is
 thought to contribute to the cyst formation and interstitial
 
 
-fibrosis that are characteristic of progressive polycystic
+**fibrosis** that are characteristic of progressive polycystic
 
 
 kidney disease. It is interesting to note that whereas germ-
@@ -7382,10 +7240,10 @@ vascular damage
 *Interstitial*
 
 
-inflammation/fibrosis
+inflammation/**fibrosis**
 
 
-Fig. 14.21 Possible mechanisms of cyst formation in cystic kidney diseases
+**Fig. 14**.21 Possible mechanisms of cyst formation in cystic kidney diseases
 
 
 (see text).
@@ -7397,9 +7255,7 @@ PKD2 mutations have a slower rate of disease progression
 compared to patients with PKD1 mutations.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 In autosomal dominant adult polycystic kidney disease, the kidney
 
 
@@ -7421,7 +7277,7 @@ to 3 or 4 cm in diameter with no intervening parenchyma. The
 cysts are filled with fluid, which may be clear, turbid, or hemor-
 
 
-rhagic (Fig. 14.22).
+rhagic (**Fig. 14**.22).
 
 
 Cysts may arise at any level of the nephron, from tubules to
@@ -7445,15 +7301,13 @@ to ischemic atrophy of the intervening renal substance. Some
 normal parenchyma may be dispersed among the cysts. Evidence
 
 
-of superimposed hypertension or infection is common. Asymp-
+of superimposed **hypertension** or infection is common. Asymp-
 
 
 tomatic liver cysts also occur in one-third of patients.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Polycystic kidney disease in adults usually does not produce
 
 
@@ -7475,7 +7329,7 @@ obstruction, may cause excruciating pain. Sometimes atten-
 tion is first drawn to the lesion on palpation of an abdomi-
 
 
-nal mass. Intermittent gross hematuria commonly occurs.
+nal mass. Intermittent gross **hematuria** commonly occurs.
 
 
 The most important complications, because of their delete-
@@ -7484,7 +7338,7 @@ The most important complications, because of their delete-
 rious effect on already marginal renal function, are hyper-
 
 
-tension and urinary infection. Hypertension of variable
+tension and urinary infection. **Hypertension** of variable
 
 
 severity develops in about 75% of individuals with this
@@ -7493,7 +7347,7 @@ severity develops in about 75% of individuals with this
 Cystic Diseases of the Kidney
 
 
-Fig. 14.22 Autosomal dominant adult polycystic kidney, viewed from the external surface (A) and bisected (B). The kidney is markedly enlarged (centimeter
+**Fig. 14**.22 Autosomal dominant adult polycystic kidney, viewed from the external surface (A) and bisected (B). The kidney is markedly enlarged (centimeter
 
 
 rule is shown for scale), with numerous dilated cysts.
@@ -7526,10 +7380,10 @@ wide variation in the course, and nearly normal life spans
 are reported. Patients in whom the disease progresses to
 
 
-renal failure are treated by renal transplantation. Death
+**renal failure** are treated by renal transplantation. Death
 
 
-usually results from uremia or hypertensive complications.
+usually results from **uremia** or hypertensive complications.
 
 
 Autosomal Recessive (Childhood) Polycystic
@@ -7595,22 +7449,20 @@ almost all cases, findings include multiple epithelium-lined liver
 cysts and proliferation of portal bile ducts.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Perinatal and neonatal forms are most common; serious
 
 
 manifestations usually are present at birth, and young
 
 
-infants may die quickly from hepatic or renal failure.
+infants may die quickly from hepatic or **renal failure**.
 
 
 Patients who survive infancy develop liver cirrhosis (con-
 
 
-genital hepatic fibrosis).
+genital hepatic **fibrosis**).
 
 
 Medullary Diseases With Cysts
@@ -7673,7 +7525,7 @@ found in some individuals include oculomotor apraxia,
 mental retardation, cerebellar malformations, and liver
 
 
-fibrosis. In aggregate, the various forms of nephro-
+**fibrosis**. In aggregate, the various forms of nephro-
 
 
 nophthisis are now thought to be the most common
@@ -7696,8 +7548,6 @@ nophthisis complex. The majority of these genes encode
 
 proteins that are components of epithelial cilia, as is the
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 case with other types of polycystic disease. Two autosomal
@@ -7727,12 +7577,10 @@ notably include a chronic tubulointerstitial nephritis with tubular
 atrophy and thickened tubular basement membranes and pro-
 
 
-gressive interstitial fibrosis.
+gressive interstitial **fibrosis**.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 The initial manifestations are usually polyuria and poly-
 
 
@@ -7766,9 +7614,7 @@ failure in young patients should lead to suspicion of
 nephronophthisis.
 
 
-*SUMMARY*
-
-
+## SUMMARY
 *CYSTIC DISEASES*
 
 
@@ -7847,7 +7693,7 @@ stone. A familial tendency toward stone formation has long
 been recognized.
 
 
-**Table 14.5** Prevalence of Various Types of Renal Stones
+****Table 14**.5** Prevalence of Various Types of Renal Stones
 
 
 *Stone*
@@ -7916,9 +7762,7 @@ Distribution (%)
 ±1–2
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 There are three major types of renal stones:
 
 
@@ -7967,7 +7811,7 @@ urinary concentration of the stone’s constituents, so that it
 exceeds their solubility in urine (supersaturation). As
 
 
-shown in **Table 14.5**, 50% of patients who develop calcium
+shown in ****Table 14**.5**, 50% of patients who develop calcium
 
 
 stones have hypercalciuria that is not associated with
@@ -8090,9 +7934,7 @@ massive stones usually are composed of magnesium ammonium
 phosphate.
 
 
-*Clinical Features*
-
-
+### Clinical Features
 Stones may be present without producing symptoms or
 
 
@@ -8111,7 +7953,7 @@ intense pain, known as renal or ureteral colic, characterized
 by paroxysms of flank pain radiating toward the groin.
 
 
-Often at this time there is gross hematuria. The clinical sig-
+Often at this time there is gross **hematuria**. The clinical sig-
 
 
 nificance of stones lies in their capacity to obstruct urine
@@ -8129,9 +7971,7 @@ bacterial infection. In most cases, the diagnosis is readily
 made radiologically.
 
 
-*Hydronephrosis*
-
-
+## Hydronephrosis
 Hydronephrosis refers to dilation of the renal pelvis and
 
 
@@ -8189,7 +8029,7 @@ of the cervix or uterus)
 • Inflammatory lesions, such as prostatitis, ureteritis,
 
 
-urethritis, and retroperitoneal fibrosis
+urethritis, and retroperitoneal **fibrosis**
 
 
 • Neurogenic, such as paralysis of the bladder following
@@ -8219,9 +8059,7 @@ obstruction is complete, allowing no urine to pass; usually
 it is only partial.
 
 
-*Pathogenesis*
-
-
+### Pathogenesis
 Even with complete obstruction, glomerular filtration per-
 
 
@@ -8282,19 +8120,17 @@ with incomplete obstruction. In addition to functional
 changes, the obstruction also triggers an interstitial inflam-
 
 
-matory reaction, leading eventually to interstitial fibrosis.
+matory reaction, leading eventually to interstitial **fibrosis**.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 Bilateral hydronephrosis (or unilateral hydronephrosis when the
 
 
-other kidney is already damaged or absent) leads to renal failure,
+other kidney is already damaged or absent) leads to **renal failure**,
 
 
-and the onset of uremia tends to abort the natural course of
+and the onset of **uremia** tends to abort the natural course of
 
 
 the lesion. With subtotal or intermittent obstruction, the kidney
@@ -8312,7 +8148,7 @@ pelvicalyceal system. The renal parenchyma itself is compressed
 and atrophied, with obliteration of the papillae and flattening of
 
 
-the pyramids (Fig. 14.23). On the other hand, when obstruction
+the pyramids (**Fig. 14**.23). On the other hand, when obstruction
 
 
 is sudden and complete, glomerular filtration is compromised
@@ -8360,10 +8196,8 @@ inflammatory reaction is minimal. Superimposed pyelonephritis,
 however, is common.
 
 
-*Clinical Features*
-
-
-Bilateral complete obstruction produces anuria. When
+### Clinical Features
+Bilateral complete obstruction produces **anuria**. When
 
 
 the obstruction is distal to the bladder, the dominant
@@ -8374,8 +8208,6 @@ symptoms are those of bladder distention. Paradoxically,
 
 incomplete bilateral obstruction causes polyuria rather
 
-
-# Chapter 14: Kidney and Its Collecting System
 
 
 associated with obstruction in the lower urinary tract,
@@ -8432,7 +8264,7 @@ kidney shows no scars and has a reduced number of
 renal lobes and pyramids, usually six or fewer.
 
 
-Fig. 14.23 Hydronephrosis of the kidney, with marked dilation of the pelvis
+**Fig. 14**.23 Hydronephrosis of the kidney, with marked dilation of the pelvis
 
 
 and calyces and thinning of renal parenchyma.
@@ -8441,7 +8273,7 @@ and calyces and thinning of renal parenchyma.
 *NEOPLASMS*
 
 
-than oliguria as a result of defects in tubular concentrating
+than **oliguria** as a result of defects in tubular concentrating
 
 
 mechanisms, and this may obscure the true nature of the
@@ -8489,7 +8321,7 @@ and urinary tract represent the most common cause of end-
 stage renal disease in individuals younger than 21 years of
 
 
-age and account for 40% to 50% of pediatric renal failure
+age and account for 40% to 50% of pediatric **renal failure**
 
 
 worldwide. The abnormalities can affect the kidney (e.g.,
@@ -8582,9 +8414,7 @@ common as renal cell carcinomas. They are discussed in
 Chapter 18.
 
 
-*Neoplasms of the Kidney*
-
-
+## Neoplasms of the Kidney
 *Oncocytoma*
 
 
@@ -8621,9 +8451,7 @@ tomas, provides a characteristic appearance on imaging
 studies.
 
 
-*Renal Cell Carcinoma*
-
-
+## Renal Cell Carcinoma
 Renal cell carcinomas are derived from the renal tubular
 
 
@@ -8912,9 +8740,7 @@ been determined. In general, chromophobe renal cancers
 have a favorable prognosis.
 
 
-*MORPHOL OG Y*
-
-
+### Morphology
 Clear cell cancers (the most common form of renal carcino-
 
 
@@ -8939,7 +8765,7 @@ mas is yellow to orange to gray-white, with prominent
 areas of cystic softening or of hemorrhage, either fresh
 
 
-or old (Fig. 14.24). The margins of the tumor are well defined.
+or old (**Fig. 14**.24). The margins of the tumor are well defined.
 
 
 However, at times small processes project into the surround-
@@ -8990,7 +8816,7 @@ vacuolated (lipid-laden) cells or clear cells are demarcated only
 by their cell membranes. The nuclei are usually small and round
 
 
-(Fig. 14.25). At the other extreme are granular cells, resembling
+(**Fig. 14**.25). At the other extreme are granular cells, resembling
 
 
 the tubular epithelium, which have small, round, regular nuclei
@@ -9011,12 +8837,8 @@ extremes of clear cells and solid, granular cells, all intergradations
 may be found. The cellular arrangement, too, varies widely. The
 
 
-# Chapter 14: Kidney and Its Collecting System
 
-
-*Clinical Features*
-
-
+### Clinical Features
 Renal cell carcinomas have several peculiar clinical charac-
 
 
@@ -9026,16 +8848,16 @@ teristics that create especially difficult and challenging diag-
 nostic problems. The signs and symptoms vary, but the most
 
 
-frequent presenting manifestation is hematuria, occurring in more
+frequent presenting manifestation is **hematuria**, occurring in more
 
 
-than 50% of cases. Macroscopic hematuria tends to be inter-
+than 50% of cases. Macroscopic **hematuria** tends to be inter-
 
 
 mittent and fleeting, superimposed on a steady microscopic
 
 
-hematuria. Less commonly, the tumor may declare itself
+**hematuria**. Less commonly, the tumor may declare itself
 
 
 simply by virtue of its size, when it has grown large enough
@@ -9068,7 +8890,7 @@ of erythropoietin by the cancer cells. Uncommonly, these
 tumors produce other hormone-like substances, resulting in
 
 
-hypercalcemia, hypertension, Cushing syndrome, or femi-
+hypercalcemia, **hypertension**, Cushing syndrome, or femi-
 
 
 nization or masculinization. These, as noted in Chapter 6,
@@ -9089,7 +8911,7 @@ are the lungs and the bones. It must be apparent that renal
 cell carcinoma manifests in many ways, some quite devious,
 
 
-but the triad of painless hematuria, a palpable abdominal mass,
+but the triad of painless **hematuria**, a palpable abdominal mass,
 
 
 and dull flank pain is characteristic.
@@ -9134,9 +8956,7 @@ variable papilla formation.
 cells are not as clear as in the other renal cell carcinomas.
 
 
-*Wilms Tumor*
-
-
+## Wilms Tumor
 Although Wilms tumor is rare in adults, it is the third most
 
 
@@ -9173,7 +8993,7 @@ along with other tumors of childhood.
 Bu F, Maga T, Meyer NC, et al: Comprehensive genetic analysis of
 
 
-complement and coagulation genes in atypical hemolytic uremic
+**complement** and coagulation genes in atypical hemolytic uremic
 
 
 syndrome, J Am Soc Nephrol 25:55, 2014. [An in-depth review of molec-
@@ -9182,7 +9002,7 @@ syndrome, J Am Soc Nephrol 25:55, 2014. [An in-depth review of molec-
 ular abnormalities in hemolytic uremic syndrome.]
 
 
-Fig. 14.24 Renal cell carcinoma: Representative cross-section showing yel-
+**Fig. 14**.24 Renal cell carcinoma: Representative cross-section showing yel-
 
 
 lowish, spherical neoplasm in one pole of the kidney. Note the tumor in the
@@ -9236,7 +9056,7 @@ structurally, large numbers of characteristic macrovesicles
 are seen.
 
 
-Fig. 14.25 The clear cell pattern of renal cell carcinoma.
+**Fig. 14**.25 The clear cell pattern of renal cell carcinoma.
 
 
 Cornec-Le Gall E, Audrézet MP, Le Meur Y: Genetics and pathogen-
@@ -9320,7 +9140,7 @@ Engl J Med 371:1847, 2014. [An excellent review of the classification of
 thrombotic microangiopathies.]
 
 
-Gubler MC: Inherited diseases of the glomerular basement membrane,
+Gubler MC: Inherited diseases of the glomerular **basement membrane**,
 
 
 Nat Clin Pract Nephrol 4:24, 2008. [A superb review of the pathophysiol-
@@ -9329,7 +9149,7 @@ Nat Clin Pract Nephrol 4:24, 2008. [A superb review of the pathophysiol-
 ogy, clinical presentations, and diagnostic testing strategies for Alport
 
 
-syndrome, thin basement membrane disease, and other types of hereditary
+syndrome, thin **basement membrane** disease, and other types of hereditary
 
 
 nephritis.]
@@ -9347,13 +9167,13 @@ good summary of the mechanisms of injury and clinical manifestations in
 antineutrophil cytoplasmic autoantibody–mediated disease.]
 
 
-Kambham N: Postinfectious glomerulonephritis, Adv Anat Pathol
+Kambham N: Postinfectious **glomerulonephritis**, Adv Anat Pathol
 
 
 19:338, 2012. [An excellent review of the pathology and pathogenesis of
 
 
-postinfectious glomerulonephritis.]
+postinfectious **glomerulonephritis**.]
 
 
 Kashtan CE, Segal Y: Genetic disorders of glomerular basement mem-
@@ -9362,12 +9182,10 @@ Kashtan CE, Segal Y: Genetic disorders of glomerular basement mem-
 branes, Nephron Clin Pract 118:c9, 2011. [An excellent review of the
 
 
-genetic aspects of glomerular basement membrane diseases.]
+genetic aspects of glomerular **basement membrane** diseases.]
 
 
-*Suggested Readings*
-
-
+## Suggested Readings
 Knowles MA, Hurst CD: Molecular biology of bladder cancer: new
 
 
@@ -9419,10 +9237,10 @@ kidney injury.]
 Robert T, Berthelot L, Cambier A, et al: Molecular insights into the
 
 
-pathogenesis of IgA nephropathy. Review, Trends Mol Med 21:762,
+pathogenesis of **IgA** nephropathy. Review, Trends Mol Med 21:762,
 
 
-*IgA*
+***IgA***
 
 
 [A
@@ -9431,7 +9249,7 @@ pathogenesis of IgA nephropathy. Review, Trends Mol Med 21:762,
 2015.
 
 
-glomerulonephritis.]
+**glomerulonephritis**.]
 
 
 pathogenesis
@@ -9452,7 +9270,7 @@ of
 of
 
 
-Ronco P, Debiec H: Pathophysiological advances in membranous
+Ronco P, Debiec H: Pathophysiological advances in **membranous**
 
 
 nephropathy: time for a shift in patient’s care, Lancet 385:1983, 2015.
@@ -9461,16 +9279,16 @@ nephropathy: time for a shift in patient’s care, Lancet 385:1983, 2015.
 [An excellent summary of the novel developments in the field of membra-
 
 
-nous glomerulonephritis.]
+nous **glomerulonephritis**.]
 
 
-Schrier RW, Wang W, Poole B, et al: Acute renal failure: definitions,
+Schrier RW, Wang W, Poole B, et al: Acute **renal failure**: definitions,
 
 
 diagnosis, pathogenesis, and therapy, J Clin Invest 114:5, 2004. [An
 
 
-insightful review covering all aspects of acute renal failure.]
+insightful review covering all aspects of acute **renal failure**.]
 
 
 Sethi S, Haas M, Markowitz GS, et al: Mayo Clinic/Renal Pathology
@@ -9485,10 +9303,10 @@ and Reporting of GN, J Am Soc Nephrol 27:1278, 2016. [An excellent
 summary of the consensus classification of glomerulonephritides.]
 
 
-Tryggvason K, Patrakka J, Wartiovaava J: Hereditary proteinuria syn-
+Tryggvason K, Patrakka J, Wartiovaava J: Hereditary **proteinuria** syn-
 
 
-dromes and mechanisms of proteinuria, N Engl J Med 354:1387,
+dromes and mechanisms of **proteinuria**, N Engl J Med 354:1387,
 
 
 2006. [An excellent review of the pathophysiology of defects in glomerular
