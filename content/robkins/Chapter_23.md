@@ -9,7 +9,7 @@ title: "Chapter 23: Central Nervous System"
 
 ### Neuronal Injury
 
-Neurons are the principal functional cells of the **central nervous system (CNS)**. They have limited regenerative capacity, making them particularly vulnerable to injury.
+**Neurons** are the principal functional cells of the **central nervous system (CNS)**. They have limited regenerative capacity, making them particularly vulnerable to injury.
 
 **Patterns of Neuronal Injury:**
 
@@ -39,6 +39,7 @@ Neurons are the principal functional cells of the **central nervous system (CNS)
 ### Microglial Cells
 
 **Microglial cells** are:
+
 - Long-lived cells derived from the embryonic yolk sac
 - Function as the **resident phagocytes of the CNS**
 - When activated by tissue injury, infection, or trauma: proliferate and become more prominent histologically
@@ -70,19 +71,22 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
   - May follow generalized hypoxic or ischemic insult or exposure to certain toxins
 
 **Clinical appearance:**
+
 - Edematous brain is softer than normal and often appears to "overfill" the cranial vault
 - In generalized edema: gyri are flattened, sulci are narrowed, ventricular cavities are compressed (Fig. 23.2)
 
 ### Hydrocephalus
 
-**Hydrocephalus** refers to an increase in the volume of CSF within the ventricular system.
+**Hydrocephalus** refers to an increase in the volume of **CSF** within the ventricular system.
 
 **Types:**
+
 - **Noncommunicating hydrocephalus**: Localized obstacle to CSF flow within the ventricular system (e.g., masses obstructing foramen of Monro or compressing the cerebral aqueduct)
 - **Communicating hydrocephalus**: Entire ventricular system is enlarged; usually caused by reduced CSF resorption
 - **Hydrocephalus ex vacuo**: Compensatory increase in CSF volume secondary to loss of brain volume from any underlying cause
 
 **Clinical note:**
+
 - In infancy before closure of cranial sutures: head enlarges
 - After suture fusion: hydrocephalus causes ventricular expansion and increased intracranial pressure, but no change in head circumference (Fig. 23.3)
 
@@ -92,7 +96,7 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 
 **Three main types (Fig. 23.4):**
 
-1. **Subfalcine (cingulate) herniation**: 
+1. **Subfalcine (cingulate) herniation**:
    - Unilateral or asymmetric expansion of a cerebral hemisphere displaces the cingulate gyrus under the edge of the falx
    - May compress the anterior cerebral artery
 
@@ -116,6 +120,7 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Cerebrovascular diseases** are brain disorders caused by pathologic processes involving blood vessels.
 
 **Three main pathogenic mechanisms:**
+
 1. **Thrombotic occlusion**
 2. **Embolic occlusion**
 3. **Vascular rupture**
@@ -127,14 +132,17 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Widespread ischemic-hypoxic injury** can occur in severe systemic hypotension (systolic pressures below 50 mm Hg), such as in cardiac arrest and shock.
 
 **Clinical outcomes vary with severity and duration:**
+
 - **Mild insult**: Transient postischemic confusional state, eventual complete recovery
 - **Severe insult**: Widespread neuronal death; patients may remain severely impaired or meet criteria for "brain death"
 
 **Most susceptible neurons:**
+
 - Pyramidal cells of the hippocampus and neocortex
 - Purkinje cells of the cerebellum
 
 **Morphology of global ischemia:**
+
 - Brain is swollen, with wide gyri and narrowed sulci
 - Poor demarcation between gray matter and white matter
 
@@ -157,6 +165,7 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Little collateral flow** to: thalamus, basal ganglia, deep white matter (supplied by deep penetrating vessels).
 
 **Sources of emboli:**
+
 - **Cardiac mural thrombi** (myocardial dysfunction, valvular disease, atrial fibrillation)
 - **Arteries** (atherosclerotic plaques in carotid arteries or aortic arch)
 - **Venous origin** crossing through patent foramen ovale (**paradoxical embolism**)
@@ -164,6 +173,7 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Territory of middle cerebral artery** is most frequently affected by embolic infarction.
 
 **Thrombotic occlusions** are usually superimposed on atherosclerotic plaques; common sites:
+
 - Carotid bifurcation
 - Origin of the middle cerebral artery
 - Either end of the basilar artery
@@ -171,16 +181,18 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Lacunar infarcts:** Small infarcts (few millimeters) from chronic damage to small penetrating arteries, usually from long-standing **hypertension**.
 
 **Types of infarcts (Fig. 23.7):**
+
 - **Nonhemorrhagic infarcts**: From acute vascular occlusions; may evolve into hemorrhagic infarcts with reperfusion
 - **Hemorrhagic infarcts**: Multiple, sometimes confluent, petechial hemorrhages
 
 ### Intracranial Hemorrhage
 
 **Causes:**
-1. Hypertension and other diseases leading to vascular wall injury
-2. Structural lesions (arteriovenous and cavernous malformations)
-3. Tumors
-4. Subarachnoid hemorrhages: ruptured aneurysms, vascular malformations, trauma, coagulopathies
+
+1. **Hypertension** and other diseases leading to vascular wall injury
+2. **Structural lesions** (arteriovenous and cavernous malformations)
+3. **Tumors**
+4. **Subarachnoid hemorrhages**: ruptured aneurysms, vascular malformations, trauma, coagulopathies
 
 #### Primary (Hypertensive) Brain Parenchymal Hemorrhage
 
@@ -194,25 +206,29 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Most frequent cause** of clinically significant nontraumatic subarachnoid hemorrhage: rupture of a **saccular (berry) aneurysm**.
 
 **Clinical presentation:**
+
 - Sudden, excruciating headache ("thunderclap headache")
 - Rapid loss of consciousness
 - 25–50% die from first bleed; recurrent bleeds common
 
 **Aneurysm locations:**
+
 - ~90% occur in the anterior circulation near major arterial branch points (Fig. 23.9)
 - ~34% at middle cerebral artery bifurcation
 - ~30% at posterior communicating artery
 - Multiple aneurysms exist in 20–30% of cases
 
 **Risk factors:**
-- Autosomal dominant polycystic kidney disease
-- Genetic disorders of extracellular matrix proteins (e.g., **Ehlers-Danlos syndrome**)
+
+- **Autosomal dominant polycystic kidney disease**
+- **Genetic disorders of extracellular matrix proteins** (e.g., **Ehlers-Danlos syndrome**)
 
 **Rupture risk:** ~1.3% per year overall; aneurysms >1 cm have ~50% risk per year.
 
 **Vasospasm** after subarachnoid hemorrhage can cause additional ischemic injury.
 
 **Saccular aneurysm morphology (Fig. 23.10):**
+
 - Thin-walled outpouching of an artery
 - Beyond the neck: muscular wall and intimal elastic lamina are absent
 - Lined only by thickened hyalinized intima
@@ -249,9 +265,10 @@ The brain and spinal cord are encased within the skull and spinal canal, with ne
 **Hypertension** causes **hyaline arteriolar sclerosis** of deep penetrating arteries and arterioles supplying the basal ganglia, hemispheric white matter, and brain stem.
 
 **Pathologic outcomes:**
+
 - **Lacunar infarcts**: Small cavitary infarcts in deep gray matter, internal capsule, deep white matter, and pons
 - **Slit hemorrhages**: Slit-like cavities with brownish discoloration from small hemorrhages
-- **Acute hypertensive encephalopathy**: 
+- **Acute hypertensive encephalopathy**:
   - Associated with sudden sustained increases in diastolic BP >130 mm Hg
   - Characterized by increased intracranial pressure and global cerebral dysfunction
   - May show brain edema with or without transtentorial or tonsillar herniation
@@ -272,25 +289,30 @@ Trauma to the brain and spinal cord is a significant cause of death and disabili
 ### Traumatic Parenchymal Injuries
 
 **Coup injury**: Brain injury at the site of impact
+
 **Contrecoup injury**: Injury opposite the site of impact
 
 **Contusions:**
+
 - Wedge-shaped, with widest aspect closest to point of impact (Fig. 23.12A)
 - Crests of gyri are most susceptible (closest to skull)
 - Common in orbitofrontal regions and temporal lobe tips
 
 **Diffuse axonal injury:**
+
 - More subtle but widespread injury to axons within the brain
 - Caused by angular acceleration, even without impact
 - ~50% of patients who develop coma shortly after trauma are believed to have white matter damage
 - Axonal swellings appear within hours of injury
 
 **Concussion:**
+
 - Reversible altered brain function, with or without loss of consciousness
 - Characteristic transient neurologic dysfunction: loss of consciousness, temporary respiratory arrest, loss of reflexes
 - Neurologic recovery is the norm, but amnesia persists
 
 **Chronic traumatic encephalopathy:**
+
 - From repeated episodes of concussion
 - Initially described in boxers (dementia pugilistica)
 - Now recognized in athletes participating in contact sports
@@ -324,6 +346,7 @@ Trauma to the brain and spinal cord is a significant cause of death and disabili
 - Typically manifest within first 48 hours after injury
 
 **Morphology:**
+
 - Acute subdural hematoma: collection of freshly clotted blood apposed to brain surface contour
 - Organization: lysis of clot (~1 week) → granulation tissue growth from dural surface (2 weeks) → fibrosis (1–3 months)
 - Commonly rebleed from thin-walled vessels of granulation tissue
@@ -385,6 +408,7 @@ Incidence of CNS malformations: ~1–2% of births.
 **Cerebral palsy**: Nonprogressive neurologic motor deficits from injury during prenatal and perinatal periods.
 
 **Two major types of injury:**
+
 1. **Hemorrhages**: Especially in premature infants; intraparenchymal hemorrhage in germinal matrix near anterior horn of lateral ventricle; may extend into ventricular system
 2. **Infarcts**: Supratentorial periventricular white matter (**periventricular leukomalacia**), especially in premature infants
    - Residua: chalky yellow plaques with white matter necrosis and dystrophic calcification (Fig. 23.15)
@@ -409,6 +433,7 @@ Incidence of CNS malformations: ~1–2% of births.
 **Meningitis** is an inflammatory process involving the leptomeninges within the subarachnoid space.
 
 **Types:**
+
 - **Acute pyogenic (bacterial)**
 - **Aseptic (usually viral)**
 - **Chronic**: Tuberculous, spirochetal, or fungal
@@ -438,6 +463,7 @@ Incidence of CNS malformations: ~1–2% of births.
 #### Chronic Meningitis
 
 **Tuberculous meningitis:**
+
 - Generalized signs: headache, malaise, mental confusion, vomiting
 - CSF: moderate cellularity (mononuclear or mixed), elevated protein, moderately reduced or normal glucose
 - May lead to **tuberculoma** (well-circumscribed intraparenchymal mass)
@@ -448,11 +474,13 @@ Incidence of CNS malformations: ~1–2% of births.
 #### Brain Abscesses
 
 **Causes:**
+
 - Direct implantation
 - Local extension (mastoiditis, paranasal sinusitis)
 - Hematogenous spread (from heart, lungs, distal bones, after tooth extraction)
 
 **Predisposing conditions:**
+
 - Acute bacterial endocarditis (septic emboli)
 - Cyanotic congenital heart disease (right-to-left shunt, loss of pulmonary filtration)
 - Chronic pulmonary infections (bronchiectasis)
@@ -462,6 +490,7 @@ Incidence of CNS malformations: ~1–2% of births.
 ### Viral Infections
 
 **Characteristic histologic features:**
+
 - Perivascular and parenchymal mononuclear cell infiltrates
 - **Microglial nodules**
 - **Neuronophagia**
@@ -476,6 +505,7 @@ Incidence of CNS malformations: ~1–2% of births.
 #### Herpesviruses
 
 **HSV-1 encephalitis:**
+
 - Most common in children and young adults
 - Affects inferior and medial temporal lobes and orbital gyri of frontal lobes (Fig. 23.18C)
 - Necrotizing, often hemorrhagic
@@ -485,6 +515,7 @@ Incidence of CNS malformations: ~1–2% of births.
 **HSV-2:** Usually causes meningitis in adults; severe encephalitis in neonates born to mothers with active primary HSV genital infections.
 
 **Varicella-zoster virus (VZV):**
+
 - Establishes latent infection in dorsal root ganglia neurons
 - Reactivation manifests as **shingles** (painful, vesicular skin eruption in dermatomal distribution)
 - May cause granulomatous arteritis leading to tissue infarcts
@@ -522,6 +553,7 @@ Incidence of CNS malformations: ~1–2% of births.
 **Aseptic meningitis** occurs within 1–2 weeks of primary HIV infection (~10% of patients).
 
 **Immune reconstitution inflammatory syndrome (IRIS):**
+
 - Risk when effective anti-HIV therapy is begun in established infection
 - Rapidly developing cognitive impairment and cerebral edema
 - Often associated with mycobacterial, fungal, or viral opportunistic CNS infection
@@ -549,12 +581,14 @@ Incidence of CNS malformations: ~1–2% of births.
 - Accumulation of PrPsc leads to neuronal injury and death
 
 **Types of Creutzfeldt-Jakob Disease (CJD):**
+
 - **Sporadic CJD (sCJD)**: ~85% of cases; spontaneous conformational change
-- **Familial CJD (fCJD)**: PRNP mutations accelerate spontaneous conformational change
+- **Familial CJD (fCJD)**: **PRNP** mutations accelerate spontaneous conformational change
 - **Iatrogenic CJD**: Contaminated electrodes, human growth hormone
 - **Variant CJD (vCJD)**: From bovine spongiform encephalopathy ("mad cow disease"); affects young adults; abundant cortical amyloid plaques surrounded by spongiform change
 
 **CJD morphology:**
+
 - **Spongiform transformation**: Multifocal formation of microscopic vacuoles in neuropil (Fig. 23.22A)
 - Severe cases: neuronal loss, reactive gliosis, "status spongiosus"
 - No inflammatory infiltrate
@@ -571,6 +605,7 @@ Incidence of CNS malformations: ~1–2% of births.
 **Prevalence:** ~1 per 1000 individuals in US and Europe.
 
 **Pathogenesis:**
+
 - Autoimmune response against myelin sheath components
 - **TH1 cells** secrete IFN-γ, activating macrophages
 - **TH17 cells** promote leukocyte recruitment
@@ -578,12 +613,14 @@ Incidence of CNS malformations: ~1–2% of births.
 - B lymphocytes and antibodies also play important role
 
 **Genetic susceptibility:**
+
 - 15-fold higher incidence in first-degree relatives
 - ~150-fold higher with affected monozygotic twin
 - Each copy of **HLA-DRB1*1501** allele: ~3-fold increase in MS risk
 - IL-2 and IL-7 receptor genes also associated
 
 **Morphology:**
+
 - Multifocal white matter disease
 - **Plaques**: Discrete, slightly depressed, glassy-appearing, gray-tan (Fig. 23.23A)
 - Common near ventricles, optic nerves, chiasm, brain stem, fiber tracts, cerebellum, spinal cord
@@ -592,6 +629,7 @@ Incidence of CNS malformations: ~1–2% of births.
 - Axons relatively preserved but may be reduced in number
 
 **Clinical features:**
+
 - Multiple relapses followed by episodes of remission
 - Recovery during remissions typically incomplete
 - Gradual, often stepwise accumulation of neurologic deficits
@@ -602,6 +640,7 @@ Incidence of CNS malformations: ~1–2% of births.
 ### Other Acquired Demyelinating Diseases
 
 **Acute disseminated encephalomyelitis:**
+
 - Post-infectious autoimmune reaction to myelin
 - Onset 1–2 weeks after antecedent infection
 - Rapid progression; 20% fatality rate
@@ -626,12 +665,14 @@ Incidence of CNS malformations: ~1–2% of births.
 
 ## Genetic Metabolic Diseases
 
-**Neuronal storage diseases:**
+### Neuronal Storage Diseases
+
 - Characterized by accumulation of storage material within neurons → neuronal death
 - Most are autosomal recessive disorders caused by deficiency of specific catabolic enzymes (sphingolipids, mucopolysaccharides, mucolipids)
 - Examples: **Tay-Sachs disease**, **Niemann-Pick disease**, **mucopolysaccharidoses** (see Chapter 7)
 
-**Mitochondrial encephalomyopathies:**
+### Mitochondrial Encephalomyopathies
+
 - Disorders of oxidative phosphorylation
 - Gray matter more severely affected than white matter
 - Caused by mutations in mitochondrial or nuclear genomes
@@ -655,6 +696,7 @@ Incidence of CNS malformations: ~1–2% of births.
 #### Vitamin B12 Deficiency
 
 **Subacute combined degeneration of the spinal cord:**
+
 - Both ascending and descending tracts affected
 - Early: mild ataxia, lower-extremity numbness and tingling
 - Progression: spastic weakness of lower extremities; may develop complete paraplegia
@@ -666,6 +708,7 @@ Incidence of CNS malformations: ~1–2% of births.
 **Hyperglycemia:** Associated with ketoacidosis or hyperosmolar coma; intracellular dehydration. Must correct gradually to avoid cerebral edema.
 
 **Hepatic encephalopathy:**
+
 - Depressed consciousness to coma
 - **Asterixis**: "Flapping tremor" when extending arms
 - Elevated ammonia levels (though levels vary widely)
@@ -699,11 +742,13 @@ Incidence of CNS malformations: ~1–2% of births.
 **Most common cause of dementia** in older adults.
 
 **Incidence by age:**
+
 - 65–74 years: ~3%
 - 75–84 years: ~19%
 - >84 years: ~47%
 
 **Pathogenesis — Aβ and tau accumulation:**
+
 - **Aβ** is created when **amyloid precursor protein (APP)** is sequentially cleaved by **β-secretase (BACE)** and **γ-secretase**
 - Pathogenic mutations in APP or γ-secretase components (presenilin-1, presenilin-2) increase Aβ generation
 - **Trisomy 21 (Down syndrome)**: Extra APP gene copy → higher Aβ generation → elevated AD risk
@@ -712,12 +757,14 @@ Incidence of CNS malformations: ~1–2% of births.
 - Tangles develop intracellularly then persist extracellularly after neuronal death
 
 **Other genetic risk factors:**
+
 - **Apolipoprotein E (ApoE)** locus on chromosome 19
 - **ApoE ε4 allele** increases risk for AD
 
 **Clinical features:** Insidious onset of impaired higher intellectual function, memory impairment, altered mood and behavior → disorientation, aphasia → profound disability, mute, immobile → death from intercurrent infections.
 
 **Morphology:**
+
 - Cortical atrophy (frontal, temporal, parietal lobes); widened sulci; ventricular enlargement (hydrocephalus ex vacuo)
 - **Neuritic plaques**: Focal, spherical collections of dilated, tortuous dystrophic neurites around central amyloid core; 20–200 µm diameter (Fig. 23.25)
 - **Neurofibrillary tangles**: Bundles of paired helical filaments in neuronal cytoplasm; contain hyperphosphorylated tau
@@ -728,17 +775,20 @@ Incidence of CNS malformations: ~1–2% of births.
 **Hypokinetic movement disorder** caused by loss of dopaminergic neurons from the **substantia nigra**.
 
 **Clinical features (parkinsonism):**
+
 - **Tremor**
 - **Rigidity**
 - **Bradykinesia**
 - **Instability**
 
 **Pathogenesis:**
+
 - **Lewy bodies**: Characteristic inclusions containing **α-synuclein**
 - Abnormal protein and organelle clearance due to defects in autophagy and lysosomal degradation
 - Mutations in genes involved in endosomal trafficking pathways (LRRK2, Parkin)
 
 **Morphology:**
+
 - **Pallor of substantia nigra** (Fig. 23.27A–B)
 - Loss of catecholaminergic neurons with gliosis
 - **Lewy bodies**: Cytoplasmic, eosinophilic, round to elongated inclusions in remaining neurons (Fig. 23.27C)
@@ -752,12 +802,14 @@ Incidence of CNS malformations: ~1–2% of births.
 **Autosomal dominant** movement disorder with degeneration of striatum (caudate and putamen).
 
 **Clinical features:**
+
 - Involuntary jerky movements (chorea); writhing movements of extremities
 - Cognitive symptoms: forgetfulness, thought and affective disorders → severe dementia
 - Increased suicide risk
 - Disease course: ~15 years to death
 
 **Pathogenesis:**
+
 - **CAG trinucleotide repeat expansions** in huntingtin gene on chromosome 4p16.3
 - Normal alleles: 11–34 repeats; disease-causing: increased to hundreds
 - Larger repeats → earlier onset (**anticipation**)
@@ -765,6 +817,7 @@ Incidence of CNS malformations: ~1–2% of births.
 - Toxic gain-of-function from expanded polyglutamine tract
 
 **Morphology:**
+
 - Striking atrophy of caudate nucleus (Fig. 23.28)
 - Atrophy of putamen, globus pallidus, often frontal lobe
 - Dilated lateral and third ventricles
@@ -774,10 +827,12 @@ Incidence of CNS malformations: ~1–2% of births.
 ### Amyotrophic Lateral Sclerosis (ALS)
 
 **Motor neuron disease** affecting:
+
 - Lower motor neurons in spinal cord and brain stem
 - Upper motor neurons (Betz cells) in motor cortex
 
 **Clinical features:**
+
 - Lower motor neuron signs: denervation, muscular atrophy, weakness, fasciculations
 - Upper motor neuron signs: paresis, hyperreflexia, spasticity, Babinski sign
 - "Lateral sclerosis": degeneration of corticospinal tracts in lateral spinal cord
@@ -785,11 +840,13 @@ Incidence of CNS malformations: ~1–2% of births.
 - Usually sporadic (~90%); ~10% familial (autosomal dominant)
 
 **Genetics:**
+
 - **SOD1 mutations**: ~20% of familial forms; misfolded SOD1 protein triggers unfolded protein response
 - **C9orf72 hexanucleotide repeat expansion**: Most common cause of familial ALS; also in FTLD
 - **TDP43 and FUS**: RNA binding proteins; convergence suggests RNA processing abnormality
 
 **Morphology:**
+
 - Thin, gray anterior roots of spinal cord
 - Mild atrophy of precentral gyrus (upper motor neuron loss)
 - Reduction in anterior horn cell neurons with reactive gliosis
@@ -802,11 +859,13 @@ Incidence of CNS malformations: ~1–2% of births.
 **FTLD** encompasses disorders preferentially affecting the frontal and/or temporal lobes.
 
 **Clinical features:**
+
 - Progressive deterioration of language and changes in personality
 - Behavioral and language problems precede memory disturbances
 - Onset typically younger than AD
 
 **Two major pathologic subgroups:**
+
 1. **FTLD-tau**: Includes **Pick disease** with smooth, round tau-containing inclusions (Pick bodies)
 2. **FTLD-TDP43**: Aggregates containing **TDP43**; overlap with ALS
 
@@ -817,6 +876,7 @@ Incidence of CNS malformations: ~1–2% of births.
 ## Tumours of the Central Nervous System
 
 **Annual incidence:**
+
 - Intracranial tumors: 10–17 per 100,000
 - Intraspinal tumors: 1–2 per 100,000
 - ~50–75% are primary; rest metastatic
@@ -825,21 +885,25 @@ Incidence of CNS malformations: ~1–2% of births.
 ### Gliomas
 
 **Classification:**
+
 - **Astrocytomas** (~80% of adult gliomas)
 - **Oligodendrogliomas**
 - **Ependymomas**
 
 **Diffuse astrocytomas** (grades II, III, IV):
+
 - Most frequent in 4th–6th decades
 - Usually in cerebral hemispheres
 - Present with seizures, headaches, focal neurologic deficits
 
 **Grades:**
+
 - **Grade II (diffuse astrocytoma)**: Poorly defined, gray, infiltrative; mean survival >5 years
 - **Grade III (anaplastic astrocytoma)**: Densely cellular, nuclear pleomorphism, mitoses present
 - **Grade IV (glioblastoma)**: Necrosis (serpiginous bands with palisading tumor cells) or microvascular proliferation; median survival with treatment: ~15 months
 
 **Oligodendrogliomas** (~5–15% of gliomas):
+
 - Most common in 4th–5th decades
 - Usually in frontal or temporal lobes
 - **1p/19q co-deletion**: Characteristic genetic alteration
@@ -848,6 +912,7 @@ Incidence of CNS malformations: ~1–2% of births.
 - Calcification in ~90%
 
 **Pilocytic astrocytoma:**
+
 - Relatively benign; children and young adults
 - Usually in cerebellum; also third ventricle, optic pathways, spinal cord
 - Often cystic with mural nodule
@@ -855,12 +920,14 @@ Incidence of CNS malformations: ~1–2% of births.
 - **Rosenthal fibers**, eosinophilic granular bodies, microcysts
 
 **Ependymomas:**
+
 - Arise next to ependyma-lined ventricular system
 - First 2 decades: typically near fourth ventricle
 - Adults: most common in spinal cord
 - **Perivascular pseudorosettes**: Tumor cells arranged around vessels with intervening ependymal processes (Fig. 23.31)
 
 **Midline gliomas:**
+
 - Arise in brain stem (pons), spinal cord, thalamus
 - **H3 K27M mutation**: Characteristic; loss of lysine residue in histone H3
 - Infiltrative; often behave aggressively despite lacking typical high-grade features
@@ -889,6 +956,7 @@ Incidence of CNS malformations: ~1–2% of births.
 - ~50% of non-NF2-associated meningiomas have **NF2 tumor suppressor gene** mutations
 
 **WHO grades:**
+
 - **Grade I**: Well-defined, compress but typically do not invade brain; various histologic patterns (meningothelial, fibroblastic, transitional, psammomatous, secretory)
 - **Grade II (atypical)**: Increased mitotic rate, prominent nucleoli, necrosis, brain invasion; higher recurrence
 - **Grade III (anaplastic/malignant)**: Highly aggressive; may resemble high-grade sarcoma or carcinoma
@@ -901,6 +969,7 @@ Incidence of CNS malformations: ~1–2% of births.
 - Elicit local edema
 
 **Paraneoplastic syndromes:**
+
 - Subacute cerebellar degeneration (Purkinje cell destruction)
 - Limbic encephalitis (medial temporal lobe involvement)
 - Subacute sensory neuropathy (dorsal root ganglion involvement)
@@ -908,19 +977,22 @@ Incidence of CNS malformations: ~1–2% of births.
 
 ### Familial Tumor Syndromes
 
-**Tuberous sclerosis:**
+#### Tuberous Sclerosis
+
 - **TSC1** (hamartin) or **TSC2** (tuberin) mutations
 - **mTOR** dysregulation
 - CNS: cortical tubers, subependymal hamartomas, subependymal giant cell astrocytoma
 - Extracerebral: renal angiomyolipomas, retinal glial hamartomas, pulmonary lymphangiomyomatosis, cardiac rhabdomyomas, cutaneous angiofibromas
 
-**von Hippel–Lindau disease:**
+#### von Hippel–Lindau Disease
+
 - **VHL** tumor suppressor gene mutation
 - Cerebellar hemangioblastomas (mural nodule in cyst), retina, spinal cord
 - Pancreatic, hepatic, renal cysts; renal cell carcinoma
 - **VHL protein** normally degrades hypoxia-inducible factor (HIF); loss → VEGF expression → vascular tumors
 
 **Hemangioblastoma morphology:**
+
 - Highly vascular neoplasm; mural nodule associated with large fluid-filled cyst
 - Capillary-sized vessels separated by stromal cells with vacuolated, lipid-rich cytoplasm
 - Stromal cells express **inhibin** (diagnostic marker)
