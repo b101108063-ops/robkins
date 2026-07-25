@@ -1,4 +1,4 @@
-baseURL = "/robkins/"
+baseURL = "/robkins/robkins/"
 locale = "zh-tw"
 theme = "PaperMod"
 
@@ -15,7 +15,7 @@ date = ["date", "publishDate", "lastmod"]
   [[menu.main]]
     identifier = "robkins"
     name = "Robbins Pathology"
-    url = "/robkins/"
+    url = "/"
     weight = 10
 
 [outputs]
