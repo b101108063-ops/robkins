@@ -1,143 +1,170 @@
 {{ define "main" }}
-<header class="page-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
-    <h1>
-        {{ if in .RelPermalink "huppert" }}
-            Huppert's Notes 章節清單
-        {{ else }}
-            {{ if in .RelPermalink "tintinalli" }}
-                Tintinalli's Emergency Medicine 章節清單
-            {{ else }}
-                {{ .Title }}
-            {{ end }}
-        {{ end }}
-    </h1>
-    
-    <a href="{{ "search/" | absURL }}" class="book-search-btn">🔍 筆記搜尋</a>
+{{- $section := .Section -}}
+{{- $isRobbins := eq $section "robkins" -}}
+
+{{ if $isRobbins }}
+<header class="page-header">
+    <h1>Robbins Basic Pathology</h1>
+    <p class="page-subtitle">Tenth Edition &middot; Vinay Kumar, Abul K. Abbas, Jon C. Aster</p>
 </header>
 
-{{ if in .RelPermalink "huppert" }}
-    <!-- Huppert 專屬：照不同系統分類群組顯示 -->
-    <div class="chapters-wrapper" style="margin-top: 2rem;">
-        {{- $parts := slice "part1" "part2" "part3" "part4" "part5" "part6" "part7" "part8" "part9" "part10" "part11" "part12" "part13" "appendix" -}}
-        {{- $partNames := slice "Part 1: Cardiology" "Part 2: Pulmonology" "Part 3: Critical Care Medicine" "Part 4: Gastroenterology" "Part 5: Endocrinology" "Part 6: Nephrology" "Part 7: Hematology and Oncology" "Part 8: Infectious Diseases" "Part 9: Rheumatology" "Part 10: General Medicine" "Part 11: Dermatology" "Part 12: Neurology" "Part 13: Psychiatry" "Appendices & Abbreviations" -}}
+<div class="chapters-wrapper">
 
-        {{- range $index, $pKey := $parts -}}
-            {{- $titleStr := index $partNames $index -}}
-            {{- $matchedPages := where site.RegularPages "Section" "huppert" -}}
-            
-            {{- $hasAny := false -}}
-            {{- range $matchedPages -}}
-                {{- $currentDir := .File.Dir -}}
-                {{- if and (or (eq $currentDir (printf "huppert/%s/" $pKey)) (eq $currentDir (printf "huppert/%s\\" $pKey)) (in $currentDir (printf "/%s/" $pKey)) (in $currentDir (printf "\\%s\\" $pKey))) (ne .Layout "search") -}}
-                    {{- $hasAny = true -}}
-                {{- end -}}
-            {{- end -}}
-
-            {{- if $hasAny -}}
-                <div class="part-section" style="margin-bottom: 2rem;">
-                    <h3 class="part-category-title">{{ $titleStr }}</h3>
-                    <div class="list-container" style="margin-top: 0.8rem !important;">
-                        {{- range sort $matchedPages "File.LogicalName" -}}
-                            {{- $currentDir := .File.Dir -}}
-                            {{- if and (or (eq $currentDir (printf "huppert/%s/" $pKey)) (eq $currentDir (printf "huppert/%s\\" $pKey)) (in $currentDir (printf "/%s/" $pKey)) (in $currentDir (printf "\\%s\\" $pKey))) (ne .Layout "search") -}}
-                                <a href="{{ .Permalink }}" class="list-item">
-                                    <span class="section-title">📖 {{ .Title }}</span>
-                                    <span class="arrow">➔</span>
-                                </a>
-                            {{- end -}}
-                        {{- end -}}
-                    </div>
-                </div>
-            {{- end -}}
-        {{- end -}}
+    <div class="chapter-group">
+        <h3 class="group-title">基礎病理</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_01/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH01</span><span class="chapter-title">The Cell as a Unit of Health and Disease</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_02/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH02</span><span class="chapter-title">Cell Injury, Cell Death, and Adaptations</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_03/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH03</span><span class="chapter-title">Inflammation and Repair</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_04/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH04</span><span class="chapter-title">Hemodynamic Disorders, Thromboembolism, and Shock</span><span class="arrow">›</span>
+            </a>
+        </div>
     </div>
 
-{{ else }}
-    <!-- Tintinalli 或其他一般清單保持原本的條列樣式 -->
-    <div class="list-container">
-        {{ $sortedPages := sort .Pages "File.LogicalName" }}
-        {{ range $sortedPages }}
-            {{ $pageTitle := "" }}
-            {{ if .Params.title_tc }}
-                {{ $pageTitle = .Params.title_tc }}
-            {{ else }}
-                {{ $pageTitle = .Title }}
-            {{ end }}
-            
-            {{ if and (ne .Layout "search") (not (in $pageTitle "搜尋")) }}
-                <a href="{{ .Permalink }}" class="list-item">
-                    <span class="section-title">📖 {{ $pageTitle }}</span>
-                    <span class="arrow">➔</span>
-                </a>
-            {{ end }}
-        {{ end }}
+    <div class="chapter-group">
+        <h3 class="group-title">免疫與腫瘤</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_05/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH05</span><span class="chapter-title">Diseases of the Immune System</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_06/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH06</span><span class="chapter-title">Neoplasia</span><span class="arrow">›</span>
+            </a>
+        </div>
     </div>
-{{ end }}
+
+    <div class="chapter-group">
+        <h3 class="group-title">遺傳與環境</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_07/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH07</span><span class="chapter-title">Genetic and Pediatric Diseases</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_08/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH08</span><span class="chapter-title">Environmental and Nutritional Diseases</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_09/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH09</span><span class="chapter-title">General Pathology of Infectious Diseases</span><span class="arrow">›</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="chapter-group">
+        <h3 class="group-title">心血管與血液</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_10/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH10</span><span class="chapter-title">Blood Vessels</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_11/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH11</span><span class="chapter-title">Heart</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_12/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH12</span><span class="chapter-title">Hematopoietic and Lymphoid Systems</span><span class="arrow">›</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="chapter-group">
+        <h3 class="group-title">呼吸與腎臟</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_13/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH13</span><span class="chapter-title">Lung</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_14/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH14</span><span class="chapter-title">Kidney and Its Collecting System</span><span class="arrow">›</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="chapter-group">
+        <h3 class="group-title">消化系統</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_15/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH15</span><span class="chapter-title">Oral Cavities and Gastrointestinal Tract</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_16/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH16</span><span class="chapter-title">Liver and Gallbladder</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_17/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH17</span><span class="chapter-title">Pancreas</span><span class="arrow">›</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="chapter-group">
+        <h3 class="group-title">泌尿生殖與內分泌</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_18/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH18</span><span class="chapter-title">Male Genital System and Lower Urinary Tract</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_19/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH19</span><span class="chapter-title">Female Genital System and Breast</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_20/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH20</span><span class="chapter-title">Endocrine System</span><span class="arrow">›</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="chapter-group">
+        <h3 class="group-title">神經與骨骼</h3>
+        <div class="group-chapters">
+            <a href="{{ "/robkins/chapter_21/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH21</span><span class="chapter-title">Bones, Joints, and Soft Tissue Tumors</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_22/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH22</span><span class="chapter-title">Peripheral Nerves and Muscles</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_23/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH23</span><span class="chapter-title">Central Nervous System</span><span class="arrow">›</span>
+            </a>
+            <a href="{{ "/robkins/chapter_24/" | relURL }}" class="chapter-item">
+                <span class="chapter-num">CH24</span><span class="chapter-title">Skin</span><span class="arrow">›</span>
+            </a>
+        </div>
+    </div>
+
+</div>
 
 <style>
-    .book-search-btn {
-        background-color: #3a86ff;
-        color: white;
-        padding: 0.6rem 1.2rem;
-        border-radius: 6px;
-        text-decoration: none;
-        font-weight: bold;
-        font-size: 0.95rem;
-        transition: background 0.2s;
-    }
-    .book-search-btn:hover {
-        background-color: #2563eb;
-    }
-
-    .chapters-wrapper {
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .part-category-title {
-        font-size: 1.15rem;
-        color: #3a86ff;
-        border-left: 4px solid #3a86ff;
-        padding-left: 0.6rem;
-        margin-bottom: 0.5rem;
-    }
-
-    .list-container {
-        display: flex !important;
-        flex-direction: column !important;
-        gap: 10px !important;
-        margin-top: 2rem !important;
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    
-    .list-item {
-        display: flex !important;
-        align-items: center !important;
-        justify-content: space-between !important;
-        padding: 1rem 1.5rem !important;
-        background-color: #242526 !important;
-        color: #e5e7eb !important;
-        text-decoration: none !important;
-        border-radius: 8px !important;
-        border: 1px solid #38393a !important;
-        font-size: 1.05rem !important;
-        font-weight: 500 !important;
-        box-sizing: border-box !important;
-        transition: all 0.2s ease-in-out;
-    }
-    
-    .list-item:hover {
-        background-color: #2a2b2c !important;
-        border-color: #3a86ff !important;
-        transform: translateX(4px);
-    }
-
-    .arrow {
-        color: #3a86ff;
-        font-weight: bold;
-    }
+    .chapters-wrapper { max-width: 700px; margin: 2rem auto; display: flex; flex-direction: column; gap: 1.5rem; }
+    .chapter-group { background: #1e1f20; border: 1px solid #38393a; border-radius: 10px; padding: 1rem 1.2rem; }
+    .group-title { font-size: 1rem; color: #3a86ff; margin: 0 0 0.8rem 0; padding-bottom: 0.5rem; border-bottom: 1px solid #38393a; }
+    .group-chapters { display: flex; flex-direction: column; gap: 6px; }
+    .chapter-item { display: flex; align-items: center; padding: 0.6rem 0.8rem; background: #242526; border-radius: 6px; text-decoration: none; color: #e5e7eb; font-size: 0.9rem; transition: all 0.2s; }
+    .chapter-item:hover { background: #2a2b2c; border-color: #3a86ff; transform: translateX(4px); }
+    .chapter-num { color: #3a86ff; font-weight: 600; min-width: 50px; margin-right: 0.8rem; flex-shrink: 0; }
+    .chapter-title { flex: 1; color: #e5e7eb; line-height: 1.4; }
+    .arrow { color: #3a86ff; font-weight: bold; margin-left: 0.5rem; flex-shrink: 0; }
 </style>
+
+{{ else }}
+{{/* 非 Robbins 章節：使用原本的書架卡片樣式 */}}
+<header class="page-header" style="text-align: center; margin-bottom: 2rem;">
+    <h1>{{ .Title }}</h1>
+</header>
+<div class="bookshelf-container">
+    <div class="book-card">
+        <h2 class="book-card-title">{{ .Title }}</h2>
+        <div class="book-card-actions">
+            <a href="{{ "search/" | absURL }}" class="book-action-btn secondary">🔍 搜尋</a>
+        </div>
+    </div>
+</div>
+<style>
+    .bookshelf-container { max-width: 800px; margin: 0 auto; }
+    .book-card { background-color: #1e1f20; border: 1px solid #38393a; border-radius: 10px; padding: 1.8rem; }
+    .book-card-title { font-size: 1.25rem; font-weight: bold; color: #3a86ff; margin: 0 0 1rem 0; }
+    .book-card-actions { display: flex; gap: 12px; }
+    .book-action-btn { flex: 1; display: flex; align-items: center; justify-content: center; padding: 0.9rem 1.2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1rem; transition: all 0.2s; box-sizing: border-box; }
+    .book-action-btn.secondary { background-color: #242526; color: #3a86ff; border: 1px solid #38393a; }
+    .book-action-btn.secondary:hover { background-color: #3a86ff; color: #fff; }
+</style>
+{{ end }}
 {{ end }}
