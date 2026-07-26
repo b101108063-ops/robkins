@@ -5,7 +5,7 @@ title: "Chapter 05: Diseases of the Immune System"
 
 # Chapter 5: Diseases of the Immune System
 
-## Chapter 5 導讀
+## 章節導讀
 
 本章系統性介紹免疫系統疾病的病理基礎。首先說明固有免疫（innate immunity）與適應性免疫（adaptive immunity）的組成與運作邏輯：固有免疫包括上皮屏障、吞噬細胞、NK cells、補體系統，以及 TLRs、NLRs/inflammasome 等 pattern recognition receptors；適應性免疫由 T 與 B lymphocytes 執行，T cells 負責細胞免疫（透過 MHC class I/II 呈現胜肽），B cells 負責體液免疫（產生抗體）。接著探討免疫系統疾病的四大類型：過敏反應（IgE-mediated 與免疫複合體疾病）、自體免疫疾病（全身性與器官特異性）、免疫缺乏病（先天性與获得性），以及固體器官移植與造血幹細胞移植的免疫排斥問題。理解免疫系統的正常運作與病理失調，是認識風濕性疾病、過敏、愛滋病、移植排斥等臨床重要疾病的關鍵。
 

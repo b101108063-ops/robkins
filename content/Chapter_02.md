@@ -5,7 +5,7 @@ title: "Chapter 02: Cell Injury, Cell Death, and Adaptations"
 
 # Chapter 2: Cell Injury, Cell Death, and Adaptations
 
-## Chapter 2 導讀
+## 章節導讀
 
 本章探討細胞層級的病理核心議題——當細胞遭受損傷時，會發生什麼？從可逆性傷害演進到不可逆損傷，最終導致 cell death，是所有疾病的根本基礎。內容分為三大區塊：首先，介紹 cell injury 的原因（缺氧、毒素、感染、免疫反應、基因異常、營養失衡、物理因素及老化）與順序（可逆性傷害→不可逆傷害→細胞死亡）；其次，詳述兩種主要的 cell death 形式——以 membrane rupture 與 inflammation 為特徵的 necrosis，以及受調控且不引發發炎的 apoptosis，並說明 necroptosis 與 pyroptosis 等替代死亡途徑；最後，探討細胞對有害環境的適應策略（hypertrophy、hyperplasia、atrophy、metaplasia）以及異常物質堆積與 cellular aging。理解這些機制，是認識後續各系統病理的基石。
 

@@ -5,7 +5,7 @@ title: "Chapter 03: Inflammation and Repair"
 
 # Chapter 3: Inflammation and Repair
 
-## Chapter 3 導讀
+## 章節導讀
 
 Inflammation（發炎）是血管化組織對感染與組織損傷的基本防禦反應，其目的在於動員 host defense 的細胞與分子抵禦致病因子的侵害。本章分為三大區塊：首先，介紹 inflammation 的基本概念，包括 acute 與 chronic inflammation 的比較、致病原（感染、組織壞死、異物、免疫反應）、chemical mediators 的角色，以及 inflammation 的 termination與 repair；其次，詳述 acute inflammation 的三個核心環節——血管反應（vasodilation、increased permeability、exudation）、leukocyte recruitment 的多步驟過程（rolling、adhesion、transmigration、chemotaxis），以及 phagocytosis 與 intracellular killing 機制（ROS、NO、lysosomal enzymes）；最後，討論 inflammation 的 chemical mediators（histamine、prostaglandins、leukotrienes、cytokines、complement）、chronic inflammation 的特色（lymphocytes、macrophages、granuloma formation），以及 tissue repair（regeneration、fibrosis、wound healing）。理解 inflammation 的完整過程，是認識幾乎所有疾病的病理機制的基礎。
 

@@ -5,7 +5,7 @@ title: "Chapter 04: Hemodynamic Disorders, Thromboembolism, and Shock"
 
 # Chapter 4: Hemodynamic Disorders, Thromboembolism, and Shock
 
-## Chapter 4 導讀
+## 章節導讀
 
 本章探討三類血液動力學障礙——這些機制是許多疾病的共同病理基礎。首先介紹 edema（水腫）的成因與病理生理學：血管內流體與組織間質之間的 fluid exchange 由 hydrostatic pressure 與 colloid osmotic pressure 調控，任何造成這兩種壓力失衡的因素都會導致水液積聚；接著說明 hemorrhage（出血）的類型與臨床意義；然後詳述 hemostasis 與 thrombosis 的機制，包括血小板的功能（黏附、活化、聚集）、coagulation cascade（外在途徑與內在途徑）、fibrinolytic system，以及 endotheliium 的 dual role（抗血栓與促血栓）；最後討論 thromboembolism（血栓栓塞症）的各種臨床形態，以及 shock（休克）的三種主要類型（hypovolemic、cardiogenic、distributive）和其共同的最終通路——微循環衰竭與細胞損傷。理解這些概念，是認識心血管疾病、肺栓塞、腦中風等常見致命疾病的關鍵。
 

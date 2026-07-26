@@ -5,7 +5,7 @@ title: "Chapter 01: The Cell as a Unit of Health and Disease"
 
 # Chapter 1: The Cell as a Unit of Health and Disease
 
-## Chapter 1 導讀
+## 章節導讀
 
 本章是全書的基礎，介紹構成人體的基本單位——細胞。細胞既是健康的基礎，也是疾病的起點。內容涵蓋三個核心面向：首先，基因體（genome）的結構與調控——從 DNA 序列、chromatin 組織、histone 修飾，到 microRNA、lncRNA 的基因調控機制，以及新興的 CRISPR 基因編輯技術；其次，細胞的基礎 housekeeping 功能——包括各胞器的結構與職責、plasma membrane 的運輸機制、cytoskeleton 的支撐與運動功能、cell-cell interaction 的連接結構；最後，細胞的老化（cellular aging）與 senescence 機制。理解這些基本概念，是深入學習後續各系統病理的必備台階。
 

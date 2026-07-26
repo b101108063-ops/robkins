@@ -5,7 +5,7 @@ title: "Chapter 06: Neoplasia"
 
 # Chapter 6: Neoplasia
 
-## Chapter 6 導讀
+## 章節導讀
 
 Neoplasia（腫瘤）是病理學的核心章節，涵蓋從分子機制到臨床表徵的完整知識體系。本章首先闡述 neoplasm 的命名規則與流行病學，區分良性腫瘤與惡性腫瘤（cancers）的關鍵差異；接著深入探討癌症的分子基礎——從基因變異（point mutations、染色體異常、deletions、amplifications）到表觀遺傳修飾，以及 noncoding RNA 在腫瘤發生中的角色；然後系統解說腫瘤的八大 hallmark 特性（生長信號自給、對生長抑制信號不敏感、代謝重編程、逃避凋亡、無限複製潛能、持續血管新生、侵襲與轉移、免疫監控逃逸）與兩個 enabling 特徵（基因組不穩定性、腫瘤促進性發炎）；最後說明致癌因素（化學致癌物、輻射、病毒與微生物）、癌症對宿主的影响（cachexia、paraneoplastic syndromes）以及診斷與治療的現代方法。理解腫瘤生物學，是認識癌症診斷與治療的必備基礎。
 
