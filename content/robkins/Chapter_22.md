@@ -3,550 +3,244 @@ layout: single
 title: "Chapter 22: Peripheral Nerves and Muscles"
 ---
 
-## Disorders of Peripheral Nerves
+# Chapter 22: Peripheral Nerves and Muscles
 
-### Patterns of Peripheral Nerve Damage
+## 章節導讀
 
-The two fundamental patterns of peripheral nerve injury are distinguished by the primary site of damage:
+本章節介紹周邊神經與肌肉疾病的病理學。周邊神經疾病分為 axonal injury 與 demyelination 兩種基本模式，臨床表現各異。**Guillain-Barré 症候群**是急性脫髓鞘性神經病變，以上行性無力為特徵，可能導致呼吸衰竭。**慢性炎症性脫髓鞘性多發性神經根病變（CIDP）**是慢性獲得性炎症性周邊神經病變中最常見的。
 
-* **Axonal injury** — Degeneration of the distal axon and its myelin sheath, with atrophy of denervated myofibers
-* **Demyelination** — Random segmental degeneration of individual myelin internodes while the axon is spared
+神經肌肉接合處疾病包括 **myasthenia gravis**（自體免疫，抗 AChR 抗體）與 **Lambert-Eaton 症候群**（抗 presynaptic calcium channel 抗體）。兩者都導致肌肉無力，但對重複刺激的反應相反。
 
-**Regeneration capacity:**
-* Axonal injury → axon regenerates and reconnects with myofibers; new internodes are shorter and myelin sheaths are thinner than original
-* Demyelination → remyelination occurs, but new internodes are also shorter with thinner myelin sheaths
+肌肉疾病涵蓋 **muscular dystrophies**（Duchenne/Becker、myotonic dystrophy）、**channelopathies**、**metabolic myopathies** 與**線粒體肌病**。各有多樣的分子病因與臨床表現。
 
-### Anatomic Patterns of Peripheral Neuropathy
+## 周邊神經疾病的模式
 
-Peripheral neuropathies exhibit several anatomic patterns:
+周邊神經損傷的兩種基本模式：
 
-* **Polyneuropathies** — Affect peripheral nerves in a symmetric, length-dependent fashion
-  * Axonal loss is typically more pronounced in distal segments of the longest nerves
-  * Sensory loss begins in toes and spreads upward ("stocking-and-glove" distribution)
-  * Common causes: toxic and metabolic damage
-* **Mononeuritis multiplex** — Random damage to individual nerves (e.g., right radial nerve palsy, later left foot drop)
-  * Often caused by **vasculitis**
-* **Mononeuropathy** — Involves a single nerve
-  * Most commonly from traumatic injury, entrapment (e.g., carpal tunnel syndrome), or infections such as **Lyme disease**
+- **Axonal injury**：遠端軸突與其髓鞘變性，導致去神經支配的肌纖維萎縮
+- **Demyelination**：各個髓鞘間隔的節段性變性，而軸突本身不受損
 
-## Disorders Associated With Peripheral Nerve Injury
+**再生能力**：
+- Axonal injury：軸突再生並重新連接肌纖維；新的髓鞘間隔較短、較薄
+- Demyelination：再髓鞘化發生，但新的髓鞘間隔也較短且較薄
 
-### Guillain-Barré Syndrome
+### 周邊神經病變的解剖模式
 
-A rapidly progressive acute demyelinating disorder affecting motor axons, resulting in ascending weakness that can lead to death from respiratory muscle failure within days.
+- **多發性神經病變（Polyneuropathies）**：對稱性、長度依賴性模式
+  - 最長神經的遠端段軸突流失最明顯
+  - 感覺喪失從足趾開始向上（"stocking-and-glove" 分布）
+- **多發單神經炎（Mononeuritis multiplex）**：隨機損傷各個神經
+- **單神經病變（Mononeuropathy）**：涉及單一神經
 
-* **Pathogenesis:** Appears to be triggered by an infection or vaccination that breaks down self-tolerance
-  * Associated infectious agents include **Campylobacter jejuni**, **Epstein-Barr virus**, **cytomegalovirus**, **HIV**, and **Zika virus**
-  * Injury is most extensive in nerve roots and proximal nerve segments
-  * Associated with mononuclear cell infiltrates rich in macrophages
-* **Mechanism:** Both humoral and cellular immune responses play a role
-* **Treatment:** Plasmapheresis, intravenous immunoglobulin infusions, and supportive care (ventilatory support)
-* **Prognosis:** Patients who survive the initial acute phase usually recover with time
+## 周邊神經疾病
 
-### Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+### Guillain-Barré 症候群
 
-The most common chronic acquired inflammatory peripheral neuropathy.
+快速進展的急性脫髓鞘性疾病，影響運動軸突，導致可能致命的上行性無力。
 
-* **Clinical features:** Symmetrical mixed sensorimotor polyneuropathy persisting for 2 months or more
-  * Weakness, difficulty walking, numbness, and pain or tingling sensations
-* **Relationship to Guillain-Barré:** CIDP is immune mediated but follows a chronic, relapsing-remitting, or progressive course
-* **Association:** Occurs with increased frequency in patients with other immune disorders such as **systemic lupus erythematosus** and **HIV infection**
-* **Morphology:** Peripheral nerves show segments of demyelination and remyelination
-  * Long-standing cases: concentric arrangement of multiple Schwann cells around individual axons ("onion bulbs")
-* **Treatment:** Plasmapheresis and immunosuppressive agents
+**致病機制**：
+- 由感染或疫苗注射引發的自我耐受破壞
+- 與 **Campylobacter jejuni**、**EBV**、**CMV**、**HIV**、**Zika 病毒**感染相關
+- 損傷在神經根與近端神經段最嚴重
 
-### Diabetic Peripheral Neuropathy
+**治療**：
+- 血漿置換
+- 靜脈免疫球蛋白
+- 支持性治療（呼吸器支持）
 
-Diabetes is the most common cause of peripheral neuropathy, usually developing with long-standing disease.
+### 慢性炎症性脫髓鞘性多發性神經根病變（CIDP）
 
-**Clinical forms:**
+最常見的慢性獲得性炎症性周邊神經病變。
 
-* **Autonomic neuropathy** — Changes in bowel, bladder, cardiac, or sexual function
-* **Lumbosacral radiculopathy** — Asymmetric pain progressing to lower extremity weakness and muscle atrophy
-* **Distal symmetric sensorimotor polyneuropathy** — The most common form
-  * Sensory axons more severely affected than motor axons
-  * Dominated by paresthesias and numbness
-  * Results from length-dependent degeneration of peripheral nerves
-  * Shows features of both axonal and demyelinating patterns
+**臨床特徵**：
+- 對稱性混合感覺運動神經病變
+- 無力，行走困難，麻木與疼痛或感覺異常
 
-**Pathogenesis of diabetic polyneuropathy:**
-* Accumulation of **advanced glycosylation end products** (AGE) resulting from hyperglycemia
-* Increased levels of **reactive oxygen species**
-* Microvascular changes
-* Changes in axonal metabolism
+### 糖尿病性周邊神經病變
 
-**Management:** Strict glycemic control is the best form of therapy
+糖尿病是周邊神經病變最常見的原因，通常在長期疾病後發展。
 
-### Toxic, Vasculitic, and Inherited Forms of Peripheral Neuropathy
+**臨床形式**：
+- **自主神經病變**：腸道、膀胱、心臟或性功能改變
+- **感覺運動多發性神經病變**：最常見形式
+  - 感覺軸突比運動軸突受損更嚴重
 
-* **Drugs and environmental toxins**
-  * Interfere with axonal transport or cytoskeletal function
-  * Longest axons are most susceptible → symptoms appear first in distal extremities
-  * Examples: **vinblastine**, **vincristine**, **paclitaxel**, **colchicine**, **isoniazid**, **alcohol**, **lead**, **arsenic**, **acrylamide**
+### Summary: 周邊神經疾病
 
-* **Systemic vasculitis** — Peripheral nerves are damaged in approximately one-third of all patients with vasculitis at presentation
-  * Most common clinical picture: mononeuritis multiplex with painful asymmetric mixed sensory and motor peripheral neuropathy
-  * Examples: **polyarteritis nodosa**, **Churg-Strauss syndrome**, **polyangiitis with granulomatosis**
+- **軸突性**與**脫髓鞘性**周邊神經病變可根據臨床與病理特徵區分；部分疾病顯示混合模式
+- **糖尿病**是周邊神經病變最常見的原因
+- **Guillain-Barré 症候群**與**CIDP**是免疫媒介的脫髓鞘性疾病
 
-* **Inherited diseases of peripheral nerves**
-  * Prevalence: 1 to 4 in 10,000
-  * Can be demyelinating or axonal
-  * Many manifest in adulthood and may mimic acquired polyneuropathies
-  * Most common causes: mutations in genes encoding myelin-associated proteins
+## 神經肌肉接合處疾病
 
----
+### 正常神經肌肉接合處結構與功能
 
-## Summary: Peripheral Neuropathies
+神經肌肉接合處是位於運動神經軸突與骨骼肌接口的特化結構。
 
-* Peripheral neuropathies may result in weakness and/or sensory deficits in patterns described as polyneuropathy, mononeuritis multiplex, and mononeuropathy
-* **Axonal** and **demyelinating** peripheral neuropathies can be distinguished on the basis of clinical and pathologic features; some disorders show a mixed pattern
-* **Diabetes mellitus** is the most common cause of peripheral neuropathy
-* **Guillain-Barré syndrome** and **chronic inflammatory demyelinating polyneuropathy (CIDP)** are immune-mediated demyelinating diseases
-* Metabolic diseases, drugs, toxins, connective tissue diseases, vasculitides, and infections can all result in peripheral neuropathy
-* A number of mutations cause peripheral neuropathy; many are adult-onset diseases that may mimic acquired ones
+**功能序列**：
+1. 神經衝動去極化突觸前膜
+2. **鈣離子內流**刺激 **acetylcholine** 釋放到突觸間隙
+3. Acetylcholine 擴散穿過突觸間隙與後突觸膜上的受體結合
+4. 後突觸膜去極化，通過電機械耦合導致肌纖維收縮
 
----
+### 重症肌無力（Myasthenia Gravis）
 
-## Disorders of Neuromuscular Junction
+由針對神經肌肉接合處的自體抗體引起的自體免疫疾病。
 
-### Normal Neuromuscular Junction Structure and Function
+**抗原靶標**：
+- **乙醯膽鹼受體（AChR）**——最常見靶標
+- **肌肉特異性激酶（MuSK）**
+- **LDL受體相關蛋白（LRP4）**
 
-The neuromuscular junction is a complex specialized structure located at the interface of motor nerve axons and skeletal muscle.
+**致病機制**：
+- 這些抗體導致受體丟失與接合處結構損傷
 
-**Functional sequence:**
-1. Nerve impulses depolarize the presynaptic membrane
-2. **Calcium influx** stimulates release of **acetylcholine** into the synaptic cleft
-3. Acetylcholine diffuses across the synaptic cleft to bind its receptor on the postsynaptic membrane
-4. Postsynaptic depolarization leads to myofiber contraction through electromechanical coupling
+**臨床特徵**：
+- 常表現**眼瞼下垂（ptosis）**或**複視**（由於眼外肌肉無力）
+- 無力嚴重程度常迅速波動
+- **重複肌肉激發加重無力**（診斷有幫助）
+- **膽鹼酯酶抑制劑顯著改善力氣**
 
-**Key feature:** Disorders of the neuromuscular junction often produce functional deficits in the absence of significant morphologic alterations.
+**治療**：
+- 膽鹼酯酶抑制劑
+- 免疫抑制
+- 血漿置換
+- 胸腺切除
 
-### Myasthenia Gravis
+### Lambert-Eaton 症候群
 
-An autoimmune disease with fluctuating muscle weakness caused by autoantibodies that target the neuromuscular junction.
+由抗體抑制**突觸前鈣通道**功能引起的自體免疫疾病。
 
-**Antigenic targets:**
-* **Acetylcholine receptor (AChR)** — Most common target
-* **Muscle-specific kinase (MuSK)**
-* **Low-density lipoprotein receptor-related protein (LRP4)**
+**與重症肌無力的關鍵區別**：
+- 重複刺激**改善**無力（累積足夠細胞內鈣促進 acetylcholine 釋放）
+- 重複刺激在重症肌無力中**加重**無力
 
-*Pathogenic mechanism:* These antibodies lead to loss of receptors and damage to the structure of the junctions.
+**副腫瘤關聯**：
+- 常發生在有**肺小細胞癌**的病人
 
-**Epidemiology:** Incidence approximately 2 per 100,000 persons
+**預後**：
+- 比重症肌無力差，因為常同時有潛在惡性腫瘤
 
-**Age distribution (bimodal in anti-AChR mediated cases):**
-* Early onset (before age 50): More common in females; frequently associated with **follicular thymic hyperplasia**
-* Late onset: More equal gender distribution; associated with **thymoma**
+### Summary: 神經肌肉接合處疾病
 
-*Pathogenesis of thymic involvement:* Both thymic lesions are believed to perturb tolerance to self-antigens, leading to generation of autoreactive T and B cells.
+- **重症肌無力**由抗體靶向**突觸後乙醯膽鹼受體**引起
+- **Lambert-Eaton 症候群**由抗體靶向**突觸前鈣通道**引起
+- 重症肌無力常與**胸腺增生**或**胸腺瘤**相關
+- Lambert-Eaton 症候群是多數病例的 paraneoplastic 疾病；與**肺小細胞癌**關聯最強
 
-**Clinical features:**
-* Frequently manifests with **ptosis** (drooping eyelids) or **diplopia** (double vision) due to extraocular muscle weakness
-* This pattern differs from most primary myopathic diseases (which spare facial and extraocular muscles)
-* Severity of weakness often fluctuates rapidly, sometimes over minutes
-* **Repetitive muscle firing worsens weakness** (diagnostically useful)
-* **Cholinesterase inhibitors improve strength markedly**
+## 骨骼肌疾病
 
-**Treatment:**
-* Cholinesterase inhibitors
-* Immunosuppression
-* Plasmapheresis
-* Thymectomy (in patients with thymic lesions)
+### 肌肉萎縮的模式
 
-**Prognosis:** 5-year survival rate >95% with modern treatment
+**運動單位**是運動系統的主要組成：
+- 一個下運動神經元
+- 相關軸突
+- 神經肌肉接合處
+- 去神經支配的骨骼肌纖維
 
-### Lambert-Eaton Syndrome
+**肌纖維類型**：
 
-Caused by autoantibodies that inhibit the function of **presynaptic calcium channels**, reducing acetylcholine release into the synaptic cleft.
-
-**Key clinical distinction from myasthenia gravis:**
-* Repetitive stimulation **improves** weakness (builds up sufficient intracellular calcium to facilitate acetylcholine release)
-* In myasthenia gravis, repetitive stimulation worsens weakness
-
-**Paraneoplastic association:** Often arises in patients with **small cell lung carcinoma**
-
-**Treatment:**
-* Cholinesterase inhibitors are NOT effective
-* Therapy directed toward reducing antibody titer: plasmapheresis or immunosuppression
-
-**Prognosis:** Worse than myasthenia gravis due to frequent coexistence of underlying malignancy
-
-### Miscellaneous Neuromuscular Junction Disorders
-
-* **Congenital myasthenic syndromes**
-  * Heterogeneous group of diseases resulting from mutations that disrupt neuromuscular junction proteins
-  * May affect presynaptic (acetylcholine release), synaptic (acetylcholine transport), or postsynaptic (skeletal muscle responsiveness) function
-  * Some forms respond to acetylcholinesterase inhibitors
-
-* **Bacterial toxin disorders**
-  * **Clostridium tetani** → **tetanospasmin** blocks inhibitory neurons → sustained muscle contraction and spasm (tetanus)
-  * **Clostridium botulinum** → **botulinum toxin** inhibits acetylcholine release → flaccid paralysis
-  * Botox (purified botulinum toxin) is used therapeutically for wrinkles, blepharospasm, strabismus, and other conditions with unwanted muscular activity
-
----
-
-## Summary: Neuromuscular Junction Disorders
-
-* Disorders of neuromuscular junctions manifest with weakness that often affects facial and extraocular muscles and may show rapid fluctuation in severity
-* Both **myasthenia gravis** and **Lambert-Eaton syndrome** are immune mediated
-  * Myasthenia gravis: antibodies target **postsynaptic acetylcholine receptors**
-  * Lambert-Eaton syndrome: antibodies target **presynaptic calcium channels**
-* Myasthenia gravis is often associated with **thymic hyperplasia** or **thymoma**
-* Lambert-Eaton syndrome is a paraneoplastic disorder in most cases; strongest association is with **small cell lung cancer**
-* Genetic defects in neuromuscular junction proteins and bacterial toxins can also cause symptomatic disturbances in neuromuscular transmission
-
----
-
-## Disorders of Skeletal Muscle
-
-### Patterns of Skeletal Muscle Injury and Atrophy
-
-**The motor unit** is the principal component of the motor system:
-* One lower motor neuron
-* Associated axon
-* Neuromuscular junctions
-* Skeletal muscle fibers innervated
-
-**Muscle fiber types:**
-
-| Feature | Type I | Type II |
+| 特徵 | Type I | Type II |
 |---|---|---|
-| Action | Sustained force | Fast movement |
-| Activity type | Aerobic exercise | Anaerobic exercise |
-| Fatigue resistance | High | Low |
-| Energy metabolism | Low glycolytic, high oxidative | High glycolytic, low oxidative |
-| Mitochondrial density | High | Low |
-| Myosin heavy chain | MYH7 | MYH2, MYH4, MYH1 |
-| Color | Red (high myoglobin) | Pale red/tan (low myoglobin) |
-| Glycogen content | Low | High |
-
-**Myopathic vs. neuropathic changes:**
-
-* **Myopathic conditions** — Associated with segmental necrosis and regeneration of individual myofibers, inflammatory infiltrates, or intracellular inclusions
-* **Neuropathic changes** — Result from loss of innervation
-
-**Patterns of atrophy:**
-
-* **Neuropathic changes** — Loss of innervation causes myofiber atrophy
-  * **Grouped atrophy** — Large clusters of atrophic myofibers resulting from multiple rounds of denervation and reinnervation
-  * **Fiber type grouping** — Large clusters of same fiber type due to reinnervation switching fiber types
-  * These are hallmarks of neurogenic changes
-
-* **Prolonged disuse** (e.g., prolonged bed rest, casting) — Causes focal or generalized muscle atrophy, preferentially affecting **type II fibers**
-
-* **Glucocorticoid exposure** (exogenous or endogenous, e.g., Cushing syndrome)
-  * Proximal muscles and **type II myofibers** are affected preferentially
-
-### The Dystrophin-Glycoprotein Complex
-
-This complex couples the sarcolemma to extracellular matrix proteins.
-
-**Key components:**
-* **Dystrophin** — Scaffolding protein that tethers myofibrillar cytoskeleton to transmembrane dystroglycans and sarcoglycans
-* **α2-chain laminin (Laminin-2)** — Located in basal lamina
-* **Dystroglycans** (α, β)
-* **Sarcoglycans** (α, β, γ, δ)
-* **Dystrobrevin**, **syntrophin**, **neuronal nitric oxide synthetase (nNOS)**, **caveolin**
-
-**Associated mutations:**
-* Dystrophin → **X-linked Duchenne** and **Becker muscular dystrophies**
-* Caveolin and sarcoglycan proteins → **autosomal limb-girdle muscular dystrophies**
-* α2-laminin (merosin) → **congenital muscular dystrophy**
-
----
-
-## Inherited Disorders of Skeletal Muscle
-
-### Muscular Dystrophies
-
-Progressive muscle injury in patients with normal muscle function at birth.
-
-**Classification complexity:** Evolving understanding from phenotype-based to genotype-based classification. There is not a simple one-to-one correspondence between genotypes and phenotypes.
-
-### Dystrophinopathies: Duchenne and Becker Muscular Dystrophy
-
-The most common muscular dystrophies; X-linked disorders caused by mutations disrupting **dystrophin**.
-
-**Duchenne muscular dystrophy (DMD):**
-* Incidence: ~1 per 3,500 live male births
-* Invariably fatal course
-* Clinically evident in early childhood; wheelchair-bound by teens; death by early adulthood
-
-**Becker muscular dystrophy (BMD):**
-* Less common and less severe than DMD
-
-**Morphology:**
-* Hallmarks: ongoing myofiber necrosis and regeneration
-* Progressive replacement of muscle tissue by **fibrosis** and **fat**
-* Marked variation in myofiber size and abnormal internally placed nuclei
-* Both DMD and BMD also affect **cardiac muscle** (myocyte hypertrophy and interstitial fibrosis)
-
-**Pathogenesis:**
-* Mutations in dystrophin gene on X chromosome (Xp21)
-* Dystrophin is a very large protein (427 kD)
-* Part of the **dystrophin-glycoprotein complex**
-* DGC defects make muscle cells vulnerable to:
-  * Transient membrane tears during contraction → calcium influx
-  * Disrupted intracellular signaling
-* Most common mutations: deletions, followed by frameshift and point mutations
-* DMD: complete absence of dystrophin on muscle biopsy
-* BMD: point mutations with residual but defective dystrophin forms
-* Severity correlates with genotype and extent of dystrophin deficiency
-
-**Clinical features of DMD:**
-* First symptoms: clumsiness and inability to keep up with peers
-* Weakness begins in **pelvic girdle**, then involves **shoulder girdle**
-* **Pseudohypertrophy** of calves (initially from myofiber hypertrophy, later from adipose/fibrosis replacement)
-* **Cardiac involvement** → heart failure and arrhythmias
-* **Cognitive impairment** may occur
-* High serum **creatine kinase** levels at birth, persisting through first decade, falling as muscle mass is lost
-* Death from respiratory insufficiency, pneumonia, and cardiac decompensation
-
-**Clinical features of BMD:**
-* Symptomatic later in childhood or adolescence
-* Slower, more variable progression
-* Many patients live well into adulthood
-* Cardiac involvement may dominate, even without significant skeletal muscle weakness
-
-**Treatment approaches:**
-* Current: primarily supportive care
-* Investigational strategies:
-  * **Antisense RNAs** that cause "skipping" of exons containing deleterious mutations → truncated but partially functional dystrophin
-  * **Ribosomal "read-through" of stop codons** → synthesis of functional dystrophin
-
-### Other Muscular Dystrophies
-
-**Myotonic Dystrophy:**
-* Cardinal neuromuscular symptom: **myotonia** (sustained involuntary muscle contraction)
-* Patients complain of stiffness and difficulty relaxing grip
-* **Autosomal dominant** nucleotide repeat expansion disease
-* >95% of patients have mutations in **DMPK** gene (dystrophia myotonica protein kinase)
-  * Normal: 5-37 CTG repeats
-  * Affected: 45 to several thousand CTG repeats
-* Exhibits **anticipation** (worsening through generations)
-* Pathogenesis: "toxic" gain-of-function from CUG expansions in mutant DMPK mRNA → sequesters muscleblind-like proteins → disrupts RNA splicing
-* Clinical manifestations:
-  * Late childhood onset with gait abnormalities
-  * Weakness of foot dorsiflexors → intrinsic hand muscles and wrist extensors → facial muscle atrophy and ptosis
-  * Systemic: cardiac arrhythmias, cataracts, early frontal balding, endocrinopathies, testicular atrophy
-
-**Limb-Girdle Muscular Dystrophies:**
-* Preferentially affect proximal musculature of trunk and limbs
-* Genetic basis is heterogeneous: at least 7 dominant subtypes and 15 autosomal recessive subtypes
-* Some mutations affect components of dystrophin-glycoprotein complex (other than dystrophin)
-* Others affect vesicle transport and membrane repair proteins (**caveolin-3**, **dysferlin**)
-
-**Emery-Dreifuss Muscular Dystrophy (EMD):**
-* Genetically heterogeneous; mutations affect nuclear structural proteins
-  * X-linked form: mutations in **emerin** gene
-  * Autosomal dominant form: mutations in **lamin A/C** gene
-* Hypothesis: defects compromise nuclear structural integrity in cells subjected to repetitive mechanical stress
-* Clinical picture: progressive muscle weakness and wasting, contractures of elbows and ankles, cardiac disease
-* **Cardiac involvement is severe** — cardiomyopathy and arrhythmias lead to sudden death in up to 40% of patients
-
-**Facioscapulohumeral Dystrophy:**
-* **Autosomal dominant**
-* Caused by complex genetic changes allowing expression of normally repressed transcription factor **DUX4**
-* Most patients symptomatic by age 20
-* Weakness in facial muscles, shoulder, lower trunk, and dorsiflexors of foot
-* Most patients have normal life expectancy
-
-### Channelopathies, Metabolic Myopathies, and Mitochondrial Myopathies
-
-**Ion Channel Myopathies (Channelopathies):**
-* **Hyperkalemic periodic paralysis** — Mutations in **SCN4A** (skeletal muscle sodium channel)
-* **Malignant hyperthermia** — Mutations in **RYR1** (ryanodine receptor, calcium efflux channel)
-  * Triggered by halogenated anesthetic agents or succinylcholine
-  * Mutated receptor → increased calcium efflux from sarcoplasmic reticulum → tetany and excessive heat production
-  * RYR1 mutation carriers may also be susceptible to exertional hyperthermia (heat stroke)
-
-**Myopathies Due to Inborn Errors of Metabolism:**
-* **Glycogen synthesis and degradation disorders** (Chapter 7)
-* **Lipid handling disorders:**
-  * Disorders of carnitine transport system
-  * Deficiencies of mitochondrial dehydrogenase enzyme system
-  * Both lead to lipid accumulation in myocytes (lipid myopathies)
-* May manifest as systemic disease or muscle-specific phenotype
-* Some present with recurring episodes of exercise- or fasting-induced muscle damage
-* Severe cases → **rhabdomyolysis**, **myoglobulinuria**, and acute renal failure
-
-**Mitochondrial Myopathies:**
-* Caused by mutations in mitochondrial or nuclear genome (both encode proteins and RNAs critical for mitochondrial function)
-* Variants from mitochondrial mutations show **maternal inheritance**
-* Usually manifest in early adulthood with:
-  * Proximal muscle weakness
-  * Sometimes severe ocular musculature involvement (**external ophthalmoplegia**)
-  * Neurologic signs, lactic acidosis, endocrinopathy, peripheral neuropathy, cardiomyopathy
-* Muscle morphology: some have normal morphology; others show aggregates of abnormal mitochondria
-  * "**Ragged red fibers**" — blotchy red appearance in special stains
-  * Ultrastructurally: abnormal aggregates of mitochondria with abnormal shape and size, some with crystalline inclusions
-
----
-
-## Acquired Disorders of Skeletal Muscle
-
-### Inflammatory Myopathies
-
-Traditional triad: **Polymyositis**, **Dermatomyositis**, and **Inclusion body myositis**
-
-**Polymyositis:**
-* Autoimmune disorder
-* Increased expression of **MHC class I molecules** on myofibers
-* Predominantly **endomysial inflammatory infiltrates** containing **CD8+ cytotoxic T cells**
-* Autoimmune attack → myofiber necrosis and subsequent regeneration
-* Patients often respond to corticosteroids or immunosuppressive agents
-
-**Dermatomyositis:**
-* Most common inflammatory myopathy in children
-* In adults, often a **paraneoplastic disorder**
-* Believed to have an autoimmune basis
-* Associated with skin manifestations and systemic manifestations (e.g., interstitial lung disease)
-
-**Morphology of dermatomyositis:**
-* **Perivascular mononuclear cell infiltrates** with plasma cells
-* "Dropout" of capillaries
-* **Tubuloreticular inclusions** in endothelial cells
-* Myofiber damage in **paraseptal** or **perifascicular pattern**
-* Type 1 interferon-induced gene products are strongly upregulated
-* Associated autoantibodies: anti-Mi-2 (nuclear helicase), anti-p155 and anti-p140
-
-**Inclusion Body Myositis:**
-* Most common inflammatory myopathy in patients **older than 60 years**
-* Whether inflammation is cause or effect remains uncertain
-* Morphologic hallmark: **rimmed vacuoles** containing aggregates of:
-  * **Hyperphosphorylated tau**
-  * **Amyloid** derived from β-amyloid precursor protein
-  * **TDP-43** (Chapter 23)
-* Other features: myopathic changes, mononuclear cell infiltrates, endomysial fibrosis, fatty replacement
-* Chronic, progressive course
-* Generally does **not respond well to immunosuppressive agents**
-
-### Toxic Myopathies
-
-**Thyrotoxic Myopathy:**
-* Acute or chronic proximal muscle weakness
-* Can be the first indication of thyrotoxicosis
-* Histology: myofiber necrosis and regeneration
-
-**Ethanol Myopathy:**
-* Occurs after binge drinking episode
-* Degree of rhabdomyolysis may be severe → acute renal failure secondary to myoglobinuria
-* Acute muscle pain, generalized or confined to single muscle group
-* Microscopy: myocyte swelling, necrosis, and regeneration
-
-**Drug Myopathy:**
-* **Statins** (e.g., atorvastatin, simvastatin, pravastatin) — most common complication, occurring in ~1.5% of users
-  * Two forms: (1) drug toxicity and (2) statin-induced **HMG-CoA reductase autoantibodies** causing immune-mediated myopathy
-
----
-
-## Summary: Disorders of Skeletal Muscle
-
-* Skeletal muscle function can be impaired by a primary (inherited or acquired) myopathy or secondarily due to problems with muscle innervation
-* Genetic forms of myopathy include muscular dystrophy, congenital myopathy, and congenital muscular dystrophy
-* **Dystrophinopathies** are X-linked disorders caused by mutations in the dystrophin gene and disruption of the dystrophin-glycoprotein complex
-  * Disease severity ranges from severe (**DMD**) to mild (**Becker dystrophy**)
-* Acquired myopathies have diverse causes, including inflammation and toxic exposures
-
----
-
-## Peripheral Nerve Sheath Tumors
-
-### Schwannomas
-
-Benign encapsulated tumors that may occur in soft tissues, internal organs, or spinal nerve roots.
-
-* **Most commonly affected cranial nerve:** vestibular portion of the **eighth nerve**
-* Vestibular schwannomas → hearing loss
-* Nerve root tumors → symptoms related to nerve root compression
-
-**Epidemiology:**
-* Most schwannomas are sporadic
-* ~10% are associated with **familial neurofibromatosis type 2 (NF2)**
-
-**NF2 association:**
-* **Bilateral vestibular schwannomas** is the hallmark of NF2
-* NF2 patients are also at risk for meningiomas and ependymomas
-* NF2 does **not** feature neurofibromas
-* Caused by dominant loss-of-function mutation of the **merlin gene** on chromosome 22
-
-**Merlin function:** Cytoskeletal tumor suppressor protein that facilitates **E-cadherin–mediated contact inhibition**; loss → loss of contact inhibition → tumor cell proliferation
-
-**Morphology:**
-* Circumscribed masses abutting adjacent nerve
-* **Antoni A areas** — Dense, cellular spindle cells with buckled nuclei in intersecting fascicles; nuclear palisading with **Verocay bodies**
-* **Antoni B areas** — Loose, hypocellular areas with spindle cells spread apart by myxoid extracellular matrix
-* Thick-walled hyalinized vessels; sometimes hemorrhage or cystic changes
-* Axons are largely excluded from the tumor
-
-### Neurofibromas
-
-Benign peripheral nerve sheath tumors. Three important subtypes:
-
-* **Localized cutaneous neurofibromas** — Superficial nodular or polypoid tumors
-  * Sporadic solitary lesions or multiple lesions in NF1
-* **Plexiform neurofibromas** — Grow diffusely within nerve or nerve plexus
-  * Difficult to surgically enucleate; often associated with lasting neurologic deficits
-  * **Virtually pathognomonic for NF1**
-  * Small but real risk of malignant transformation
-* **Diffuse neurofibromas** — Infiltrative proliferations forming large, disfiguring subcutaneous masses
-  * Often associated with NF1
-
-**Morphology (distinguished from schwannomas):**
-* **Not encapsulated**
-* May be circumscribed (localized cutaneous) or diffusely infiltrative
-* Neoplastic Schwann cells **admixed with other cell types**: mast cells, fibroblast-like cells, perineurial-like cells
-* Wavy collagen bundles in background stroma; may also be myxoid or dense collagen
-* Plexiform neurofibromas involve multiple fascicles
-
-### Neurofibromatosis Type 1 (NF1)
-
-**Autosomal dominant** disorder caused by mutations in **neurofibromin** (chromosome 17q).
-
-**Neurofibromin function:** Negative regulator of **Ras** (potent oncoprotein)
-
-**Pathogenesis:** Loss of neurofibromin function and resulting Ras hyperactivity is a cardinal feature of NF1-associated tumors. The normal NF1 allele is mutated or silenced in tumors.
-
-**NF1-associated tumors:**
-* Neurofibromas (all three types)
-* **Malignant peripheral nerve sheath tumors**
-* Optic gliomas and other glial tumors
-
-**Non-tumor manifestations:**
-* Learning disabilities, seizures
-* Skeletal abnormalities
-* Vascular abnormalities with arterial stenoses
-* **Lisch nodules** (pigmented iris nodules)
-* **Café-au-lait spots** and axillary freckling
-
-### Malignant Peripheral Nerve Sheath Tumors
-
-* Typically show evidence of Schwann cell derivation
-* May arise from transformation of a neurofibroma (usually plexiform type)
-* ~50% arise in patients with NF1
-* 3% to 10% of NF1 patients develop malignant peripheral nerve sheath tumors during their lifetimes
-
-**Morphology:**
-* Highly cellular
-* Overt malignancy features: anaplasia, necrosis, infiltrative growth, pleomorphism, high proliferative activity
-
-### Traumatic Neuroma
-
-**Nonneoplastic** proliferation associated with previous nerve transection injury.
-
-**Pathogenesis:**
-* Injury activates regenerative program: sprouting and elongation from proximal axonal stump
-* With severe injuries disrupting the perineurial sheath, processes may "miss" the distal target
-* Misguided elongating axonal processes induce reactive proliferation of Schwann cells
-* Results in a painful localized nodule containing a haphazard mixture of **axons**, **Schwann cells**, and **connective tissue**
-
----
-
-## Summary: Peripheral Nerve Sheath Tumors
-
-* Most peripheral nerve sheath tumors show evidence of **Schwann cell differentiation**
-* Important features of familial tumor syndromes **NF1** and **NF2**
-* **Schwannomas** and **neurofibromas** are benign nerve sheath tumors
-  * Schwannomas: circumscribed, usually encapsulated; abut the nerve of origin; a feature of NF2
-  * Neurofibromas: may manifest as sporadic subcutaneous nodule, large soft tissue lesion, or growth within a nerve; associated with NF1
-* ~50% of **malignant peripheral nerve sheath tumors** occur de novo; the remainder arise from preexisting NF1-associated neurofibromas
+| 作用 | 持續力量 | 快速運動 |
+| 疲勞抵抗 | 高 | 低 |
+| 能量代謝 | 低糖解，高氧化 | 高糖解，低氧化 |
+| 顏色 | 紅（高肌紅蛋白） | 淡紅/棕（低肌紅蛋白） |
+
+### 肌肉營養不良
+
+進行性疾病，出生時肌肉功能正常。
+
+#### Duchenne 與 Becker 肌肉營養不良
+
+最常見的肌肉營養不良；由中斷 **dystrophin** 的突變引起的 X 連鎖疾病。
+
+**Duchenne muscular dystrophy（DMD）**：
+- 發生率：每 3,500 名男嬰中約 1 名
+- 不可避免的致命過程
+- 童年早期臨床明顯
+
+**致病機制**：
+- Dystrophin 是細胞骨架與細胞外基質之間的關鍵連接蛋白
+- Dystrophin 缺失使肌纖維膜在收縮時容易受損 → 鈣離子內流增加
+- 肌纖維膜不穩定與肌纖維壞死
+
+**臨床特徵**：
+- 起初症狀：笨拙、無法跟上同年
+- 無力從**骨盆帶**開始，然後涉及**肩帶**
+- **腓腸肌假性肥大**（起初為肌纖維肥大，隨後為脂肪/纖維化替代）
+- **心臟受累** → 心力衰竭與心律不整
+- 血清 **creatine kinase** 高
+
+### Myotonic Dystrophy
+
+心臟症狀：**持續不自主肌肉收縮**
+
+**致病機制**：
+- **DMPK 基因**的 CTG 重複擴增
+- 正常：5-37 個 CTG 重複
+- 受影響：45 至數千個 CTG 重複
+
+**臨床表現**：
+- 晚期童年發病
+- 腳背屈無力 → 手內在肌與腕伸肌 → 面部肌肉萎縮與眼瞼下垂
+- 心律不整、白內障、早發前額脫髮、內分泌病變、睪丸萎縮
+
+### 離子通道肌病（Channelopathies）
+
+- **高鉀性週期性麻痺**——SCN4A（骨骼肌鈉通道）突變
+- **惡性高熱**——RYR1（Ryanodine receptor）突變
+  - 被鹵化麻醉劑或 succinylcholine 觸發
+
+### 代謝性肌病
+
+**糖原合成與降解疾病**（Chapter 7）：
+- 糖原儲積病
+
+**脂類處理障礙**：
+- 肉鹼轉運系統疾病
+- 粒線體脫氫酶系統缺乏
+- 兩者都導致脂肪在肌細胞中累積（脂肪性肌病）
+
+### 粒線體肌病
+
+由粒線體或核基因組突變引起。
+
+**臨床表現**：
+- 近端肌肉無力
+- 有時嚴重的眼外肌肉受累（**眼肌麻痺**）
+- 神經學體徵、乳酸酸中毒、內分泌病變、周邊神經病變、心肌病
+
+**肌肉形態學**：
+- **Ragged red fibers**：特殊染色中塊狀紅色外觀
+- 超微結構：異常形狀與大小的粒線體聚集，部分有 crystalline inclusions
+
+### 發炎性肌病
+
+傳統三聯：**Polymyositis**、**Dermatomyositis** 與 **Inclusion body myositis**。
+
+#### Polymyositis
+
+自體免疫疾病。
+- 肌纖維上 **MHC class I 分子**表達增加
+- 主要為**肌內膜炎症浸潤**，含 **CD8+ 細胞毒性 T 細胞**
+
+#### Dermatomyositis
+
+兒童最常見的發炎性肌病。
+- 與潛在惡性腫瘤相關（25-50% 病例）
+- 獨特的皮膚表現
+- 血管周圍發炎
+
+#### Inclusion Body Myositis
+
+最常見的發炎性肌病在 >50 歲。
+- 雙側近端與遠端無力
+- 特征性：**細胞質內包涵體**
+
+### Summary: 骨骼肌疾病
+
+- **肌肉營養不良**是進行性肌病，包括 **Duchenne muscular dystrophy**（dystrophin 缺失）與 **myotonic dystrophy**（CTG 重複擴增）
+- **離子通道肌病**是由離子通道突變引起的疾病
+- **粒線體肌病**由粒線體或核基因組突變引起，表現為近端無力與多系統疾病
+- **發炎性肌病**（Polymyositis、Dermatomyositis、Inclusion body myositis）是自體免疫或特發性肌肉炎症

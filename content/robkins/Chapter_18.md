@@ -3,879 +3,429 @@ layout: single
 title: "Chapter 18: Male Genital System and Lower Urinary Tract"
 ---
 
-## Scrotum, Testis, and Epididymis
+# Chapter 18: Male Genital System and Lower Urinary Tract
 
-### Scrotal Enlargement
+## 章節導讀
 
-Several inflammatory processes may affect the skin of the scrotum, including local fungal infections and systemic dermatoses, such as psoriasis. Neoplasms of the scrotal sac are unusual. **Squamous cell carcinoma**, the most common of these, is of historical interest in that it represents the first human malignancy associated with environmental exposures, dating from Sir Percival Pott's observation of a high incidence of the disease in chimney sweeps.
+本章節介紹男性生殖系統與下泌尿道的病理學。睾丸部分涵蓋 cryptorchidism（隱睾症）、testicular neoplasms（精細胞腫瘤）與 inflammatory lesions。Testicular tumors 根據 germ cell vs sex cord-stromal origin分類，臨床與病理特徵各有不同；seminoma 是最常見的精細胞腫瘤，與 dysgerminoma 和 CNS germinoma 組織學相同。Tumor markers（AFP、hCG、LDH）在診斷與追蹤中扮演重要角色。
 
-Several disorders unrelated to the testes and epididymis may present as scrotal enlargement:
+前列腺部分說明 prostatitis 的分類、BPH（良性前列腺增生）的致病機制與臨床表現、以及 prostate adenocarcinoma——這是男性最常見的癌症之一，其發生與 androgen、TMPRSS2-ETS fusion genes、PI3K/AKT pathway activation 等分子改變密切相關。
 
-- **Hydrocele**: The most common cause of scrotal swelling; caused by accumulation of serous fluid within the tunica vaginalis. It may be idiopathic or arise in response to neighboring infections or tumors. The clear fluid allows light to pass through (transillumination), distinguishing it from collections of blood, pus, or lymph.
-- **Hematocele**: Accumulation of blood within the tunica vaginalis
-- **Chylocele**: Accumulation of lymphatic fluid within the tunica vaginalis
-- **Elephantiasis**: In extreme cases of lymphatic obstruction (e.g., filariasis), the scrotum and lower extremities may enlarge to grotesque sizes
+下泌尿道（膀胱、輸尿管、尿道）部分涵蓋 cystitis 的各種病因與形態學表現，以及 urothelial carcinoma（泌尿道上皮癌）——這是膀胱癌最主要的組織類型，強調膀胱癌的發生與 smoking、occupation exposures、TP53 mutation 等的關聯。最後介紹各種性傳染病（syphilis、gonorrhea、chlamydia、HSV、HPV 等）的臨床與病理表現。
 
-### Cryptorchidism and Testicular Atrophy
+## 陰囊、睾丸與副睾
 
-**Cryptorchidism** is a failure of testicular descent into the scrotum.
+### 睾丸增大
 
-- Normally, the testes descend from the abdominal cavity into the pelvis by the third month of gestation, and then through the inguinal canals into the scrotum during the last 2 months of intrauterine life
-- Diagnosis of cryptorchidism is only established with certainty after 1 year of age, particularly in premature infants
-- Affects approximately 1% of the male population
-- Bilateral in approximately 10% of affected patients
+陰囊皮膚可受多種發炎過程影響，包括局部黴菌感染與全身皮膚病（如乾癬）。陰囊 Sac 腫瘤少見。**鱗狀細胞癌**是最常見的此類腫瘤，在歷史上很重要，因為是第一個與環境暴露相關的人類惡性腫瘤——Sir Percival Pott 觀察到煙囪清潔工人中這種疾病的高發生率。
 
-**Clinical significance:**
-- Because undescended testes become atrophic, bilateral cryptorchidism results in sterility
-- Associated with a 3- to 5-fold increased risk for testicular cancer
-- Even unilateral cryptorchidism may be associated with atrophy of the contralateral descended gonad
-- **Orchiopexy** (surgical placement of the undescended testis into the scrotum) is recommended by 18 months of age
+幾種與睾丸及副睾無關的疾病可能表現為陰囊增大：
 
-**Testicular atrophy** may be caused by:
-- Cryptorchidism
-- Chronic ischemia
-- Trauma
-- Irradiation
-- Anti-neoplastic chemotherapy
-- Conditions associated with chronically elevated estrogen levels (e.g., cirrhosis)
-- **Germ cell neoplasia in-situ** may be present in cryptorchid testes
+- **陰囊積水（Hydrocele）**：最常見的陰囊腫大原因；由液體積聚在 tunica vaginalis 內引起。可為特發性或由鄰近感染或腫瘤引起。液體清亮，允許光線通過（transillumination），可與血液、膿或淋巴積聚區分。
+- **血囊腫（Hematocele）**：血液積聚在 tunica vaginalis 內
+- **乳糜囊腫（Chylocele）**：淋巴液積聚在 tunica vaginalis 內
+- **象皮病（Elephantiasis）**：淋巴結阻塞（如絲蟲病）嚴重案例中，陰囊與下肢可增大到怪異的大小
 
-### Inflammatory Lesions
+### Cryptorchidism 與睾丸萎縮
 
-Inflammatory lesions of the testis are more common in the epididymis than in the testis proper.
+**Cryptorchidism** 是睾丸未能下降到陰囊的狀態。
 
-**Causes of testicular inflammation:**
+- 通常在妊娠第三個月時睾丸從腹腔下降到盆腔，然後在宮內最後兩個月通過腹股溝管下降到陰囊
+- 診斷只有在 1 歲後才能確切確立
+- 影響約 1% 的男性人口
+- 約 10% 為雙側性
 
-- **Nonspecific epididymitis and orchitis**: Usually begins as a primary urinary tract infection that spreads through the vas deferens or lymphatics of the spermatic cord. The involved testis is swollen and tender, with numerous neutrophils on histologic examination.
+**臨床意義**：
+- 因為未下降的睾丸會萎縮，雙側 cryptorchidism 導致不育
+- 睾丸癌風險增加 3-5 倍
+- 即使單側 cryptorchidism 也可能與對側下降睾丸萎縮相關
+- 建議 18 個月大前行**睪丸固定術（orchiopexy）**
 
-- **Mumps orchitis**: Occurs in approximately 20% of infected adults. Testes are edematous and congested, with lymphoplasmacytic inflammatory infiltrate. Severe cases may lead to extensive necrosis, loss of seminiferous epithelium, tubular atrophy, fibrosis, and sterility.
+### 睾丸腫瘤
 
-- **Tuberculosis**: Most common cause of granulomatous inflammation in the testis. Generally begins as an epididymitis, with secondary involvement of the testis. Histologically shows granulomatous inflammation and caseous necrosis.
+睾丸腫瘤發生率約每 10 萬男性 6 例。在 15-34 歲年齡組，是男性最常見的腫瘤。
 
-### Vascular Disturbances
+**分類**：
+- **Germ cell tumors**：佔睪丸腫瘤的 95%；幾乎都是惡性
+- **Sex cord-stromal tumors**：源自 Sertoli 或 Leydig cells；少見且通常良性
 
-**Testicular Torsion**
+**風險因素**：
+- Cryptorchidism（風險增加 3-5 倍）
+- 白人（比黑人更常見）
+- 家族史（兄弟風險增加 8-10 倍）
+- 間性症候群
+- 一側睾丸癌症史
+- **Isochromosome 12p [i(12p)]**：幾乎存在於所有 germ cell tumors
 
-Twisting of the spermatic cord typically results in obstruction of testicular venous drainage while leaving arteries patent, leading to intense vascular engorgement and infarction.
+**Germ Cell Neoplasia in-situ（GCNIS）**：
+- 高風險 Germ cell tumors 的前驅病變
+- 與完全發育的 germ cell tumors 有相同的染色體 12 異常
+- 常在完全發育的 germ cell tumors 旁邊的「正常」睾丸中發現
 
-**Two types:**
-- **Neonatal torsion**: Occurs either in utero or shortly after birth; no associated anatomic defect
-- **Adult torsion**: Typically seen in adolescence; results from a bilateral congenital anomaly (bell clapper abnormality) where the testis is abnormally anchored, giving rise to increased mobility
+<figure>
+<figcaption>Table 18.1 Summary of Testicular Tumors.</figcaption>
+</figure>
 
-**Clinical features:**
-- Sudden onset of testicular pain
-- Constitutes one of the few urologic emergencies
-- If explored surgically and cord manually untwisted within approximately 6 hours, the testis will likely remain viable
-- **Orchiopexy** is performed on the contralateral testis to prevent catastrophic torsion
+#### Seminoma
 
-### Testicular Neoplasms
+- 最常見（佔睪丸 Germ cell neoplasms 的 50%）
+- 與卵巢 dysgerminomas 與 CNS germinomas 組織學相同
+- 高度放射敏感；>95% 的早期疾病患者可治愈
+- 形態學：柔軟、境界清楚、灰白色腫瘤；均勻大多角形細胞，胞界清楚，富含糖原的透明胞質，圓核，顯著核仁；間質中有淋巴細胞
 
-Testicular neoplasms occur in roughly 6 per 100,000 males. In the 15-to-34-year-old age group, they are the most common tumors in men.
+#### Spermatocytic Tumor
 
-**Classification:**
-- **Germ cell tumors**: 95% of testicular tumors in postpubertal males; almost all are malignant
-- **Sex cord-stromal tumors**: Derived from Sertoli or Leydig cells; uncommon and usually benign
+- 與 spermatocytic seminoma 不同
+- 發生在老年男性（>50 歲）
+- 不轉移
+- 與 GCNIS 無關
 
-**Risk factors:**
-- Cryptorchidism (3- to 5-fold increase in risk)
-- White race (more common than in blacks)
-- Family history (brothers have 8- to 10-fold increased risk)
-- Intersex syndromes (androgen insensitivity syndrome, gonadal dysgenesis)
-- History of cancer in one testis (markedly increased risk in contralateral testis)
-- **Isochromosome 12p [i(12p)]**: Found in virtually all germ cell tumors
-- **KIT oncogenic mutations**: Found in up to 25% of tumors
+#### Embryonal Carcinoma
 
-**Germ cell neoplasia in-situ (GCNIS):**
-- Precursor lesion present in conditions associated with high risk for germ cell tumors
-- Exhibits the same chromosome 12 abnormality as fully developed germ cell tumors
-- Often found in "normal" testis adjacent to full-blown germ cell tumors
+- 境界不清、侵襲性團塊，有出血與壞死區域
+- 大細胞，鹼性胞質，境界不清，大核，顯著核仁
+- 可與其他 germ cell tumor types 混合
+- Pure embryonal carcinomas 僅佔所有睪丸 Germ cell tumors 的 2-3%
 
-**Table 18.1: Summary of Testicular Tumors**
+#### Yolk Sac Tumor
 
-| Tumor | Peak Age (years) | Morphology | Tumor Markers |
-|-------|------------------|-------------|---------------|
-| **Seminoma** | 40-50 | Sheets of uniform polygonal cells with cleared cytoplasm; lymphocytes in stroma | 10% have elevated hCG |
-| **Embryonal carcinoma** | 20-30 | Poorly differentiated, pleomorphic cells in cords, sheets, or papillary formation | Negative (pure) |
-| **Spermatocytic tumor** | 50-60 | Small, medium, and large polygonal cells; no inflammatory infiltrate | Negative |
-| **Yolk sac tumor** | — | Poorly differentiated endothelium-like, cuboidal, or columnar cells | 90% have elevated AFP |
-| **Choriocarcinoma** | 20-30 | Cytotrophoblast and syncytiotrophoblast without villus formation | 100% have elevated hCG |
-| **Teratoma** | All ages | Tissues from all three germ cell layers with varying degrees of differentiation | Negative (pure) |
-| **Mixed tumor** | 15-30 | Variable, depending on mixture; commonly teratoma and embryonal carcinoma | 90% have elevated hCG and AFP |
+- 兒童（3 歲以下）最常見的原發睪丸腫瘤（此年齡組預後很好）
+- 由低立方到柱狀上皮細胞組成，形成微囊、網狀、片狀、腺體與乳頭模式
+- **Schiller-Duval bodies**：結構類似原始腎小球（特徵性）
+- 含嗜酸性透明球，含 α1-antitrypsin 與 AFP
 
-*AFP, Alpha fetoprotein; hCG, human chorionic gonadotropin*
+#### Choriocarcinoma
 
-**Seminoma:**
-- Most common (50% of testicular germ cell neoplasms)
-- Histologically identical to ovarian dysgerminomas and CNS germinomas
-- **Morphology**: Soft, well-demarcated, gray-white tumor; large, uniform cells with distinct cell borders, clear glycogen-rich cytoplasm, round nuclei, conspicuous nucleoli; lymphocytes and sometimes granulomas in stroma
-- Approximately 15% contain syncytiotrophoblasts (source of minimally elevated hCG)
-- Extremely radiosensitive; >95% of patients with early-stage disease can be cured
+- 原始滋養層細胞腫瘤
+- 原發腫瘤常小且無法觸及，即使有廣泛轉移疾病
+- 由 cytotrophoblast 樣細胞與不規則混合或被覆的 syncytiotrophoblast 樣細胞組成
 
-**Spermatocytic tumor (formerly spermatocytic seminoma):**
-- Distinct clinical and histologic entity occurring in older men (>50 years)
-- Does not metastasize
-- Not associated with germ cell neoplasia in-situ
+#### Teratoma
 
-**Embryonal carcinoma:**
-- Ill-defined, invasive masses with foci of hemorrhage and necrosis
-- Large cells with basophilic cytoplasm, indistinct cell borders, large nuclei, prominent nucleoli
-- May form primitive glandular structures and irregular papillae
-- Often admixed with other germ cell tumor types
-- Pure embryonal carcinomas account for only 2%-3% of all testicular germ cell tumors
+- 由所有三個胚層細胞組成的腫瘤性 Germ cell，分化沿多種體細胞譜系
+- 青春期前男性：良性
+- 青春期後男性：多數為惡性（無論成熟或未成熟成分都具備轉移能力）
 
-**Yolk sac tumor:**
-- Most common primary testicular neoplasm in children younger than 3 years (very good prognosis in this age group)
-- Composed of low cuboidal to columnar epithelial cells forming microcysts, reticular patterns, sheets, glands, and papillae
-- **Schiller-Duval bodies**: Structures resembling primitive glomeruli (pathognomonic)
-- Contains eosinophilic hyaline globules with α1-antitrypsin and alpha fetoprotein (AFP)
+**臨床表現**：
+- 最常以無痛性睪丸團塊表現
+- 不透光（可與 hydrocele 區分）
+- 標準管理：根治性睪丸切除術（根據惡性假定）
+- **腫瘤標誌**：hCG（滋養層細胞腫瘤）、AFP（yolk sac tumor 成分時升高）
 
-**Choriocarcinoma:**
-- Neoplastic germ cells differentiate into cells resembling placental trophoblasts
-- Primary tumors often small and nonpalpable, even with extensive metastatic disease
-- Composed of cytotrophoblast-like cells irregularly intermingled with or capped by syncytiotrophoblast-like cells
-- hCG demonstrable in syncytiotrophoblastic cells
+### Summary: 睪丸腫瘤
 
-**Teratoma:**
-- Neoplastic germ cells differentiate along multiple somatic cell lineages
-- Firm masses often containing cysts and recognizable areas of cartilage
-- May occur at any age
-- In prepubertal males: benign
-- In postpubertal males: majority are malignant (capable of metastasis regardless of mature or immature elements)
+- 睪丸腫瘤是無痛性睪丸增大的最常見原因
+- **Germ cells** 是 95% 睪丸腫瘤的來源；其餘源自 Sertoli 或 Leydig cells
+- 最常見的組織模式：seminoma、embryonal carcinoma、yolk sac tumor、choriocarcinoma、teratoma
+- Germ cell tumors 分為 seminomas 與 nonseminomatous tumors
+- **Seminomas** 長期局限於睪丸；主要轉移到主動脈旁淋巴結
+- **Nonseminomatous tumors** 趨向更早通過淋巴與血液轉移
 
-**Teratoma with malignant transformation:**
-- Rare; non-germ cell malignancies arise in teratoma (e.g., squamous cell carcinoma, adenocarcinoma, sarcomas)
-- Does not respond to therapies effective against metastatic germ cell tumors
-
-**Clinical features of testicular germ cell tumors:**
-- Most frequently present as painless testicular mass
-- Nontranslucent (distinguishes from hydrocele)
-- Biopsy is avoided due to risk for tumor spillage
-- Standard management: radical orchiectomy based on presumption of malignancy
-
-**Metastatic patterns:**
-- **Seminoma**: Remains confined to testis for long periods; metastases to iliac and paraaortic lymph nodes; hematogenous metastases occur late
-- **Nonseminomatous tumors**: Metastasize earlier by lymphatic and hematogenous routes; hematogenous metastases most common in liver and lungs
-
-**Tumor markers:**
-- **hCG**: Always elevated in choriocarcinoma; may be minimally elevated in other tumors with syncytiotrophoblasts
-- **AFP**: Elevated when yolk sac tumor component is present
-- **Lactate dehydrogenase (LDH)**: Correlates with tumor burden
-
-### Summary: Lesions of the Penis
-
-- Squamous cell carcinoma and its precursor lesions are the most important penile lesions; many are associated with HPV infection
-- Squamous cell carcinoma occurs on the glans or shaft as an ulcerated infiltrative lesion; most cases occur in uncircumcised males
-- Other important penile disorders include congenital abnormalities (epispadias, hypospadias) and inflammatory disorders (balanitis, phimosis)
-
-### Summary: Cryptorchidism
-
-- Refers to incomplete descent of the testis from abdomen to scrotum; present in approximately 1% of 1-year-old male infants
-- Bilateral or unilateral cryptorchidism is associated with tubular atrophy and sterility
-- The cryptorchid testis carries a 3- to 5-fold higher risk for testicular cancer
-- Early orchiopexy reduces the risk for sterility and cancer
-
-### Summary: Testicular Tumors
-
-- Testicular neoplasms are the most common cause of painless testicular enlargement
-- Germ cells are the source of 95% of testicular tumors; remainder arise from Sertoli or Leydig cells
-- Most common histologic patterns: seminoma, embryonal carcinoma, yolk sac tumor, choriocarcinoma, and teratoma
-- Germ cell tumors divided into: seminomas and nonseminomatous tumors
-  - Seminomas remain confined to testis for long periods; spread mainly to paraaortic nodes
-  - Nonseminomatous tumors tend to spread earlier by both lymphatics and blood vessels
-- hCG is produced by syncytiotrophoblasts; AFP is elevated with yolk sac tumor component
-
-## Prostate
-
-The prostate contains several distinct regions:
-- **Central zone (CZ)**
-- **Peripheral zone (PZ)**: Most carcinomas (70%-80%) arise here
-- **Transitional zone (TZ)**: Most hyperplastic lesions arise here
-- **Periurethral zone**
-
-Normal prostate contains glands with two cell layers:
-- Flat basal cell layer
-- Overlying columnar secretory cell layer
+## 前列腺
 
 ### Prostatitis
 
-**Classification:**
-- **Acute bacterial prostatitis** (2%-5% of cases): Caused by same organisms as other acute urinary tract infections
-- **Chronic bacterial prostatitis** (2%-5% of cases): Caused by common uropathogens
-- **Chronic pelvic pain syndrome** (90%-95% of cases): May be inflammatory (leukocytes in prostatic secretions) or noninflammatory
+**分類**：
+- **急性細菌性前列腺炎**（2-5%）：由與其他急性泌尿道感染相同的生物引起
+- **慢性細菌性前列腺炎**（2-5%）：由常見泌尿道致病菌引起
+- **慢性骨盆疼痛症候群**（90-95%）：可能為發炎性（前列腺液中有白血球）或非發炎性
 
-**Granulomatous prostatitis:**
-- May be caused by BCG instillation for bladder cancer treatment
-- Prostatic tuberculosis (rare in Western world)
-- Fungal granulomatous prostatitis (typically in immunocompromised hosts)
-- Nonspecific granulomatous prostatitis (foreign-body reaction to fluids from ruptured prostatic ducts and acini)
-
-**Clinical features:**
-- **Acute bacterial prostatitis**: Sudden onset of fever, chills, dysuria, perineal pain, bladder outlet obstruction; digital rectal examination contraindicated
-- **Chronic bacterial prostatitis**: Recurrent UTIs, low back pain, dysuria, perineal and suprapubic discomfort
-- **Chronic pelvic pain syndrome**: Chronic pain localized to perineum, suprapubic area, and penis; pain during or after ejaculation
+**臨床表現**：
+- **急性細菌性前列腺炎**：突然發燒、寒顫、排尿困難、會陰疼痛、膀胱出口阻塞
+- **慢性骨盆疼痛症候群**：疼痛位於會陰、恥骨上區與陰莖；射精期間或之後疼痛
 
 ### Summary: Prostatitis
 
-- Bacterial prostatitis may be acute or chronic; usually caused by E. coli or another gram-negative rod
-- Chronic pelvic pain syndrome is of unknown etiology and difficult to treat
-- Granulomatous prostatitis may be infectious (e.g., following BCG treatment) or noninfectious
-
-### Benign Prostatic Hyperplasia (BPH)
-
-An extremely common cause of prostatic enlargement resulting from proliferation of stromal and glandular elements.
-
-**Epidemiology:**
-- Present in significant number of men by 40 years of age
-- Frequency increases progressively, reaching 90% by the eighth decade
-
-**Pathogenesis:**
-- **Dihydrotestosterone (DHT)**: The ultimate mediator of prostatic growth; synthesized from testosterone by **5α-reductase, type 2**
-- DHT binds to nuclear androgen receptors, regulating genes that support growth and survival of prostatic epithelium and stromal cells
-- DHT is 10 times more potent than testosterone
-- BPH does not occur in males castrated before puberty or with genetic diseases blocking androgen activity
-
-**Morphology:**
-- Occurs virtually always in the inner transition zone
-- Prostate enlarged, typically weighing 60-100 g
-- Many well-circumscribed nodules bulging from cut surface (may appear solid or contain cystic spaces)
-- Urethra usually compressed to a narrow slit
-- **Microscopically**: Variable proportions of proliferating glandular elements and fibromuscular stroma
-  - Hyperplastic glands lined by tall columnar epithelial cells with peripheral flattened basal cells
-  - Lamina often contains laminated proteinaceous secretory material (**corpora amylacea**)
-
-**Clinical features:**
-- Lower urinary tract obstruction: difficulty starting stream (hesitancy), intermittent interruption of urinary stream
-- Urinary urgency, frequency, and nocturia (bladder irritation symptoms)
-- Clinical manifestations occur in only about 10% of men with pathologic BPH
-- Residual urine increases risk for urinary tract infections
-- May lead to complete urinary obstruction, painful bladder distention, and hydronephrosis
-
-**Treatment:**
-- Pharmacologic: **5α-reductase inhibitors** (inhibit DHT formation) or **α1-adrenergic receptor blockers** (relax prostatic smooth muscle)
-- Surgical techniques for severely symptomatic cases recalcitrant to medical therapy
-
-### Summary: Benign Prostatic Hyperplasia
-
-- BPH is characterized by proliferation of benign stromal and glandular elements; DHT is the major hormonal stimulus
-- BPH originates in the periurethral transition zone
-- Clinical findings result from urinary tract obstruction: hesitancy, urgency, nocturia, poor urinary stream
-- Chronic obstruction predisposes to recurrent urinary tract infections
-
-### Carcinoma of the Prostate
-
-**Adenocarcinoma of the prostate** is the most common form of cancer in men (27% of cancer cases in the United States).
-
-**Epidemiology:**
-- Uncommon before age 50 years
-- Mortality has decreased significantly over past decades (currently 10% of cancer deaths)
-- More common in African-Americans than Caucasians
-- Incidence increases in Japanese immigrants to the United States
-
-**Pathogenesis:**
-
-*Androgens:*
-- Central importance; cancer does not develop in males castrated before puberty
-- Dependence extends to established cancers (often regress initially with surgical or chemical castration)
-- Resistant tumors may acquire **androgen receptor gene amplifications or mutations**
-- Despite anti-androgen therapy resistance, tumors still depend on androgen receptor-regulated gene products
-
-*Heredity:*
-- Increased risk among first-degree relatives of patients
-- Genome-wide association studies have identified multiple genetic variants associated with increased risk
-
-*Environment:*
-- Incidence rises in Japanese immigrants to the United States
-- Westernized diet in Asia associated with increasing clinically significant prostate cancer
-
-*Acquired genetic aberrations:*
-- **TMPRSS2-ETS fusion genes**: Found in 40%-60% of prostate cancers in Caucasian populations; occur relatively early in tumorigenesis
-- **PI3K/AKT signaling pathway activation**: Most common are loss-of-function mutations involving **PTEN** tumor suppressor
-- Copy number variations and gene rearrangements frequently seen
-
-**Morphology:**
-- Carcinomas detected clinically are usually not visible grossly
-- More advanced lesions appear as firm, gray-white lesions with ill-defined margins
-- Most are moderately differentiated adenocarcinomas producing well-defined glands
-- Glands are smaller than benign glands, lined by a single uniform layer of cuboidal or low columnar epithelium (lacking basal cell layer seen in benign glands)
-- Malignant glands are crowded together, lacking branching and papillary infolding
-- Cytoplasm ranges from pale-clear to distinctive amphophilic (dark purple)
-- Nuclei are enlarged with one or more prominent nucleoli
-- **High-grade prostatic intraepithelial neoplasia (HGPIN)**: Precursor lesion found in approximately 80% of prostates removed for carcinoma
-
-**Gleason grading system:**
-- Five grades based on glandular patterns of differentiation
-- Grade 1: Most well differentiated
-- Grade 5: No glandular differentiation
-- Combined Gleason score: Primary grade + Secondary grade (range 2-10)
-- New WHO grading system (1-5) based on glandular pattern
-
-**Clinical features:**
-- Most prostate cancers are small, nonpalpable, asymptomatic lesions discovered on needle biopsy for elevated serum **prostate-specific antigen (PSA)**
-- 70%-80% arise in the outer (peripheral) glands; some palpable as irregular hard nodules
-- Locally advanced cancers may infiltrate seminal vesicles, periurethral zones, bladder wall, or rectum
-- **Bone metastases** (particularly axial skeleton): Frequent late finding; typically **osteoblastic** (bone-producing) lesions
-
-**PSA testing:**
-- PSA is a product of prostatic epithelium, normally secreted in semen
-- Limitations:
-  - Many prostate cancers are clinically insignificant (overtreatment causes morbidity)
-  - Not cancer-specific: BPH, prostatitis, prostatic infarcts, instrumentation, ejaculation all increase PSA
-  - 20%-40% of organ-confined prostate cancers have PSA values below cutoff
-- Serial PSA measurements are valuable for assessing response to therapy and detecting recurrence
+- 細菌性前列腺炎可能是急性或慢性；通常由大腸桿菌或其他革蘭氏陰性桿菌引起
+- 慢性骨盆疼痛症候群病因不明，治療困難
 
-**Treatment:**
-- **Clinically localized cancer**: Radical prostatectomy or radiotherapy
-- Prognosis after radical prostatectomy based on: pathologic stage, margin status, Gleason grade
-- **Active surveillance** ("watchful waiting"): Appropriate for older men, patients with significant comorbidity, or younger men with low PSA and small, low-grade cancers
-- **Advanced metastatic carcinoma**: Androgen deprivation (orchiectomy or LHRH agonists)
-- Androgen-independent clones almost invariably emerge, leading to rapid disease progression
+## 良性前列腺增生（BPH）
 
-### Summary: Carcinoma of the Prostate
+BPH 是前列腺增生的常見原因，由基質與腺體元素增殖引起。
 
-- Common cancer of older men (65-75 years)
-- Range from indolent lesions to aggressive fatal tumors (more common in African-Americans)
-- Most common acquired mutations: TMPRSS2-ETS fusion genes or PI3K/AKT pathway enhancement
-- Arise most commonly in the outer peripheral zone
-- Grading by Gleason system correlates with pathologic stage and prognosis
-- Serum PSA is a controversial screening test but valuable for monitoring progressive or recurrent disease
+**發病機制**：
+- **Dihydrotestosterone（DHT）**：前列腺生長的最終介質；由 **5α-reductase, type 2** 從睪酮合成
+- DHT 與核雄激素受體結合，調節支持前列腺上皮與基質細胞生長與存活的基因
+- BPH 不發生在青春期前去勢男性或基因上阻斷雄激素活性的男性
 
-## Ureter, Bladder, and Urethra
+**形態學**：
+- 幾乎總是發生在內部過渡區
+- 前列腺增大，典型重量 60-100 g
+- 許多境界清楚的結節從 cut surface 突出
+- **顯微鏡下**：增生的腺體元素與纖維肌質間質的不同比例混合
+- 增生的腺體襯覆高柱狀上皮，周圍有扁平的基底細胞
 
-The renal pelves, ureters, bladder, and urethra are lined by **urothelium** (specialized multi-layer transitional epithelium).
+**臨床表現**：
+- 下泌尿道阻塞：排尿啟動困難（hesitancy）、排尿流中斷
+- 尿急、頻尿與夜尿（膀胱刺激症狀）
+- 慢性阻塞預置泌尿道感染
+- 可能導致完全泌尿道阻塞、疼痛性膀胱擴張與水腎
 
-Layers:
-- Mucosa
-- Lamina propria
-- Muscularis propria (detrusor muscle)
+**治療**：
+- 藥物：**5α-reductase 抑制劑**或 **α1-adrenergic 受體阻斷劑**
+- 手術
 
-### Ureter
+### Summary: BPH
 
-**Disorders include:**
+- BPH 的特徵是良性基質與腺體元素的增殖；DHT 是主要的激素刺激
+- BPH 起源於尿道周圍過渡區
+- 臨床發現源於泌尿道阻塞：hesitancy、尿急、夜尿、弱的尿流
 
-- **Ureteropelvic junction (UPJ) obstruction**: Congenital disorder resulting in hydronephrosis; most frequent cause in infants and children; more common in boys
+## 前列腺癌
 
-- **Malignant tumors**: Pathologically similar to those in renal pelvis, calyces, and bladder; most are urothelial carcinomas
+**前列腺腺癌**是男性最常見的癌症形式（美國所有癌症病例的 27%）。
 
-- **Retroperitoneal fibrosis**: Uncommon cause of ureteral narrowing; characterized by fibrous proliferative inflammatory process encasing retroperitoneal structures
-  - May be associated with **IgG4-related disease** (fibroinflammatory lesions rich in IgG4-secreting plasma cells)
-  - Other associations: ergot derivatives, adrenergic blockers, radiation, infection, prior surgery, malignant disease (lymphomas, urinary tract carcinomas)
-  - Cases with no obvious cause: **Ormond disease** (idiopathic)
+**發病機制**：
 
-### Urinary Bladder
+*雄激素*：
+- 核心重要性；去勢前青春期男性不發生癌症
+- 依賴延續到已建立癌症（通常最初對外科或化學去勢有反應）
+- 抵抗性腫瘤可能獲得**雄激素受體基因放大或突變**
 
-#### Nonneoplastic Conditions
+*遺傳學*：
+- 基因組廣泛關聯研究已識別多個與增加風險相關的遺傳變異
 
-**Bladder diverticulum:**
-- Pouchlike evagination of bladder wall
-- Usually congenital but more commonly acquired (from persistent urethral obstruction, e.g., BPH)
-- May lead to urinary stasis, recurrent UTIs, and bladder stone formation
+*環境*：
+- 發病率在日裔美國移民中上升
+- 西方亞洲飲食與臨床上顯著前列腺癌的增加相關
 
-**Cystitis:**
+*後天基因異常*：
+- **TMPRSS2-ETS 融合基因**：在 40-60% 的西方人群前列腺癌中發現
+- **PI3K/AKT 信號通路活化**：最常見的是 **PTEN** 腫瘤抑制的 loss-of-function mutations
 
-- **Bacterial cystitis**: Common, particularly in women; most common etiologic agents are coliform bacteria
+**形態學**：
+- 臨床上檢測到的癌症通常肉眼下不可見
+- 較進展病變：堅硬、灰白色病變，邊緣不清
+- 多數為中分化腺癌，產生境界清楚的腺體
+- 腺體比良性腺體小，襯覆單層立方或低柱狀上皮（缺乏良性腺體中見到的基底細胞層）
+- 惡性腺體擁擠在一起，缺乏良性腺體的分支與乳頭折疊
 
-- **Hemorrhagic cystitis**: May occur with cytotoxic anti-tumor drugs (e.g., cyclophosphamide); sometimes complicates adenovirus infection
+**Gleason 分級系統**：
+- 五個基於腺體分化模式的分級
+- Grade 1：最良好分化
+- Grade 5：無腺體分化
+- 總 Gleason 分數：主要分級 + 次要分級（範圍 2-10）
 
-- **Interstitial cystitis**: Chronic pelvic pain syndrome, typically in women
-  - Suprapubic pain increasing with bladder filling, relieved by emptying
-  - Urgency, hematuria, dysuria
-  - Cystoscopic findings nonspecific (petechial hemorrhages)
-  - Up to 50% have spontaneous remissions
-  - Late: transmural fibrosis leading to contracted bladder
-
-- **Malakoplakia**: Inflammatory disease, most commonly in bladder
-  - Results from defects in phagocytic/degradative function of macrophages
-  - Undigested bacterial products accumulate in distended phagosomes
-  - **Michaelis-Gutmann bodies**: Laminated mineralized concretions from calcium salt deposition in enlarged lysosomes
+**臨床表現**：
+- 多數前列腺癌是小的、無症狀病變，在因血清 **前列腺特異性抗原（PSA）**升高而進行的針刺活檢中發現
+- 70-80% 起源的外部（周圍）腺體；有些可觸及為不規則硬結節
+- **骨轉移**（尤其軸向骨骼）：常見的晚期發現；典型為 **成骨細胞性（骨生成）**病變
 
-- **Polypoid cystitis**: Inflammatory condition from bladder mucosa irritation; urothelium thrown into broad bulbous polypoid projections from marked submucosal edema; may mimic papillary urothelial carcinoma
-
-**Urothelial metaplasia:**
-- **Brunn nests**: Nests of urothelium growing downward into lamina propria
-- **Cystitis glandularis**: Central epithelial cells differentiate into cuboidal or columnar epithelium
-- **Cystitis cystica**: Cystic spaces filled with clear fluid lined by flattened urothelium
-- **Intestinal metaplasia**: Goblet cells resembling intestinal mucosa
-- **Squamous metaplasia**: Response to injury; must differentiate from normal glycogenated squamous epithelium at trigone in women
-
-#### Neoplasms
-
-Bladder cancer accounts for approximately 5% of cancers and 3% of cancer deaths in the United States.
-
-**Types:**
-- **Urothelial carcinoma**: 95%-97% of bladder cancers in the United States; 60%-90% in Africa
-- **Squamous cell carcinoma**: About 3%-7% in United States; much more common in countries with endemic **Schistosoma haematobium** infection
-- **Adenocarcinoma**: Rare
-
-**Epidemiology:**
-- More common in men than women
-- More common in industrialized than developing nations
-- More common in urban than rural dwellers
-- More common in whites than African-Americans
-- About 80% of patients are between 50 and 80 years of age
-
-**Pathogenesis:**
-
-*Environmental factors:*
-- Cigarette smoking (most important)
-- Various occupational carcinogens
-- Prior cyclophosphamide or radiation therapy
-- Family history of bladder cancer
-
-*Schistosoma haematobium infection:*
-- Associated with squamous cell carcinoma
-- Occurs in setting of chronic inflammation
-
-*Acquired genetic aberrations:*
-- **Chromosome 9 deletions** (9p and 9q): Initiating event leading to superficial papillary tumors
-- **TP53 mutations**: Associated with progression to invasive disease
-- **Telomerase mutations**
-- **FGFR3 mutations**
-- **RAS and PI3K/AKT pathway mutations**
-- Muscle-invasive tumors often have mutations in both **TP53 and RB**
-
-**Morphology:**
-
-*Precursor lesions:*
-1. **Noninvasive papillary tumor**: Most common precursor
-2. **Carcinoma in situ (CIS)**: Overtly malignant cells within flat urothelium
-
-*Grading of noninvasive papillary urothelial neoplasms* (Table 18.2):
-
-| Neoplasm | Recurrences | Coexistent Invasion | Progression | Death |
-|----------|-------------|---------------------|-------------|-------|
-| Papilloma | Rare | None | None | None |
-| PUNLMP | 30% | None | <10% | None |
-| LGUC | 45% | 2% | 8%-10% | 2%-3% |
-| HGUC | 45% | Up to 80% | 30% | 20% |
-
-*PUNLMP, Papillary urothelial neoplasia of uncertain malignant potential; LGUC, Low-grade papillary urothelial carcinoma; HGUC, High-grade papillary urothelial carcinoma*
-
-* CIS:
-   - Defined by presence of overtly malignant-appearing cells within flat urothelium
-   - Tumor cells lack cohesiveness and are shed into urine
-   - Commonly multifocal; may involve most of bladder surface or extend into ureters and urethra
-   - Without treatment, 50%-75% progress to invasive cancer
-
-*Invasive urothelial carcinoma:*
-- Extent of invasion and spread (staging) at diagnosis is most important prognostic factor
-- Almost all infiltrating urothelial carcinomas are high grade
-
-*Squamous cell carcinoma:* Shows extensive keratinization; nearly always associated with chronic bladder irritation and infection
-
-*Adenocarcinoma:* Histologically identical to GI tract adenocarcinomas; may arise from urachal remnants in dome of bladder or with extensive intestinal metaplasia
-
-**Clinical features:**
-- Most commonly presents with **painless hematuria**
-- Patients with urothelial tumors tend to develop new tumors after excision; recurrences may be higher grade
-- Risk for recurrence related to: tumor size, stage, grade, multifocality, mitotic index, associated dysplasia/CIS
-- Many recurrent tumors arise at different sites but share same clonal abnormalities (true recurrences from shed tumor cell implantation)
-- High-grade papillary urothelial carcinomas frequently associated with concurrent or subsequent invasive urothelial carcinoma
-- Lower-grade papillary urothelial neoplasms often recur but infrequently invade
-
-**Treatment:**
-- **Small, localized papillary tumors** (not high-grade): Transurethral resection (diagnostic and therapeutic)
-- **High-risk tumors**: Topical immunotherapy with intravesical **BCG** (Bacillus Calmette-Guérin), sometimes followed by intravesical chemotherapy
-- **Radical cystectomy** reserved for:
-  - Tumor invading muscularis propria
-  - CIS or high-grade papillary cancer refractory to BCG
-  - CIS extending into prostatic urethra and down prostatic ducts
-- **Advanced bladder cancer**: Chemotherapy (palliative but seldom curative)
-
-## Sexually Transmitted Diseases
-
-Globally, approximately 15 million new cases of STD occur every year.
-
-**CDC reportable STDs:**
-- Chlamydial infection
-- Gonorrhea
-- Acquired immunodeficiency syndrome (AIDS)
-- Syphilis
-- Hepatitis B
-
-**Most common STDs in the United States:** Genital herpes and genital HPV infection
+<figure>
+<figcaption>Fig. 18.14 Prostate adenocarcinoma. (A) Gross appearance showing an ill-defined, firm, gray-white tumor in the peripheral zone. (B) Histologic appearance showing malignant glands infiltrating between benign glands.</figcaption>
+</figure>
+
+### Summary: 前列腺癌
+
+- 老年男性的常見癌症（65-75 歲）
+- 範圍從惰性病變到侵襲性致命腫瘤（非裔美國人更常見）
+- 最常見的後天突變：TMPRSS2-ETS 融合基因或 PI3K/AKT 通路增強
+- 最常起源於外周區
+- Gleason 分級系統分級與病理分期和預後相關
+- 血清 PSA 是有爭議的篩查測試但對監測進行性或復發疾病有價值
+
+## 輸尿管、膀胱與尿道
+
+### 膀胱
+
+#### Cystitis
+
+- **細菌性膀胱炎**：常見，尤其女性；最常見致病菌是大腸桿菌
+- **出血性膀胱炎**：可能與細胞毒性抗腫瘤藥物（如 cyclophosphamide）相關
+- **間質性膀胱炎**：慢性骨盆疼痛症候群
+- **Malakoplakia**：發炎性疾病，最常見於膀胱
+  - 由巨噬細胞噬菌/降解功能缺陷引起
+  - **Michaelis-Gutmann bodies**：在擴大溶酶體中鈣鹽沉積形成的層狀礦化 concretions
+
+#### 腫瘤
+
+膀胱癌佔美國所有癌症的約 5% 與癌症死亡的 3%。
+
+**類型**：
+- **泌尿道上皮癌（Urothelial carcinoma）**：美國佔膀胱癌的 95-97%
+- **鱗狀細胞癌**：約 3-7%
+- **腺癌**：罕見
+
+**發病機制**：
+
+*環境因素*：
+- 吸菸（**最重要**）
+- 各種職業致癌物
+- 之前 cyclophosphamide 或放射治療
+
+*後天基因異常*：
+- **染色體 9 刪除**（9p 與 9q）：起始事件，導致淺表乳頭狀腫瘤
+- **TP53 突變**：與進展為侵襲性疾病相關
+- **FGFR3 突變**
+- **RAS 與 PI3K/AKT 途徑突變**
+
+**形態學**：
+
+*前驅病變*：
+1. **非侵襲性乳頭狀腫瘤**：最常見的前驅
+2. **原位癌（CIS）**：在扁平泌尿道上皮內有明顯惡性細胞
+
+*非侵襲性乳頭狀泌尿道上皮腫瘤的分級*：
+
+<figure>
+<figcaption>Table 18.2 Grading of Noninvasive Papillary Urothelial Neoplasms.</figcaption>
+</figure>
+
+**臨床表現**：
+- 最常以**無痛性血尿**表現
+- 泌尿道上皮腫瘤患者趨向在切除後發生新腫瘤；復發可能是更高分級
+- 與侵襲性泌尿道上皮癌相關的高級乳頭狀泌尿道上皮腫瘤
+
+**治療**：
+- **小、局灶性非高級乳頭狀腫瘤**：經尿道切除（診斷與治療性）
+- **高風險腫瘤**：局部免疫治療（膀胱內 BCG）
+- **根治性膀胱切除術**：用於侵犯肌層的腫瘤
+
+### Summary: 膀胱
+
+- **泌尿道感染（UTI）**是常見的臨床問題，由大腸桿菌或其他革蘭氏陰性桿菌引起
+- **泌尿道（上皮）癌**是膀胱最常見的惡性腫瘤；與吸菸和職業暴露相關
+- 最常以無痛性血尿表現
+- 復發常見；需要長期監測
+
+## 性傳染病
 
 ### Syphilis
 
-Caused by **Treponema pallidum** (spirochete). Endemic worldwide.
+由 **Treponema pallidum**（螺旋體）引起。
 
-**Epidemiology (United States, 2014):**
-- 20,000 cases of primary and secondary syphilis reported
-- Almost threefold increase since 2000
-- Increase attributed mainly to increased incidence in men who have sex with men
-- African Americans affected six times more often than whites
-- More common in HIV-infected patients
+**階段**：
 
-**Transmission:**
-- Usually through contact with cutaneous or mucosal lesions in sexual partner during primary or secondary stages
-- Organisms enter through minute breaks in skin or mucous membranes
-- In congenital cases: transmitted across placenta from mother to fetus
+*原發性梅毒*：
+- **Chancre** 在感染後約 21 天出現
+- 通常在陰莖龜頭、冠狀溝或肛門周圍（男性）
+- 小、無痛、堅硬丘疹 → 無痛潰疡，邊緣整齊、硬，「清潔」濕潤基底
+- 顯微鏡：淋巴細胞與漿細胞炎症浸潤與 endarteritis
 
-**Stages of syphilis:**
+*第二期梅毒*：
+- 約 25% 未治療病人在 chancre 消退後 4-6 週出現
+- 全身淋巴結增大與黏膜皮膚病變
+- **扁平濕疣（Condylomata lata）**：寬基底、隆起病變
 
-*Primary syphilis:*
-- **Chancre** appears at point of spirochete entry approximately 21 days after infection
-- Systemic dissemination occurs while host mounts immune response
-- Two types of antibodies form: nontreponemal antibodies and treponemal-specific antibodies
-- Humoral response fails to eradicate organisms
+*第三期梅毒*：
+- 未治療病人的三分之一在 5-20 年後出現症狀
+- **心血管梅毒**：梅毒性主動脈炎
+- **神經梅毒**
+- **「良性」三期梅毒**：多器官中的 gumma
 
-*Secondary syphilis:*
-- Occurs in approximately 25% of untreated patients 4-6 weeks after chancre resolution
-- Manifestations include generalized lymphadenopathy and mucocutaneous lesions
-- **Mucocutaneous lesions teem with spirochetes and are highly infectious**
-- Lesions resolve without antimicrobial therapy; patients enter early latent phase
+*先天性梅毒*：
+- 宮內傳播
+- 表現：鼻炎（「鼻塞」）、黏膜皮膚病變
+- **Hutchinson triad**：Notched 中央門齒、間質角膜炎併發失明、第八腦神經耳聾
 
-*Tertiary syphilis:*
-- One third of untreated patients develop symptoms after 5-20 years
-- Three major categories:
-  - **Cardiovascular syphilis**: Syphilitic aortitis (>80% of cases); more common in men
-  - **Neurosyphilis**: Accounts for 10% of tertiary syphilis
-  - **"Benign" tertiary syphilis**: Gummas in multiple organs
-
-*Congenital syphilis:*
-- Transmission across placenta at any time during pregnancy
-- Likelihood greatest during primary and secondary stages
-- Without treatment, up to 40% of infected infants die in utero
-- Manifestations do not develop until after fourth month of pregnancy
-
-**Morphology:**
-
-*Pathognomonic lesion of syphilis:* **Proliferative endarteritis** with lymphoplasmacytic inflammatory infiltrate
-
-*Primary syphilis:*
-- Chancre: Typically indurated ("hard chancre")
-- Usually on glans, corona, or perianal region (males); labia, vagina, or perianal region (females)
-- Small, painless, firm papule → painless ulcer with well-defined, indurated margins and "clean," moist base
-- Regional lymph nodes enlarged and firm
-- Microscopic: lymphocytic and plasmacytic inflammatory infiltrate and endarteritis
-- Spirochetes demonstrable with silver stains (e.g., Warthin-Starry) or immunohistochemistry
-
-*Secondary syphilis:*
-- Generalized lymph node enlargement
-- Skin lesions: usually symmetrically distributed; maculopapular, scaly, or pustular; characteristically involves palms and soles
-- **Condylomata lata**: Broad-based, elevated lesions on moist skin areas (not to be confused with HPV-induced condyloma acuminata)
-- Microscopic: proliferative endarteritis; spirochetes often abundant
-
-*Tertiary syphilis:*
-- **Gumma**: Central zone of coagulative necrosis surrounded by dense fibrous tissue with mixed inflammatory infiltrate (lymphocytes, plasma cells, activated macrophages, occasional giant cells)
-- Suggests delayed hypersensitivity reaction
-- Spirochetes rarely demonstrable
-- Most commonly in bone, skin, mucous membranes of upper airway and mouth
-
-*Congenital syphilis:*
-- **Stillbirth**: Most common manifestations are hepatomegaly, bone abnormalities, pancreatic fibrosis, pneumonitis
-- **Infantile syphilis**: Chronic rhinitis ("snuffles"), mucocutaneous lesions similar to secondary syphilis in adults
-- **Late (tardive) congenital syphilis**: 
-  - **Hutchinson triad**: Notched central incisors, interstitial keratitis with blindness, eighth cranial nerve deafness
-  - "Saber shin" deformity, "mulberry molars," chronic meningitis, chorioretinitis, gummas with "saddle-nose" deformity
-
-**Clinical features:**
-- Highly sensitive to penicillin
-- **Serology is mainstay of diagnosis**
-
-*Nontreponemal antibody tests:*
-- Measure antibody to cardiolipin
-- Detected by **RPR** (rapid plasma reagin) and **VDRL** (Venereal Disease Research Laboratory) tests
-- Usually positive by 4-6 weeks of infection; strongly positive in secondary phase
-- May revert to negative during tertiary phase or remain positive after successful treatment
-- May be negative in early disease despite primary chancre
-- Approximately 15% of positive VDRL results are false positives (associated with antiphospholipid antibody syndrome)
-
-*Treponemal antibody tests:*
-- Become positive within 4-6 weeks after infection
-- Usually remain positive indefinitely (even after successful treatment)
-- Historically used to confirm diagnosis in those with positive nontreponemal test
-- Some centers now use treponemal tests for screening and nontreponemal tests for confirmation
+**臨床表現**：
+- 對盤尼西林高度敏感
+- **血清學是診斷主軸**
 
 ### Summary: Syphilis
 
-- Caused by *T. pallidum* and has three stages
-- **Primary syphilis**: Painless chancre on external genitalia with regional lymphadenopathy
-- **Secondary syphilis**: Generalized lymphadenopathy and mucocutaneous lesions (maculopapular or condylomata lata)
-- **Tertiary syphilis**: Aortitis and aortic insufficiency; neurosyphilis; gummas in multiple organs
-- **Congenital syphilis**: Maternal transmission during vaginal birth; may cause stillbirth or widespread tissue injury
-- Most lesions demonstrate proliferative endarteritis and plasma cell-rich infiltrate
-- Diagnostic mainstay is serologic testing; nontreponemal tests (VDRL, RPR) may be negative in advanced disease
+- 由 *T. pallidum* 引起，有三個階段
+- **原發性梅毒**：無痛性 chancre
+- **第二期梅毒**：全身淋巴結增大與黏膜皮膚病變
+- **三期梅毒**：主動脈炎與主動脈瓣關閉不全；神經梅毒；gummas
 
 ### Gonorrhea
 
-Caused by **Neisseria gonorrhoeae** (gram-negative diplococcus). Second only to chlamydial infection among reportable communicable diseases in the United States.
+由 **Neisseria gonorrhoeae**（革蘭氏陰性雙球菌）引起。
 
-**Epidemiology (2014):**
-- Estimated 350,000 cases reported
-- 30% of males with gonorrhea are also coinfected with *Chlamydia trachomatis*
-- Emergence of strains resistant to multiple antibiotics
+**發病機制**：
+- 人類是唯一自然宿主
+- 病菌使用 pilus 與膜相關黏附分子附著於黏膜上皮
 
-**Pathogenesis:**
-- Humans are the only natural reservoir
-- Organism attaches to mucosal epithelium (particularly columnar or transitional) using pili and membrane-associated adhesion molecules
-- Penetrates through epithelial cells to invade deeper tissues
+**臨床表現**：
 
-**Morphology:**
-- N. gonorrhoeae provokes intense, suppurative inflammatory reaction
-- **Gram-negative diplococci, many within cytoplasm of neutrophils** (pathognomonic)
-- In males: purulent urethral discharge, edematous congested urethral meatus
-- Ascending infection: acute prostatitis, epididymitis, orchitis, abscesses
-- In females: less conspicuous urethral and endocervical exudates; acute salpingitis, tuboovarian abscesses
-- Scarring leads to pelvic inflammatory disease, strictures, infertility
+*男性*：
+- 排尿困難、尿頻、膿性尿道分泌物（2-14 天內）
+- 未治療：上行到前列腺炎、儲精囊炎、副睾炎、睪丸炎
 
-**Clinical features:**
+*女性*：
+- 可能無症狀或有排尿困難、下腹痛、陰道分泌物
+- 未治療：上行感染 → 急性輸卵管炎、卵巢受累
+- 疤痕：不孕、增加宮外孕風險
 
-*Males:*
-- Dysuria, urinary frequency, mucopurulent urethral exudate within 2-14 days
-- 40% of asymptomatic male contacts of women with symptomatic gonorrhea have detectable infection
-- Untreated: ascending to prostate, seminal vesicles, epididymis, testis
-- Chronic: urethral stricture, sterility, carrier state
-
-*Females:*
-- May be asymptomatic or have dysuria, lower pelvic pain, vaginal discharge
-- Untreated: ascending infection → acute salpingitis, ovarian involvement
-- Scarring: infertility, increased risk for ectopic pregnancy
-- **Gonococcal perihepatitis**: Exudate extends to dome of liver
-
-*Other sites:*
-- Oropharynx (pharyngitis)
-- Anorectal area (proctitis)
-- Both related to sexual practices
-
-*Disseminated infection* (0.5%-3% of cases; more common in females):
-- Tenosynovitis, arthritis, pustular or hemorrhagic skin lesions
-- Rare: endocarditis, meningitis
-- Usually caused by strains resistant to complement-mediated lysis
-
-*Newborns:*
-- **Ophthalmia neonatorum**: Purulent eye infection during passage through birth canal
-- Important cause of blindness in the past
-- Routine antibiotic eye ointment has markedly reduced this disorder
-
-**Diagnosis:**
-- Culture (permits antibiotic sensitivity determination)
-- Nucleic acid amplification tests (more rapid and sensitive)
+*新生兒*：
+- **新生兒眼炎**：經陰道分娩時感染
+- 常規抗生素眼藥水已大幅減少這種疾病
 
 ### Summary: Gonorrhea
 
-- Common STD affecting genitourinary tract
-- Presents with dysuria and purulent urethral discharge; many cases asymptomatic
-- About 30% of men with gonococcal urethritis also are infected with *C. trachomatis*
-- Pregnant women can transmit to newborns during vaginal birth
-- Diagnosis by culture or nucleic acid amplification techniques
+- 常見的 STD，影響泌尿生殖道
+- 表現為排尿困難與膿性尿道分泌物；許多病例無症狀
+- 對青黴素或頭孢菌素等抗微生物製劑治療
 
-### Nongonococcal Urethritis and Cervicitis
+### Nongonococcal Urethritis (NGU) 與 Cervicitis
 
-Most common forms of STD.
+最常見的 STD 形式。
 
-**Causative organisms:**
-- **Chlamydia trachomatis** (most common bacterial cause in United States)
-- *Mycoplasma genitalium* (close second)
+**致病生物**：
+- **Chlamydia trachomatis**（美國最常見的細菌原因）
+- *Mycoplasma genitalium*
 - *Trichomonas vaginalis*
-- *Ureaplasma urealyticum*
-- In almost 50% of cases worldwide, no pathogen identified
+- 約 50% 全球病例中未發現病原
 
-**Chlamydia trachomatis:**
-- Small gram-negative bacterium; obligate intracellular pathogen
-- Two forms:
-  - **Elementary body**: Infectious form; limited extracellular survival; taken up by host cells via receptor-mediated endocytosis
-  - **Reticulate body**: Metabolically active form; replicates using host cell energy; forms new infectious elementary bodies
-- Tropism for columnar epithelial cells
+**Chlamydia trachomatis**：
+- 小的革蘭氏陰性細菌；專性細胞內病原體
+- 兩種形式：
+  - **Elementary body**：傳染形式
+  - **Reticulate body**：代謝活性形式
 
-**Clinical features:**
-- Indistinguishable from gonorrhea in both men and women
-- Dysuria with or without urethral discharge; 1-5 weeks incubation
-- May cause epididymitis, prostatitis, pelvic inflammatory disease, pharyngitis, conjunctivitis, perihepatic inflammation, proctitis
-- Most common cause of epididymitis in young men
-- Large percentage of both men and women are asymptomatic
-- **Reactive arthritis** (formerly Reiter syndrome): Predominantly in HLA-B27 positive patients; manifests as urethritis, conjunctivitis, arthritis, mucocutaneous lesions
+**臨床表現**：
+- 與淋病無法區分
+- **Reactive arthritis**（以前稱 Reiter syndrome）：主要在 HLA-B27 陽性患者
 
-**C. trachomatis also causes lymphogranuloma venereum (LGV)**
+### Summary: NGU
 
-**Morphology:**
-- Primary infection: watery to mucopurulent discharge with predominance of neutrophils
-- Organisms not visible in Gram-stained sections
-- Cannot be isolated on conventional culture media
-
-**Diagnosis:**
-- **Nucleic acid amplification test (NAAT)** on voided urine (gold standard)
-
-### Summary: Nongonococcal Urethritis and Cervicitis
-
-- Most common forms of STD; most cases caused by *C. trachomatis*
-- *C. trachomatis* is a gram-negative intracellular bacterium causing disease clinically indistinguishable from gonorrhea
-- Diagnosis by sensitive NAATs on urine or vaginal swabs
-- In HLA-B27 positive patients, can cause reactive arthritis with conjunctivitis and mucocutaneous lesions
-
-### Lymphogranuloma Venereum (LGV)
-
-Caused by *C. trachomatis* serotypes (L1, L2, L3) distinct from those causing NGU/cervicitis.
-
-**Epidemiology:**
-- Endemic in parts of Asia, Africa, Caribbean, South America
-- Increased incidence in US past 15 years (primarily in men who have sex with men, often coinfected with HIV)
-
-**Morphology:**
-- Nonspecific urethritis or papular/ulcerative lesions on lower genitalia
-- **Unilateral tender inguinal and/or femoral lymphadenopathy** with fistulous tracts
-- Proctocolitis can occur
-- Mixed granulomatous and neutrophilic inflammatory response
-- **Stellate abscesses**: Irregularly shaped foci of necrosis with neutrophilic infiltration
-- Progression: fibrosis → lymphatic obstruction → lymphedema
-
-**Clinical features:**
-- **Primary lesion**: Genital ulcer or mucosal inflammation (1-2 weeks after exposure); heals spontaneously
-- **Lymphadenitis**: Usually unilateral, painful; may abscess and rupture (2-6 weeks after exposure)
-- **Rectal infections**: Proctocolitis with pain, constipation, fever, bleeding (mimics inflammatory bowel disease)
-- Untreated: rectal fissures and strictures from inflammation and fibrosis
-
-**Diagnosis:**
-- Difficult because laboratory tests not standardized
-- NAATs have highest sensitivity and specificity (becoming more widely available)
-- Culture and serologic tests less sensitive but still used
-
-### Chancroid (Soft Chancre)
-
-Caused by **Haemophilus ducreyi** (small gram-negative coccobacillus).
-
-**Epidemiology:**
-- Most common in tropical and subtropical areas
-- More prevalent in lower socioeconomic groups
-- One of most common causes of genital ulcers in Africa and Southeast Asia
-- Important cofactor in HIV transmission
-- Probably underdiagnosed in United States
-
-**Morphology:**
-- Primary lesion: papule → rapidly breaks down to form ulcer
-- **Superficial zone of neutrophilic debris and fibrin**
-- **Underlying zone of granulation tissue with necrosis and thrombosed vessels**
-- **Dense lymphoplasmacytic infiltrate** beneath granulation tissue
-- Regional lymph nodes: necrotizing inflammation → abscess formation
-
-**Clinical features:**
-- Primary lesion appears within 4-7 days of inoculation
-- Usually on penis (males) or vagina/periurethral area (females)
-- Surface erodes to produce irregular, painful ulcer (more painful in males)
-- **Inguinal lymph nodes enlarge and become tender** in approximately 50% of cases (1-2 weeks)
-- **Buboes**: Inflamed and enlarged nodes may erode overlying skin → chronic draining ulcers
-- Diagnosis requires identification of *H. ducreyi* on special culture media (sensitivity <80%)
-- Often based on clinical grounds alone
-
-### Granuloma Inguinale (Donovanosis)
-
-Caused by **Calymmatobacterium granulomatis** (minute encapsulated coccobacillus related to *Klebsiella*).
-
-**Epidemiology:**
-- Uncommon in United States and Western Europe
-- Endemic in rural tropical and subtropical regions
-- In urban settings: associated with multiple sexual partners
-
-**Morphology:**
-- Causes genital ulceration with abundant granulation tissue
-- **Pseudoepitheliomatous hyperplasia**: Marked epithelial hyperplasia at ulcer borders (can mimic carcinoma)
-- Mixed neutrophils and mononuclear inflammatory cells at base of ulcer
-- **Donovan bodies**: Minute coccobacilli within vacuoles in macrophages (Giemsa stain or Warthin-Starry silver stain)
-
-**Clinical features:**
-- Untreated: extensive scarring with lymphatic obstruction → **elephantiasis** of external genitalia
-- May cause urethral, vulvar, or anal strictures
-- Regional lymph nodes typically spared or show nonspecific reactive changes
-
-### Summary: LGV, Chancroid, and Granuloma Inguinale
-
-- **LGV** is caused by *C. trachomatis* serotypes distinct from NGU; associated with urethritis, ulcerative genital lesions, lymphadenopathy, rectal involvement; shows both acute and chronic inflammation progressing to fibrosis; diagnosed by NAATs and serology
-- **Chancroid** (*H. ducreyi*): Acute painful ulcerative genital infection; inguinal node involvement leads to ulceration; diagnosis by culture; painful in males
-- **Granuloma inguinale** (*C. granulomatis*): Chronic fibrosing STD; initial papular lesion expands and ulcerates; may cause strictures; organisms visible as **Donovan bodies** in macrophages
-
-### Trichomoniasis
-
-Caused by **Trichomonas vaginalis** (sexually transmitted protozoan).
-
-**Pathogenesis:**
-- Trophozoite form adheres to mucosa → superficial lesions
-- In females: associated with loss of acid-producing lactobacilli
-- Incubation period: 4-28 days
-
-**Clinical features:**
-
-*Females:*
-- May be asymptomatic
-- Pruritus and profuse, frothy, yellow vaginal discharge
-- Urethral colonization → urinary frequency and dysuria
-
-*Males:*
-- Usually asymptomatic
-- May cause nongonococcal urethritis
-
-**Diagnosis:**
-- Usually demonstrable in smears of vaginal scrapings
+- 最常見的 STD；多數由 *C. trachomatis* 引起
+- *C. trachomatis* 是革蘭氏陰性細胞內細菌，引起的疾病臨床上與淋病無法區分
+- 診斷通過敏感 NAATs
 
 ### Genital Herpes Simplex
 
-Approximately 800,000 new genital herpes infections yearly in United States. One in six persons aged 14-49 has HSV-2 infection.
+約每年 80 萬新發生殖器皰疹感染。
 
-**Etiology:**
-- Both HSV-1 and HSV-2 can cause anogenital or oral infections
-- Most anogenital herpes caused by **HSV-2**
-- Increasing genital infections caused by HSV-1 (due to oral sex practices)
-- Up to 95% of HIV-positive men who have sex with men are HSV-1 and/or HSV-2 seropositive
+**致病因子**：
+- HSV-1 與 HSV-2 都能引起生殖器或口腔感染
+- 大多數生殖器皰疹由 **HSV-2** 引起
 
-**Transmission:**
-- Direct contact with infected individual
-- Virus inactivated at room temperature, particularly when dried
-- Requires contact with mucosal surface or broken skin
+**臨床表現**：
 
-**Morphology:**
-- Initial lesions: painful, erythematous **intraepithelial vesicles** on mucosa or skin of lower genitalia and adjacent extragenital sites
-- Anorectal area: particularly common site in men who have sex with men
-- **Histologic changes**: Intraepithelial vesicles with necrotic cellular debris, neutrophils, cells with intranuclear viral inclusions
-- **Cowdry type A inclusion**: Light purple, homogeneous intranuclear structure surrounded by clear halo
-- Infected cells commonly fuse to form **multinucleate syncytia**
-- Inclusions stain with antibodies to HSV
+*原發感染*：
+- 可能無症狀或產生各種徵兆與症狀
+- 疼痛性皰疹病變、排尿困難、尿道分泌物
+- 全身表現：發燒、肌肉酸痛、頭痛
+- 病毒脫落在黏膜病變完全癒合前持續
 
-**Clinical features:**
+*復發感染*：
+- 比原發 episode 更輕且持續時間更短
 
-*Primary infection:*
-- May be asymptomatic or produce various signs and symptoms
-- Painful vesicular lesions, dysuria, urethral discharge
-- Local lymph node enlargement and tenderness
-- Systemic manifestations: fever, muscle aches, headache
-- Viral shedding continues until mucosal lesions completely healed
-- Asymptomatic viral shedding can occur up to 3 months after diagnosis
-- Signs and symptoms last several weeks
+**併發症**：
+- 在免疫抑制患者：可能為危及生命的瀰漫性疾病
+- **新生兒皰疹**：可在垂直傳播給感染陰道分娩的嬰兒
+  - 從無症狀到 CNS 受累或瀰漫性感染，範圍廣泛
+  - 約 60% 死亡率；約 50% 存活者有顯著發病率
 
-*Recurrent infection:*
-- Milder and of shorter duration than primary episode
+### Human Papillomavirus (HPV) Infection
 
-**Diagnosis:**
-- Viral culture
-- Nucleic acid amplification testing of fluid after "unroofing" of vesicular lesion
+HPV 導致：
+- **尖圭濕疣（Condyloma acuminatum）**
+- 多種癌前病變（宮頸、陰莖、外陰、口咽扁桃體、結膜）
 
-**Complications:**
-- In immunocompetent adults: generally not life-threatening
-- In immunosuppressed patients: potentially fatal disseminated disease
-- **Neonatal herpes**: Occurs in approximately 50% of infants born vaginally to mothers with primary or recurrent genital HSV infection
-  - Acquired during passage through birth canal
-  - Incidence rising with increase in genital HSV infection
-  - Manifestations range from superficial (skin, eyes, mouth) to CNS involvement with or without disseminated infection
-  - Approximately 60% mortality; significant morbidity in about 50% of survivors
-  - PCR-based testing is preferred for diagnosis of encephalitis
+**Condylomata acuminata**：
+- 由 HPV 類型 6 與 11 引起
+- 可發生在陰莖（通常冠狀溝或包皮內側）與女性外陰
+- HPV 6 與 11 是**低風險**病毒類型
 
-### Human Papillomavirus Infection
+**形態學**：
+- 從小無柄病變到大的乳頭狀增殖
 
-HPV causes:
-- **Condyloma acuminatum** (venereal warts)
-- Several precancerous lesions that may transform to carcinomas (cervix, penis, vulva, oropharyngeal tonsil, conjunctiva)
+### Summary: HSV 與 HPV
 
-**Condylomata acuminata:**
-- Caused by HPV types 6 and 11
-- Occur on penis (usually coronal sulcus or inner surface of prepuce) and female genitalia
-- May be transmitted to neonates during vaginal delivery
-- Can lead to recurrent and potentially life-threatening papillary tumors of upper respiratory tract in infants
-
-**Morphology (males):**
-- Range from small sessile lesions to large papillary proliferations measuring several centimeters
-
-### Summary: Herpes Simplex Virus and HPV Infections
-
-- **HSV-2** and, less commonly, HSV-1 cause genital infections
-- Primary infection may be asymptomatic or cause painful, erythematous, intraepithelial vesicles with regional lymphadenopathy
-- Recurrent lesions are less painful and less extensive
-- Vesicles contain necrotic cells and multinucleate giant cells with **Cowdry type A intranuclear inclusions**
-- **Neonatal herpes**: Can be life-threatening; acquired from mothers with genital herpes; may cause generalized herpes, often with encephalitis
-- **HPV** causes condyloma acuminatum, precancerous lesions, and invasive cancers
+- **HSV-2** 與較少見的 HSV-1 引起生殖器感染
+- 原發感染可能無症狀或引起疼痛性皰疹病變
+- **HPV** 引起尖圭濕疣、癌前病變與侵襲性癌症
+- HPV 疫苗有望減少 HPV 相關癌症

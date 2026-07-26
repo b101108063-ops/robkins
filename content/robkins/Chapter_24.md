@@ -5,653 +5,263 @@ title: "Chapter 24: Skin"
 
 # Chapter 24: Skin
 
-## Nomenclature of Skin Lesions
+## 章節導讀
 
-**Table 24.1** Nomenclature of Skin Lesions:
+本章節介紹皮膚疾病的病理學。內容涵蓋皮膚疾病的命名學、急性與慢性發炎性皮膚病（蕁麻疹、過敏性接觸性皮膚炎、濕疹、紅斑多形、牛皮癬、扁平苔蘚）、傳染性皮膚病（膿痂疹、黴菌感染、疣）、水皰性疾病（天皰瘡、類天皰瘡、皰疹樣皮炎）與皮膚腫瘤。
 
-| Macroscopic Lesion | Definition | Microscopic Lesion | Definition |
-|---|---|---|---|
-| **Excoriation** | Traumatic lesion breaking the epidermis, causing raw linear area (deep scratch); often self-inflicted | **Acanthosis** | Diffuse epidermal hyperplasia |
-| **Lichenification** | Thickened, rough skin; usually result of repeated rubbing | **Dyskeratosis** | Abnormal, premature keratinization within cells below stratum granulosum |
-| **Macule, patch** | Circumscribed, flat lesion distinguished by color. Macules ≤5 mm; patches >5 mm | **Hyperkeratosis** | Thickening of stratum corneum, often with qualitative abnormality of keratin |
-| **Papule, nodule** | Dome-shaped or flat-topped elevated lesion. Papules ≤5 mm; nodules >5 mm | **Papillomatosis** | Surface elevation caused by hyperplasia and enlargement of contiguous dermal papillae |
-| **Plaque** | Elevated flat-topped lesion, usually >5 mm (may be formed by coalescence of papules) | **Parakeratosis** | Retention of nuclei in stratum corneum of squamous epithelium |
-| **Pustule** | Discrete, pus-filled, raised lesion | **Spongiosis** | Intercellular edema of the epidermis |
-| **Vesicle, bulla, blister** | Fluid-filled raised lesion ≤5 mm (vesicle) or >5 mm (bulla); blister is common term for both | | |
-| **Wheal** | Itchy, transient, elevated lesion with variable blanching and erythema; formed as result of dermal edema | | |
+**發炎性皮膚病**是考試重點：蕁麻疹由 IgE 媒介的即發性過敏反應引起；過敏性接觸性皮膚炎是第四型延遲性過敏反應；牛皮癬是 T cell 媒介的疾病，以表皮增殖與角化不全為特徵；扁平苔蘚是 CD8+ T 細胞媒介的對基底層抗原的反應。
 
----
+**水皰性疾病**的鑑別診斷是考試難點：天皰瘡（pemphigus vulgaris）在棘細胞層內有 acantholysis；類天皰瘡（bullous pemphigoid）在表皮下；兩者都是自體免疫疾病，但靶抗原與臨床表現不同。
 
-## Acute Inflammatory Dermatoses
+**皮膚腫瘤**包括日光性角化病（premalignant lesion）、鱗狀細胞癌、基底細胞癌與黑色素瘤——各有不同的致病因子與預後。
 
-### Urticaria
+## 皮膚病變的命名學
 
-**Urticaria ("hives")** is a common disorder mediated by localized mast cell degranulation, leading to dermal microvascular hyperpermeability.
+<figure>
+<figcaption>Table 24.1 Nomenclature of Skin Lesions.</figcaption>
+</figure>
 
-#### Pathogenesis
+## 急性發炎性皮膚病
 
-- Most cases stem from **immediate (type I) hypersensitivity reaction**
-- Antigens trigger mast cell degranulation via **IgE antibodies** attached to mast cell surface through Fc receptor
-- Responsible antigens include: viruses, pollens, foods, drugs, insect venom
-- **IgE-independent urticaria** can result from substances that directly incite mast cell degranulation (opiates, certain antibiotics)
+### 蕁麻疹（Urticaria）
 
-#### Morphology
+蕁麻疹（hives）是由局部肥大細胞脫顆粒引起的常見疾病，導致真皮微血管通透性增加。
 
-- Sparse superficial perivenular infiltrate of mononuclear cells, rare neutrophils, sometimes eosinophils
-- Superficial dermal edema causes splaying of collagen bundles
-- Mast cell degranulation (difficult to appreciate on H&E; can be highlighted with Giemsa stain)
+**致病機制**：
+- 多數病例源於**即發性（第一型）過敏反應**
+- 過敏原通過附著於肥大細胞表面的 **IgG 抗體**觸發肥大細胞脫顆粒
 
-#### Clinical Features
+**形態學**：
+- 稀疏的淺表血管周浸潤，單核細胞，嗜中性粒細胞，有時嗜酸性粒細胞
+- 淺表真皮水腫
 
-- Affects individuals typically between **20 and 40 years** of age
-- Individual lesions develop and fade within hours; episodes can persist for days or months
-- Lesions range from small, pruritic papules to large, edematous, erythematous plaques
-- May be localized or generalized
-- **Pressure urticaria**: lesions only in pressure-exposed areas (feet, buttocks)
-- Most cases respond to antihistamines; severe refractory disease may require **leukotriene antagonists**, **anti-IgE monoclonal antibodies**, or **immunosuppressive drugs**
+**臨床特徵**：
+- 個體病變在數小時內出現與消退；情節可持續數天或數月
+- 病變範圍從小、瘙癢丘疹到大、浮腫性、紅斑斑塊
 
----
+### 急性濕疹性皮膚炎（Acute Eczematous Dermatitis）
 
-### Acute Eczematous Dermatitis
+濕疹（Eczema）是臨床術語，指具有不同基礎病因的情況。
 
-**Eczema** is a clinical term embracing conditions with varied underlying etiologies.
+**致病機制（過敏性接觸性皮膚炎）**：
+- 由環境接觸過敏原觸發
+- 過敏原與自體蛋白質發生化學反應 → 與 T 細胞識別的新抗原
+- **表皮 Langerhans cells** 處理修飾的自體蛋白 → 遷移到局部淋巴結 → 向初始 T 細胞呈現抗原
+- **延遲型過敏反應**
 
-#### Clinical Subtypes
+**形態學**：
+- **Spongiosis**（表皮水腫）特徵
+- 滲出液進入表皮，使keratinocytes 分離
 
-- **Allergic contact dermatitis**: From topical allergen exposure; caused by **delayed hypersensitivity reactions**
-- **Atopic dermatitis**: Defects in keratinocyte barrier function (increased permeability to antigens)
-- **Drug-related eczematous dermatitis**: Hypersensitivity reaction to a drug
-- **Photoeczematous dermatitis**: Abnormal reaction to UV or visible light
-- **Primary irritant dermatitis**: Chemical, physical, or mechanical skin damage
+**臨床特徵**：
+- 瘙癢、浮腫、滲出斑塊，常有水皰
+- **Atopic dermatitis**：遺傳性傾向；與氣喘與過敏性鼻炎相關（**atopic triad**）
 
-#### Pathogenesis of Allergic Contact Dermatitis
+### 紅斑多形（Erythema Multiforme）
 
-- Triggered by environmental contact-sensitizing agents (e.g., poison ivy)
-- Agent chemically reacts with self-proteins → neoantigens recognized by **T cells**
-- **Epidermal Langerhans cells** process modified self-proteins → migrate to draining lymph nodes → present antigen to naïve T cells
-- **Sensitization event** leads to immunologic memory
-- On re-exposure: activated memory **CD4+ T lymphocytes** migrate to affected skin sites → release cytokines that recruit inflammatory cells and mediate epidermal damage (**delayed-type hypersensitivity**)
+紅斑多形的特徵是**皮膚歸巢 CD8+ 細胞毒性 T 淋巴細胞**媒介的上皮損傷。
 
-#### Morphology
+**致病機制**：
+- 對某些感染與藥物的過敏反應
+- **前驅感染**：皰疹病毒、黴漿菌
+- 細胞毒性 T 細胞攻擊focused on **表皮基底細胞**
 
-- **Spongiosis** (epidermal edema) characterizes all forms of acute eczematous dermatitis
-- Edema fluid seeps into epidermis → splays apart keratinocytes
-- Intercellular bridges stretch and become prominent
-- Accompanied by superficial perivascular lymphocytic infiltrate, dermal papillae edema, mast cell degranulation
-- Eosinophils may be present (especially in drug-induced spongiotic eruptions)
+**形態學**：
+- 各種病變：斑、丘疹、水皰（因此「多形」）
+- 充分發展的病變有特徵性「標靶」外觀
 
-#### Clinical Features
+**臨床特徵**：
+- 疾病廣泛度多變
+- 皰疹相關形式較不嚴重
+- 藥物引發形式可能進展到 **Stevens-Johnson 症候群**或**毒性表皮壞死**
 
-- Pruritic, edematous, oozing plaques, often with vesicles and bullae
-- With persistent antigen exposure: lesions become scaly (hyperkeratotic) as epidermis thickens (**acanthosis**)
-- Some changes exacerbated by scratching
-- **Atopic dermatitis**: genetic predisposition; concordant in 80% of identical twins
-- Usually appears in early childhood; often associated with **asthma and allergic rhinitis** (the **atopic triad**)
+## 慢性發炎性皮膚病
 
----
+### 牛皮癬（Psoriasis）
 
-### Erythema Multiforme
+牛皮癬是一種常見的**慢性發炎性皮膚病**，影響美國 1-2% 的個體。
 
-**Erythema multiforme** is characterized by epithelial injury mediated by **skin-homing CD8+ cytotoxic T lymphocytes**.
+**致病機制**：
+- **T cell 媒介的發炎疾病**；被認為是自體免疫性起源
+- **CD4+ TH17 與 TH1 細胞**與 **CD8+ T 細胞**聚集在真皮與表皮
+- 這些細胞分泌 **細胞激素與生長因子** → 誘導**表皮細胞增殖**
+- **Koebner 現象**：局部創傷可誘發牛皮癬病變
 
-#### Pathogenesis
+**形態學**：
+- 界線清楚的粉紅到鮭魚色斑塊，覆蓋鬆散黏附的銀白色鱗屑
+- 顯著 **acanthosis**，規則向下延伸的 rete ridges（「試管架上的試管」模式）
+- 表皮細胞週期增加與缺乏成熟 → **stratum granulosum 丟失**與 **parakeratotic scale**
+- 乳頭尖端的表皮細胞層變薄（**suprapapillary plates**）
+- 乳頭內擴張、扭曲的毛細血管 → **Auspitz 徵象**
 
-- Hypersensitivity response to certain infections and drugs
-- **Antecedent infections**: herpes simplex, mycoplasma, some fungi
-- **Implicated drugs**: sulfonamides, penicillin, salicylates, hydantoins, anti-malarials
-- Cytotoxic T cell attack focused on **basal cells of cutaneous and mucosal epithelia**
-- Certain **HLA haplotypes** are associated with the disease
+### 扁平苔蘚（Lichen Planus）
 
-#### Morphology
+扁平苔蘚是影響皮膚與鱗狀黏膜的疾病。描述為「瘙癢、紫、多角形、平面丘疹與斑塊」。
 
-- Wide array of lesions: macules, papules, vesicles, bullae (hence "multiforme")
-- Well-developed lesions have characteristic **"targetoid" appearance** (Fig. 24.2A)
-- Early lesions: superficial perivascular lymphocytic infiltrate, dermal edema, margination of lymphocytes along dermoepidermal junction with **apoptotic keratinocytes**
-- Discrete zones of basal epidermal necrosis → blister formation
-- **Toxic epidermal necrolysis**: necrosis extends through full thickness of epidermis (severe form)
+**致病機制**：
+- **CD8+ T 細胞媒介的對基底層細胞抗原的細胞毒性反應**
 
-#### Clinical Features
+**形態學**：
+- 瘙癢、紫、平面丘疹，可融合成斑塊
+- 白色點或線：**Wickham striae**
+- **Interface dermatitis**：發炎集中在鱗狀上皮與乳頭真皮交界
+- 緻密、連續的 **淋巴細胞**浸潤沿著 dermoepidermal junction
+- **Civatte bodies**（膠樣體）：在發炎乳頭真皮中的無核、壞死基底細胞
 
-- Broad range of severity
-- Infection-associated forms (often herpesvirus): less severe
-- Drug-induced forms may progress to **Stevens-Johnson syndrome** or **toxic epidermal necrolysis**
-- Life-threatening forms: sloughing of large portions of epidermis → fluid loss and infection complications (similar to burn-injured patients)
+### 總結：慢性發炎性皮膚病
 
----
+- **牛皮癬**是 T 細胞媒介的發炎性皮膚病，特徵為表皮增殖與銀白色鱗屑
+- **扁平苔蘚**是 CD8+ T 細胞媒介的細胞毒性反應，特徵為紫、多角形平面丘疹與 Wickham striae
 
-## Chronic Inflammatory Dermatoses
+## 傳染性皮膚病
 
-### Psoriasis
+### 膿痂疹（Impetigo）
 
-**Psoriasis** is a common **chronic inflammatory dermatosis**, affecting **1% to 2%** of individuals in the United States.
+膿痂疹是最常見的細菌性皮膚感染之一，主要見於**兒童**。
 
-**Associated conditions:**
-- **Increased risk for heart attack and stroke** (related to chronic inflammatory state)
-- **Psoriatic arthritis** in up to **10%** of patients
+**致病生物**：
+- 通常為 **Staphylococcus aureus** 或 **Streptococcus pyogenes**
 
-#### Pathogenesis
+**形態學**：
+- 嗜中性粒細胞在 stratum corneum 下積聚 → **subcorneal pustule**
+- 非特異性反應性表皮改變與淺表真皮炎症
 
-- **T cell-mediated inflammatory disease**; presumed autoimmune in origin
-- Both **genetic** (HLA types, other susceptibility loci) and **environmental factors** contribute
-- **CD4+ TH17 and TH1 cells** and **CD8+ T cells** accumulate in dermis and epidermis
-- These cells secrete **cytokines and growth factors** → induce **keratinocyte hyperproliferation**
-- **Koebner phenomenon**: psoriatic lesions can be induced by local trauma
-- **GWAS**: increased risk polymorphisms in **HLA loci** and genes affecting **antigen presentation**, **TNF signaling**, **skin barrier function**
+**臨床特徵**：
+- 常從單一小斑開始，快速發展為較大病變，覆蓋**蜂蜜色痂**
 
-#### Morphology
+### 黴菌感染
 
-- **Well-demarcated, pink to salmon-colored plaques** covered by loosely adherent **silver-white scale**
-- Marked **acanthosis** with regular downward elongation of rete ridges ("test tubes in a rack" pattern)
-- Increased epidermal cell turnover and lack of maturation → **loss of stratum granulosum** and **parakeratotic scale**
-- **Thinning of epidermal cell layer** over dermal papillae tips (**suprapapillary plates**)
-- Dilated, tortuous blood vessels within papillae → **Auspitz sign** (punctate bleeding when scale removed)
-- Neutrophils form small aggregates in spongiotic superficial epidermis and parakeratotic stratum corneum
+黴菌感染從**淺表**（Tinea 或 Candida）到**危及生命**（免疫抑制個體中的 Aspergillus）。
 
-#### Clinical Features
+**形態學**：
+- 淺表感染：常與表皮內**嗜中性粒細胞浸潤**相關
+- 深部黴菌感染：更大組織損傷，常為**肉芽腫性反應**
 
-- Most frequently affects **elbows, knees, scalp, lumbosacral areas, intergluteal cleft, glans penis, and vulva**
-- **Nail changes** occur in **30%** of cases
-- Usually limited in distribution, but can be widespread and severe
-- Mild disease: topical **corticosteroids** or **immunomodulatory agents**
-- More severe disease: **phototherapy** or systemic **immunosuppressive agents** (methotrexate, **TNF antagonists**)
+### 疣（Verrucae）
 
----
+疣是由 **HPV** 引起的鱗狀上皮細胞增殖性病變。
 
-### Lichen Planus
+**形態學**：
+- 表皮增生，伴有起伏的（verrucous/papillomatous）特徵
+- **Koilocytosis**：淺表表皮細胞層中的細胞質空泡化
 
-**"Pruritic, purple, polygonal, planar papules, and plaques"** — this disorder affects skin and squamous mucosa.
+## 水皰性疾病
 
-#### Pathogenesis
+### 天皰瘡（Pemphigus Vulgaris 與 Foliaceus）
 
-- **CD8+ T cell–mediated cytotoxic response** against basal cell layer antigens
+天皰瘡是一種罕見的**自體免疫性水皰性疾病**，由 **IgG 自體抗體**針對細胞間橋粒蛋白（**desmoglein 1 與 3**）引起。
 
-#### Morphology
+**致病機制**：
+- 自體抗體破壞橋粒的細胞間黏附功能
+- 直接免疫螢光：**魚網狀圖案**的細胞間 **IgG 沉積**
 
-- **Pruritic, violaceous, flat-topped papules** that may coalesce to form plaques
-- White dots or lines: **Wickham striae**
-- **Hyperpigmentation** may result from melanin loss into dermis
-- **Interface dermatitis**: inflammation concentrated at the interface of squamous epithelium and papillary dermis
-- Dense, continuous infiltrate of **lymphocytes** along dermoepidermal junction
-- **Sawtoothing** of dermoepidermal interface
-- **Colloid bodies** (Civatte bodies): anucleate, necrotic basal cells in inflamed papillary dermis
-- Epidermal hyperplasia, **hypergranulosis**, **hyperkeratosis**
+**形態學**：
 
-#### Clinical Features
+*Pemphigus Vulgaris*：
+- 涉及**黏膜與皮膚**
+- **弛緩性水皰與大皰**，容易破裂，留下深的糜爛
 
-- Uncommon; usually presents in **middle-aged adults**
-- Multiple, usually symmetrically distributed on **extremities**, around **wrists and elbows**, on **vulva and glans penis**
-- **Approximately 70%** of cases also involve the **oral mucosa** (white papules with reticulate appearance)
-- Cutaneous lesions usually resolve spontaneously within **1 to 2 years**
-- Oral lesions may persist and interfere with food intake
+*Pemphigus Foliaceus*：
+- 罕見、較輕形式
+- 淺表水皰：stratum granulosum 水平的 subcorneal acantholysis
 
----
+**臨床特徵**：
+- 病變**疼痛**；常發生**繼發感染**
+- 多数患者有**口腔病變**
 
-### Lichen Simplex Chronicus
+### 類天皰瘡（Bullous Pemphigoid）
 
-**Lichen simplex chronicus** is roughening of skin reminiscent of lichen on a tree. It is a response to **local repetitive trauma** (rubbing or scratching). Nodular forms are called **prurigo nodularis**.
+類天皰瘡是一種具有**自體免疫基礎**的後天性水皰性疾病。
 
-#### Morphology
+**致病機制**：
+- **IgG 自體抗體**與補體的**線性沉積**在**表皮基底膜**
+- 反應性針對 **hemidesmosomes**（主要為 **type XVII collagen**）
+- IgG 自體抗體固定補體 → 募集**嗜中性粒細胞與嗜酸性粒細胞**
 
-- **Acanthosis**, **hyperkeratosis**, **hypergranulosis**
-- Elongation of rete ridges
-- **Fibrosis of papillary dermis**
-- Dermal chronic inflammatory infiltrate
+**形態學**：
+- **緊張的表皮下水皰**，充滿清亮液體
+- 上覆表皮**缺乏 acantholysis**
+- 與天皰瘡水皰的關鍵區別
 
-#### Clinical Features
+**臨床特徵**：
+- 病變**不像天皰瘡那樣容易破裂**；癒合**不留疤痕**
+- 趨向**緩解與復發**過程
 
-- Lesions often raised, erythematous, and scaly
-- Can be mistaken for **keratinocytic neoplasms**
-- Can be superimposed on and mask another (often pruritic) dermatosis
+### 皰疹樣皮炎（Dermatitis Herpetiformis）
 
----
+皰疹樣皮炎是一種與**麩質敏感**相關的**自體免疫性水皰性疾病**。
 
-## Infectious Dermatoses
+**致病機制**：
+- 基因上易感的個體產生：
+  - 對飲食 **gluten** 的 **IgA 抗體**
+  - 與 **tissue transglutaminases** 交叉反應的 **IgA 自體抗體**
 
-### Bacterial Infections
+## 皮膚腫瘤
 
-#### Impetigo
+### 日光性角化病（Actinic Keratosis）
 
-**Impetigo** is one of the most common bacterial skin infections, seen primarily in **children**.
+日光性角化病是由 **UV 誘導的 DNA 損傷**引起的**癌前病變**。
 
-**Etiology:**
-- Usually **Staphylococcus aureus** or **Streptococcus pyogenes**
-- Acquired through direct contact
-- Individuals colonized by S. aureus or S. pyogenes (nasal or anal) are more likely to be affected
+**致病機制**：
+- 通常由**慢性陽光暴露**引起
+- 與 **TP53 突變**相關
+- 進展為鱗狀細胞癌的比率：**每年 0.1-2.6%**
 
-**Morphology:**
-- **Neutrophils accumulate beneath stratum corneum** → **subcorneal pustule**
-- Nonspecific reactive epidermal alteration and superficial dermal inflammation
-- Bacterial cocci in superficial epidermis demonstrable by **Gram stain**
+### 鱗狀細胞癌（Skin Squamous Cell Carcinoma）
 
-**Clinical Features:**
-- Often begins as single small macule on **extremities or face** (near nose or mouth)
-- Rapidly evolves into larger lesion with **honey-colored crust** of dried serum
-- Less common **bullous form** of childhood impetigo may mimic an autoimmune blistering disorder
+鱗狀細胞癌是發生在陽光暴露部位的常見腫瘤，通常發生在**老年人**。
 
----
+**致病機制**：
+- 主要由 **UV 光暴露**引起
+- 常見突變：**TP53、RAS、Notch receptor**
+- **免疫抑制**（特別是器官移植受者）增加發生率
 
-### Fungal Infections
+**形態學**：
+- 鱗狀細胞癌 in situ：界線清楚、紅、鱗屑斑塊
+- **侵襲性鱗狀細胞癌**：結節性，常鱗屑，可能潰瘤
 
-Fungal infections range from **superficial** (Tinea or Candida spp.) to **life-threatening** (Aspergillus spp. in immunosuppressed individuals).
+**臨床特徵**：
+- 通常發現時**小且可切除**
+- 轉移到區域淋巴結的可能性與**厚度**和**皮下浸潤程度**相關
 
-**Classification:**
-- **Superficial**: stratum corneum, hair, and nails
-- **Deep**: dermis or subcutis
-- **Systemic**: hematogenous spread, often in immunocompromised patients
+### 基底細胞癌（Basal Cell Carcinoma）
 
-**Morphology:**
-- Histologic appearance varies depending on organism, host response, degree of superinfection
-- Superficial infections: often associated with **neutrophilic infiltrate in the epidermis**
-- Deep fungal infections: greater tissue damage, often **granulomatous response**
-- **Aspergillus** can be **angioinvasive**
-- **PAS** and **Gomori methenamine silver** stains are helpful for identification
+基底細胞癌是一種常見的**生長緩慢的癌症**，**罕見轉移**。
 
-**Clinical Features:**
-- **Superficial infections**: erythematous macules with superficial scale, often pruritic; may have annular appearance
-- **Aspergillus infections**: erythematous, often nodular, sometimes associated with local hemorrhage
-- May mimic **psoriasiform or eczematous dermatoses** — important to consider in differential diagnosis
+**致病機制**：
+- **分子標誌**：**PTCH1**（腫瘤抑制基因）功能缺失突變
+- PTCH1 陰性調節 **Hedgehog 信號**
+- PTCH1 突變 → 組成性 Hedgehog 通路激活
 
----
+**形態學**：
+- **珍珠樣丘疹**，常有顯著的擴張真皮下血管（毛細血管擴張）
+- 腫瘤細胞類似正常的**表皮基底細胞層**或**毛囊胚芽元素**
 
-### Verrucae (Warts)
+### 黑色素瘤（Melanoma）
 
-**Verrucae** are proliferative lesions of squamous epithelial cells caused by **human papillomavirus (HPV)**. Most common in children and adolescents; usually **self-limited**, regressing within **6 months to 2 years**.
+**黑色素瘤**是黑色素細胞來源的惡性腫瘤，是**皮膚癌死亡的第三大原因**。
 
-#### Pathogenesis
+**致病因子**：
+- **UV 光暴露**
+- **家族史**
+- **黑色素細胞痣**
+- **免疫抑制**
 
-- Cutaneous warts are mainly caused by **low-risk HPV subtypes** lacking transforming potential
-- Like high-risk HPV, low-risk viruses express viral **E6 and E7 oncoproteins**
-- **Immunodeficiency** is associated with more numerous and larger verrucae
+**形態學**：
+- 水平（radial）生長階段 → 垂直（vertical）生長階段
+- 侵襲到真皮乳頭的腫瘤細胞形成**小簇或小結**
 
-#### Morphology
+**預後因素**：
+- **Breslow 厚度**（測量從顆粒層到最深浸潤的厚度）
+- **潰瘤**
+- **淋巴結轉移**
 
-- **Epidermal hyperplasia** with undulant (verrucous/papillomatous) character
-- **Koilocytosis**: cytoplasmic vacuolization in superficial epidermal layers — halos of pallor surrounding infected nuclei
-- Prominent **keratohyalin granules**
-- Jagged eosinophilic intracytoplasmic protein aggregates
+### Summary: 皮膚疾病
 
-#### Types of Warts
-
-| Type | Location | Appearance |
-|---|---|---|
-| **Verruca vulgaris** (common wart) | Hands (dorsal surfaces, periungual areas) | Gray-white to tan, flat to convex, 0.1–1 cm papule with rough, pebble-like surface |
-| **Verruca plana** (flat wart) | Face or dorsal hands | Flat, smooth, tan macules |
-| **Verruca plantaris/palmaris** | Soles and palms | Rough, scaly lesions, 1–2 cm; may coalesce |
-
----
-
-## Blistering (Bullous) Disorders
-
-Although vesicles and bullae occur secondarily in several conditions, there is a group of disorders in which **blisters are the primary and most distinctive feature**.
-
-### Levels of Blister Formation
-
-| Level | Associated Disorders |
-|---|---|
-| **Subcorneal** | Pemphigus foliaceus |
-| **Suprabasal** | Pemphigus vulgaris |
-| **Subepidermal** | Bullous pemphigoid, Dermatitis herpetiformis |
-
----
-
-### Pemphigus (Vulgaris and Foliaceus)
-
-**Pemphigus** is an uncommon **autoimmune blistering disorder** resulting from loss of normal intercellular attachments within the **epidermis** and **squamous mucosal epithelium**.
-
-**Three major variants:**
-- **Pemphigus vulgaris** (most common)
-- **Pemphigus foliaceus**
-- **Paraneoplastic pemphigus** (associated with internal malignancy)
-
-#### Pathogenesis
-
-- **Autoimmune disease** caused by **IgG autoantibodies** against intercellular desmosomal proteins (**desmoglein types 1 and 3**)
-- Antibodies disrupt intercellular adhesive function of desmosomes and may activate intercellular proteases
-- Distribution of **desmoglein proteins** within the epidermis determines location of lesions
-- By direct immunofluorescence: **fishnet-like pattern** of intercellular **IgG deposits**
-- Associated with particular **HLA alleles**
-
-#### Morphology
-
-**Pemphigus Vulgaris:**
-- Involves **mucosa and skin** (scalp, face, axillae, groin, trunk, pressure points)
-- **Superficial flaccid vesicles and bullae** that rupture easily, leaving **deep erosions** covered with serum crust
-- **Suprabasal acantholytic blister**: lysis of intercellular adhesive junctions above basal cell layer
-- Variable superficial dermal infiltrates of **lymphocytes, macrophages, and eosinophils**
-
-**Pemphigus Foliaceus:**
-- **Rare, milder form** — bullae mainly confined to skin; infrequent mucous membrane involvement
-- **Superficial blisters**: subcorneal acantholysis at level of stratum granulosum
-- Limited zones of erythema and crusting of ruptured blisters
-
-#### Clinical Features
-
-- **Pemphigus vulgaris**: rare; most commonly in **older adults**; more often in **women**
-- Lesions are **painful**; frequently develop **secondary infections**
-- Most patients have **oropharyngeal involvement** at some point
-- Mainstay of treatment: **immunosuppressive therapy**, sometimes for life
-- Medications can induce pemphigus (more often pemphigus foliaceus)
-- **Endemic form** of pemphigus foliaceus in South America (**fogo selvagem**): putatively associated with black fly bite
-
----
-
-### Bullous Pemphigoid
-
-**Bullous pemphigoid** is a distinctive acquired blistering disorder with an **autoimmune basis**.
-
-#### Pathogenesis
-
-- **Linear deposition** of **autoreactive IgG antibodies** and **complement** in the **epidermal basement membrane**
-- Reactivity directed at **hemidesmosomes** — where most **bullous pemphigoid antigen** (most commonly **type XVII collagen**) is located
-- IgG autoantibodies fix complement → recruit **neutrophils and eosinophils**
-- Different target antigen location from pemphigus (**hemidesmosomes** vs. **desmosomes**), explaining different clinical presentation
-
-#### Morphology
-
-- **Tense subepidermal bullae** filled with clear fluid
-- Overlying epidermis **lacks acantholysis**
-- Early lesions: variable numbers of **eosinophils** at dermal-epidermal junction, occasional neutrophils, superficial dermal edema, basal cell layer **vacuolization**
-- Blister roof consists of **full-thickness epidermis with intact intercellular junctions**
-- Key distinction from pemphigus blisters
-
-#### Clinical Features
-
-- Lesions **do not rupture** as readily as in pemphigus; heal **without scarring**
-- Tends to follow a **remitting and relapsing course**
-- Responds to topical or systemic **immunosuppressive agents**
-- **Gestational pemphigoid** (herpes gestationis): appears during **second or third trimester** of pregnancy; resolves after childbirth but may recur with subsequent pregnancies
-
----
-
-### Dermatitis Herpetiformis
-
-**Dermatitis herpetiformis** is an **autoimmune blistering disorder** associated with **gluten sensitivity**, characterized by extremely pruritic **grouped vesicles and papules**.
-
-#### Epidemiology
-
-- Predominantly **males**; often in **third and fourth decades**
-- **Up to 80%** of cases are associated with **celiac disease**
-- Only a small fraction of patients with celiac disease develop dermatitis herpetiformis
-- Responds to a **gluten-free diet**
-
-#### Pathogenesis
-
-- Genetically predisposed individuals develop:
-  - **IgA antibodies** to dietary **gluten** (wheat protein gliadin)
-  - **IgA autoantibodies** that cross-react with **endomyosin** and **tissue transglutaminases** (including **epidermal transglutaminase**)
-- By direct immunofluorescence: **discontinuous, granular deposits of IgA** selectively localized in the **tips of dermal papillae**
-
-#### Morphology
-
-- Lesions are **bilateral, symmetric, and grouped**
-- Preferentially involve **extensor surfaces, elbows, knees, upper back, and buttocks**
-- Initially: **neutrophils** accumulate selectively at tips of dermal papillae (**microabscesses**)
-- Basal cells overlying microabscesses show **vacuolization** and **focal dermoepidermal separation** → coalesce to form a **true subepidermal blister**
-
----
-
-## Tumours of the Skin
-
-### Benign and Premalignant Epithelial Lesions
-
-Benign epithelial neoplasms are common; probably arise from **stem cells** residing in the epidermis and hair follicles. They grow to a limited size and generally do not undergo malignant transformation.
-
----
-
-### Seborrheic Keratosis
-
-These common **pigmented epidermal tumors** occur most frequently in **middle-aged or older individuals**. They arise spontaneously on the **trunk**, but also on extremities, head, and neck.
-
-#### Pathogenesis
-
-- Caused by **acquired activating mutations** in growth factor signaling pathways
-- Significant fraction harbor **activating mutations in FGFR3** (fibroblast growth factor receptor 3) — a tyrosine kinase that stimulates **RAS** and **PI3K/AKT pathway**
-- Others have activating mutations in downstream components (**RAS**, **PI3K**)
-- **Sign of Leser-Trelat**: sudden appearance of hundreds of lesions as a **paraneoplastic syndrome** — may indicate internal malignancy (usually **GI tract carcinomas**)
-
-#### Morphology
-
-- **Round, exophytic, coinlike plaques** — millimeters to centimeters in diameter
-- **"Stuck-on" appearance**: tan to dark brown with velvety-to-granular surface
-- Microscopically: monotonous sheets of small cells resembling normal **epidermal basal cells**
-- Variable **melanin pigmentation** within basaloid cells
-- **Hyperkeratosis** at surface; **horn cysts** (keratin-filled cysts) and **pseudo-horn cysts** are characteristic
-
----
-
-### Actinic Keratosis
-
-**Actinic keratosis** is a **premalignant lesion** caused by **UV-induced DNA damage** associated with mutations in **TP53** and other genes frequently mutated in **squamous cell carcinoma**.
-
-#### Pathogenesis
-
-- Usually results from **chronic exposure to sunlight**
-- Associated with **TP53 mutations** and other genes also mutated in squamous cell carcinoma
-- Rate of progression to squamous cell carcinoma: **0.1% to 2.6% per year**
-- Most regress or remain stable
-
-#### Morphology
-
-- Usually **<1 cm** in diameter; tan-brown or red; **rough (sandpaper-like)** to the touch
-- Microscopically: lower epidermis shows **cytologic atypia**, often with **basal cell hyperplasia** or diffuse thinning
-- Dermis contains **thickened, blue-gray elastic fibers** (**solar elastosis**) — result of chronic sun damage
-- **Parakeratosis** (thickened stratum corneum with retained nuclei)
-- Uncommonly: **full-thickness epidermal atypia** → **squamous cell carcinoma in situ**
-
-#### Clinical Features
-
-- Very common in **fair-skinned individuals**
-- Incidence increases with **age** and **sun exposure**
-- Predilection for **sun-exposed areas** (face, arms, dorsum of hands)
-- Often treated to prevent progression or for cosmetic reasons
-- **Cryotherapy** (superficial freezing) or **topical agents** are effective and safe
-
----
-
-### Squamous Cell Carcinoma
-
-**Squamous cell carcinoma** is a common tumor typically arising on **sun-exposed sites** in **older adults**. Higher incidence in **men**.
-
-#### Pathogenesis
-
-- Mainly caused by **UV light exposure** → widespread DNA damage and high mutational loads
-- **Xeroderma pigmentosum** patients (defective UV-induced DNA damage repair) have **exceptionally high risk**
-- Common mutations:
-  - **TP53** mutations
-  - **Activating RAS mutations**
-  - **Loss-of-function Notch receptor mutations**
-- **Immunosuppression** (especially organ transplant recipients): increased incidence, likely related to **HPV infection**
-- Other predisposing factors: **tars, oils, chronic non-healing ulcers, burn scars, arsenicals, ionizing radiation**
-
-#### Morphology
-
-- **Squamous cell carcinoma in situ**: sharply defined, red, scaling plaques
-- Microscopically: highly atypical cells at all levels of epidermis, nuclear crowding and disorganization
-- **Invasive squamous cell carcinomas**: nodular, often scaly lesions that may ulcerate
-- Variable degrees of differentiation: orderly lobules with extensive keratinization → highly anaplastic cells with foci of necrosis and **dyskeratosis** (abortive single-cell keratinization)
-
-#### Clinical Features
-
-- Often discovered while **small and resectable**
-- Less than **1%** have metastasized to regional lymph nodes at diagnosis
-- Likelihood of metastasis related to **thickness** and degree of **subcutaneous invasion**
-- Tumors arising from actinic keratoses may be locally aggressive but generally metastasize slowly
-- Those arising in **burn scars, ulcers, and non–sun-exposed skin** often behave more aggressively
-
----
-
-### Basal Cell Carcinoma
-
-**Basal cell carcinoma** is a common, **slow-growing cancer** that **rarely metastasizes**. Tends to occur at sites of **chronic sun exposure** in **lightly pigmented individuals**.
-
-#### Pathogenesis
-
-- **Molecular hallmark**: loss-of-function mutations in **PTCH1** (tumor suppressor gene)
-- **PTCH1** negatively regulates **Hedgehog signaling** → constitutive Hedgehog pathway activation
-- Excessive Hedgehog activation → downstream genes implicated in cell growth and survival
-- In sporadic basal cell carcinoma: **PTCH1 mutations** bear telltale signs of **UV light–induced DNA damage**
-- **Gorlin syndrome**: inherited **PTCH1** defects → familial basal cell carcinoma
-- **TP53 mutations** (UV-induced) also common
-
-#### Morphology
-
-- **Pearly papules**, often with prominent dilated subepidermal blood vessels (**telangiectasia**)
-- Some tumors contain **melanin pigment** → can resemble melanocytic nevi or melanomas
-- Tumor cells resemble normal **epidermal basal cell layer** or **follicular germinative elements**
-- Not encountered on **mucosal surfaces**
-- Two common patterns:
-  - **Multifocal superficial growths**: originating from epidermis
-  - **Nodular lesions**: growing downward as cords and islands of basophilic cells in fibrotic or mucinous stromal matrix
-- **Palisading**: peripheral tumor cell nuclei align in outermost layer; often separates from stroma creating a characteristic **cleft**
-
-#### Clinical Features
-
-- **>1 million** basal cell carcinomas treated annually in the United States
-- Most important risk factor: **cumulative sun exposure**
-- More common in warm southern regions; **40-fold higher** incidence in sunny climates near equator (e.g., Australia)
-- Usually cured by **local excision**
-- Approximately **40%** of patients develop another basal cell carcinoma within **5 years**
-- Advanced lesions may **ulcerate** and extensively invade **bone or facial sinuses** if neglected
-- **Metastasis is exceedingly rare**
-- **Hedgehog pathway inhibitors** are used for locally advanced or metastatic tumors
-
----
-
-### Melanocytic Nevi
-
-Strictly speaking, **nevus** denotes any congenital skin lesion. **Melanocytic nevus** refers to any benign congenital or acquired neoplasm of **melanocytes**.
-
-#### Pathogenesis
-
-- Benign neoplasms caused by **somatic gain-of-function mutations in BRAF or RAS**
-- Derived from **melanocytes** — pigment-producing cells with dendritic projections normally interspersed among basal keratinocytes
-- **BRAF** encodes a serine/threonine kinase downstream of RAS in the **ERK pathway**
-- Unbridled BRAF/RAS signaling induces melanocytic proliferation followed by **senescence** — "brake" on proliferation explains why very few nevi transform into melanoma
-
-#### Morphology
-
-- Common melanocytic nevi: **tan-to-brown, uniformly pigmented, small papules (≤5 mm)** with well-defined, rounded borders
-- Early lesions: round to oval cells growing in **nests** along the **dermoepidermal junction** → **junctional nevi**
-- Most junctional nevi grow into dermis as nests or cords of cells → **compound nevi**
-- Older lesions: epidermal nests lost entirely → **intradermal nevi**
-- Superficial nevus cells: larger, produce melanin pigment, grow in nests
-- Deeper nevus cells: smaller, produce little/no pigment, grow in cords or single cells
-- Deepest nevus cells: fusiform contours, grow in fascicles
-
-#### Clinical Features
-
-- Numerous types with varied appearances
-- Usually of only cosmetic concern; may be surgically removed if they mimic melanoma or cause irritation
-- **Compound and intradermal nevi** often more elevated than junctional nevi
-
----
-
-### Dysplastic Nevus
-
-**Dysplastic nevi** may be **sporadic or familial**. Familial dysplastic nevus syndrome is important because it identifies individuals with an **increased risk of melanoma** (lifetime risk close to **100%** in familial cases).
-
-#### Pathogenesis
-
-- Activating **RAS or BRAF mutations** are commonly found and believed to have a pathogenic role
-
-#### Morphology
-
-- Larger than most acquired nevi (often **>5 mm** across); may number in the hundreds
-- **Flat macules to slightly raised plaques** with "pebbly" surface
-- Usually **variable pigmentation** (variegation) and **irregular borders**
-- Mostly **compound nevi** with both architectural and cytologic evidence of abnormal growth
-- Nevus cell nests within epidermis may be enlarged with abnormal fusion or coalescence (**bridging**)
-- **Lentiginous hyperplasia**: single nevus cells replace the normal basal cell layer along dermoepidermal junction
-- **Cytologic atypia**: irregular, angulated nuclear contours and hyperchromasia
-- Dermal changes: sparse lymphocytic infiltrate, **melanin incontinence**, linear fibrosis surrounding epidermal nests
-
-#### Clinical Features
-
-- Unlike ordinary nevi, dysplastic nevi occur on **non–sun-exposed** as well as sun-exposed body surfaces
-- **Familial dysplastic nevus syndrome**: lifetime risk of melanoma approaches **100%**
-- In sporadic cases, only individuals with **10 or more dysplastic nevi** appear to be at increased risk
-- Most melanomas appear to arise **de novo**, not from preexisting nevi
-- The likelihood that any particular nevus will develop into melanoma is **low** — dysplastic nevi are best viewed as **markers of melanoma risk**
-
----
-
-### Melanoma
-
-**Melanoma** is less common but much more deadly than basal or squamous cell carcinoma. Incidence has increased dramatically over past decades.
-
-#### Pathogenesis
-
-- Mainly caused by **UV light–induced DNA damage** → stepwise acquisition of driver mutations
-- Incidence highest in **sun-exposed skin** and high-sun geographic locales (e.g., Australia)
-- **Intense intermittent exposure at early age** is particularly harmful
-- **Hereditary predisposition** plays a role in an estimated **5% to 10%** of cases
-- **Germ-line mutations** in **CDKN2A locus** (9p21) found in up to **40%** of familial melanoma cases
-  - Encodes two tumor suppressors: **p16** (regulates G1-S transition via RB) and **p14** (augments p53 activity)
-
-#### Molecular Evolution
-
-| Phase | Histology | Key Mutations |
-|---|---|---|
-| Initiating mutation | Benign lesion (nevus) | **BRAF or RAS** point mutations |
-| Lesion with atypia | Dysplastic nevus | **Telomerase activation** |
-| Melanoma, radial growth | Melanoma in situ | **Loss of p16** |
-| Melanoma, vertical growth | Invasive melanoma | **Loss of p53, PTEN** |
-| Metastasis | Metastatic melanoma | **Aneuploidy, copy-number alterations** |
-
-#### Non-Sun-Exposed Melanoma
-
-- **Acral and mucosal melanomas**: most common initiating mutation is **KIT** gain-of-function
-- **Uveal melanoma**: driver mutations in **GNAQ or GNA11**
-
-#### Phases of Melanoma Development
-
-1. **Lateral expansion** of melanocytes along dermoepidermal junction (lentiginous hyperplasia → lentiginous compound nevus)
-2. **Melanoma in situ** — radial growth within epidermis (prolonged, non-metastatic phase)
-3. **Vertical growth phase** — tumor grows downward into deeper dermal layers as expansile mass lacking cellular maturation → emergence of **metastatic potential**
-
-#### Morphology
-
-- Unlike benign nevi: striking **variations in pigmentation** (black, brown, red, dark blue, gray)
-- **Irregular borders**, often **notched**
-- Microscopically: poorly formed nests or individual cells at all levels of epidermis (**pagetoid spread**); expansile dermal nodules (vertical growth phase)
-- **Superficial spreading melanomas** often associated with a **brisk lymphocytic infiltrate** (host response to tumor antigens)
-- **Breslow thickness**: depth of invasion of vertical growth phase nodule — strongly correlates with biologic behavior
-- Melanoma cells: considerably larger than nevus cells; large nuclei with irregular contours; chromatin clumped at nuclear membrane periphery; prominent **"cherry red" nucleoli**
-
-#### Clinical Features
-
-- Usually **asymptomatic**; pruritus may be an early manifestation
-- Most important clinical sign: **change in color or size of a pigmented lesion**
-
-#### ABCDEs of Melanoma
-
-| Letter | Feature | Description |
-|---|---|---|
-| **A** | Asymmetry | One half unlike the other |
-| **B** | Border | Irregular, ragged, notched |
-| **C** | Color | Variable; shades of black, brown, red, white, blue |
-| **D** | Diameter | Usually >6 mm (pencil eraser size) |
-| **E** | Evolution | Change in size, shape, or color |
-
-#### Warning Signs
-
-1. Rapid enlargement of a preexisting nevus
-2. Itching or pain in a lesion
-3. Development of a new pigmented lesion during adult life
-4. Irregularity of borders of a pigmented lesion
-5. Variegation of color within a pigmented lesion
-
-#### Prognosis
-
-- Probability of metastasis predicted by **Breslow thickness** (depth of invasion in millimeters)
-- Metastasis risk increased in tumors with **high mitotic rate** and those that fail to induce a local immune response
-- Metastases: regional lymph nodes, then **liver, lungs, brain**, and virtually any site seeded hematogenously
-- **Sentinel lymph node biopsy** provides additional prognostic information
-
-#### Treatment
-
-- **BRAF inhibitors** (for BRAF V600E mutations) and **KIT inhibitors** (for KIT mutations): dramatic responses in metastatic tumors
-- **Immune checkpoint inhibitors**: effective at stabilizing metastatic disease, causing tumor regression and clinical remissions
-  - Block proteins on T lymphocyte surface that abrogate cytotoxic T cell responsiveness
-  - Reactivates host T-cell response against melanoma
-- Current efforts: combinations of different checkpoint inhibitors, or checkpoint inhibitors with targeted therapies (e.g., BRAF inhibitors)
+- **蕁麻疹**是 IgE 媒介的即發性過敏反應，表現為瘙癢、浮腫性斑塊
+- **牛皮癬**是 T 細胞媒介的發炎性皮膚病，特徵為銀白色鱗屑覆蓋的斑塊
+- **天皰瘡**是由抗 desmoglein 抗體引起的自體免疫性水皰病，表皮內有 acantholysis
+- **類天皰瘡**是由抗表皮基底膜抗體引起的自體免疫性水皰病，表皮下水皰
+- **日光性角化病**是鱗狀細胞癌的癌前病變，與 UV 暴露相關
+- **基底細胞癌**是最常見的皮膚癌，生長緩慢，罕見轉移，與 Hedgehog 信號通路激活相關
+- **黑色素瘤**是黑色素細胞來源的惡性腫瘤，預後與 Breslow 厚度密切相關

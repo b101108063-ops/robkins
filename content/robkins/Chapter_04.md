@@ -5,955 +5,360 @@ title: "Chapter 04: Hemodynamic Disorders, Thromboembolism, and Shock"
 
 # Chapter 4: Hemodynamic Disorders, Thromboembolism, and Shock
 
+## Chapter 4 導讀
+
+本章探討三類血液動力學障礙——這些機制是許多疾病的共同病理基礎。首先介紹 edema（水腫）的成因與病理生理學：血管內流體與組織間質之間的 fluid exchange 由 hydrostatic pressure 與 colloid osmotic pressure 調控，任何造成這兩種壓力失衡的因素都會導致水液積聚；接著說明 hemorrhage（出血）的類型與臨床意義；然後詳述 hemostasis 與 thrombosis 的機制，包括血小板的功能（黏附、活化、聚集）、coagulation cascade（外在途徑與內在途徑）、fibrinolytic system，以及 endotheliium 的 dual role（抗血栓與促血栓）；最後討論 thromboembolism（血栓栓塞症）的各種臨床形態，以及 shock（休克）的三種主要類型（hypovolemic、cardiogenic、distributive）和其共同的最終通路——微循環衰竭與細胞損傷。理解這些概念，是認識心血管疾病、肺栓塞、腦中風等常見致命疾病的關鍵。
+
 ---
 
 ## Edema
 
-### Definition and Overview
+### 定義與概覽
 
-**Edema** is an accumulation of interstitial fluid within tissues. Approximately 60% of lean body weight is water, with two-thirds intracellular. Most remaining water is extracellular as interstitial fluid; only 5% is in blood plasma.
+**Edema（水腫）**是指液體積聚於組織間隙中。人體約60%的去脂體重為水分，其中約2/3存在於細胞內，其餘主要分布在間隙，僅約5%存在於血漿中。
 
-Extravascular fluid can collect in body cavities, collectively called **effusions**:
+當液體積聚於體腔時，稱為**effusions（積液）**：
+- **Hydrothorax**：胸腔
+- **Hydropericardium**：心包腔
+- **Hydroperitoneum（ascites）**：腹腔
+- **Anasarca**：嚴重全身性水腫
 
-- **Hydrothorax** — pleural cavity
-- **Hydropericardium** — pericardial cavity  
-- **Hydroperitoneum (ascites)** — peritoneal cavity
-- **Anasarca** — severe, generalized edema with profound subcutaneous swelling
+### 水腫的成因
 
-### Causes of Edema
+| 機制 | 代表情況 |
+|------|---------|
+| **Hydrostatic pressure 增加** | 靜脈回流受阻（心臟衰竭、靜脈血栓、肝硬化）、Arteriolar dilation |
+| **血漿滲透壓降低（低蛋白血症）** | 腎病症候群（蛋白流失）、肝硬化、營養不良 |
+| **淋巴阻塞** | 炎症、腫瘤、外科手術或放射治療後 |
+| **鈉鹽瀦留** | 鈉攝取過多、腎功能不全 |
+| **發炎** | 急性/慢性炎症、血管通透性增加 |
 
-**Table 4.1** Causes of Edema
+### 水腫的病理生理學
 
-| Mechanism | Causes |
-|-----------|--------|
-| **Increased Hydrostatic Pressure** | |
-| Impaired Venous Return | Congestive heart failure, constrictive pericarditis, ascites (liver cirrhosis), venous thrombosis, external compression, lower extremity inactivity |
-| Arteriolar Dilation | Heat, neurohumoral dysregulation |
-| **Reduced Plasma Osmotic Pressure (Hypoproteinemia)** | |
-| | Protein-losing glomerulopathies (nephrotic syndrome), liver cirrhosis, malnutrition, protein-losing gastroenteropathy |
-| **Lymphatic Obstruction** | |
-| | Inflammatory, neoplastic, postsurgical, postirradiation |
-| **Sodium Retention** | |
-| | Excessive salt intake with renal insufficiency, increased tubular reabsorption, renal hypoperfusion, increased renin-angiotensin-aldosterone secretion |
-| **Inflammation** | |
-| | Acute inflammation, chronic inflammation, angiogenesis |
+血管內與間隙之間的液體交換由兩種相反力量調控：
+- **血管內 hydrostatic pressure**（推動液體出血管）
+- **血漿膠體滲透壓**（由血漿蛋白特別是白蛋白產生，將液體保留在血管內）
 
-### Pathophysiology of Edema
+正常時，arteriolar 端的凈流出與 venular 端的回流大致平衡，少量液體進入間隙後由淋巴系統回收。當任一力量失衡時，液體便會在間隙中積聚。
 
-Fluid movement between vascular and interstitial spaces is governed by two opposing forces:
+**水腫液的特徵：**
+- **Transudate（滲出液）**：蛋白含量低（<3 g/dL）、比重低——因 hydrostatic pressure 增加或血漿滲透壓降低而起
+- **Exudate（漏出液）**：蛋白含量高（>3 g/dL）、比重高——因血管通透性增加或炎症而起
 
-- **Vascular hydrostatic pressure**
-- **Colloid osmotic pressure** produced by plasma proteins
+### 局部與全身性水腫
 
-Normally, outflow at the arteriolar end is nearly balanced by inflow at the venular end, resulting in small net fluid movement into the interstitium, drained by lymphatic vessels.
+**局部水腫**：
+- 深層靜脈血栓形成→單側腿部水腫
+- 淋巴阻塞（filariasis、乳腺癌手術後）→侷限性水腫
 
-**Key mechanisms:**
-- Increased hydrostatic pressure OR diminished colloid osmotic pressure → increased water movement into interstitium
-- Tissue hydrostatic pressure increases until new equilibrium
-- Excess edema fluid removed by lymphatic drainage → thoracic duct → bloodstream
+**全身性水腫**：
+- **心臟衰竭**：全身靜脈充血→毛細血管 hydrostatic pressure 增加；腎灌流降低→次發性醛固酮過多症（sodium/water retention）
+- **腎病症候群**：大量白蛋白流失→血漿滲透壓降低
+- **肝硬化**：白蛋白合成減少、低白蛋白血症；門脈高壓促進腹水形成
 
-**Edema fluid characteristics:**
-- **Transudate** — protein-poor (increased hydrostatic pressure or reduced plasma colloid)
-- **Exudate** — protein-rich with high specific gravity (increased vascular permeability, inflammation)
+### 重要部位水腫的臨床意義
 
-### Increased Hydrostatic Pressure
+**肺水腫（Pulmonary edema）**：
+- 左心室衰竭、腎功能衰竭、ARDS 的常見表現
+- 肺組織重量增加（正常約350 g → 2–3倍）
+- 顯微鏡：肺泡壁毛細血管充血、肺泡內充滿 frothy edema fluid
+- 臨床：呼吸困難、端坐呼吸、發紺
 
-Disorders that impair venous return cause local or generalized increases in intravascular pressure.
-
-**Local:** Deep venous thrombosis → edema restricted to distal leg
-
-**Generalized:** Congestive heart failure (Chapter 11) causes:
-- Reduced cardiac output → systemic venous congestion → increased capillary hydrostatic pressure
-- Renal hypoperfusion → **renin-angiotensin-aldosterone** activation → sodium/water retention (**secondary hyperaldosteronism**)
-- Vicious cycle: fluid retention → increased venous pressure → worsening edema
-
-Management: salt restriction, diuretics, aldosterone antagonists
-
-### Reduced Plasma Osmotic Pressure
-
-**Albumin** accounts for ~50% of total plasma protein. Low albumin states lead to edema through:
-
-1. Decreased colloid osmotic pressure → fluid loss from circulation
-2. Reduced intravascular volume → renal hypoperfusion → secondary hyperaldosteronism
-3. Salt/water retention worsens edema (primary defect persists)
-
-**Causes of reduced albumin:**
-
-| Cause | Mechanism | Example |
-|-------|-----------|---------|
-| **Loss** | Nephrotic syndrome (Chapter 14) | Glomerular leakage → albuminuria |
-| **Decreased synthesis** | Severe liver disease | Cirrhosis (Chapter 16) |
-| | Protein malnutrition | Chapter 8 |
-
-### Lymphatic Obstruction
-
-Impaired lymphatic drainage → **lymphedema** from localized obstruction (inflammatory or neoplastic)
-
-**Examples:**
-- **Filariasis** — parasitic infection causing inguinal lymphatic fibrosis → "elephantiasis" (massive lower extremity/external genitalia edema)
-- **Breast cancer** — infiltration of superficial lymphatics → **peau d'orange** (finely pitted skin)
-- **Post-therapy** — axillary lymph node dissection/radiation → severe arm lymphedema
-
-### Sodium and Water Retention
-
-Excessive salt/water retention increases hydrostatic pressure (volume expansion) and reduces plasma osmotic pressure.
-
-**Associated conditions:** Poststreptococcal glomerulonephritis, acute renal failure (Chapter 14)
-
-### Morphology of Edema
-
-**Gross:** Easily recognized; microscopic shows clearing/separation of ECM elements.
-
-**Common sites:** Subcutaneous tissues, lungs, brain
-
-**Subcutaneous edema:**
-- Preferentially accumulates at greatest distance below heart (highest hydrostatic pressure)
-- **Dependent edema** — legs (standing), sacrum (recumbency)
-- **Pitting edema** — finger pressure leaves depression
-- **Periorbital edema** — renal dysfunction/nephrotic syndrome (loose connective tissue)
-
-**Pulmonary edema:**
-- Lungs 2-3× normal weight
-- Frothy, sometimes blood-tinged fluid (air + edema fluid + extravasated RBCs)
-
-**Brain edema:**
-- Localized (abscess, tumor) or generalized
-- Gyri flattened against skull, sulci narrowed
-
-### Clinical Features
-
-| Type | Significance | Consequences |
-|------|--------------|--------------|
-| **Subcutaneous** | Signals underlying cardiac/renal disease | May impair wound healing, infection clearance |
-| **Pulmonary** | Common; left ventricular failure, renal failure, ARDS (Chapter 11) | Impairs ventilation, impedes O₂ diffusion, creates infection environment |
-| **Brain** | Life-threatening | Herniation through foramen magnum, compressed brainstem → death |
+**腦水腫（Brain edema）**：
+- 可致命；腦迴變平、腦溝變窄
+- 局部水腫（膿腫或腫瘤周圍）或瀰漫性（全身性代謝障礙）
+- 嚴重時導致腦疝（herniation through foramen magnum），壓迫腦幹致死
 
 ---
 
 ## Hemorrhage
 
-### Definition
+### 定義
 
-**Hemorrhage** is extravasation of blood from vessels, caused by:
-- Vessel damage
-- Defective clot formation
-- Capillary bleeding in chronically congested tissues
-- Trauma, atherosclerosis, inflammatory/neoplastic erosion
+**Hemorrhage（出血）**是指血液從血管逸出，可由以下原因造成：
+- 血管壁損傷
+- 凝血機制缺陷
+- 慢性充血的微血管滲漏
+- 創傷、粥狀硬化、炎症或腫瘤侵蝕
 
-**Hemorrhagic diatheses** — increased hemorrhage risk from inherited/acquired defects in:
-- Vessel walls
-- Platelets
-- Coagulation factors
+### 出血的類型
 
-### Types of Hemorrhage
+| 類型 | 大小 | 形態 | 原因 |
+|------|------|------|------|
+| **Petechiae** | 1-2 mm | 皮膚、黏膜、漿膜上的微小出血 | 血小板減少、血小板功能缺陷、維生素C缺乏 |
+| **Purpura** | 3-5 mm | 較大的出血斑 | 同上+創傷、血管炎、血管脆弱性增加 |
+| **Ecchymoses** | 1-2 cm | 皮下血腫（瘀傷） | 外傷；顏色變化：血紅素（紅藍）→膽紅素（藍綠）→血鐵質（棕黃） |
 
-| Type | Size | Appearance | Causes |
-|------|------|------------|--------|
-| **Petechiae** | 1-2 mm | Minute hemorrhages in skin, mucous membranes, serosal surfaces | Thrombocytopenia, defective platelet function, vitamin C deficiency |
-| **Purpura** | 3-5 mm | Slightly larger hemorrhages | Same as petechiae + trauma, vasculitis, increased vascular fragility |
-| **Ecchymoses** | 1-2 cm | Subcutaneous hematomas ("bruises") | Color changes: hemoglobin (red-blue) → bilirubin (blue-green) → hemosiderin (golden-brown) |
+### 臨床意義
 
-### Clinical Significance
+**出血的重要性取決於：**
+- **體積**：快速失血超過20%血量可導致低血量休克
+- **速度**：緩慢失血耐受性較好
+- **部位**：腦出血可致命；皮下出血可能無臨床重要性
 
-**Factors determining significance:**
-- **Volume** — Rapid loss up to 20% blood volume may be tolerated; greater losses → hemorrhagic (hypovolemic) shock
-- **Rate** — Slow losses tolerated better
-- **Site** — Brain hemorrhage can be fatal; subcutaneous bleeding may be trivial
-
-**Other manifestations:**
-- **Hematoma** — tissue accumulation; ranges from bruise to fatal (e.g., ruptured dissecting aortic aneurysm)
-- **Body cavity bleeds** — hemothorax, hemopericardium, hemoperitoneum, hemarthrosis
-- **Chronic external blood loss** → iron deficiency anemia (peptic ulcer, menstrual bleeding)
+**其他表現形式：**
+- **Hematoma（血腫）**：組織內血液積聚
+- **體腔出血**：血胸、血心包、血腹、關節腔積血
+- **慢性外出血**（消化性潰瘒、月經過多）→缺鐵性貧血
 
 ---
 
-## Hemostasis and Thrombosis
+## Hemostasis
 
-### Normal Hemostasis
+### 正常止血機制
 
-**Hemostasis** is a precisely orchestrated process involving platelets, clotting factors, and endothelium that prevents blood loss from injured vessels.
+**Hemostasis（止血）**是防止受損血管出血的精密協調過程，涉及血小板、凝血因子與內皮細胞。
 
-#### Sequence of Events
+**止血過程的四個階段：**
 
-**1. Arteriolar Vasoconstriction**
-- Immediate, marked reduction in blood flow
-- Mediated by reflex neurogenic mechanisms
-- Augmented by local **endothelin** secretion (potent vasoconstrictor)
-- Transient; platelet/coagulation activation required for sustained hemostasis
+1. **血管收縮（Vasoconstriction）**
+   - 損傷後立即發生，大幅減少血流量
+   - 由神經反射與內皮細胞釋放的 **endothelin**（強效血管收縮劑）所介導
 
-**2. Primary Hemostasis: Platelet Plug Formation**
-- Endothelial disruption exposes subendothelial **von Willebrand factor (vWF)** and collagen
-- Promotes platelet adherence and activation
-- Platelet shape change: smooth discs → flat plates with spiky protrusions (increased surface area)
-- Secretory granule release recruits additional platelets
-- **Primary hemostatic plug** formation
+2. **第一階段止血（Primary hemostasis）——血小板栓塞形成**
+   - 內皮受損暴露 subendothelial **von Willebrand factor (vWF)** 與膠原蛋白
+   - vWF 作為橋樑，促進血小板黏附
+   - 血小板活化並釋放顆粒內容物，募集更多血小板
+   - 形成鬆散的**第一血小板栓塞**
 
-**3. Secondary Hemostasis: Fibrin Deposition**
-- **Tissue factor** exposed at injury site (membrane-bound procoagulant glycoprotein)
-- Binds/activates factor VII → cascade → thrombin generation
-- Thrombin cleaves fibrinogen → insoluble fibrin meshwork
-- Thrombin also activates platelets → additional aggregation
-- **Secondary hemostasis** consolidates platelet plug
+3. **第二階段止血（Secondary hemostasis）——纖維蛋白沉積**
+   - 受損處暴露 **tissue factor**（組織因子）
+   - Tissue factor 結合並活化 factor VII → 級聯反應 →  thrombin 生成
+   - Thrombin 將 fibrinogen 切割為不溶性纖維蛋白網
+   - Thrombin 同時活化血小板，鞏固血小板栓塞
+   - 形成**第二止血栓塞（纖維蛋白-血小板栓塞）**
 
-**4. Clot Stabilization and Resorption**
-- Polymerized fibrin and platelet aggregates undergo contraction → solid, permanent plug
-- Counterregulatory mechanisms (e.g., **tissue plasminogen activator, t-PA**) limit clotting to injury site
-- Ultimately leads to clot resorption and tissue repair
+4. **血栓穩固與溶解**
+   - 纖維蛋白與血小板收縮形成永久性栓塞
+   - 體內的抗凝機制（t-PA 等）限制血栓於受損部位
+   - 最終由 fibrinolytic system 溶解血栓並修復組織
 
-### Platelets
+### 血小板的功能
 
-**Structure:** Disc-shaped anucleate fragments from megakaryocytes in bone marrow
+**結構**：骨髓中 megakaryocytes 脫落的無核盤狀碎片。
 
-**Key components:**
-- **Glycoprotein receptors** — GpIb, GpIIb/IIIa
-- **Contractile cytoskeleton**
-- **Two granule types:**
+**兩種顆粒：**
+- **α-Granules**：含 P-selectin、fibrinogen、factor V、vWF、PDGF、TGF-β
+- **Dense (δ) Granules**：含 ADP、ATP、Ca²⁺、serotonin、epinephrine
 
-| Granule | Contents |
-|---------|----------|
-| **α-Granules** | P-selectin, fibrinogen, factor V, vWF, fibronectin, platelet factor 4, PDGF, TGF-β |
-| **Dense (δ) Granules** | ADP, ATP, Ca²⁺, serotonin, epinephrine |
+**黏附（Adhesion）**：
+- vWF 橋接血小板受體 **GpIb** 與暴露的膠原蛋白
+- vWF 缺陷→ von Willebrand disease；GpIb 缺陷→ Bernard-Soulier syndrome
 
-#### Platelet Adhesion
+**活化（Activation）**：
+- 形狀改變：平滑盤狀→帶刺突起（增加表面積）
+- **GpIIb/IIIa** 構象改變，與 fibrinogen 親和力增加
+- 磷脂醯絲胺酸（phosphatidylserine）外翻至表面，成為凝血因子的核化位點
 
-- **vWF** bridges platelet receptor **GpIb** to exposed collagen
-- Genetic deficiencies cause bleeding: **von Willebrand disease** (vWF deficiency), **Bernard-Soulier syndrome** (GpIb deficiency)
+**聚集（Aggregation）**：
+- **GpIIb/IIIa** 與 fibrinogen 結合， fibrinogen 橋接相鄰血小板
+- Thrombin 穩定血小板栓塞並促進纖維蛋白沉積
+- 阿斯匹靈抑制 cyclooxygenase → TXA₂ 減少→輕度出血傾向
 
-#### Platelet Activation
+### Coagulation Cascade（凝血級聯）
 
-- Shape change: smooth discs → spiky "sea urchins"
-- **Glycoprotein IIb/IIIa** alterations increase fibrinogen affinity
-- Translocation of negatively charged phospholipids (phosphatidylserine) to surface → nucleation sites for coagulation factors
+凝血因子以順序性酶反應將 fibrinogen 轉化為不溶性纖維蛋白網。
 
-**Activation triggers:**
-- **Thrombin** — activates via **protease-activated receptors (PARs)**
-- **ADP** — from dense granules; triggers recruitment (additional platelet activation)
+**兩條主要途徑：**
+- **外在途徑（Extrinsic pathway）**：由 tissue factor 啟動，透過 factor VII 激活 factor X；臨床上以 **PT（Prothrombin Time）** 評估
+- **內在途徑（Intrinsic pathway）**：由 factor XII 接觸負電荷表面啟動，經 factor XI、IX、VIII 激活 factor X；臨床上以 **PTT（Partial Thromboplastin Time）** 評估
 
-**Secretion (release reaction):**
-- Granule contents released along with shape changes
-- Activated platelets produce **thromboxane A2 (TXA2)** — potent platelet aggregation inducer
-- **Aspirin** inhibits cyclooxygenase → ↓ TXA2 → mild bleeding defect
+兩途徑在 factor X 激活後會合，之後的共同途徑包括 factor X → thrombin → fibrinogen → fibrin。
 
-#### Platelet Aggregation
+**Thrombin（凝血酶）**是最重要的凝血因子，具有多種功能：
+- 將 fibrinogen 轉化為纖維蛋白
+- 活化 factor XIII（穩定纖維蛋白交聯）
+- 活化血小板
+- 通過 PARs 發揮促炎作用
+- 在正常內皮上與 thrombomodulin 結合後，轉為抗凝活性
 
-- Conformational change in **GpIIb/IIIa** allows fibrinogen binding
-- Fibrinogen bridges adjacent platelets
-- **Glanzmann thrombasthenia** — inherited GpIIb/IIIa deficiency → bleeding disorder
-- Initial aggregation reversible; thrombin stabilizes the plug
-- Platelet contraction (cytoskeleton-dependent) consolidates aggregation
-- Thrombin converts fibrinogen → insoluble fibrin → **secondary hemostatic plug**
-- Entrapped RBCs and leukocytes (adherence to P-selectin on activated platelets)
+**Fibrinolytic System（纖溶系統）**：
+- **Plasminogen** 被 **t-PA** 活化為 **plasmin**
+- Plasmin 降解纖維蛋白→ **D-dimers**（臨床上作為血栓形成的標記）
+- **α2-plasmin inhibitor** 抑制游離 plasmin，防止不當溶解
 
-**Summary: Platelet Adhesion, Activation, and Aggregation**
-- Endothelial injury exposes basement membrane ECM
-- Platelets adhere via **GpIb** → **vWF**
-- Activation → granule secretion (Ca²⁺, ADP), shape change, **GpIIb/IIIa** activation
-- **GpIIb/IIIa** receptors form fibrinogen bridges → aggregation
-- Thrombin promotes fibrin deposition, cementing plug
+### Endothelium 的 dual role
 
-### Coagulation Cascade
+內皮細胞是止血的核心調節者，同時具有抗血栓與促血栓特性：
 
-Series of amplifying enzymatic reactions → insoluble fibrin clot
+**抗血栓特性：**
+- 屏障作用隔離血小板與 subendothelial vWF、膠原蛋白
+- 釋放 **PGI₂（prostacyclin）**、**NO** 抑制血小板活化與聚集
+- **Thrombomodulin** 結合 thrombin→激活 protein C→ **activated protein C/protein S** 抑制 factors Va 與 VIIIa
+- **Heparin-like molecules** 活化 antithrombin III，抑制 thrombin
+- 合成 **t-PA**，促進纖溶
 
-**Principles:**
-- Each reaction: enzyme (activated factor) + substrate (inactive proenzyme) + cofactor (accelerator)
-- Assembly on negatively charged phospholipid surface (provided by activated platelets)
-- **Calcium** essential; binds γ-carboxylated glutamic acid residues in factors II, VII, IX, X
-- **Vitamin K** cofactor for γ-carboxylation; **Coumadin** antagonizes this process
-
-#### Laboratory vs. In Vivo Pathways
-
-| Assay | Assesses | Initiator |
-|-------|----------|-----------|
-| **Prothrombin Time (PT)** | Extrinsic pathway (factors VII, X, V, II, fibrinogen) | Tissue factor + phospholipids + Ca²⁺ |
-| **Partial Thromboplastin Time (PTT)** | Intrinsic pathway (factors XII, XI, IX, VIII, X, V, II, fibrinogen) | Negative-charged particles (activates factor XII) + phospholipids + Ca²⁺ |
-
-#### Clinical Correlations
-
-| Deficiency | Bleeding Tendency |
-|------------|-------------------|
-| Factors V, VII, VIII, IX, X | Moderate to severe |
-| Prothrombin | Likely incompatible with life |
-| Factor XI | Mild |
-| Factor XII | No bleeding; may predispose to thrombosis |
-
-**In vivo:** Factor VIIa/tissue factor complex most important activator of factor IX; factor IXa/VIIIa complex most important activator of factor X
-
-#### Thrombin Activities
-
-**Most important coagulation factor** — diverse enzymatic activities:
-
-1. **Fibrinogen → crosslinked fibrin**
-   - Converts fibrinogen → fibrin monomers → polymerize → insoluble fibril
-   - Activates factor XI, factors V and VIII (amplifies cascade)
-   - Activates factor XIII → fibrin crosslinking
-
-2. **Platelet activation**
-   - Potent inducer via PARs
-   - Links platelet function to coagulation
-
-3. **Proinflammatory effects**
-   - PARs on inflammatory cells, endothelium
-   - Mediates tissue repair and angiogenesis
-
-4. **Anti-coagulant effects**
-   - On normal endothelium: switches from procoagulant to anti-coagulant
-   - Prevents clot extension beyond injury site
-
-#### Factors That Limit Coagulation
-
-1. **Dilution** — blood flow washes out activated factors (removed by liver)
-2. **Negatively charged phospholipids** — mainly on activated platelets at injury sites
-3. **Endothelium-derived factors** (see Endothelium section)
-
-#### Fibrinolytic System
-
-**Plasmin** breaks down fibrin, interferes with polymerization
-
-**D-dimers** — fibrin degradation products; clinical markers of thrombotic states
-
-**Plasminogen activation:**
-- Factor XII–dependent pathway
-- Plasminogen activators (most important: **t-PA**)
-  - Synthesized by endothelium
-  - Most active when bound to fibrin
-  - Therapeutic use (confined fibrinolytic activity to thrombosis sites)
-
-**Regulation:** α2-plasmin inhibitor binds/inhibits free plasmin
-
-**Summary: Coagulation Factors**
-- Sequential enzymatic conversion of circulating/locally synthesized proteins
-- **Tissue factor** most important in vivo initiator
-- Thrombin converts fibrinogen → insoluble fibrin → definitive hemostatic plug
-- Restricted to injury sites by:
-  - Phospholipid surfaces (activated platelets/endothelium)
-  - Circulating inhibitors (e.g., antithrombin III, augmented by heparin-like molecules)
-  - **Thrombomodulin** on normal endothelium (binds thrombin → anti-coagulant)
-  - Fibrinolytic pathways (t-PA + fibrin association)
-
-### Endothelium
-
-Central regulator of hemostasis; balance of anti-thrombotic vs. prothrombotic activities determines clot formation, propagation, or dissolution.
-
-#### Anti-Thrombotic Properties
-
-**1. Platelet Inhibitory Effects**
-- Barrier shields platelets from subendothelial vWF and collagen
-- Releases factors inhibiting platelet activation/aggregation:
-  - **Prostacyclin (PGI2)**
-  - **Nitric oxide (NO)**
-  - **Adenosine diphosphatase** — degrades ADP
-- Binds/alters thrombin activity (potent platelet activator)
-
-**2. Anticoagulant Effects**
-- Shields coagulation factors from tissue factor
-- **Thrombomodulin** + **endothelial protein C receptor** bind thrombin and protein C
-  - Thrombin loses procoagulant activity
-  - Complex cleaves/activates protein C (requires **protein S** cofactor)
-  - **Activated protein C/protein S** inhibits factors Va and VIIIa
-- **Heparin-like molecules** → activate antithrombin III → inhibit thrombin, factors IXa, Xa, XIa, XIIa
-- **Tissue factor pathway inhibitor (TFPI)** — requires protein S → inhibits tissue factor/factor VIIa complexes
-
-**3. Fibrinolytic Effects**
-- Synthesizes **t-PA** — key fibrinolytic component
+**促血栓特性（當內皮受損或活化時）：**
+- 暴露 vWF 與 tissue factor
+- 下調 thrombomodulin 與 protein C
+- 分泌 **plasminogen activator inhibitor（PAI）**，抑制纖溶
 
 ---
 
 ## Thrombosis
 
-**Thrombosis** — formation of blood clot (thrombus) within non-traumatized, intact vessels
+### 定義
+
+**Thrombosis（血栓形成）**是指在未受創傷、完整的血管內形成血塊（thrombus）。
 
 ### Virchow's Triad
 
-Three primary abnormalities leading to intravascular thrombosis:
+血栓形成的三大主要異常：
 
-1. **Endothelial injury**
-2. **Stasis or turbulent blood flow**
-3. **Hypercoagulability of blood**
+1. **內皮細胞損傷（Endothelial injury）**
+2. **血液停滯或渦流（Stasis or turbulent blood flow）**
+3. **血液高凝狀態（Hypercoagulability）**
 
-### Endothelial Injury
+### 內皮細胞損傷
 
-Underlies thrombosis in heart and arterial circulation (high blood flow impedes clot formation)
+這是心臟與 arterial circulation 血栓形成的根本原因（高血流剪切力本身就會抑制血栓形成）。
 
-**Cardiac/arterial clots:** typically rich in platelets (platelet adherence/activation necessary under high shear stress)
+**內皮損傷或活化時的促血栓改變：**
+- 細胞激素激活內皮→下調 thrombomodulin→ thrombin 持續活化
+- 減少 protein C 與 tissue factor pathway inhibitor 的表達
+- 分泌 PAI，抑制纖溶
 
-**Triggers:**
-- Severe injury → exposes vWF and tissue factor
-- **Endothelial activation/dysfunction** — gene expression shift to "prothrombotic" pattern
-  - Physical injury, infectious agents, abnormal blood flow
-  - Inflammatory mediators
-  - Metabolic abnormalities (hypercholesterolemia, homocystinemia)
-  - Cigarette smoke toxins
+### 血流異常
 
-**Pro-thrombotic alterations:**
-- **Procoagulant changes:** Cytokine-activated endothelium downregulates thrombomodulin → sustained thrombin activation → platelet stimulation + inflammation via PARs; also downregulates protein C, tissue factor pathway inhibitor
-- **Anti-fibrinolytic effects:** Secretes **plasminogen activator inhibitors (PAI)** → limits fibrinolysis; downregulates t-PA
+- **渦流（Turbulence）**：arterial/心內血栓；造成內皮活化與功能障礙，形成 stasis pockets
+- **停滯（Stasis）**：靜脈血栓形成的最重要因素；正常層流時血小板與紅血球集中於血管中央，與內皮隔離；stasis 使血小板靠近內皮並活化
 
-### Abnormal Blood Flow
+### 高凝狀態
 
-**Turbulence** — arterial/cardiac thrombosis; causes endothelial injury/dysfunction, countercurrents, stasis pockets
+**遺傳性：**
+- **Factor V Leiden**：對 activated protein C 的抵抗→靜脈血栓栓塞風險增加
+- **Prothrombin gene mutation (G20210A)**：prothrombin 濃度升高
+- **Antithrombin III 缺乏**：無法抑制 thrombin 與 factors IXa、Xa
+- **Protein C 或 Protein S 缺乏**
 
-**Stasis** — major factor in venous thrombi
+**獲得性：**
+- 癌症（副腫瘤性血栓傾向）
+- 抗磷脂症候群（antiphospholipid syndrome）：自體抗體攻擊磷脂結合蛋白，導致血栓
+- 手術後、創傷、長期制動
+- 懷孕、口服避孕藥（estrogen 促進肝臟合成凝血因子）
 
-**Normal laminar flow:** Platelets/blood cells in center of lumen; slower plasma layer separates from endothelium
+### 血栓的形態與種類
 
-**Deleterious effects of stasis/turbulence:**
-- Promote endothelial cell activation and procoagulant activity (flow-induced gene expression changes)
-- Allow platelet/leukocyte contact with endothelium (sluggish flow)
-- Slow washout of activated clotting factors; impede inflow of inhibitors
+**Arterial/心內血栓**：
+- 在血流快速的環境中形成
+- **白血栓（platelet-rich thrombus）**：富含血小板與纖維蛋白
+- 常黏附於受損血管壁
 
-**Clinical settings:**
-- **Ulcerated atherosclerotic plaques** — expose ECM + cause turbulence
-- **Aneurysms** — local stasis → thrombosis sites (Chapter 9)
-- **Myocardial infarction** — noncontractile myocardium → mural thrombi
-- **Ventricular aneurysm** — post-infarction remodeling → local stasis
-- **Mitral valve stenosis** (rheumatic heart disease) → left atrial dilation + atrial fibrillation → stasis
-- **Hyperviscosity syndromes** (polycythemia vera, Chapter 12) — increased resistance, small vessel stasis
-- **Sickle cell anemia** (Chapter 12) — deformed RBCs → vascular occlusions + stasis
+**靜脈血栓**：
+- 在血流緩慢或停滯的環境中形成
+- **紅血栓（venous thrombus）**：含有更多紅血球（fibrin-red cell mesh）
+- 常見於下肢深層靜脈
 
-### Hypercoagulability
-
-Abnormally high tendency to clot; caused by alterations in coagulation factors
-
-**Role:** Contributes infrequently to arterial/intracardiac thrombosis; important risk factor for venous thrombosis
-
-#### Primary (Inherited) Hypercoagulability
-
-**Common (>1% population):**
-- **Factor V mutation (G1691A; Factor V Leiden)** — 2-15% of whites; ~60% of recurrent DVT patients
-  - Alters amino acid → resistant to protein C proteolysis
-  - Heterozygotes: 5× increased venous thrombosis risk
-  - Homozygotes: 50× increased risk
-- **Prothrombin mutation (G20210A)** — 1-2% population
-  - Increased prothrombin transcription
-  - ~3× increased venous thrombosis risk
-- **Elevated factor VIII, IX, XI, or fibrinogen levels**
-
-**Rare:**
-- Antithrombin III deficiency
-- Protein C deficiency
-- Protein S deficiency
-
-**Very rare:**
-- Fibrinolysis defects
-- **Homocystinuria** (homozygous; cystathionine β-synthetase deficiency) → elevated homocysteine → arterial/venous thrombosis + atherosclerosis
-
-#### Secondary (Acquired) Hypercoagulability
-
-**High Risk for Thrombosis:**
-- Prolonged bed rest/immobilization
-- Myocardial infarction
-- Atrial fibrillation
-- Tissue injury (surgery, fracture, burn)
-- Cancer
-- Prosthetic cardiac valves
-- **Disseminated intravascular coagulation (DIC)**
-- **Heparin-induced thrombocytopenia (HIT)**
-- **Anti-phospholipid antibody syndrome**
-
-**Lower Risk:**
-- Cardiomyopathy
-- Nephrotic syndrome
-- Hyperestrogenic states (pregnancy, postpartum)
-- Oral contraceptive use
-- Sickle cell anemia
-- Smoking
-
-#### Special Considerations
-
-**Heparin-Induced Thrombocytopenia (HIT) Syndrome:**
-- Occurs in up to 5% of patients treated with unfractionated heparin
-- **Autoantibodies** against heparin + platelet membrane protein (platelet factor-4) complexes
-- Antibodies also bind similar complexes on platelet/endothelial surfaces
-- Results in platelet activation, aggregation, consumption (thrombocytopenia) + endothelial injury
-- **Prothrombotic state** despite heparin and low platelets
-- Low-molecular-weight heparin preparations induce autoantibodies less frequently
-
-**Anti-Phospholipid Antibody Syndrome:**
-- Previously "lupus anticoagulant syndrome"
-- **Manifestations:** Recurrent thromboses, repeated miscarriages, cardiac valve vegetations, thrombocytopenia
-- **Clinical presentations:** Pulmonary embolism, pulmonary hypertension, stroke, bowel infarction, renovascular hypertension, renal microangiopathy (Chapter 14)
-- **Fetal loss mechanism:** Antibody interference with trophoblast growth/differentiation → placentation failure (not thrombosis)
-- **Antibody targets:** β2-glycoprotein I (endothelial/trophoblast surfaces), prothrombin
-- **In vitro:** Antibodies interfere with phospholipids → inhibit coagulation ("lupus anticoagulant")
-- **False-positive syphilis test** (cardiolipin antigen)
-
-**Primary vs. Secondary forms:**
-- **Secondary:** Associated with autoimmune disease (e.g., systemic lupus erythematosus, Chapter 5)
-- **Primary:** Only hypercoagulable manifestations; no other autoimmune disorders
-- May follow drug/infection exposure
-
-**Important notes:**
-- Found in 5-15% of apparently normal individuals
-- Necessary but not sufficient for full syndrome
-
-### Morphology of Thrombi
-
-**Locations:** Anywhere in cardiovascular system
-
-**Characteristics:**
-- Focally attached to underlying vascular surface
-- Propagate toward heart
-  - Arterial thrombi: grow retrograde from attachment point
-  - Venous thrombi: extend in direction of blood flow
-- Poorly attached propagating portion → prone to embolization
-
-**Lines of Zahn** — grossly visible laminations (pale platelet/fibrin + dark RBC layers)
-- Only in thrombi forming in flowing blood
-- Distinguishes antemortem thrombosis from bland postmortem clots
-
-**Types:**
-
-| Type | Location | Characteristics |
-|------|----------|----------------|
-| **Mural thrombi** | Heart chambers, aortic lumen | Over abnormal myocardium (arrhythmias, MI, dilated cardiomyopathy, myocarditis) or ulcerated plaques/aneurysms |
-| **Arterial thrombi** | Arterial circulation | Frequently occlusive; rich in platelets; usually on ruptured atherosclerotic plaque |
-| **Venous thrombi (phlebothrombosis)** | Venous circulation | Almost invariably occlusive; propagate toward heart; rich in RBCs ("red/stasis thrombi"); 90% in lower extremity veins |
-| **Vegetations** | Heart valves | Bacterial/fungal infections → infective endocarditis; sterile vegetations in hypercoagulable states ("nonbacterial thrombotic endocarditis"); Libman-Sacks endocarditis (SLE) |
-
-**Postmortem clots vs. venous thrombi:**
-- Postmortem: gelatinous, dark red dependent portion ("chicken fat"), yellow upper portion, not attached to vessel wall
-- Venous thrombi: firm, focally attached, gray fibrin strands
-
-### Fate of the Thrombus
-
-| Process | Description |
-|---------|-------------|
-| **Propagation** | Enlargement by platelet/fibrin accretion → increased occlusion/embolization risk |
-| **Embolization** | Part/all dislodged → transported elsewhere in vasculature |
-| **Dissolution** | Newly formed thrombi: fibrinolytic activation → rapid shrinkage; older thrombi: resistant to plasmin due to extensive fibrin polymerization |
-| **Organization and recanalization** | Older thrombi: ingrowth of endothelial cells, smooth muscle cells, fibroblasts → capillary channels form → partial lumen re-establishment → eventually incorporated into vessel wall |
-
-**Alternative fate:** Center undergoes enzymatic digestion (lysosomal enzymes from entrapped leukocytes); if bacterial seeding → culture medium → mycotic aneurysm (Chapter 10)
-
-### Clinical Features
-
-**Thrombi significance:** Obstruct arteries/veins + source of emboli
-
-#### Venous Thrombosis (Phlebothrombosis)
-
-**Most common:** Superficial or deep leg veins
-
-**Superficial venous thrombi:**
-- Saphenous system (often with varicosities)
-- Rarely embolize
-- Can cause local congestion, swelling, skin infections, varicose ulcers
-
-**Deep venous thromboses (DVTs):**
-- Larger leg veins at/above knee (popliteal, femoral, iliac)
-- Prone to embolize
-- ~50% entirely asymptomatic → recognized only after pulmonary embolization
-
-**Predisposing factors:**
-- Stasis (heart failure, bed rest, immobilization — reduces leg muscle milking action)
-- Hypercoagulable states (Table 4.2)
-- Trauma, surgery, burns — vascular injury + procoagulant release + ↑ hepatic synthesis of factors + ↓ t-PA
-- Pregnancy — fetal/uterine pressure → leg vein stasis; late pregnancy/postpartum hypercoagulability
-- Tumor — procoagulant release → migratory thrombophlebitis/Trousseau syndrome
-- Age >50
-
-#### Arterial and Cardiac Thrombosis
-
-**Atherosclerosis** — major cause (endothelial loss + abnormal flow)
-
-**Myocardial infarction** — dyskinetic contraction + endocardial injury → cardiac mural thrombi
-
-**Rheumatic heart disease** — atrial dilation + fibrillation → atrial mural thrombi
-
-**Embolization targets:** Brain, kidneys, spleen (rich blood supply)
-
-**Summary: Thrombosis**
-- Usually involves one/more components of **Virchow's triad**:
-  - Endothelial injury (toxins, hypertension, inflammation, metabolic products)
-  - Abnormal blood flow/stasis/turbulence (aneurysms, atherosclerotic plaque)
-  - Hypercoagulability: primary (factor V Leiden, ↑prothrombin, antithrombin III deficiency) or secondary (bed rest, tissue damage, malignancy)
-- Thrombi may propagate, resolve, organize, or embolize
-- Tissue injury from local vascular occlusion or distal embolization
-
-### Disseminated Intravascular Coagulation (DIC)
-
-**Definition:** Widespread microcirculatory thrombosis; sudden or insidious onset
-
-**Mechanism:**
-- Widespread microvascular thrombosis → consumes platelets and coagulation proteins (**consumptive coagulopathy**)
-- Fibrinolytic mechanisms simultaneously activated
-- **Result:** Excessive clotting + bleeding coexist in same patient
+**微小血栓（Microthrombi）**：
+- 見於 **DIC（disseminated intravascular coagulation）**
+- 廣泛性微血管纖維蛋白/血小板血栓沉積
 
 ---
 
-## Embolism
+## Thromboembolism
 
-**Embolus** — detached intravascular solid/liquid/gaseous mass carried by blood to distant site → tissue dysfunction/infarction
+### 定義與類型
 
-**Most common:** **Thromboembolism** (dislodged thrombus)
+**Thromboembolism（血栓栓塞症）**是指血栓脫落後隨血流遷移並堵塞遠端血管。
 
-**Other types:** Fat droplets, air/nitrogen bubbles, atherosclerotic debris (cholesterol emboli), tumor fragments, bone marrow bits, amniotic fluid
+### 靜脈血栓栓塞症（VTE）
 
-### Pulmonary Thromboembolism
+**深層靜脈血栓形成（DVT）**：
+- 最常見於小腿深層靜脈
+- 可延伸至股靜脈、髂靜脈
+- **Virchow's triad**：靜脈血流緩慢、內皮受損/活化、高凝狀態
 
-**Most common** thromboembolic disease; 2-4 per 1000 hospitalized patients; ~100,000 deaths/year in US
+**肺血栓栓塞症（Pulmonary thromboembolism）**：
+- 血栓（通常來自下肢深層靜脈）脫落→回流心臟→肺動脈
+- 可導致肺梗死或大片肺血流阻塞（可能致命）
+- 臨床表現：呼吸困難、胸痛、發紺、心搏過速
+- 大塊栓塞可導致急性右心衰竭與猝死
 
-**Source:** >95% from deep leg vein thrombi proximal to popliteal fossa
+### Arterial Thromboembolism
 
-**Pathogenesis:**
-- DVT fragments → through venous system → right heart → pulmonary vasculature
-- Depending on size: main pulmonary artery, bifurcation (saddle embolus), smaller arterioles
+- **心源性栓塞**：心房顫動、左心室血栓（心肌梗塞後）→腦血管栓塞→缺血性腦中風
+- **主動脈血栓**：斑塊上血栓形成→ cholesterol embolization
+- **arterial to arterial 栓塞**：粥狀硬化斑塊碎片
 
-**Patterns:**
-- Multiple emboli common (sequentially or shower from single large thrombus)
-- Paradoxical embolism — through atrial/ventricular defect → systemic circulation
+### 梗死（Infarction）
 
-**Clinical consequences:**
-- **Small emboli (60-80%):** Clinically silent → organization → fibrous webs or incorporation into vascular wall
-- **Large embolus:** Sudden death
-- **Medium-sized arteries:** Pulmonary hemorrhage (bronchial circulation maintains perfusion); pulmonary infarction only if left-sided cardiac failure (↓ bronchial perfusion)
-- **Small end-arteriolar branches:** Usually infarction
-- **Multiple emboli over time:** Pulmonary hypertension → right ventricular failure (**cor pulmonale**)
+血栓栓塞導致遠端組織缺血，若缺血持續超過組織耐受臨界值（通常約6小時），則發生**組織梗死（infarction）**。
 
-### Systemic Thromboembolism
+**梗死的影響因素：**
+- **缺血時間與嚴重程度**
+- **側支循環**：雙重血液供應的器官（如肝、肺）較能耐受單一血管阻塞
+- **組織對缺氧的耐受性**：腦、心肌對缺氧最敏感；纖維組織耐受力較強
 
-**Source (80%):** Intracardiac mural thrombi
-- 2/3: left ventricular infarcts
-- 25%: dilated left atria (mitral valve disease)
-
-**Other sources:** Aortic aneurysms, ulcerated atherosclerotic plaques, fragmented valvular vegetations, venous system (paradoxical); 10-15% unknown origin
-
-**Distribution:** Virtually anywhere; depends on origin + relative blood flow
-- Lower extremities: 75%
-- Central nervous system: 10%
-- Intestines, kidneys, spleen: less common
-
-**Consequences:** End arteries → infarction; depend on vessel caliber, collateral supply, tissue vulnerability to anoxia
-
-### Fat Embolism
-
-**Mechanism:**
-- Soft tissue crush injury or marrow vascular sinusoid rupture (long bone fracture)
-- Fat globules enter circulation
-
-**Prevalence:** 
-- 90% of severe skeletal injuries
-- <10% develop clinical syndrome
-
-**Clinical syndrome (symptomatic fat embolism):**
-- Onset 1-3 days post-injury
-- **Triad:** Pulmonary insufficiency, neurologic symptoms, anemia + thrombocytopenia
-- Diffuse petechial rash (20-50% of cases) — related to rapid thrombocytopenia onset
-- Progression: tachypnea, dyspnea, tachycardia, irritability, restlessness → delirium/coma
-- Fatal in 10%
-
-**Pathogenesis:**
-- Mechanical obstruction + biochemical injury
-- Fat microemboli occlude pulmonary/cerebral microvasculature directly + via platelet aggregation
-- Fatty acid release from globules → toxic endothelial injury
-- Platelet activation + granulocyte recruitment (free radicals, proteases, eicosanoids)
-
-**Diagnosis:** Requires frozen sections + fat stains (lipids dissolved by routine processing)
-
-### Amniotic Fluid Embolism
-
-**Incidence:** 1 in 40,000 deliveries; **80% mortality** — most common cause of maternal death in developed world; 10% of US maternal deaths; 85% of survivors have permanent neurologic deficit
-
-**Onset:** Sudden severe dyspnea, cyanosis, hypotensive shock → seizures, coma
-
-**If patient survives initial crisis:** Pulmonary edema + DIC (50%) from thrombogenic substance release
-
-**Mechanism:** Entry of amniotic fluid into maternal circulation via placental membrane tears and/or uterine vein rupture
-
-**Histology:** Squamous cells (fetal skin), lanugo hair, vernix caseosa fat, fetal respiratory/GI tract mucin in maternal pulmonary microcirculation
-
-**Additional findings:** Marked pulmonary edema, diffuse alveolar damage (Chapter 13), systemic fibrin thrombi (DIC)
-
-### Air Embolism
-
-**Gas bubbles** coalesce → obstruct vascular flow → distal ischemic injury
-
-**Venous gas emboli:**
-- Small volumes: usually no effect
-- Large volumes: hypoxia; very large → cardiac arrest/death
-
-**Arterial gas emboli:**
-- Coronary artery bypass surgery: air trapped during procedure
-- Neurosurgery in upright "sitting position": cerebral arterial air
-
-### Decompression Sickness
-
-**Cause:** Sudden atmospheric pressure changes
-
-**Risk groups:** Scuba divers, underwater construction workers, unpressurized aircraft occupants during rapid ascent
-
-**Mechanism:**
-- High pressure breathing (deep diving) → nitrogen dissolves in blood/tissues
-- Rapid ascent (depressurization) → nitrogen expands → bubbles out of solution → gas emboli
-
-**Manifestations:**
-
-| Condition | Features |
-|-----------|----------|
-| **The bends** | Gas bubbles in skeletal muscles/joints → painful arching ("Grecian bend" fashion pose) |
-| **The chokes** | Pulmonary vasculature bubbles → pulmonary edema, hemorrhages, focal atelectasis/emphysema → respiratory distress |
-| **CNS involvement** | Mental impairment, sudden coma |
-| **Caisson disease** (chronic) | Recurrent/persistent emboli in bones → multifocal ischemic necrosis; femoral, tibial, humeral heads most affected |
-
-**Treatment:** High-pressure chamber (forces gas back into solution) → slow decompression for gradual resorption
-
-**Summary: Embolism**
-- **Embolus** — solid/liquid/gas mass carried to distant site; most are dislodged thrombi
-- **Pulmonary emboli** — primarily from lower extremity DVTs; consequences: right heart failure, pulmonary hemorrhage, infarction, sudden death
-- **Systemic emboli** — primarily from cardiac mural/valvular thrombi, aortic aneurysms, atherosclerotic plaques; tissue infarction depends on embolization site and collateral circulation
-- **Fat embolism** — crushing injuries; pulmonary insufficiency + neurologic damage
-- **Amniotic fluid embolism** — childbirth; fatal pulmonary/cerebral manifestations
-- **Air embolism** — rapid decompression (divers); nitrogen bubbling from blood
-
----
-
-## Infarction
-
-**Infarct** — area of ischemic necrosis caused by vascular supply occlusion
-
-**Importance:** ~40% of US deaths from cardiovascular disease; most from myocardial/cerebral infarction
-
-**Other common sites:** Lung, bowel (often fatal), distal extremities (gangrene, diabetic population)
-
-### Causes
-
-| Cause | Mechanism |
-|-------|----------|
-| **Arterial thrombosis** | Most common |
-| **Arterial embolism** | Second most common |
-| Vasospasm | Uncommon |
-| Atheroma expansion (intraplaque hemorrhage) | — |
-| Extrinsic compression (tumor, dissecting aneurysm, compartment syndrome edema) | — |
-| Vessel twisting (testicular torsion, bowel volvulus) | — |
-| Traumatic vascular rupture | — |
-| Venous thrombosis | Less common; usually congestion + bypass channel opening |
-
-### Morphology of Infarcts
-
-**Classification:**
-
-| Type | Occurs In |
-|------|-----------|
-| **Red (hemorrhagic) infarcts** | Venous occlusions; loose tissues (lung); dual circulation tissues (lung, small intestine); previously congested tissues; after flow re-establishment (e.g., post-angioplasty) |
-| **White (anemic) infarcts** | Arterial occlusions; solid organs with end-arterial circulation (heart, spleen, kidney) |
-
-**Gross features:**
-- Wedge-shaped (apex at occluded vessel, base at organ periphery)
-- Serosal surface involvement → overlying fibrinous exudate
-- Lateral margins irregular (reflecting adjacent vessel flow)
-- Acute: margins indistinct, slightly hemorrhagic
-- With time: narrow hyperemic inflammatory rim defines edges
-- White infarcts become progressively paler and more sharply defined
-
-**Microscopic:**
-- Ischemic **coagulative necrosis** (Chapter 2) in most tissues
-- Inflammatory response along margins within hours; well-defined within 1-2 days
-- Repair begins in preserved margins (Chapter 3)
-- Possible parenchymal regeneration at periphery (spared stromal architecture)
-- Most ultimately replaced by **scar**
-- **Brain exception:** Liquefactive necrosis (Chapter 2)
-
-**Septic infarcts:** Infected vegetations or microbe seeding of necrotic tissue → abscess formation with greater inflammation → organization/fibrosis
-
-### Factors Influencing Infarct Development
-
-**1. Vascular supply anatomy**
-- **Dual supply** (lung: pulmonary + bronchial arteries; liver: hepatic artery + portal vein; hand: radial + ulnar): resistant to infarction
-- **End-arterial circulation** (kidney, spleen): arterial obstruction → infarction
-
-**2. Rate of occlusion**
-- Slow development: time for collateral circulation to form
-- Example: coronary interarteriolar anastomoses — slowly occluding plaque → collateral flow increases → may prevent infarction even with complete original artery occlusion
-
-**3. Tissue vulnerability to hypoxia**
-- **Neurons:** Irreversible damage after 3-4 minutes of ischemia
-- **Myocardial cells:** Die after 20-30 minutes of ischemia
-- **Fibroblasts:** Remain viable after many hours
-
-**Summary: Infarction**
-- Areas of ischemic necrosis; most commonly from arterial occlusion (thrombosis/embolization); venous outflow obstruction less frequent
-- Venous occlusion or spongy tissue infarcts → **hemorrhagic (red)**; arterial occlusion in compact tissue → **pale (white)**
-- Tissue infarction determined by: collateral blood supplies, rate of obstruction development, intrinsic tissue susceptibility, blood oxygenation
+**梗死的形態學分類：**
+- **貧血性梗死（Anemic infarct）**：組織實心、缺血，無血液再灌流——見於腎、脾、心、腦（白梗死）
+- **出血性梗死（Hemorrhagic infarct）**：血液再灌流或雙重血液供應導致出血——見於肺、腸、卵巢（紅梗死）
 
 ---
 
 ## Shock
 
-**Shock** — state of diminished cardiac output or reduced effective circulating blood volume → impaired tissue perfusion → cellular hypoxia
+### 定義與分期
 
-**Early:** Reversible cellular injury
-**Prolonged:** Irreversible tissue injury → often fatal
+**Shock（休克）**是因組織灌流不足導致細胞缺氧與功能障礙的致命臨床症候群。若不及時治療，會導致多器官功能障礙症候群（MODS）與死亡。
 
-### Causes and Classification
+**三期：**
+1. **早期/代償期（Compensated）**：全身性血管收縮、血壓暫時維持，心臟、腦獲得優先灌流
+2. **進展期（Progressive）**：組織缺氧與酸中毒，血管平滑肌功能障礙，血管擴張，血壓下降
+3. **不可逆期（Irreversible）**：細胞與器官損傷無法逆轉，即使恢復血壓與灌流亦無法存活
 
-**Table 4.3** Three Major Types of Shock
+### 休克的類型
 
-| Type | Clinical Examples | Principal Pathogenic Mechanisms |
-|------|------------------|-------------------------------|
-| **Cardiogenic** | Myocardial infarction, ventricular rupture, arrhythmia, cardiac tamponade, pulmonary embolism | Intrinsic myocardial damage, extrinsic pressure, outflow obstruction → myocardial pump failure |
-| **Hypovolemic** | Hemorrhage, fluid loss (vomiting, diarrhea, burns, trauma) | Inadequate blood/plasma volume |
-| **Septic** | Gram-negative sepsis, gram-positive septicemia, fungal sepsis, toxic shock syndrome (superantigens) | Peripheral vasodilation, blood pooling; endothelial activation/injury; leukocyte-induced damage; DIC; cytokine cascades |
+| 類型 | 機制 | 範例 |
+|------|------|------|
+| **Hypovolemic shock** | 循環血量減少 | 大量出血、嚴重脫水、燒傷 |
+| **Cardiogenic shock** | 心臟幫浦功能衰竭 | 心肌梗塞、嚴重心律不整、心包填塞 |
+| **Distributive shock** | 血管阻力異常降低 | 敗血症（septic shock）、過敏反應（anaphylactic shock）、神經源性（neurogenic shock） |
 
-**Less common:**
-- **Neurogenic shock** — loss of vascular tone (anesthesia, spinal cord injury)
-- **Anaphylactic shock** — IgE-mediated hypersensitivity → systemic vasodilation + increased vascular permeability (Chapter 5)
+### Septic Shock
 
-### Pathogenesis of Septic Shock
+最常見的 distributive shock 形式，由**菌血症（bacteremia）**或**內毒素（endotoxin）**觸發。
 
-**Incidence:** 2% of US hospital admissions; 50% require ICU; >750,000 cases/year (increasing); 20-30% mortality
+**機制：**
+- 微生物成分（PAMPs）激活巨噬細胞與內皮細胞
+- 大量細胞激素釋放（**TNF-α、IL-1β、IL-6**）
+- 系統性血管擴張與血管通透性增加
+- **血流分佈異常**：內臟血管擴張（溫暖休克）或收縮（冰冷休克）
+- 凝血功能障礙：DIC
+- 心肌抑制
 
-**Causative organisms:** Gram-positive bacteria (most common) > gram-negative bacteria > fungi
+**難治性低血壓**：即使補充液體與血管活性藥物，血壓仍無法維持，反映血管平滑肌與內皮的不可逆損傷。
 
-**Trigger:** Various microbial cell wall constituents activate innate immune system
+### 休克的細胞病理學
 
-#### Key Pathways
+**共同最終通路：**
+- 組織灌流不足→細胞缺氧
+- 粒線體氧化磷酸化受阻→ATP 生成減少
+- 無氧糖酵解增加→乳酸堆積（乳酸血症）
+- 細胞膜鈉鉀泵功能障礙→細胞內水腫
+- 細胞凋亡或壞死
+- 內皮細胞受損→微血管通透性增加與微血栓形成
 
-**1. Inflammatory and Counterinflammatory Responses**
+**多器官功能障礙（MODS）**：
+- **肺**：ARDS（acute respiratory distress syndrome）
+- **腎**：急性腎小管壞死（ATN）
+- **肝**：肝細胞功能障礙、膽紅素升高
+- **腦**：意識改變、腦水腫
+- **心**：心肌抑制
 
-**Innate immune activation:**
-- **Toll-like receptors (TLRs)** recognize pathogen-associated molecular patterns (PAMPs)
-- **G-protein-coupled receptors** detect bacterial peptides
-- **C-type lectin receptors** (e.g., Dectins)
+---
 
-**Cytokine production:**
-- TNF, IL-1, IFN-γ, IL-12, IL-18, HMGB1
-- Markers: C-reactive protein, procalcitonin (clinically useful)
+## Summary
 
-**Effector molecules:**
-- Reactive oxygen species
-- Prostaglandins, platelet-activating factor (PAF)
-- Endothelial adhesion molecule upregulation
-- Cytokine/chemokine production
-
-**Complement activation:** Direct (microbial components) + indirect (via plasmin) → C3a, C5a (anaphylotoxins), C5a (chemotaxis), C3b (opsonins)
-
-**Coagulation activation:** Direct (factor XII) + indirect (endothelial dysfunction) → thrombin → amplifies inflammation via PARs
-
-**Counterregulatory immunosuppression:**
-- Shift from TH1 to TH2 cytokines (Chapter 5)
-- Anti-inflammatory mediators (soluble TNF receptor, IL-1 receptor antagonist, IL-10)
-- Lymphocyte apoptosis
-- Apoptotic cell immunosuppressive effects
-- Cellular anergy
-- May overshoot → susceptibility to superinfections
-
-**2. Endothelial Activation and Injury**
-
-- Proinflammatory cytokines loosen endothelial tight junctions → vascular leakage → protein-rich edema throughout body
-- Impedes tissue perfusion; worsened by IV fluid resuscitation
-- Activated endothelium upregulates NO and other vasoactive mediators (C3a, C5a, PAF) → smooth muscle relaxation → systemic hypotension
-
-**3. Induction of Procoagulant State**
-
-- Up to 50% of septic patients develop DIC
-- **Procoagulant changes:**
-  - ↑ tissue factor (monocytes, endothelium)
-  - ↓ endothelial anti-coagulants (tissue factor pathway inhibitor, thrombomodulin, protein C)
-  - ↑ plasminogen activator inhibitor-1 (↓ fibrinolysis)
-- Vascular leak + tissue edema → small vessel stasis → impaired activated factor washout
-- Result: Systemic thrombin activation + fibrin-rich microvascular thrombi → compromised tissue perfusion
-- Full DIC: consumption of coagulation factors/platelets → concomitant bleeding/hemorrhage (Chapter 12)
-
-**4. Metabolic Abnormalities**
-
-- **Insulin resistance + hyperglycemia**
-  - Cytokines (TNF, IL-1), stress hormones (glucagon, growth hormone, glucocorticoids), catecholamines → gluconeogenesis
-  - Proinflammatory cytokines suppress insulin release + promote hepatic/tissue insulin resistance (↓ GLUT-4 surface expression)
-  - Hyperglycemia → ↓ neutrophil function (suppressed bactericidal) + ↑ endothelial adhesion molecule expression
-
-- **Adrenal insufficiency**
-  - Early: acute glucocorticoid surge
-  - Later: functional deficit (depressed synthesis or frank adrenal necrosis — **Waterhouse-Friderichsen syndrome**, Chapter 20)
-
-- **Lactic acidosis:** Cellular hypoxia + ↓ oxidative phosphorylation → ↑ lactate production
-
-**5. Organ Dysfunction**
-
-- Systemic hypotension + interstitial edema + microvascular thrombosis → ↓ oxygen/nutrient delivery
-- Damaged mitochondria (oxidative stress) → impaired oxygen use
-- High cytokine levels → ↓ myocardial contractility and cardiac output
-- Endothelial injury + vascular permeability → ARDS (Chapter 13)
-- **Ultimate:** Multi-organ failure (kidneys, liver, lungs, heart) → death
-
-**Therapeutic implications:** Complexity of interactions → most targeted mediator antagonist trials ineffective/deleterious. Standard care: antibiotics + IV fluids + pressors + supplemental oxygen.
-
-**Superantigens:** Polyclonal T-lymphocyte activators → massive cytokine release → toxic shock syndrome (diffuse rash → vasodilation → hypotension → shock → death)
-
-### Stages of Shock
-
-**Progressive disorder; fatal if not corrected.** Mechanisms vary by type:
-
-**1. Initial Nonprogressive Stage**
-- Reflex compensatory mechanisms activated
-- Vital organ perfusion maintained
-
-**Compensatory mechanisms:**
-- Baroreceptor reflexes
-- Catecholamine release
-- Anti-diuretic hormone release
-- Renin-angiotensin-aldosterone axis activation
-- Sympathetic stimulation
-
-**Effects:**
-- Tachycardia
-- Peripheral vasoconstriction
-- Renal fluid conservation
-- Cutaneous vasoconstriction → cool, pale skin
-- *Note: Septic shock initially causes cutaneous vasodilation → warm, flushed skin*
-
-Coronary and cerebral vessels less sensitive to sympathetic signals → maintain relatively normal caliber and flow → blood shunted to heart and brain
-
-**2. Progressive Stage**
-- Tissue hypoperfusion + metabolic derangement
-- Anaerobic glycolysis → excessive lactic acid → metabolic lactic acidosis
-- ↓ tissue pH → blunted vasomotor response
-- Arterioles dilate → blood pools in microcirculation
-- Peripheral pooling worsens cardiac output
-- Endothelial anoxic injury risk → DIC
-- Widespread tissue hypoxia → vital organ failure
-
-**3. Irreversible Stage**
-- Cellular/tissue injury so severe that correcting hemodynamic defects cannot ensure survival
-
-**Features:**
-- Widespread cell injury → lysosomal enzyme leakage → aggravated shock state
-- Worsening myocardial contractile function (partly from ↑ NO synthesis)
-- Ischemic bowel → intestinal flora enter circulation → bacteremic shock superimposed
-- Ischemic renal injury → renal failure (Chapter 14)
-- Progressive downward spiral → death
-
-### Morphology of Shock
-
-**Effects:** Hypoxic injury (Chapter 2) from hypoperfusion + microvascular thrombosis
-
-**Commonly affected organs:** Brain, heart, kidneys, adrenals, GI tract
-
-**Findings:**
-- Fibrin thrombi in tissues (especially kidney glomeruli)
-- Adrenal cortical lipid depletion (stress response → ↑ steroid synthesis)
-- **Shock lung** (septic/traumatic hypovolemic shock): diffuse alveolar damage (Chapter 13)
-- Neuronal and cardiomyocyte loss may be irreversible
-- Other tissues can recover completely if patient survives
-
-### Clinical Features
-
-| Type | Skin Findings | Other Features |
-|------|---------------|----------------|
-| Hypovolemic/cardiogenic | Cool, clammy, cyanotic | Hypotension, weak rapid pulse, tachypnea |
-| Septic | Warm, flushed (early vasodilation) | Variable |
-
-**Primary threat:** Underlying cause (MI, hemorrhage, infection)
-
-**Progression:** Cardiac, cerebral, pulmonary changes worsen situation
-
-**Surviving initial period:** Renal dysfunction → oliguria, acidosis, electrolyte imbalances
-
-**Prognosis:**
-- Young, healthy hypovolemic shock: >90% survival with appropriate management
-- Septic/cardiogenic shock: substantially worse outcomes despite state-of-the-art care
-
-**Summary: Shock**
-- Systemic tissue hypoperfusion from ↓ cardiac output or ↓ effective circulating blood volume
-- Types: cardiogenic (e.g., MI), hypovolemic (e.g., blood loss), septic (e.g., infections)
-- Any form → hypoxic tissue injury if uncorrected
-- Septic shock: host response to bacterial/fungal infection; characterized by endothelial activation, vasodilation, edema, DIC, metabolic derangements
+- Edema 源於 hydrostatic pressure 與 colloid osmotic pressure 之間的失衡；可分為 transudate 與 exudate
+- Hemorrhage 的臨床重要性取決於體積、速度與部位
+- Hemostasis 經歷血管收縮→血小板栓塞→纖維蛋白沉積→血栓穩固四階段
+- Platelet adhesion 依賴 vWF 橋接 GpIb 與膠原蛋白；activation 釋放顆粒並改變 GpIIb/IIIa 親和力；aggregation 由 fibrinogen 橋接血小板
+- Coagulation cascade 由外在途徑（tissue factor→VII→X）與內在途徑（XII→XI→IX→VIII→X）會合於 factor X
+- Endothelium 同時具有抗血栓（PGI₂、NO、thrombomodulin、t-PA）與促血栓（vWF、tissue factor、PAI）特性
+- Thrombosis 由 Virchow's triad（內皮損傷、血流異常、高凝狀態）驅動
+- Arterial thrombosis 富含血小板；靜脈血栓含更多紅血球與纖維蛋白
+- Thromboembolism：血栓脫落後隨血流遷移；靜脈血栓→肺栓塞；心源性血栓→腦中風
+- Infarction 源於血栓栓塞導致的持續缺血；取決於缺血時間、組織耐受性與側支循環
+- Shock 分為 hypovolemic、cardiogenic、distributive 三型；共同最終通路是細胞缺氧與粒線體衰竭
+- Septic shock 由菌血症觸發細胞激素風暴，導致血管擴張、凝血障礙與心肌抑制
+- 休克晚期進展為 MODS，是休克的主要死因

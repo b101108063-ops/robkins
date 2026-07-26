@@ -3,2795 +3,2642 @@ layout: single
 title: "Chapter 11: Diseases of the Heart"
 ---
 
-# Chapter 11: Diseases of the Heart
+## 導讀
+
+心臟為人體最重要的幫浦，一旦功能衰竭便會波及全身。本章從心臟衰竭（CHF）的病理生理機制切入，闡述其代償與失代償的動態平衡，接著介紹先天性心臟病（CHD）的分類——左至右分流、右至左分流及阻塞性病灶，並說明各類型對肺循環與全身的影響。缺血性心臟病（IHD）則以冠狀動脈粥狀硬化為核心，解析心絞痛、急性心肌梗塞（AMI）及慢性缺血性心臟病的連續光譜。內容亦涵蓋高血壓心臟病、瓣膜疾病（包括退化性、類風濕性及感染性心內膜炎）、心肌病變（擴張型、肥厚型、限制型）與心肌炎，最後討論心包疾病、心臟腫瘤及心臟移植。熟悉這些疾病的形態學特徵與臨床表徵，是理解心血管病理的基石。
+
+---
 
 ## Heart Failure
 
-**Heart failure** (HF), often referred to as **congestive heart failure (CHF)**, is the common end point for many forms of cardiac disease and typically is a progressive condition with a poor prognosis.
+**心臟衰竭（Heart Failure, HF）**又稱**鬱血性心臟衰竭（Congestive Heart Failure, CHF）**，是多數心臟疾病的共同終點，為進行性疾病且預後不佳。
 
-### Epidemiology
-- Over **5 million** individuals affected in the United States
-- Over **1 million** hospitalizations annually
-- Financial burden exceeds **$32 billion**
-- Roughly one half of patients die within 5 years of diagnosis
-- **1 in 9 deaths** in the United States include heart failure as a contributory cause
+### 流行病學
 
-### Definition and Pathophysiology
+- 美國超過 **500 萬人** 患病
+- 每年住院超過 **100 萬人次**
+- 醫療支出超過 **320 億美元**
+- 確診後五年內死亡約半數
+- 美國死亡案例中，**約 1/9** 死因涉及心臟衰竭
 
-**CHF** occurs when:
-- The heart cannot generate sufficient output to meet metabolic demands of tissues
-- The heart can only do so at higher-than-normal filling pressures
-- In a minority of cases, heart failure is a consequence of greatly increased tissue demands (e.g., **hyperthyroidism**) or decreased oxygen-carrying capacity (e.g., **anemia**) — termed **high-output failure**
+### 定義與病理生理
 
-### Onset
-- **Abrupt**: Setting of large myocardial infarct or acute valve dysfunction
-- **Gradual and insidious**: Cumulative effects of chronic work overload or progressive loss of myocardium
+CHF 發生的三個條件（符合其一即成立）：
+- 心臟無法產生足夠輸出以滿足組織的代謝需求
+- 僅能在高於正常的充盈壓力下達成
+- 少數情況為組織需求大幅增加（如**甲狀腺機能亢進**）或攜氧能力下降（如**貧血**），稱為**高輸出衰竭**
 
-### Types of Cardiac Dysfunction
+### 發病形式
 
-| Type | Mechanism | Common Causes |
-|------|-----------|--------------|
-| **Systolic dysfunction** | Inadequate myocardial contractile function | Ischemic heart disease, hypertension |
-| **Diastolic dysfunction** | Inability of heart to adequately relax and fill | Massive LV hypertrophy, myocardial fibrosis, amyloid deposition, constrictive pericarditis |
+| 形式 | 常見情境 |
+|------|----------|
+| **急性** | 大面積心肌梗塞、急性瓣膜逆流 |
+| **慢性漸進** | 長期工作過負荷或心肌逐漸流失 |
 
-- Approximately **one half** of CHF cases are attributable to diastolic dysfunction
-- Greater frequency in **older adults**, **diabetic patients**, and **women**
-- Heart failure may also be caused by **valve dysfunction** (e.g., endocarditis) or rapid increases in blood volume/pressure
+### 心臟功能障礙的類型
 
-### Hemodynamic Consequences
+| 類型 | 機制 | 常見原因 |
+|------|------|----------|
+| **收縮功能障礙** | 心肌收縮力不足 | 缺血性心臟病、高血壓 |
+| **舒張功能障礙** | 心室無法正常舒張充盈 | 左心室肥厚、心肌纖維化、澱粉樣沉積、縮窄性心包炎 |
 
-When the failing heart can no longer efficiently pump blood:
-- Increase in **end-diastolic ventricular volumes**
-- Increased **end-diastolic pressures**
-- Elevated **venous pressures**
+- 約**一半**的 CHF 病例可歸因於舒張功能障礙
+- 好發於**老年人**、**糖尿病患者**及**女性**
+- 瓣膜功能障礙（如心內膜炎）或血容積/壓力快速增加亦可導致心衰竭
 
-Thus:
-- **Forward failure** (inadequate cardiac output) is almost always accompanied by
-- **Backward failure** (increased congestion of venous circulation)
+### 血流動力學後果
 
-Although the root problem in CHF is deficient cardiac function, virtually every other organ is eventually affected.
+心臟幫浦效率下降後：
+- **心室舒張末期容積** 增加
+- **心室舒張末期壓力** 上升
+- **靜脈壓力** 升高
 
-### Compensatory Mechanisms
+結果：
+- **前向衰竭**（心輸出不足）幾乎必然伴隨
+- **後向衰竭**（靜脈循環淤積）
 
-The cardiovascular system attempts to compensate through several homeostatic mechanisms:
+CHF 的根本問題雖然是心臟功能不足，但最終幾乎所有器官都會受影響。
 
-#### 1. Frank-Starling Mechanism
-- Increased end-diastolic filling volumes dilate the heart
-- Causes increased cardiac myofiber stretching
-- Lengthened fibers contract more forcibly, increasing cardiac output
-- **Compensated heart failure**: Dilated ventricle maintains cardiac output
-- **Decompensated heart failure**: Ventricular dilation increases wall tension and oxygen requirements; eventually the failing muscle cannot propel sufficient blood
+### 代償機制
 
-#### 2. Neurohumoral System Activation
-- **Norepinephrine release**: Increases heart rate, augments myocardial contractility, and increases vascular resistance
-- **Renin-angiotensin-aldosterone system activation**: Spurs water and salt retention (augmenting circulatory volume) and increases vascular tone
-- **Atrial natriuretic peptide release**: Balances renin-angiotensin-aldosterone system through diuresis and vascular smooth muscle relaxation
+心血管系統透過以下幾種生理調控嘗試維持功能：
 
-#### 3. Myocardial Structural Changes
-- Augmented muscle mass through **hypertrophy**
-- Cardiac myocytes adapt to increased workload by assembling new sarcomeres
+#### 1. Frank-Starling 機制
 
-**Patterns of hypertrophy:**
-- **Pressure overload** (e.g., hypertension, valvular stenosis):
-  - New sarcomeres added **parallel** to the long axis of myocytes (adjacent to existing sarcomeres)
-  - Growing muscle fiber diameter results in **concentric hypertrophy**
-  - Ventricular wall thickness increases without increase in chamber size
+- 舒張末期充盈容積增加 → 心肌纖維被拉長
+- 拉長的纖維收縮更有力 → 心輸出增加
+- **代償性心衰竭**：心室擴張但仍可維持心輸出
+- **失代償性心衰竭**：心室過度擴張導致室壁張力與需氧量增加，最終衰竭肌肉無法推送足夠血量
 
-- **Volume overload** (e.g., valvular regurgitation, shunts):
-  - New sarcomeres added **in series** with existing sarcomeres
-  - Muscle fiber length increases
-  - Ventricle tends to dilate; wall thickness can be increased, normal, or decreased
-  - **Heart weight** (not wall thickness) is the best measure of hypertrophy in volume-overloaded hearts
+#### 2. 神經內分泌系統活化
 
-### Cost of Compensatory Hypertrophy
-- Oxygen requirements of hypertrophic myocardium are amplified due to increased myocardial cell mass
-- Myocardial capillary bed does not expand in step with increased oxygen demands
-- Myocardium becomes **vulnerable to ischemic injury**
-- Hypertrophy associated with altered gene expression reminiscent of fetal myocytes (e.g., changes in myosin heavy chain)
-- Altered gene expression may lead to increased heart rate and force of contraction (improving cardiac output but increasing oxygen consumption)
-- In the face of ischemia and chronic increases in workload: **myocyte apoptosis**, **cytoskeletal alterations**, **increased ECM deposition**
+- **正腎上腺素釋放**：增加心率、加強心肌收縮力、升高血管阻力
+- **腎素-血管張力素-醛固酮系統（RAAS）活化**：促進水分與鈉鹽滯留（增加循環容積）、收縮血管
+- **心房利鈉肽（ANP）釋放**：透過利尿與血管平滑肌舒張來平衡 RAAS
 
-### Pathologic vs. Physiologic Hypertrophy
-- **Pathologic compensatory cardiac hypertrophy** is correlated with increased mortality
-- **Cardiac hypertrophy is an independent risk factor for sudden cardiac death**
-- **Volume-loaded hypertrophy** from regular aerobic exercise (physiologic hypertrophy):
-  - Accompanied by increase in capillary density
-  - Decreased resting heart rate and blood pressure
-  - Reduces overall cardiovascular morbidity and mortality
-- **Static exercise** (e.g., weight lifting) is associated with pressure hypertrophy and may not have the same beneficial effects
+#### 3. 心肌結構改變
 
-### Left-Sided Heart Failure
+- 透過**肥厚（hypertrophy）** 增加肌肉質量
+- 心肌細胞因應工作負荷增加而組裝新的收縮單位（肌節）
 
-Heart failure can affect the left side, right side, or both sides.
+**肥厚的型態取決於負荷類型：**
 
-**Most common causes:**
-- Ischemic heart disease (IHD)
-- Systemic hypertension
-- Mitral or aortic valve disease
-- Primary diseases of the myocardium (e.g., amyloidosis)
+| 負荷類型 | 實例 | 肌節新增方式 | 結果 |
+|----------|------|-------------|------|
+| **壓力過負荷** | 高血壓、瓣膜狹窄 | 平行於細胞長軸（相鄰於原有肌節） | 直徑增加 → **向心性肥厚** |
+| **容積過負荷** | 瓣膜逆流、分流 | 與原有肌節串聯 | 長度增加 → **心室擴張** |
 
-**Morphologic and clinical effects stem from:**
-- Diminished systemic perfusion
-- Elevated back-pressures within the pulmonary circulation
+> **重點**：容積過負荷時，**心臟重量**（而非室壁厚度）才是評估肥厚的最佳指標。
 
-#### Morphology
+### 代償性肥厚的代價
 
-**Heart:**
-- Gross cardiac findings depend on underlying disease
-- Left ventricle usually hypertrophied and can be dilated (sometimes massively)
-- Left ventricular dilation can result in mitral insufficiency and left atrial enlargement
-- Associated with increased incidence of **atrial fibrillation**
-- Microscopic changes: nonspecific — myocyte hypertrophy with interstitial fibrosis of variable severity
-- May have superimposed lesions (e.g., recent or old myocardial infarction)
+- 肥厚的心肌因細胞質量增加，**需氧量大幅上升**
+- 心肌微血管網並未隨需氧量等比例擴張
+- 心肌因此**容易發生缺血性損傷**
+- 肥厚伴隨基因表現改變，類似胎兒心肌（例如：肌凝蛋白重鏈變化）
+- 改變的基因表現可導致心率加快與收縮力增強（改善心輸出但增加氧消耗）
+- 缺血與慢性工作負荷下：出現**心肌細胞凋亡**、**細胞骨架改變**、**細胞外基質沉積增加**
 
-**Lungs (acute left-sided heart failure):**
-- Rising pressure in pulmonary veins transmitted back to capillaries and arteries of lungs
-- Results in congestion and edema
-- Pleural effusion due to increase in hydrostatic pressure
-- Lungs are heavy and boggy
-- Microscopically: perivascular and interstitial transudates, alveolar septal edema, edema fluid accumulation in alveolar spaces
+### 病理性 vs. 生理性肥厚
 
-**Lungs (chronic heart failure):**
-- Red cells extravasate from leaky capillaries into alveolar spaces
-- Phagocytosed by macrophages
-- Breakdown of red cells and hemoglobin leads to **hemosiderin-laden alveolar macrophages** ("**heart failure cells**")
-- Reflects previous episodes of pulmonary edema
+| 類型 | 毛细血管密度 | 休息心率/血壓 | 對心血管疾病的影響 |
+|------|-------------|---------------|------------------|
+| **病理性（心臟病相關）** | 不增加 | 升高 | 增加死亡率與猝死風險 |
+| **生理性（耐力運動）** | 增加 | 降低 | 降低心血管發病率與死亡率 |
 
-#### Clinical Features
+### 左心衰竭
 
-**Early symptoms:**
-- **Dyspnea on exertion** — usually the earliest and most significant symptom
-- **Cough** — consequence of fluid transudation into air spaces
+**最常見原因**：缺血性心臟病（IHD）、全身性高血壓、二尖瓣或主動脈瓣疾病、原發性心肌病變（如澱粉樣變性）
 
-**Progressive symptoms:**
-- **Orthopnea** — dyspnea when recumbent
-  - Supine position increases venous return from lower extremities and elevates diaphragm
-  - Relieved by sitting or standing
-  - Patients usually sleep in semi-seated position
-- **Paroxysmal nocturnal dyspnea** — dramatic form of breathlessness, awakening patients from sleep with extreme dyspnea bordering on suffocation
+**形態與臨床表徵的兩大來源**：
+- 全身灌流不足
+- 肺循環後壓力升高
 
-**Other manifestations:**
-- **Cardiomegaly** (enlarged heart)
-- **Tachycardia**
-- **S3** (third heart sound)
-- **Fine rales** at lung bases (caused by opening of edematous pulmonary alveoli)
+#### 形態學
 
-**With progressive ventricular dilation:**
-- Papillary muscles displaced outward
-- Causes **mitral regurgitation** and systolic murmur
-- Chronic dilation of left atrium can cause **atrial fibrillation** ("irregularly irregular" heartbeat)
-- Reduces atrial contribution to ventricular filling, reducing ventricular stroke volume
-- Causes stasis of blood → frequently leads to formation of thrombi → emboli causing strokes and infarctions in other organs
+**心臟：**
+- 大體所見取決於原發疾病
+- 左心室通常肥厚，有時明顯擴張
+- 左心室擴張可導致**二尖瓣閉鎖不全**與左心房擴大
+- 常見**心房顫動**
+- 顯微鏡：非特異性——間質纖維化的心肌細胞肥厚
 
-**With diminished cardiac output:**
-- Decreased renal perfusion → triggers renin-angiotensin-aldosterone axis → increases intravascular volume and pressures
-- With a failing heart, these compensatory effects exacerbate pulmonary edema
-- **Prerenal azotemia** may supervene with impaired excretion of nitrogenous wastes
-- In severe CHF: diminished cerebral perfusion → **hypoxic encephalopathy** (irritability, diminished cognition, restlessness) → can progress to stupor and coma
+**肺部（急性左心衰竭）：**
+- 肺靜脈壓力上升，傳導至肺微血管與肺动脉
+- 導致**肺充血與水腫**
+- 胸腔積液（滲出性）
+- 肺臟重量增加、質地鬆軟
+- 顯微鏡：血管周圍及間質滲出、肺泡間隔水腫、肺泡內水腫液
 
-**Treatment:**
-- Correcting underlying cause (valvular defect, inadequate cardiac perfusion)
-- Salt restriction
-- Pharmacologic agents:
-  - **Diuretics** — reduce volume overload
-  - **Positive inotropes** — increase myocardial contractility
-  - **Adrenergic blockade** or **ACE inhibitors** — reduce afterload
-- ACE inhibitors benefit patients by opposing aldosterone-mediated salt/water retention AND limiting cardiomyocyte hypertrophy and remodeling through uncertain mechanisms
-- **Cardiac resynchronization therapy** (exogenous pacing of both ventricles)
-- **Cardiac contractility modulation** (exogenous stimulation of cardiac muscle)
+**肺部（慢性心衰竭）：**
+- 紅血球從滲漏的微血管滲出至肺泡
+- 被巨噬細胞吞噬後，紅血球與血紅蛋白分解 → **含鐵血黃素肺泡巨噬細胞**（俗稱「**心衰竭細胞**」）
+- 代表曾有肺水腫發作
 
-### Right-Sided Heart Failure
+#### 臨床特徵
 
-**Usually the consequence of left-sided heart failure** — any pressure increase in pulmonary circulation produces increased burden on right side of heart.
+**早期症狀：**
+- **運動性呼吸困難**——最早且最重要的症狀
+- **咳嗽**——液體滲入肺泡的後果
 
-**Causes include all those inducing left-sided heart failure.**
+**進行性症狀：**
+- **端坐呼吸（Orthopnea）**：躺下時呼吸困難
+  - 原因：仰臥增加下肢靜脈回流並抬高橫膈
+  - 坐起或站立可緩解
+  - 患者常採半坐臥姿勢睡眠
+- **陣發性夜間呼吸困難（PND）**：從睡眠中突然惊醒、極度呼吸困難（近乎窒息感）
 
-**Isolated right-sided heart failure** is infrequent; typically occurs with disorders affecting the lungs → often referred to as **cor pulmonale**.
+**其他表徵：**
+- **心臟擴大（Cardiomegaly）**
+- **心搏過速**
+- **第三心音（S3）**
+- 肺底**細濕囉音**（水腫肺泡張開時產生）
 
-**Causes of cor pulmonale:**
-- Parenchymal lung diseases
-- Primary pulmonary hypertension (Chapter 13)
-- Recurrent pulmonary thromboembolism
-- Conditions causing pulmonary vasoconstriction (e.g., obstructive sleep apnea)
+**心室進行性擴張時：**
+- 乳頭肌向外移位
+- 導致**二尖瓣逆流**及收縮期心雜音
+- 左心房慢性擴張可導致**心房顫動**（「完全不規則」的心律）
+- 心房顫動減少心房對心室充盈的貢獻，降低心室每搏輸出
+- 血流淤滯 → 常形成血栓 → 血栓栓塞（腦中風、器官梗塞）
 
-**Common feature:** **Pulmonary hypertension** → results in hypertrophy and dilation of right side of heart
+**心輸出減少時：**
+- 腎灌流降低 → 觸發 RAAS → 血管內容積與壓力增加
+- 對衰竭的心臟而言，這些代償作用反而使肺水腫惡化
+- 可出現**腎前性氮質血症**（氮廢物排泄障礙）
+- 嚴重 CHF：腦灌流減少 → **缺氧性腦病變**（易怒、認知減退、不安）→ 可進展至木僵與昏迷
 
-In cor pulmonale:
-- Myocardial hypertrophy and dilation generally confined to right ventricle and atrium
-- Bulging of ventricular septum to left can reduce cardiac output by causing outflow tract obstruction
+**治療原則：**
+- 糾正根本原因（瓣膜缺陷、冠狀动脉灌流不足）
+- 限制鹽分攝取
+- 藥物治療：
+  - **利尿劑**——減少容量過負荷
+  - **正性肌力藥物**——增加心肌收縮力
+  - **腎上腺素阻斷劑**或 **ACE 抑制劑**——降低後負荷
+- ACE 抑制�i可對抗醛固酮介導的鈉水滯留，並透過未知機制限制心肌細胞肥厚與重構
+- **心臟再同步治療（CRT）**
+- **心臟收縮力調節治療**
 
-**Major effects of pure right-sided heart failure differ from left-sided:**
-- Engorgement of systemic and portal venous systems is pronounced
-- Pulmonary congestion is minimal
+### 右心衰竭
 
-#### Morphology
+**通常是左心衰竭的後果**——肺循環壓力上升會間接增加右心負擔。
 
-**Liver and Portal System:**
-- Increased size and weight (**congestive hepatomegaly**)
-- Cut section displays prominent passive congestion ("**nutmeg liver**")
-- Congested centrilobular areas surrounded by peripheral paler, noncongested parenchyma
-- With left-sided heart failure also present: severe central hypoxia produces centrilobular necrosis + sinusoidal congestion
-- Long-standing severe right-sided heart failure: central areas can become fibrotic ("**cardiac cirrhosis**")
+**原因包括所有會造成左心衰竭的疾病。**
 
-**Portal hypertension:**
-- Elevated pressure in portal vein and tributaries
-- Vascular congestion produces tense, enlarged spleen (**congestive splenomegaly**)
-- Severe chronic passive congestion and edema of bowel wall may interfere with absorption of nutrients and medications
+**單獨右心衰竭少見；通常與影響肺臟的疾病相關**——稱為**肺心病（Cor Pulmonale）**。
 
-**Pleural, Pericardial, and Peritoneal Spaces:**
-- Systemic venous congestion → transudates (effusions) in pleural and pericardial spaces
-- Usually does not cause pulmonary parenchymal edema
-- Pleural effusions most pronounced with combined right-sided and left-sided heart failure
-- Hepatic congestion + portal hypertension → peritoneal transudates (**ascites**)
-- Effusions associated with right-sided CHF are transudates with low protein content and lack of inflammatory cells
+**肺心病的常見原因：**
+- 實質性肺疾病
+- 原發性肺高壓（Chapter 13）
+- 反覆性肺血栓栓塞
+- 導致肺血管收縮的疾病（如阻塞性睡眠呼吸中止）
 
-**Subcutaneous Tissues:**
-- Edema of dependent portions of body (especially feet and lower legs) — hallmark of right-sided CHF
-- In chronically bedridden patients: edema may be primarily presacral
+**共同特徵**：**肺高壓** → 右心肥厚與擴張
 
-#### Clinical Features
+肺心病中，心肌肥厚與擴張主要侷限於右心室與右心房；室間隔向左突出可減少心輸出（因流出道阻塞）。
 
-**Unlike left-sided heart failure, pure right-sided heart failure typically is NOT associated with respiratory symptoms.**
+**單純右心衰竭的主要影響與左心衰竭不同：**
+- 全身與門靜脈系統淤積明顯
+- 肺充血輕微
 
-**Clinical manifestations related to systemic and portal venous congestion:**
-- Hepatic and splenic enlargement
-- Peripheral edema
-- Pleural effusion
-- Ascites
-- Venous congestion and hypoxia of kidneys and brain can produce deficits comparable to those caused by hypoperfusion of left-sided heart failure
+#### 形態學
 
-**Important:** Cardiac decompensation is often marked by **biventricular CHF** (features of both right-sided and left-sided heart failure).
+**肝臟與門靜脈系統：**
+- 體積與重量增加（**鬱血性肝腫大**）
+- 切片可見明顯被動性充血（「**營養失調肝（nutmeg liver）**」）
+- 充血的小葉中心區被周圍蒼白非充血性肝實質圍繞
+- 若同時有左心衰竭：嚴重中心缺氧導致小葉中心壞死與竇狀隙充血
+- 長期嚴重右心衰竭：中心區域可纖維化（"**心源性肝硬化**"）
 
-As CHF progresses:
-- Patients may become frankly cyanotic and acidotic
-- Consequence of decreased tissue perfusion from both diminished cardiac output and increasing congestion
+**門靜脈高壓：**
+- 門靜脈及其分支壓力升高
+- 血管充血產生緊繃、腫大的脾臟（**鬱血性脾腫大**）
+- 嚴重慢性被動性充血與腸壁水腫可能干擾營養與藥物吸收
 
-### Summary: Heart Failure
+**胸膜、心包與腹腔：**
+- 全身靜脈充血 → 滲出液積聚於胸膜與心包腔
+- 通常不引起肺實質水腫
+- 右側與左側心衰竭同時存在時，胸腔積液最明顯
+- 肝充血與門靜脈高壓 → 腹腔滲出液（**腹水**）
+- 右心衰竭的滲出液為低蛋白含量的漏出液，無發炎細胞
 
-- **CHF** occurs when the heart is unable to provide adequate perfusion to meet metabolic demands of peripheral tissues; inadequate cardiac output usually is accompanied by congestion of the venous circulation
-- **Left-sided heart failure** is most commonly secondary to ischemic heart disease, systemic hypertension, mitral or aortic valve disease, or primary diseases of the myocardium; symptoms are mainly a consequence of pulmonary congestion and edema, although systemic hypoperfusion can cause renal and cerebral dysfunction
-- **Right-sided heart failure** is due most often to left-sided heart failure and, less commonly, to primary pulmonary disorders; signs and symptoms are related chiefly to peripheral edema and visceral congestion
+**皮下組織：**
+- 身體低垂部位（尤其足部與小腿）水腫——右心衰竭的標誌
+- 長期臥床患者：水腫可能主要分布在薦骨前區
+
+#### 臨床特徵
+
+**與左心衰竭不同，單純右心衰竭通常不伴隨呼吸症狀。**
+
+**臨床表徵與全身及門靜脈充血相關：**
+- 肝脾腫大
+- 周邊水腫
+- 胸腔積液
+- 腹水
+- 腎臟與腦的靜脈充血與缺氧可產生與左心衰竭低灌流相似的功能障礙
+
+**重要**：心臟失代償通常以**雙心室 CHF**（兼具右側與左側心衰竭特徵）表現。
+
+隨著 CHF 進展：
+- 患者可能出現明顯發紺與酸中毒
+- 原因為心輸出減少與淤積加重的共同後果
 
 ---
 
 ## Congenital Heart Disease
 
-**Congenital heart diseases** are abnormalities of the heart or great vessels present at birth.
+**先天性心臟病（Congenital Heart Disease, CHD）** 為出生時即存在的心臟或大血管結構異常。
 
-### Epidemiology
-- Account for **20% to 30%** of all birth defects
-- Affect nearly **1% of newborns** (~40,000 infants per year in the United States)
-- Incidence is higher in premature infants and stillborns (~one fourth have significant cardiac malformations)
-- Defects permitting live birth usually involve only single chambers or regions
-- **12 entities account for 85%** of congenital heart disease
+### 流行病學
 
-### Table 11.1: Frequency of Congenital Cardiac Malformations
+- 占所有出生缺陷的 **20%–30%**
+- 影響約 **1%** 的新生兒（美國每年約 4 萬名嬰兒）
+- 早產兒與死產兒的發生率更高（約四分之一有明顯心臟畸形）
+- 能存活出生的缺陷通常僅涉及單一心腔或區域
+- **12 種病變佔先天性心臟病的 85%**
 
-| Malformation | Incidence per 1 Million Live Births |
-|--------------|-----------------------------------|
-| Ventricular septal defect | ~30-40% |
-| Atrial septal defect | ~7-10% |
-| Pulmonary stenosis | ~6-8% |
-| Patent ductus arteriosus | ~6-8% |
-| Tetralogy of Fallot | ~5-7% |
-| Coarctation of aorta | ~4-6% |
-| Atrioventricular septal defect | ~3-5% |
-| Aortic stenosis | ~3-5% |
-| Transposition of great arteries | ~2-4% |
-| Truncus arteriosus | ~1-2% |
-| Total anomalous pulmonary venous connection | ~1-2% |
-| Tricuspid atresia | ~1-2% |
-| **TOTAL** | **~100%** |
+### Table 11.1: 常見先天性心臟病變的發生頻率
 
-*Summary of 44 published studies. Percentages do not add to 100% because of rounding.*
+| 病變 | 每百萬活產兒的發生率 |
+|------|-------------------|
+| 心室中隔缺損（VSD） | ~30–40% |
+| 心房中隔缺損（ASD） | ~7–10% |
+| 肺動脈瓣狹窄 | ~6–8% |
+| 開放性肺導管（PDA） | ~6–8% |
+| 法洛氏四聯症（TOF） | ~5–7% |
+| 主動脈窄縮 | ~4–6% |
+| 房室中隔缺損 | ~3–5% |
+| 主動脈瓣狹窄 | ~3–5% |
+| 大血管轉位（TGA） | ~2–4% |
+| 共同动脉幹 | ~1–2% |
+| 完全性肺靜脈回流異常 | ~1–2% |
+| 三尖瓣閉鎖 | ~1–2% |
 
-### Clinical Significance
-- Over **2 million individuals** in the United States alone survive with congenital heart disease (thanks to surgical advances)
-- Repaired heart may not be completely normal
-- Myocardial hypertrophy and cardiac remodeling may be irreversible
-- Virtually all cardiac surgery results in some degree of myocardial scarring
-- Can lead to arrhythmias and myocardial dysfunction appearing years after surgical correction
+*資料來源：44 篇已發表研究的綜合。百分比因四捨五入總和不一定為 100%。*
 
-### Pathogenesis
+### 臨床重要性
 
-Congenital heart disease most commonly arises from faulty embryogenesis during gestational weeks **3 through 8** (when major cardiovascular structures develop).
+- 美國超過 **200 萬人** 存活並帶有先天性心臟病（感謝外科進步）
+- 修復的心臟可能並非完全正常
+- 心肌肥厚與心臟重構可能是不可逆的
+- 幾乎所有心臟手術都會導致一定程度的心肌疤痕
+- 可在手術矫正多年後才出現心律不整與心肌功能障礙
 
-**Cause is unknown in ~90% of cases.**
+### 發病機制
 
-**Accepted etiologic factors:**
+先天性心臟病最常見的原因是**妊娠第 3 至 8 週**（心血管主要結構發育期）的胚胎發育異常。
 
-**Environmental exposures:**
-- Congenital rubella infection
-- Teratogens
-- Maternal diabetes
+**約 90% 病例病因不明。**
 
-**Genetic factors:**
-- Specific loci implicated in familial forms
-- Certain chromosomal abnormalities (e.g., trisomies 13, 15, 18, and 21, and Turner syndrome)
+**已知致病因素：**
 
-**Cardiac morphogenesis involves multiple genes:**
-- Commitment of progenitor cells to myocardial lineage
-- Formation and looping of heart tube
-- Segmentation and growth of cardiac chambers
-- Cardiac valve formation
-- Connection of great vessels to heart
+**環境暴露：**
+- 先天性德國麻疹感染
+- 致畸胎物
+- 母體糖尿病
 
-**Key signaling pathways:**
+**遺傳因素：**
+- 家族型病例已發現特定基因位點
+- 特定染色體異常（如第 13、15、18、21 號染色體三體症及透納氏症）
+
+**心臟形態發育涉及多個基因：**
+- 前驅細胞向心肌譜系分化
+- 心管的形成與彎曲
+- 心腔的分割與生長
+- 心臟瓣膜形成
+- 大血管與心臟的連接
+
+**關鍵訊息傳導路徑：**
 - **Wnt pathway**
-- **VEGF** (vascular endothelial growth factor)
-- **BMP** (bone morphogenetic protein)
-- **TGF-β** (transforming growth factor-β)
-- **FGF** (fibroblast growth factor)
+- **VEGF**（血管內皮生長因子）
+- **BMP**（骨形態生成蛋白）
+- **TGF-β**（轉化生長因子-β）
+- **FGF**（纖維母細胞生長因子）
 - **Notch pathway**
 
-**Essential for cardiac morphogenesis:** Mechanical force imparted by flowing pulsatile blood
+**心臟形態發育所必需**：流動脈動血流所產生的機械力
 
-### Genetic Defects
-- Most known genetic defects are **autosomal dominant mutations** causing loss (or sometimes gain) of function
-- Several mutations involve transcription factors
-- Examples: **TBX5 mutations** in Holt-Oram syndrome → ASDs, VSDs, and/or conduction defects
-- Some disorders (e.g., Noonan syndrome) associated with mutations in intracellular signaling cascades causing constitutive activation
-- **MicroRNAs** and **epigenetic changes** (e.g., DNA methylation) are increasingly recognized as important contributors
-- Even transient environmental stresses early in pregnancy can cause subtle changes in transcription factor activity
+### 基因缺陷
 
-### Clinical Features
+- 大多數已知基因缺陷為**自體顯性突變**，導致功能喪失（偶爾為功能獲得）
+- 多種突變涉及轉錄因子
+- 範例：**TBX5 突變**（Holt-Oram 症候群）→ ASD、VSD 及/或傳導缺陷
+- 某些疾病（如努南氏症）與細胞內訊號傳導級聯突變有關（導致結構性活化）
+- **微RNA** 與**表觀遺傳變化**（如 DNA 甲基化）日益被認為是重要的貢獻因子
 
-Structural anomalies can be assigned to three major groups based on hemodynamic and clinical consequences:
+### 臨床特徵
 
-#### 1. Malformations Causing Left-to-Right Shunt
-- Abnormal communication between chambers or blood vessels
-- Blood flows from left to right side of heart
+結構異常可根據血流動力學與臨床後果分為三大類：
 
-#### 2. Malformations Causing Right-to-Left Shunt (Cyanotic Congenital Heart Diseases)
-- Blood from right side enters systemic arterial circulation → **cyanosis**
+| 類型 | 血流方向 | 早期是否有發紺 |
+|------|---------|--------------|
+| **左至右分流** | 左心 → 右心 | 無 |
+| **右至左分流（發紺型先天性心臟病）** | 右心 → 主動脈 | 有 |
+| **阻塞性病灶** | 血管或心腔狹窄/閉鎖 | 通常無 |
 
-#### 3. Malformations Causing Obstruction
-- Obstruct vascular flow by narrowing chambers, valves, or major blood vessels
-- Complete obstruction is called **atresia**
+**血流動力學後果：**
+- 分流導致心腔擴張或室壁肥厚
+- 某些缺陷導致肌肉質量或心腔體積減少（出生前為**發育不良**，出生後為**萎縮**）
 
-**Hemodynamic consequences:**
-- Shunts cause chamber dilation or wall hypertrophy
-- Some defects result in reduced muscle mass or chamber size (**hypoplasia** if before birth, **atrophy** if postnatally)
+**左至右分流特徵：**
+- 增加肺循環血流量
+- 早期**不伴隨發紺**
+- 使低壓、低阻力的肺循環暴露於高壓、高容量下
+- 導致適應性變化（肺血管阻力增加）→ **右心室肥厚** → 最終**右心衰竭**
+- 肺血管阻力增加可導致**分流逆轉**（右至左）→ **晚期發紺**（**Eisenmenger 症候群**）
 
-**Left-to-right shunt features:**
-- Increase blood flow into pulmonary circulation
-- NOT associated initially with cyanosis
-- Expose low-pressure, low-resistance pulmonary circulation to high pressures and volumes
-- Lead to adaptive changes increasing lung vascular resistance → **right ventricular hypertrophy** → eventually **right-sided failure**
-- Increased pulmonary resistance can cause **shunt reversal** (right to left) → **late-onset cyanosis** (**Eisenmenger syndrome**)
+**右至左分流特徵：**
+- **發紺**源於肺循環被繞過
+- 缺氧血從靜脈系統進入體循環
 
-**Right-to-left shunt features:**
-- **Cyanosis** results because pulmonary circulation is bypassed
-- Poorly oxygenated blood collected from venous system enters systemic arterial circulation
+### 左至右分流相關病變
 
-### Malformations Associated with Left-to-Right Shunts
+最常見的先天性心臟病類型，包括：
+- **心房中隔缺損（ASDs）**
+- **心室中隔缺損（VSDs）**
+- **開放性肺導管（PDA）**
 
-Most common types of congenital cardiac malformations.
+**臨床表現範圍**：從完全無症狀到爆發性心衰竭
 
-**Include:**
-- **Atrial septal defects (ASDs)**
-- **Ventricular septal defects (VSDs)**
-- **Patent ductus arteriosus (PDA)**
+**早期不出現發紺**。長期左至右分流最終可導致：
+- 肺高壓
+- 缺氧血向右至左分流進入體循環
+- 出現發紺（**Eisenmenger 症候群**）
 
-**Manifestations range from:**
-- Completely asymptomatic to fulminant heart failure
+**一旦出現明顯肺高壓**：結構缺陷被視為不可逆→ 這是早期介入（通常為手術）的理論依據
 
-**Cyanosis is NOT an early feature** of these defects.
+#### 心房中隔缺損與開放性卵圓孔
 
-**Prolonged left-to-right shunting may eventually give rise to:**
-- Pulmonary hypertension
-- Right-to-left shunting of unoxygenated blood into systemic circulation
-- Appearance of cyanosis (**Eisenmenger syndrome**)
+**正常心臟發育過程：**
+- 右心房與左心房之間的通道（第一孔與第二孔）維持開放
+- 使含氧血從母體循環右向左流動（維持胎兒發育）
+- 後期：組織瓣（第一隔與第二隔）生長以封閉卵圓孔
+- **80% 案例**：出生時較高的左側壓力使隔膜永久融合於卵圓孔上
+- **20% 案例**：形成**開放性卵圓孔（PFO）**
+  - 瓣膜大小足以覆蓋孔洞，但未融合的隔膜可允許短暫右至左血流（如 Valsalva 動作時）
+  - 可表現為**矛盾栓塞**（靜脈血栓經由卵圓孔缺損進入體循環）
 
-**Once significant pulmonary hypertension develops:** Structural defects are considered irreversible → rationale for early intervention (usually surgical)
+**ASD 與 PFO 的區別：**
+- **ASD** 是允許心房間不受限制血流的異常固定開口
+- **90% 的 ASD** 為「第二孔型」缺損（第二隔生長不足，無法封閉第二孔）
 
-#### Atrial Septal Defects and Patent Foramen Ovale
+##### 形態學
 
-**During normal cardiac development:**
-- Patency maintained between right and left atria by fenestrations (ostium primum and ostium secundum)
-- Allows oxygenated blood from maternal circulation to flow right to left atrium (sustaining fetal development)
-- At later stages: tissue flaps (septum primum and septum secundum) grow to occlude foramen ovale
-- In **80% of cases**: higher left-sided pressures at birth permanently fuse septa against foramen ovale
-- In **20% of cases**: **patent foramen ovale** results
-  - Flap is adequate size to cover foramen but unsealed septa can allow transient right-to-left blood flow (e.g., with Valsalva maneuver)
-  - Can manifest as **paradoxical embolism** (venous emboli entering systemic arterial circulation via foramen ovale defect)
+**第二孔型 ASD（佔 ASD 的 90%）：**
+- 開口位於卵圓孔附近，壁光滑
+- 通常不伴有其他心臟結構異常
+- 血流動力學顯著的病變伴有：
+  - 右心房與心室擴張
+  - 右心室肥厚
+  - 肺动脉擴張
+  - 反映長期容量負荷增加
 
-**ASD vs. Patent Foramen Ovale:**
-- **ASD** is an abnormal fixed opening allowing unrestricted blood flow between atrial chambers
-- **90% of ASDs** are "ostium secundum" defects (insufficient growth of septum secundum to occlude second ostium)
+**第一孔型 ASD（5%）：**
+- 位於心房中隔最低處
+- 可伴有二尖瓣與三尖瓣異常（與心內膜墊關係密切）
+- 其他缺陷可能包括 VSD 與共同房室通道
 
-##### Morphology
+**靜脈竇型 ASD（5%）：**
+- 位於心房中隔高處
+- 常伴有肺靜脈異常引流至右心房或上腔靜脈
 
-**Ostium secundum ASDs (90% of ASDs):**
-- Smooth-walled defects near foramen ovale
-- Typically without other associated cardiac abnormalities
-- Hemodynamically significant lesions accompanied by:
-  - Right atrial and ventricular dilation
-  - Right ventricular hypertrophy
-  - Dilation of pulmonary artery
-  - Reflects chronically increased volume load
+##### 臨床特徵
 
-**Ostium primum ASDs (5%):**
-- Occur at lowest part of atrial septum
-- Can be associated with mitral and tricuspid valve abnormalities (close relationship with endocardial cushions)
-- Additional defects may include VSD and common atrioventricular canal
+- ASD 通常無症狀至成年才被發現
+- VSD 更常見但許多會自行閉合
+- ASD（較少自行閉合）是**最常在成人中首次診斷**的缺陷
+- 初期造成左至右分流（因肺循環與右心壓力較低）
+- 通常耐受良好，特別是直徑小於 1 cm 者
+- 即使較大的病變在兒童期通常也無症狀
+- **長期**：慢性容量與壓力負荷可導致肺高壓
+- **手術或血管內 ASD 關閉術**的目的在於預防：
+  - 心衰竭
+  - 矛盾栓塞
+  - 不可逆性肺血管疾病
+- 手術死亡率低；術後存活率與一般人口相當
 
-**Sinus venosus ASDs (5%):**
-- Located high in atrial septum
-- Often accompanied by anomalous drainage of pulmonary veins into right atrium or superior vena cava
+#### 心室中隔缺損
 
-##### Clinical Features
+**心室中隔缺損允許左至右分流**
+- **出生時最常見的先天性心臟異常**
+- 正常心室中隔由心尖向上生長的肌肉脊與由心內膜墊向下生長的較薄膜性部分融合而成
+- 基部（膜性）區是最後發育的部分
+- **約 90% 的 VSD 位於此處**
+- 大多數 VSD 在兒童期自行閉合
+- 只有 **20%–30% 的 VSD 為單獨發生**；其餘伴有其他心臟畸形
 
-- ASDs usually asymptomatic until adulthood
-- VSDs are more common but many close spontaneously
-- ASDs (less likely to spontaneously close) are **most common defects to be first diagnosed in adults**
-- Initially cause left-to-right shunts (lower pressures in pulmonary circulation and right side of heart)
-- Generally well tolerated, especially if less than 1 cm in diameter
-- Even larger lesions usually don't produce symptoms in childhood
-- **Over time:** Chronic volume and pressure overloads can cause pulmonary hypertension
-- **Surgical or intravascular ASD closure** performed to preempt:
-  - Heart failure
-  - Paradoxical embolization
-  - Irreversible pulmonary vascular disease
-- Mortality is low; postoperative survival comparable to unaffected population
+##### 形態學
 
-#### Ventricular Septal Defects
+- 大小與位置變異大
+- 從膜性中隔的小缺損到涉及幾乎整個心室間隔的大缺損
+- 明顯左至右分流：右心室肥厚且常擴張
+- 肺动脉直徑增加（右心輸出增加與右側壓力升高）
+- 肺高壓的典型血管變化常見（Chapter 13）
 
-**Defects in ventricular septum allow left-to-right shunting**
-- **Most common congenital cardiac anomaly at birth**
-- Ventricular septum normally formed by muscular ridge growing upward from heart apex
-- Fuses with thinner membranous partition growing downward from endocardial cushions
-- Basal (membranous) region is last part to develop
-- **Site of ~90% of VSDs**
-- Most VSDs close spontaneously in childhood
-- Only **20% to 30% of VSDs occur in isolation**; remainder associated with other cardiac malformations
+##### 臨床特徵
 
-##### Morphology
+- 小型 VSD 可能無症狀
+- 肌部 VSD 約有一半在嬰兒期或兒童期自行閉合
+- 大型缺損：慢性左至右分流，常併發肺高壓與 CHF
+- 肺高壓伴分流逆轉與發紺的發生**比 ASD 更早且更常見**
+- 對於此類病變**建議早期手術矫正**
+- 在右心室產生噴射性病變的小型或中型缺損：可造成內皮損傷，增加**感染性心內膜炎**風險
 
-- Size and location variable
-- Range from minute defects in membranous septum to large defects involving virtually entire interventricular wall
-- Significant left-to-right shunt: right ventricle is hypertrophied and often dilated
-- Diameter of pulmonary artery is increased (increased right ventricular output and higher right-sided pressures)
-- Vascular changes typical of pulmonary hypertension common (Chapter 13)
+#### 開放性肺導管
 
-##### Clinical Features
+**肺導管：**
+- 起自左肺动脉
+- 連接至主動脈，位於左鎖骨下动脉起源的遠端
+- 胎兒期：允許血液從肺动脉流向主動脈，繞過未氧合的肺部
 
-- Small VSDs may be asymptomatic
-- Half of those in muscular portion close spontaneously during infancy or childhood
-- Larger defects: chronic left-to-right shunting, often complicated by pulmonary hypertension and CHF
-- Progressive pulmonary hypertension with shunt reversal and cyanosis occurs **earlier and more frequently with VSDs than with ASDs**
-- **Early surgical correction indicated** for such lesions
-- Small or medium-sized defects producing jet lesions in right ventricle: cause endothelial damage and increase risk for **infective endocarditis**
+**閉合時間：**
+- 健康足月嬰兒在出生後 **1–2 天內**
+- 機制：血氧增加、肺血管阻力下降、以及局部前列腺素 E2 濃度下降
+- 在出生後前幾個月完全退化
+- 殘留纖維組織條索：**肺韌帶（ligamentum arteriosum）**
 
-#### Patent Ductus Arteriosus
+**肺導管閉合延遲或缺席**常見於缺氧相關的嬰兒（與呼吸窘迫或心臟病有關）。
 
-**Ductus arteriosus:**
-- Arises from left pulmonary artery
-- Joins aorta just distal to origin of left subclavian artery
-- During intrauterine life: permits blood to flow from pulmonary artery to aorta, bypassing unoxygenated lungs
+**PDA 約佔 7%** 的先天性心臟病變；**90% 為單獨缺陷**。
 
-**Closure:**
-- Within **1 to 2 days** of birth in healthy term infants
-- Occurs in response to increased arterial oxygenation, decreased pulmonary vascular resistance, and declining local levels of prostaglandin E2
-- Complete obliteration within first few months of extrauterine life
-- Leaves strand of residual fibrous tissue: **ligamentum arteriosum**
+##### 臨床特徵
 
-**Ductal closure can be delayed (or absent)** in infants with hypoxia (related to respiratory distress or heart disease).
+- PDA 是高壓左至右分流
+- 產生刺耳的「**機械樣**」心雜音
+- 小型 PDA 通常無症狀
+- 較大缺損最終可導致**Eisenmenger 症候群**（發紺與鬱血性心衰竭）
+- 高壓分流也易導致**感染性心內膜炎**
+- **單獨 PDA 應盡早關閉**
+- **維持導管通暢**（給予前列腺素 E）在某些情況下可挽救生命——當 PDA 是維持體循環或肺循環血流的唯一途徑時（如主動脈或肺动脉閉鎖的嬰兒）
 
-**PDAs account for ~7%** of congenital heart lesions; **90% are isolated defects**.
+### 右至左分流相關病變
 
-##### Clinical Features
+**特徵為早期發紺**（右心的缺氧血直接流入體循環）
 
-- PDAs are high-pressure left-to-right shunts
-- Produce harsh, "**machinery-like**" murmurs
-- Small PDA generally causes no symptoms
-- Larger defects eventually can lead to **Eisenmenger syndrome** with cyanosis and congestive heart failure
-- High-pressure shunts also predispose to **infective endocarditis**
-- **Isolated PDAs should be closed as early in life as feasible**
-- **Preservation of ductal patency** (by administering prostaglandin E) can be lifesaving when PDA is only means to sustain systemic or pulmonary blood flow (e.g., infants with aortic or pulmonic atresia)
+**兩種最重要的病變：**
+- **法洛氏四聯症（TOF）**
+- **大血管轉位（TGA）**
 
-### Malformations Associated with Right-to-Left Shunts
+**嚴重全身發紺的臨床後果：**
+- 指尖與足趾**杵狀變（Clubbing）**（**肥大性骨關節病**）
+- **紅血球增多症**
+- **矛盾栓塞**
 
-**Distinguished by early cyanosis** (poorly oxygenated blood from right side of heart flows directly into arterial circulation)
+#### 法洛氏四聯症
 
-**Two most important conditions:**
-- **Tetralogy of Fallot**
-- **Transposition of the great vessels**
+**發紺型先天性心臟病最常見的原因**
+- 占所有先天性心臟畸形的約 **5%**
 
-**Clinical consequences of severe systemic cyanosis:**
-- **Clubbing** of fingertips and toes (**hypertrophic osteoarthropathy**)
-- **Polycythemia**
-- **Paradoxical embolization**
-
-#### Tetralogy of Fallot
-
-**Most common cause of cyanotic congenital heart disease**
-- Accounts for ~**5%** of all congenital cardiac malformations
-
-**Four cardinal features:**
+**四大特徵：**
 1. **VSD**
-2. **Right ventricular outflow tract obstruction** (subpulmonic stenosis)
-3. **Overriding of the VSD by the aorta**
-4. **Right ventricular hypertrophy**
+2. **右心室流出道阻塞**（肺幹下狹窄）
+3. **主動脈跨置於 VSD 之上**
+4. **右心室肥厚**
 
-**All features result from:** Anterosuperior displacement of the infundibular septum leading to abnormal septation between pulmonary trunk and aortic root
+**所有特徵皆源於**：漏斗部間隔向前上移位，導致肺幹與主動脈根部之間的異常分隔
 
-##### Morphology
+##### 形態學
 
-- Heart enlarged and "**boot-shaped**" (consequence of right ventricular hypertrophy)
-- Proximal aorta is dilated; pulmonary trunk is hypoplastic
-- Left-sided cardiac chambers are of normal size
-- Right ventricular wall is markedly hypertrophied (sometimes exceeding thickness of left ventricle)
-- VSD usually large, lying near membranous portion of interventricular septum
-- Aortic valve lies immediately over VSD (**overriding aorta**) — major site of egress for blood flow from both ventricles
-- Obstruction of right ventricular outflow most often due to narrowing of infundibulum (subpulmonic stenosis)
-- Can also be caused by pulmonary valve stenosis or complete atresia of valve and proximal pulmonary arteries
-- With pulmonary atresia: persistent PDA or dilated bronchial arteries are only route for blood to reach lungs
+- 心臟擴大，呈「**靴形**」（右心室肥厚的結果）
+- 近端主動脈擴張；肺动脉幹發育不良
+- 左側心腔大小正常
+- 右心室壁明顯肥厚（有時超過左心室厚度）
+- VSD 通常較大，位於心室間隔膜部附近
+- 主動脈瓣直接位於 VSD 之上（**跨置主動脈**）——血液從左右心室流出的主要出口
+- 右心室流出道阻塞最常見於漏斗部狹窄（肺幹下狹窄）
+- 也可由肺动脉瓣狹窄或瓣膜與近端肺动脉完全閉鎖導致
+- 肺动脉閉鎖時：持續性 PDA 或擴張的支氣管动脉是血液到達肺部的唯一途徑
 
-##### Clinical Features
+##### 臨床特徵
 
-**Hemodynamic consequences:**
-- Right-to-left shunting
-- Decreased pulmonary blood flow
-- Increased aortic volumes
+**血流動力學後果：**
+- 右至左分流
+- 肺血流量減少
+- 主血循環血量增加
 
-**Clinical severity largely depends on degree of pulmonary outflow obstruction:**
-- Some patients can survive into adult life even untreated
+**臨床嚴重程度主要取決於肺流出道阻塞的程度：**
+- 部分患者可存活至成年（即使未經治療）
 
-**If pulmonic obstruction is mild:**
-- Condition resembles isolated VSD
-- High left-sided pressure causes only left-to-right shunt
-- No cyanosis
+**若肺流出道阻塞輕度：**
+- 病程類似單獨 VSD
+- 高左側壓力僅造成左至右分流
+- 無發紺
 
-**More commonly:**
-- More severe degrees of pulmonic stenosis cause **early cyanosis**
-- As child grows and heart increases in size, pulmonic orifice does not expand proportionately → progressive worsening of stenosis
+**更常見的情況：**
+- 肺动脉狹窄程度較重導致**早期發紺**
+- 隨孩童成長心臟增大，肺动脉孔並不同比例擴張 → 狹窄進行性惡化
 
-**Fortunately:**
-- Pulmonic outflow stenosis protects pulmonary vasculature from pressure and volume overloads
-- Pulmonary hypertension does not develop
-- Right ventricular failure is rare
+**幸運的是：**
+- 肺流出道狹窄可保護肺血管免於壓力與容量過負荷
+- 不會發生肺高壓
+- 右心衰竭罕見
 
-**Nevertheless, patients develop typical sequelae of cyanotic heart disease:**
-- **Hypertrophic osteoarthropathy** and **polycythemia** (due to hypoxia) with attendant hyperviscosity
-- Right-to-left shunting increases risk for **infective endocarditis** and **systemic embolization**
-- Complete surgical repair is possible with classic tetralogy of Fallot but more complicated with pulmonary atresia
+**但患者仍會出現發紺型心臟病的典型後遺症：**
+- **肥大性骨關節病**與**紅血球增多症**（因缺氧）
+- 右至左分流增加**感染性心內膜炎**與**全身性栓塞**風險
+- 經典法洛氏四聯症可進行完全手術修復，但併發肺动脉閉鎖時更複雜
 
-#### Transposition of the Great Arteries
+#### 大血管轉位
 
-**Discordant connection of ventricles to their vascular outflow**
+**心室與其血管流出道的連接不一致**
 
-**Embryologic defect:**
-- Abnormal formation of truncal and aortopulmonary septa
-- Aorta arises from right ventricle
-- Pulmonary artery emanates from left ventricle
+**胚胎缺陷：**
+- 动脉幹與主肺动脉間隔發育異常
+- 主動脈起自右心室
+- 肺动脉起自左心室
 
-**Atrium-to-ventricle connections are normal (concordant):**
-- Right atrium joins right ventricle
-- Left atrium empties into left ventricle
+**心房與心室的連接是正常的（一致的）：**
+- 右心房連接右心室
+- 左心房連接左心室
 
-**Functional outcome:**
-- Separation of systemic and pulmonary circulations
-- **Incompatible with postnatal life** unless a shunt (such as VSD) allows delivery of oxygenated blood to aorta
+**功能結果：**
+- 體循環與肺循環完全分開
+- **與出生後生活不相容**，除非有分流（如 VSD）允許含氧血進入主動脈
 
-**VSDs occur in one third of cases.**
+**1/3 的病例伴有 VSD。**
 
-**Morphology:**
-- Marked right ventricular hypertrophy (that chamber functions as systemic ventricle)
-- Left ventricle is hypoplastic (pumps only to low-resistance pulmonary circulation)
+**形態學：**
+- 明顯的右心室肥厚（該心室作為體循環心室發揮功能）
+- 左心室發育不良（只泵血至低阻力的肺循環）
 
-**Some newborns with transposition:**
-- Have patent foramen ovale or PDA allowing oxygenated blood to reach aorta
-- These tend to close
-- Such infants typically require **emergent surgical intervention within first few days of life**
+**部分新生兒有轉位：**
+- 有開放性卵圓孔或 PDA 允許含氧血到達主動脈
+- 這些通道通常會關閉
+- 此類嬰兒通常需要在出生後**數天內進行緊急手術介入**
 
-##### Clinical Features
+##### 臨床特徵
 
-**Dominant manifestation: Cyanosis**
+**主要表現：發紺**
 
-**Prognosis depends on:**
-- Magnitude of shunting
-- Degree of tissue hypoxia
-- Ability of right ventricle to maintain systemic pressures
+**預後取決於：**
+- 分流量大小
+- 組織缺氧程度
+- 右心室維持體循環壓力的能力
 
-**Without surgery (even with stable shunting):**
-- Most patients with uncorrected transposition die within first months of life
+**若未手術（即使分流穩定）：**
+- 大多數未矫正的轉位患者在出生後數月內死亡
 
-**Improved surgical techniques now permit definitive repair;** such patients often survive into adulthood
+**現今改良的手術技術允許確定性修復；** 這些患者常能存活至成年
 
-### Malformations Associated with Obstructive Lesions
+### 阻塞性病變
 
-**Congenital obstruction of blood flow can occur:**
-- At level of heart valves
-- More distally within a great vessel
-- Proximal to valve (e.g., subpulmonic stenosis in tetralogy of Fallot)
+**先天性血流阻塞可發生在：**
+- 瓣膜層面
+- 更遠端的大血管
+- 瓣膜近端（如法洛氏四聯症的肺幹下狹窄）
 
-**Relatively common examples:**
-- Pulmonic valve stenosis
-- Aortic valve stenosis or atresia
-- **Coarctation of the aorta**
+**較常見的範例：**
+- 肺动脉瓣狹窄
+- 主動脈瓣狹窄或閉鎖
+- **主動脈窄縮（Coarctation of the Aorta）**
 
-#### Aortic Coarctation
+#### 主動脈窄縮
 
-**Narrowing, or constriction, of the aorta**
-- Common form of obstructive congenital heart disease
-- Males affected twice as often as females
-- Females with Turner syndrome frequently have coarctation
+**主動豚的狹窄或縮窄**
+- 常見的阻塞性先天性心臟病
+- 男性發生率為女性的兩倍
+- 透納氏症女性常伴有窄縮
 
-**Two classic forms:**
+**兩種經典型態：**
 
-1. **"Infantile" preductal form:**
-   - Hypoplasia of aortic arch proximal to PDA
+| 類型 | 狹窄位置 | 特點 |
+|------|---------|------|
+| **「嬰兒型」窄縮前行** | 主動脈弓在肺導管近端的發育不良 | |
+| **「成人型」窄縮後行** | 緊鄰肺韌帶的主動豚局限性摺疊 | |
 
-2. **"Adult" postductal form:**
-   - Discrete ridgelike infolding of aorta adjacent to ligamentum arteriosum
+**窄縮：**
+- 可作為單獨缺陷出現
+- 超過一半病例伴有**雙葉主動脈瓣**
+- 也可伴有主動豚瓣狹窄、ASD、VSD 或二尖瓣逆流
 
-**Coarctation:**
-- Can occur as solitary defect
-- In more than half of cases: accompanied by **bicuspid aortic valve**
-- Aortic valve stenosis, ASD, VSD, or mitral regurgitation also can be present
+##### 形態學
 
-##### Morphology
+**前行性窄縮：**
+- 左鎖骨下动脉與肺導管之間的主動豚段環形狹窄
+- 肺導管通常開放；是遠端主動豚（缺氧血）的主要來源
+- 肺动脉幹擴張以容納增加的血流量
+- 右心室通常肥厚（為窄縮遠端的身體供血）
 
-**Preductal coarctation:**
-- Circumferential narrowing of aortic segment between left subclavian artery and ductus arteriosus
-- Ductus typically patent; main source of (unoxygenated) blood to distal aorta
-- Pulmonary trunk is dilated to accommodate increased blood flow
-- Right ventricle typically hypertrophied (perfuses body distal to narrowed segment)
+**後行性窄縮（更常見）：**
+- 主動豚被鄰近封閉性肺韌帶的組織脊銳利縮窄
+- 縮窄段由來源於主動豚中膜的平滑肌與彈性纖維組成
+- 窄縮近端：主動豚弓及其分支擴張；左心室肥厚
 
-**Postductal coarctation (more common):**
-- Aorta sharply constricted by tissue ridge adjacent to nonpatent ligamentum arteriosum
-- Constricted segment made up of smooth muscle and elastic fibers derived from aortic media
-- Proximal to coarctation: aortic arch and branch vessels are dilated; left ventricle is hypertrophied
+##### 臨床特徵
 
-##### Clinical Features
+**表現取決於狹窄程度與肺導管是否通暢：**
 
-**Manifestations depend on severity of narrowing and patency of ductus arteriosus:**
+**前行性窄縮伴 PDA：**
+- 通常在生命早期出現
+- 典型表現為下半身局部發紺
+- 若不介入，大多數受影響嬰兒在新生兒期死亡
 
-**Preductal coarctation with PDA:**
-- Usually presents early in life
-- Classically as cyanosis localized to lower half of body
-- Without intervention, most affected infants die in neonatal period
+**後行性窄縮不伴 PDA：**
+- 通常無症狀
+- 可一直未被发现直至成年
+- 典型表現：
+  - **上肢高血壓**伴下肢脈搏減弱與相對低血壓
+  - **間歇性跛行**與**四肢冰冷**
+- 通過明顯擴張的肋間與內乳动脉建立豐富的側支循環
+- 這些側支血流的擴張可導致肋骨在 X 光片上的「**壓跡**」
 
-**Postductal coarctation without PDA:**
-- Usually asymptomatic
-- May remain unrecognized well into adult life
-- Classically:
-  - **Upper-extremity hypertension** paired with weak pulses and relative hypotension in lower extremities
-  - Symptoms of **claudication** and **coldness**
-- Exuberant collateral circulation develops through markedly enlarged intercostal and internal mammary arteries
-- Expansion of flow through these vessels can lead to radiographically visible "**notching**" of ribs
-
-**Treatment:** Balloon dilation and stent placement OR surgical resection with end-to-end anastomosis (or replacement by prosthetic graft) → excellent results
-
-### Summary: Congenital Heart Disease
-
-- Congenital heart disease represents defects of cardiac chambers or great vessels; these either result in shunting of blood between right- and left-sided circulation or cause outflow obstructions; lesions range from relatively asymptomatic to rapidly fatal; environmental (toxic or infectious) and genetic causes both contribute
-- Malformations associated with **left-to-right shunts** are most common and include ASDs, VSDs, and PDA; shunting results in right-sided volume overload that eventually causes pulmonary hypertension and, with reversal of flow and right-to-left shunting, cyanosis (Eisenmenger syndrome)
-- Malformations associated with **right-to-left shunts** include tetralogy of Fallot and transposition of the great arteries; these lesions cause early-onset cyanosis and are associated with polycythemia, hypertrophic osteoarthropathy, and paradoxical embolization
-- **Obstructive lesions** include forms of aortic coarctation; clinical severity depends on degree of stenosis and patency of the ductus arteriosus
+**治療**：氣囊擴張並置放支架，或手術切除並端對端吻合（或用人工血管置換）→ 效果良好
 
 ---
 
 ## Ischemic Heart Disease
 
-**Ischemic heart disease (IHD)** is a broad term encompassing several closely related syndromes caused by **myocardial ischemia** — an imbalance between cardiac blood supply (perfusion) and myocardial oxygen and nutritional requirements.
+**缺血性心臟病（Ischemic Heart Disease, IHD）** 是多種密切相關症候群的總稱，由**心肌缺血**——心臟血流供應（灌流）與心肌氧氣及營養需求之間的失衡——所引起。
 
-### Background
-- Cardiac myocytes generate energy almost exclusively through mitochondrial oxidative phosphorylation
-- Cardiac function is strictly dependent upon continuous flow of oxygenated blood through coronary arteries
-- Despite dramatic improvements in therapy, IHD remains the **leading cause of mortality** in the United States and other developed nations
-- Accounts for **7.5 million deaths worldwide** each year
+### 背景
 
-### Etiology
+- 心肌細胞幾乎完全透過粒線體氧化磷酸化產生能量
+- 心臟功能嚴格依賴冠狀动脉持續供應含氧血
+- 儘管治療已有顯著進步，IHD 仍是**美國及大多數已開發國家的主要死因**
+- 全球每年造成 **750 萬人死亡**
 
-**In more than 90% of cases:** IHD is a consequence of reduced coronary blood flow secondary to obstructive atherosclerotic vascular disease (Chapter 10)
+### 病因
 
-**Thus:** IHD is usually synonymous with **coronary artery disease (CAD)**
+**超過 90% 的病例**：IHD 是因阻塞性粥狀硬化血管疾病（Chapter 10）導致冠狀血流減少的後果
 
-**In most cases:** Various syndromes of IHD are consequences of coronary atherosclerosis gradually progressing for decades (beginning even in childhood or adolescence)
+**因此**：IHD 通常與**冠狀动脉疾病（CAD）** 同義
 
-**Other causes (remaining cases):**
-- Increased demand (e.g., increased heart rate or hypertension)
-- Diminished blood volume (e.g., hypotension or shock)
-- Diminished oxygenation (e.g., pneumonia or CHF)
-- Diminished oxygen-carrying capacity (e.g., anemia or carbon monoxide poisoning)
+**大多數病例**：IHD 是冠狀粥狀硬化數十年逐漸進展的後果（始於兒童期或青少年期）
 
-### Clinical Syndromes of IHD
+**其他原因（其餘病例）：**
+- 需求增加（如心搏過速或高血壓）
+- 血容量減少（如低血壓或休克）
+- 氧合減少（如肺炎或 CHF）
+- 攜氧能力降低（如貧血或一氧化碳中毒）
 
-The manifestations of IHD are a direct consequence of insufficient blood supply to the heart:
+### IHD 的臨床症候群
 
-1. **Angina pectoris** — "chest pain"
-   - Ischemia induces pain but is insufficient to cause myocyte death
-   - Can be stable (predictable at certain exertion levels), caused by vessel spasm (Prinzmetal angina), or unstable (progressively less exertion or even at rest)
+IHD 的表現是心臟供血不足的直接後果：
 
-2. **Myocardial infarction (MI)**
-   - Severity or duration of ischemia sufficient to cause cardiomyocyte death
+| 症候群 | 特點 |
+|--------|------|
+| **心絞痛（Angina Pectoris）** | 缺血誘發疼痛但不足以導致細胞死亡；可為穩定型（可預測）、痙攣型（Prinzmetal）或不穩定型（進行性加重或休息時發作） |
+| **心肌梗塞（MI）** | 缺血的嚴重程度或持續時間足以導致心肌細胞死亡 |
+| **慢性 IHD 伴 CHF** | 急性 MI 後或累積性小缺血損傷後的心臟進行性衰竭 |
+| **心臟驟停（SCD）** | 可作為 MI 組織損傷的後果；最常見的是無心肌細胞壞死的致命心律不整 |
 
-3. **Chronic IHD with CHF**
-   - Progressive cardiac decompensation after acute MI or secondary to accumulated small ischemic insults
-   - Precipitates mechanical pump failure
+**急性冠脈症候群** = 不穩定型心絞痛、MI 及 SCD 三種災難性表現的總稱
 
-4. **Sudden cardiac death (SCD)**
-   - Can occur as consequence of tissue damage from MI
-   - Most commonly results from lethal arrhythmia without myocyte necrosis
+### 流行病學
 
-**Acute coronary syndrome** = any of the three catastrophic manifestations: unstable angina, MI, and SCD
+- 每年超過 **70 萬美國人** 發生 MI
+- 約半數死亡
+- 自 1963 年高峰以來，美國 IHD 相關死亡率已下降 **50%**
+- 改善歸因於減少心臟危險因子的介入措施（戒菸、血壓與糖尿病治療、降膽固醇藥物）
+- 較小程度歸因於診斷與治療進步（阿斯匹靈預防、心律不整控制、冠心病加護病房、血栓溶解、氣囊血管成形術、支架、繞道手術）
+- 維持下降趨勢將受到「嬰兒潮」世代預期壽命延長與肥胖流行的挑戰
 
-### Epidemiology
+### 發病機制
 
-- More than **700,000 Americans** experience MI each year
-- Roughly half of those affected die
-- Since peaking in 1963, mortality related to IHD in the United States has declined by **50%**
-- Improvement attributed to interventions diminishing cardiac risk factors (smoking cessation, hypertension and diabetes treatment, cholesterol-lowering agents)
-- To a lesser extent: diagnostic and therapeutic advances (aspirin prophylaxis, better arrhythmia control, coronary care units, thrombolysis, angioplasty, stenting, bypass surgery)
-- Maintaining downward trend will be challenged by predicted longevity of "baby boomers" and obesity epidemic
+**IHD = 心肌需求相對於冠狀灌流不足**
+- 通常是原有（「固定」）粥狀硬化閉塞的後果
+- 加上新形成的血栓與/或血管痙攣
 
-### Pathogenesis
+**受影響的冠狀动脉：**
+- **LAD**（左前降支）
+- **LCX**（左迴旋支）
+- **RCA**（右冠狀动脉）
+- 單獨或同時受累
 
-**IHD = inadequate coronary perfusion relative to myocardial demand**
-- Usually consequence of preexisting ("fixed") atherosclerotic occlusion of coronary arteries
-- New, superimposed thrombosis and/or vasospasm
+**臨床上有意義的斑塊好發位置：**
+- LAD 與 LCX 從主動脈起源的前幾公分
+- RCA 全程
+- 有時為次級分支（LAD 的對角支、LCX 的鈍緣支、RCA 的後降支）
 
-**Coronary arteries affected:**
-- **LAD** (left anterior descending)
-- **LCX** (left circumflex)
-- **RCA** (right coronary artery)
-- Singly or in combination
+**固定阻塞的影響：**
+- **<70% 阻塞**：通常無症狀，即使在運動時
+- **>70% 阻塞**（「臨界狹窄」）：在需求增加時引發症狀 → 患者患有**穩定型心絞痛**
+- **≥90% 阻塞**：即使在休息時冠狀血流也不足 → 不穩定型心絞痛的一種形式
 
-**Clinically significant plaques tend to occur:**
-- Within first several centimeters of LAD and LCX takeoff from aorta
-- Along entire length of RCA
-- Sometimes secondary branches (diagonal branches of LAD, obtuse marginal branches of LCX, posterior descending branch of RCA)
+**重要發現**：若粥狀硬化病變數年來逐漸阻塞冠狀动脉，其他冠狀血管可進行重構並提供代償性血流（側支灌流）→ 可在原血管完全閉塞時保護免於 MI
 
-**Fixed obstruction effects:**
-- **<70% occlusion**: Typically asymptomatic, even with exertion
-- **>70% occlusion** ("critical stenosis"): Causes symptoms with increased demand → patient has **stable angina**
-- **≥90% occlusion**: Inadequate coronary blood flow with symptoms even at rest → one form of **unstable angina**
+**急性冠狀阻塞時**：無時間建立側支血流 → 導致梗塞
 
-**Important:** If atherosclerotic lesion progressively occludes coronary artery slowly over years, other coronary vessels may undergo remodeling and provide compensatory blood flow (collateral perfusion) → can protect against MI even if original vessel becomes completely occluded
+### 促成冠狀粥狀硬化的因素
 
-**With acute coronary blockage:** No time for collateral flow to develop → infarction results
+#### 1. 發炎
 
-### Contributing Factors to Coronary Atherosclerosis
+- 在所有階段（起始到斑塊破裂）必不可少
+- 始於內皮細胞與循環白血球的交互作用
+- 導致 T 細胞與巨噬細胞的招募與活化
+- 推動平滑肌細胞的積累、增殖與基質產生
+- 粥狀化核心含有膽固醇、鈣化與壞死碎屑
+- 後期：巨噬細胞金屬蛋白酶分泌 → 斑塊不穩定
 
-**1. Inflammation:**
-- Essential role at all stages (inception to plaque rupture)
-- Begins with interaction of endothelial cells and circulating leukocytes
-- Results in T-cell and macrophage recruitment and activation
-- Drives smooth muscle cell accumulation and proliferation with matrix production
-- Atheromatous core of lipid, cholesterol, calcification, and necrotic debris
-- Later stages: macrophage metalloproteinase secretion → destabilizes plaque
+#### 2. 血栓形成
 
-**2. Thrombosis:**
-- Associated with eroded or ruptured plaque
-- Triggers acute coronary syndromes
+- 與侵蝕或破裂的斑塊相關
+- 觸發急性冠脈症候群
 
-**Partial vascular occlusion by newly formed thrombus:**
-- Can wax and wane with time
-- Leads to unstable angina or sudden death
-- Even partial luminal occlusion can compromise blood flow sufficiently to cause infarction of innermost zone of myocardium (**subendocardial infarct**)
-- Organizing thrombi produce potent activators of smooth muscle proliferation → contribute to atherosclerotic lesion growth
-- Mural thrombi in coronary artery can embolize
-- In most serious case: completely obstructive thrombus over disrupted plaque → massive MI
+**新形成的血栓部分阻塞血管：**
+- 可隨時間消長
+- 導致不穩定型心絞痛或心臟驟停
+- 即使部分管腔阻塞也可造成足够血流量減少，導致心肌最內層區域梗塞（**心內膜下梗塞**）
+- 正在機化中的血栓產生強效平滑肌增殖激活物 → 促使粥狀硬化病變生長
+- 冠狀动脉中的壁血栓可栓塞
+- 最嚴重的情況：完全阻塞破裂斑塊上的血栓 → 大面積 MI
 
-**3. Vasoconstriction:**
-- Directly compromises lumen diameter
-- By increasing local mechanical shear forces, vessel spasm can potentiate plaque disruption
+#### 3. 血管收縮
 
-**Stimulated by:**
-- Circulating adrenergic agonists
-- Locally released platelet contents
-- Imbalance between endothelial cell–relaxing factors (e.g., nitric oxide) and –contracting factors (e.g., endothelin) due to endothelial dysfunction
-- Mediators released from perivascular inflammatory cells
+- 直接縮小管腔直徑
+- 透過增加局部機械剪切力，血管痙攣可加重斑塊破裂
 
-### Acute Plaque Change
+**觸發因素：**
+- 循環中的腎上腺素能激动剂
+- 局部釋放的血小板內容物
+- 內皮細胞舒張因子（如一氧化氮）與收縮因子（如內皮素）之間的失衡（源於內皮功能障礙）
+- 血管周圍發炎細胞釋放的介質
 
-**Onset of myocardial ischemia depends on:**
-- Extent and severity of fixed atherosclerotic disease
-- Dynamic changes in coronary plaque morphology
+### 急性斑塊變化
 
-**In most patients:** Unstable angina, infarction, and sudden cardiac death occur due to abrupt plaque change followed by thrombosis → **acute coronary syndrome**
+**心肌缺血發作的決定因素：**
+- 固定粥狀硬化疾病的範圍與嚴重程度
+- 冠狀斑塊形態的動態變化
 
-**Initiating event:** Sudden disruption (erosion to rupture) of partially occlusive plaque
+**大多數患者**：不穩定型心絞痛、梗塞與心臟驟停的發生是斑塊驟然變化後血栓形成的結果 → **急性冠脈症候群**
 
-**Mechanisms of injury:** Rupture, fissuring, or ulceration of plaques expose highly thrombogenic constituents or underlying subendothelial basement membrane → rapid thrombosis
+**起始事件**：部分閉塞性斑块的突然破裂（或侵蝕）
 
-**Additional mechanism:** Hemorrhage into core of plaques can expand plaque volume, acutely exacerbating degree of luminal occlusion
+**受傷機制**：斑塊破裂、裂隙或潰瘍暴露高度血栓形成的組成或內皮下的基底膜 → 快速血栓形成
 
-**Factors triggering plaque erosion:**
-- Endothelial injury and apoptosis
-- Likely combination of inflammatory and toxic exposures
+**另一機制**：斑塊核心出血可擴大斑塊體積，急性加重管腔阻塞程度
 
-**Acute plaque rupture involves factors influencing plaque susceptibility to disruption by mechanical stress:**
-- Intrinsic aspects of plaque composition and structure (Chapter 10)
-- Extrinsic factors (blood pressure, platelet reactivity)
+**觸發斑塊侵蝕的因素：**
+- 內皮細胞損傷與凋亡
+- 可能是發炎與毒性暴露的組合
 
-**Plaques more likely to rupture (vulnerable plaques):**
-- Large atheromatous cores
-- Thin overlying fibrous caps
-- Fissures frequently occur at junction of fibrous cap and adjacent normal plaque-free arterial segment (where mechanical stresses are highest and fibrous cap is thinnest)
-- Fibrous caps continuously remodel; balance of collagen synthesis vs. degradation determines mechanical strength and plaque stability
-- Collagen produced by smooth muscle cells; degraded by metalloproteases from macrophages
-- Atherosclerotic lesions with few smooth muscle cells or large numbers of inflammatory cells are vulnerable to rupture
+**急性斑塊破裂涉及影響斑塊對機械應力脆弱性的因素：**
+- 斑塊組成與結構的內在特徵（Chapter 10）
+- 外在因素（血壓、血小板反應性）
 
-**Statins** can provide additional benefit in CAD and IHD by:
-- Reducing plaque inflammation
-- Increasing plaque stability
-- Effects distinct from and in addition to primary cholesterol-lowering activity
+**易破裂斑塊（脆弱斑塊）的特點：**
+- 大的粥狀化核心
+- 薄的覆蓋纖維帽
+- 裂隙常發生在纖維帽與相鄰正常無斑塊動脉段交界處（機械應力最高且纖維帽最薄的地方）
+- 纖維帽持續重構；膠原蛋白合成與降解之間的平衡決定機械強度與斑塊穩定性
+- 膠原蛋白由平滑肌細胞產生；由巨噬細胞來源的金屬蛋白酶降解
+- 平滑肌細胞少或發炎細胞多的粥狀硬化病變易於破裂
 
-**Influences extrinsic to plaque:**
-- Adrenergic stimulation can put physical stress on plaque by causing hypertension or local vasospasm
-- Surge in adrenergic stimulation associated with awakening may underlie highest incidence of acute MI between **6 AM and 12 noon**
-- Intense emotional stress leads to adrenergic stimulation → association of natural catastrophes (earthquakes, floods) with secondary waves of MIs in susceptible individuals
+**Statins** 可透過以下機制提供額外益處：
+- 減少斑塊發炎
+- 增加斑塊穩定性
+- 與主要降膽固醇作用不同且附加的效果
 
-**Important finding:** In majority of cases, the "culprit lesion" in patients who suffer MI was NOT critically stenotic or even symptomatic before rupture
+**斑塊外的影响因素：**
+- 腎上腺素刺激可透過引起高血壓或局部血管痙攣對斑塊施加物理壓力
+- 腎上腺素刺激的驟增與 **早上 6 點至中午** 急性 MI 的最高發生率相關
+- 強烈的情緒壓力導致腎上腺素刺激 → 自然災害（地震、洪水）後易感人群 MI 第二波增加的關聯
 
-**Pathologic and clinical studies show:**
-- **Two thirds** of ruptured plaques were ≤50% stenotic before plaque rupture
-- **85%** exhibited initial stenotic occlusion ≤70%
+**重要發現**：大多數發生 MI 的患者中，「肇事病變」在破裂前**並非臨界狹窄甚至有症狀**
 
-**Conclusion:** Large number of asymptomatic adults are at significant risk for catastrophic coronary event; currently impossible to predict plaque rupture in any given patient
+**病理與臨床研究顯示：**
+- **2/3** 的破裂斑塊在斑塊破裂前≤50% 狹窄
+- **85%** 初始狹窄≤70%
 
-**Plaque disruption and ensuing non-occlusive thrombosis:**
-- Common, repetitive, and often clinically silent complications of atheromas
-- Healing of such subclinical plaque disruption and overlying thrombosis is important mechanism by which atherosclerotic lesions progressively enlarge
+**結論**：大量無症狀成年人正面臨重大災難性冠脈事件風險；目前無法預測任何特定患者的斑塊破裂
 
-### Angina Pectoris
+**斑塊破裂與隨之而來的非閉塞性血栓：**
+- 常見、反覆發生，且通常臨床上無聲
+- 此類亞臨床斑塊破裂的癒合與上覆血栓是粥狀硬化病變進行性增大的重要機制
 
-**Angina pectoris** is an intermittent chest pain caused by transient, reversible myocardial ischemia.
+### 心絞痛
 
-**Pain consequence:** Ischemia-induced release of adenosine, bradykinin, and other molecules that stimulate autonomic nerves
+**心絞痛**是由短暫、可逆的心肌缺血引起的間歇性胸痛。
 
-**Three variants:**
+**疼痛機制**：缺血誘導釋放腺苷、緩激肽及其他刺激自主神經的分子
 
-#### 1. Typical or Stable Angina
-- Predictable episodic chest pain associated with particular levels of exertion or increased demand (e.g., tachycardia)
-- Pain described as crushing or squeezing substernal sensation
-- Often radiates down left arm or to left jaw (referred pain)
-- Usually relieved by rest (reducing demand) or drugs such as **nitroglycerin** (vasodilator increasing coronary perfusion)
+**三種變異型：**
 
-#### 2. Prinzmetal or Variant Angina
-- Occurs at rest
-- Caused by **coronary artery spasm**
-- Spasms typically occur on or near existing atherosclerotic plaques
-- A completely normal vessel can be affected
+#### 1. 典型或穩定型心絞痛
 
-#### 3. Unstable Angina
-- Characterized by increasingly frequent pain
-- Precipitated by progressively less exertion or occurring even at rest
-- Results from erosion or rupture of atherosclerotic plaque
-- Triggers platelet aggregation, vasoconstriction, and formation of mural thrombus
-- Thrombus need not necessarily be occlusive
+- 與特定程度的運動或需求增加（如心搏過速）相關的可預測性陣發性胸痛
+- 疼痛描述為壓迫性或緊縮性的胸骨後感覺
+- 常放射至左臂或左下巴（放射性疼痛）
+- 通常休息（降低需求）或藥物（如**硝酸甘油**——增加冠狀灌流的血管擴張劑）可緩解
 
-### Myocardial Infarction
+#### 2. Prinzmetal 或變異型心絞痛
 
-**Occurs when severity or duration of ischemia is sufficient to cause cardiomyocyte death**
+- 休息時發作
+- 由**冠狀动脉痙攣**引起
+- 痙攣通常發生在現有粥狀硬化斑塊上或附近
+- 完全正常的血管也可受累
 
-**Typically results from acute thrombosis after plaque disruption**
+#### 3. 不穩定型心絞痛
 
-**Important:** Majority of MIs occur in plaques that did NOT previously exhibit critical stenosis
+- 特徵為日益頻繁的疼痛
+- 由越來越輕微的運動或甚至休息時誘發
+- 由粥狀硬化斑塊的侵蝕或破裂觸發
+- 觸發血小板聚集、血管收縮與壁血栓形成
+- 血栓不一定需要閉塞
 
-### Myocardial Response to Ischemia
+### 心肌梗塞
 
-**Within seconds of vascular obstruction:**
-- Aerobic metabolism ceases
-- Drop in **ATP** and accumulation of potentially noxious metabolites (e.g., lactic acid)
-- Rapid loss of contractility (within ~1 minute)
+**當缺血的嚴重程度或持續時間足以導致心肌細胞死亡時發生**
 
-**Ultrastructural changes:**
-- Myofibrillar relaxation
-- Glycogen depletion
-- Cellular and mitochondrial swelling
-- **These early changes are reversible**
+**通常由斑塊破裂後的急性血栓形成引起**
 
-**Prolonged ischemia (20-40 minutes):** Causes irreversible damage and **coagulative necrosis** of myocytes
+**重要**：大多數 MI 發生在先前**並非臨界狹窄**的斑塊中
 
-**With longer periods of ischemia:**
-- Vessel injury ensues
-- Superimposed microvascular thrombosis
+### 心肌對缺血的反應
 
-**If blood flow restored before irreversible injury:**
-- Myocardium can be preserved
-- Goal of early diagnosis and prompt intervention by thrombolysis or angioplasty
+**血管阻塞後數秒內：**
+- 有氧代謝停止
+- **ATP** 下降且潛在有害代謝物累積（如乳酸）
+- 收縮力迅速喪失（約 1 分鐘內）
 
-**Reperfusion can have deleterious effects** (discussed later).
+**超微結構變化：**
+- 肌節鬆弛
+- 肝醣耗竭
+- 細胞與粒線體腫脹
+- **這些早期變化是可逆的**
 
-**Postischemic myocardium can be profoundly dysfunctional for days** due to persistent abnormalities in cellular biochemistry → **stunned myocardium** (noncontractile state). Such stunning can be severe enough to produce transient but reversible cardiac failure.
+**長時間缺血（20-40 分鐘）**：導致不可逆損傷與心肌細胞的**凝固性壞死**
 
-**Myocardial ischemia also contributes to arrhythmias** by causing electrical instability (irritability) of ischemic regions.
+**缺血時間更長時：**
+- 血管損傷隨之而來
+- 叠加的微血管血栓
 
-**Sudden cardiac death in setting of myocardial ischemia:**
-- Most often (80%-90% of cases) due to **ventricular fibrillation** caused by myocardial irritability
-- Can also result from massive myocyte damage causing fatal mechanical failure
+**若在不可逆損傷前恢復血流：**
+- 心肌可被保存
+- 這是早期診斷與血栓溶解或血管成形術快速介入的目標
 
-**Irreversible injury of ischemic myocytes first occurs in subendocardial zone:**
-- This region is especially susceptible because:
-  - Last area to receive blood delivered by epicardial vessels
-  - Exposed to relatively high intramural pressures (impeding blood inflow)
+**再灌流可能有有害作用**（後述）。
 
-**With more prolonged ischemia:**
-- Wavefront of cell death moves through other myocardium regions
-- Driven by progressive tissue edema, myocardial-derived reactive oxygen species, and inflammatory mediators
-- Infarct usually achieves full extent within **3 to 6 hours**
-- In absence of intervention: infarct caused by occlusion of epicardial vessel can involve entire wall thickness (**transmural infarct**)
+**缺血後心肌可因細胞生化持續異常而嚴重功能障礙數天** → **暈厥心肌（Stunned Myocardium）**（無收縮狀態）。這種暈厥可嚴重到產生短暫但可逆的心臟衰竭。
 
-**Clinical intervention within critical window can lessen size of infarct within "territory at risk."**
+**心肌缺血也通過導致缺血區域的電氣不穩定（易激惹）促成心律不整。**
 
-### Patterns of Infarction
+**心肌缺血背景下的心臟驟停：**
+- 最常見（80%-90%）是由心肌易激惹引起的**心室顫動**
+- 也可由大量心肌細胞損傷導致致命機械性衰竭
 
-**Location, size, and morphologic features depend on:**
-- Size and distribution of involved vessel
-- Rate of development and duration of occlusion
-- Metabolic demands of myocardium (affected by blood pressure, heart rate)
-- Extent of collateral supply
-
-**Acute occlusion of proximal LAD artery:**
-- Causes **40% to 50%** of all MIs
-- Results in infarction of anterior wall of left ventricle, anterior two thirds of ventricular septum, and most of heart apex
-- More distal occlusion may affect only apex
-
-**Acute occlusion of proximal LCX artery (15%-20% of MIs):**
-- Causes necrosis of lateral left ventricle
-
-**Proximal RCA occlusion (30%-40% of MIs):**
-- Affects much of right ventricle
-
-**Proximal LAD occlusion dubbed "widow maker":** Much myocardial territory perfused by that vessel; acute obstructions often fatal
-
-**Posterior third of septum and posterior left ventricle** perfused by **posterior descending artery**:
-- Can arise from either RCA (90% of individuals) or LCX
-- "Dominant vessel" = coronary artery giving rise to posterior descending artery
-- In right dominant heart: occlusion of RCA can lead to posterior septal and posterior wall ischemic injury
-- In left dominant heart: occlusion of LCX generally affects left lateral wall, posterior third of septum, and inferior and posterior wall of left ventricle
-
-**Occlusions can also occur within secondary branches** (diagonal branches of LAD, marginal branches of LCX).
-
-**Atherosclerosis primarily a disease of epicardial vessels;** significant atherosclerosis or thrombosis of penetrating intramyocardial branches is rare (can be affected by vasculitis or vasospasm; can be occluded by embolization)
-
-**Even though three major coronary arteries are end arteries, they are interconnected by numerous intercoronary anastomoses (collateral circulation):**
-- Normally closed
-- Gradual narrowing of one artery allows blood to flow from high-to low-pressure areas through collateral channels
-- Gradual collateral dilation can provide adequate perfusion despite occlusion of epicardial vessel
-
-**Patterns of myocardial infarcts:**
+**缺血性心肌細胞的不可逆損傷首先發生在心內膜下區：**
+- 該區域特別脆弱因為：
+  - 是心外膜血管輸送血液的最末區域
+  - 暴露於相對較高的壁內壓力（阻礙血液流入）
 
-#### Transmural Infarctions
-- Involve full thickness of ventricle
-- Caused by epicardial vessel occlusion through chronic atherosclerosis + acute thrombosis
-- Typically yield **ST segment elevations** on ECG and can have negative Q waves with loss of R wave amplitude
-- Also called **ST-segment elevated MIs (STEMIs)**
-
-#### Subendocardial Infarctions
-- Limited to inner third of myocardium
-- Typically do NOT exhibit ST segment elevations or Q waves on ECG ("**non–ST-segment elevated MIs**" or "**NSTEMIs**")
-- Can have ST-segment depressions or T wave abnormalities
-- Subendocardial region most vulnerable to hypoperfusion and hypoxia
-- In setting of severe coronary artery disease: transient decreases in oxygen delivery (hypotension, anemia, pneumonia) or increases in oxygen demand (tachycardia, hypertension) can cause subendocardial ischemic injury
-- Can also occur when occlusive thrombus lyses before full-thickness infarction develops
-
-#### Microscopic Infarcts
-- Occur with small-vessel occlusions
-- May not show diagnostic ECG changes
-- Can occur with vasculitis, embolization of valve vegetations or mural thrombi, vessel spasm due to elevated catecholamines (extreme emotional stress, pheochromocytoma, cocaine use)
-
-### Morphology
-
-**Nearly all transmural infarcts (≥50% of ventricle thickness):**
-- Affect at least portion of left ventricle and/or interventricular septum
-- ~15%-30% of MIs involving posterior or posteroseptal wall also extend into right ventricle
-- Isolated right ventricle infarcts occur in only 1%-3% of cases
-- Even in transmural infarcts: narrow rim (~0.1 mm) of viable subendocardial myocardium preserved by diffusion from ventricular lumen
-
-**Gross and microscopic appearance depends on age of injury:**
-- Areas of damage progress through highly characteristic sequence:
-  - Coagulative necrosis
-  - Acute then chronic inflammation
-  - Fibrosis
-- Myocardial necrosis proceeds invariably to scar formation without significant regeneration
-
-**Gross recognition:**
-- Myocardial infarcts <12 hours old: usually NOT grossly apparent
-- Infarcts >3 hours old: can be visualized by vital stains (e.g., **triphenyltetrazolium chloride** — substrate for lactate dehydrogenase)
-  - Depleted in ischemic necrotic area (leaks out of damaged cells)
-  - Infarcted area is unstained (pale); old scars appear white and glistening
-- 12-24 hours after MI: can be grossly identified by red-blue discoloration (stagnated, trapped blood)
-- Thereafter: progressively better delineated as soft, yellow-tan areas
-- 10-14 days: infarcts are rimmed by hyperemic (highly vascularized) granulation tissue
-- Succeeding weeks: infarcted tissue evolves to fibrous scar
-
-### Table 11.2: Evolution of Morphologic Changes in Myocardial Infarction
-
-| Time Frame | Gross Features | Light Microscopic Findings | Electron Microscopic Findings |
-|------------|----------------|---------------------------|------------------------------|
-| **Reversible Injury** | | | |
-| 0-1 hours | None | None | Relaxation of myofibrils; glycogen loss; mitochondrial swelling |
-| ~2 hours | None | Usually none; variable waviness of fibers at border | Sarcolemmal disruption; mitochondrial amorphous densities |
-| **Irreversible Injury** | | | |
-| 4-12 hours | Occasionally dark mottling | Beginning coagulation necrosis; edema; hemorrhage | |
-| 12-24 hours | Dark mottling | Ongoing coagulation necrosis; pyknosis of nuclei; hypereosinophilic appearance of myocytes; marginal contraction band necrosis; beginning neutrophilic infiltrate | |
-| 1-3 days | Mottling with yellow-tan infarct center | Coagulation necrosis with loss of nuclei and striations; interstitial infiltrate of neutrophils | |
-| 3-7 days | Hyperemic border; central yellow-tan softening | Beginning disintegration of dead myofibers, with dying neutrophils; early phagocytosis of dead cells by macrophages at infarct border | |
-| 7-10 days | Maximally yellow-tan and soft, with depressed red-tan margins | Well-developed phagocytosis of dead cells; early formation of fibrovascular granulation tissue at margins | |
-| 10-14 days | Red-gray depressed infarct borders | Well-established granulation tissue with new blood vessels and collagen deposition | |
-| 2-8 weeks | Gray-white scar, progressive from border toward core | Increased collagen deposition, with decreased cellularity | |
-| >2 months | Scarring complete | Dense collagenous scar | |
-
-**Microscopic changes sequence:**
-- Typical coagulative necrosis detectable within 4-12 hours
-- "Wavy fibers" can be present at edges (stretching and buckling of noncontractile dead fibers)
-- Sublethal ischemia can induce intracellular myocyte vacuolization; such myocytes are viable but frequently contract poorly
-
-**Necrotic myocardium:**
-- Elicits acute inflammation (most prominent 1-3 days after MI)
-- Followed by wave of macrophages removing necrotic myocytes and neutrophil fragments (most pronounced 5-10 days after MI)
-- Infarcted zone progressively replaced by granulation tissue (most prominent 1-2 weeks after MI)
-- Granulation tissue forms scaffolding for dense collagenous scar
-
-**Healing:**
-- Well advanced by end of sixth week in most instances
-- Efficiency depends on size of original lesion and ability of host tissues to heal
-- Heals from borders toward center
-- Large infarct may not heal as fast or completely as small one
-- Malnutrition, poor vasculature, or exogenous anti-inflammatory steroids can impede infarct scarring
-- Once completely healed, impossible to distinguish age of infarct: fibrous scars look same whether 8 weeks or 10 years old
-
-### Infarct Modification by Reperfusion
-
-**Therapeutic goal in acute MI:** Restoration of tissue perfusion as quickly as possible ("**time is myocardium**")
-
-**Methods:**
-- **Thrombolysis** (tissue plasminogen activator)
-- **Angioplasty**
-- **Coronary arterial bypass graft**
-
-**Reperfusion is not an unalloyed blessing:** Late restoration of blood flow into ischemic tissues can incite greater local damage than might otherwise have occurred — "**reperfusion injury**"
-
-**Factors contributing to reperfusion injury:**
-
-1. **Mitochondrial dysfunction:**
-   - Ischemia alters mitochondrial membrane permeability
-   - Allows proteins to move into mitochondria
-   - Leads to swelling and rupture of outer membrane
-   - Releases mitochondrial contents promoting apoptosis
-
-2. **Myocyte hypercontracture:**
-   - During ischemia: intracellular calcium levels increase (impaired calcium cycling, sarcolemmal damage)
-   - After reperfusion: contraction of myofibrils augmented and uncontrolled
-   - Causes cytoskeletal damage and cell death
-
-3. **Free radicals:**
-   - Superoxide anion (•O2−), hydrogen peroxide (H2O2), hypochlorous acid (HOCl), nitric oxide–derived peroxynitrite, hydroxyl radicals (•OH)
-   - Produced within minutes of reperfusion
-   - Alter membrane proteins and phospholipids → damage myocytes
-
-4. **Leukocyte aggregation:**
-   - May occlude microvasculature
-   - Contributes to "**no-reflow**" phenomenon
-   - Elaborate proteases and elastases causing cell death
-
-5. **Platelet and complement activation:**
-   - Contribute to microvascular injury
-   - Complement activation thought to play role in no-reflow phenomenon by injuring endothelium
-
-**Typical appearance of reperfused myocardium:**
-- Hemorrhagic (consequence of vascular injury and leakiness)
-- Microscopically: irreversibly damaged myocytes develop **contraction band necrosis**
-  - Intense eosinophilic bands of hypercontracted sarcomeres
-  - Created by influx of calcium across plasma membranes heightening actin-myosin interactions
-  - In absence of ATP, sarcomeres cannot relax → get stuck in agonal tetanic state
-
-### Clinical Features
-
-**Classic MI:**
-- Heralded by severe, crushing substernal chest pain (or pressure)
-- Can radiate to neck, jaw, epigastrium, or left arm
-- Pain typically lasts several minutes to hours
-- Not relieved by nitroglycerin or rest
-
-**Atypical presentation (10%-15% of patients):**
-- May present with atypical signs and symptoms
-- May be entirely asymptomatic ("**silent**" infarcts)
-- Particularly common in patients with underlying diabetes mellitus (autonomic neuropathy may prevent perception of pain) and older adults
-
-**Physical findings:**
-- Pulse generally rapid and weak
-- Patients often diaphoretic (sweating) and nauseous (particularly with posterior wall MIs)
-- Dyspnea common (impaired myocardial contractility, dysfunction of mitral valve apparatus → acute pulmonary congestion and edema)
-- With massive MIs (>40% of left ventricle): **cardiogenic shock** develops
-
-**Electrocardiographic abnormalities:**
-- Q waves, ST segment changes, T wave inversions
-- (Latter two represent abnormalities in myocardial repolarization)
-
-**Arrhythmias:**
-- Common (caused by electrical abnormalities in ischemic myocardium and conduction system)
-- **Sudden cardiac death from lethal arrhythmia accounts for vast majority of MI-related deaths occurring before hospitalization**
-
-**Laboratory evaluation:**
-- Based on measuring blood levels of macromolecules leaking from injured myocardial cells through damaged membranes
-
-**Biomarkers:**
-
-| Biomarker | Characteristics |
-|-----------|----------------|
-| **Myoglobin** | Less sensitive and specific |
-| **CK-MB** | Myocardial isoform of creatine kinase; was standard biomarker but now tested less frequently in favor of troponins; begins to rise within 2-4 hours of MI, peaks at 24-48 hours, returns to normal within ~72 hours |
-| **Troponins T and I (TnT, TnI)** | Normally not found in circulation; after acute MI: detectable within 2-4 hours, peak at 48 hours, remain elevated for 7-10 days; high specificity and sensitivity |
+**缺血時間更長時：**
+- 細胞死亡的波前穿過其他心肌區域
+- 由進行性組織水腫、心肌來源的活性氧種與發炎介質所驅動
+- 梗塞通常在 **3 至 6 小時**內達到完整範圍
+- 若無介入：由心外膜血管閉塞引起的梗塞可涉及整個壁厚度（**穿透性梗塞**）
+
+**臨床介入可在關鍵時間窗內減少「危險區域」範圍內的梗塞大小。**
+
+### 梗塞的模式
+
+**位置、大小與形態特徵取決於：**
+- 受累血管的大小與分布
+- 阻塞發展的速度與持續時間
+- 心肌的代謝需求（受血壓、心率影響）
+- 側支供應的程度
+
+**左前降支近端急性閉塞：**
+- 占所有 MI 的 **40%–50%**
+- 導致左心室前壁、室間隔前 2/3 及心尖大部梗塞
+- 更遠端閉塞可能只影響心尖
+
+**左迴旋支近端急性閉塞（15%-20% 的 MI）：**
+- 導致左心室側壁壞死
+
+**右冠狀动脉近端閉塞（30%-40% 的 MI）：**
+- 影響右心室大部分
+
+**左前降支近端閉塞被稱為「寡婦製造者」**：該血管供應大面積心肌；急性閉塞常致命
+
+**室間隔後 1/3 與左心室後壁** 由**後降支**供應：
+- 可起源於 RCA（90% 的個體）或 LCX
+- 「優勢血管」= 發出後降支的冠狀动脉
+- 右優勢心臟：RCA 閉塞可導致後間隔與左心室後壁缺血損傷
+- 左優勢心臟：LCX 閉塞通常影響左側壁、室間隔後 1/3 與左心室下壁和後壁
+
+**閉塞也可發生在次級分支**（LAD 的對角支、LCX 的邊緣支）
+
+**粥狀硬化主要是心外膜血管的疾病；** 穿透性壁內分支的顯著粥狀硬化或血栓形成罕見（可被血管炎影響或被栓塞阻塞）
+
+**儘管三條主要冠狀动脉是終末动脉，它們透過眾多冠狀动脉間吻合（側支循環）相互連接：**
+- 正常情況下關閉
+- 一條动脉逐漸狹窄允許血液通過側支通道從高壓區流向低壓區
+- 逐漸擴張的側支可在即使心外膜血管閉塞時提供足夠灌流
+
+**心肌梗塞的模式：**
+
+#### 穿透性梗塞
+- 涉及心室全層
+- 由慢性粥狀硬化加急性血栓形成的心外膜血管閉塞引起
+- 通常在 ECG 上產生 **ST 段抬高**並可伴有 Q 波與 R 波幅度喪失
+- 又稱 **ST 段抬高型 MI（STEMI）**
+
+#### 心內膜下梗塞
+- 僅限於心肌內 1/3
+- 通常在 ECG 上**不**顯示 ST 段抬高或 Q 波（「**非 ST 段抬高型 MI**」或「**NSTEMI**」）
+- 可有 ST 段壓低或 T 波異常
+- 心內膜下區對低灌流與缺氧最脆弱
+- 在嚴重冠狀动脉疾病背景下：短暫的氧氣輸送減少（低血壓、貧血、肺炎）或需求增加（心搏過速、高血壓）可導致心內膜下缺血損傷
+- 也可在閉塞性血栓溶解後、尚未發展為全層梗塞時發生
+
+#### 微觀梗塞
+- 發生在小血管閉塞時
+- 可能無診斷性 ECG 變化
+- 可見於血管炎、瓣膜贅生物或壁血栓的栓塞、因兒茶酚胺升高引起的血管痙攣（極端情緒壓力、嗜鉻細胞瘤、可卡因使用）
+
+### 形態學
+
+**幾乎所有穿透性梗塞（≥50% 心室壁厚度）：**
+- 至少影響左心室與/或心室間隔的一部分
+- 約 15%-30% 累及後壁或後間隔的 MI 也延伸至右心室
+- 單獨右心室梗塞僅佔 1%-3%
+- 即使在穿透性梗塞中：約 0.1 mm 的存活心內膜下心肌被保留（由心室腔彌散提供營養）
+
+**大體與顯微外觀取決於損傷的時間：**
+- 損傷區域經歷高度特徵性的序列：
+  - 凝固性壞死
+  - 急性然後慢性發炎
+  - 纖維化
+- 心肌細胞壞死不可避免地導致疤痕形成，無明顯再生
+
+**大體辨認：**
+- <12 小時的心肌梗塞：大體上通常**不明顯**
+- >3 小時的梗塞：可用活性染料（如 **triphenyltetrazolium chloride**——乳酸脫氫酶的受質）顯現
+  - 在缺血壞死區域耗盡（從受損細胞漏出）
+  - 梗塞區域無染色（蒼白）；陳舊疤痕呈白色有光澤
+- MI 後 12-24 小時：大體可見紅藍色變色（停滯血液）
+- 之後：逐漸更好地界定為軟的、黃褐色的區域
+- 10-14 天：梗塞由充血（有豐富血管的）肉芽組織圍繞
+- 接下來數週：梗塞組織演變為纖維疤痕
+
+### Table 11.2: 心肌梗塞形態變化的演進
+
+| 時間範圍 | 大體特徵 | 光學顯微鏡所見 | 電子顯微鏡所見 |
+|---------|---------|--------------|--------------|
+| **可逆性損傷** | | | |
+| 0-1 小時 | 無 | 無 | 肌節鬆弛；肝醣消失；粒線體腫脹 |
+| 約 2 小時 | 無 | 通常無；邊緣處纖維波狀變化 | 肌膜破裂；粒線體無定形緻密物 |
+| **不可逆性損傷** | | | |
+| 4-12 小時 | 偶爾暗色斑駁 | 開始凝固性壞死；水腫；出血 | |
+| 12-24 小時 | 暗色斑駁 | 持續凝固性壞死；核固縮；心肌細胞嗜酸性增加；邊緣收縮帶壞死；開始中性粒細胞浸潤 | |
+| 1-3 天 | 黃褐色柔軟中心斑駁 | 凝固性壞死伴細胞核與紋理消失；中性粒細胞間質浸潤 | |
+| 3-7 天 | 充血的邊界；中心黃褐色軟化 | 壞死肌纖維開始崩解，伴死亡的中性粒細胞；邊緣開始巨噬細胞吞噬壞死細胞 | |
+| 7-10 天 | 最大程度黃褐色柔軟，邊緣凹陷紅褐色 | 發育良好的壞死細胞吞噬；邊緣早期纖維血管肉芽組織形成 | |
+| 10-14 天 | 紅灰色凹陷邊界 | 完善的肉芽組織伴新血管與膠原蛋白沉積 | |
+| 2-8 週 | 灰白色疤痕，從邊界向核心進行性形成 | 膠原蛋白沉積增加，細胞減少 | |
+| >2 個月 | 疤痕完成 | 緻密膠原疤痕 | |
+
+**壞死心肌：**
+- 引起急性發炎（MI 後 1-3 天最顯著）
+- 隨後巨噬細胞波浪清除壞死心肌細胞與中性粒細胞碎片（MI 後 5-10 天最顯著）
+- 梗塞區域逐漸被肉芽組織取代（MI 後 1-2 週最顯著）
+- 肉芽組織為緻密膠原疤痕形成提供支架
+
+**癒合：**
+- 大多數在第六週末已良好進展
+- 效率取決於原始損傷的大小與宿主組織癒合能力
+- 從邊界向中心癒合
+- 大梗塞可能不如小梗塞癒合得快或完全
+- 營養不良、血管不良或外源性抗發炎類固醇可阻礙梗塞疤痕形成
+- 完全癒合後，無法區分梗塞的年齡：纖維疤痕無論是 8 週還是 10 年看起來都一樣
+
+### 再灌流對梗塞的修飾
+
+**急性 MI 的治療目標**：盡快恢復組織灌流（「**時間就是心肌**」）
+
+**方法：**
+- **血栓溶解**（組織纖溶酶原激活劑）
+- **血管成形術**
+- **冠狀动脉繞道移植**
+
+**再灌流並非完美無缺**：晚期恢復血流到缺血組織可引起比原本可能發生的更大局部損傷——「**再灌流損傷**」
+
+**促成再灌流損傷的因素：**
+
+1. **粒線體功能障礙：**
+   - 缺血改變粒線體膜通透性
+   - 允許蛋白質進入粒線體
+   - 導致腫脹與外膜破裂
+   - 釋放促進凋亡的粒線體內容物
+
+2. **心肌細胞過度收縮：**
+   - 缺血期間：細胞內鈣水平增加（鈣循環受損、肌膜損傷）
+   - 再灌流後：肌節收縮增強且不受控制
+   - 導致細胞骨架損傷與細胞死亡
+
+3. **自由基：**
+   - 超氧陰離子（•O2−）、過氧化氫（H2O2）、次氯酸（HOCl）、一氧化氮衍生過氧亞硝酸鹽、羥基自由基（•OH）
+   - 在再灌流後數分鐘內產生
+   - 改變膜蛋白與磷脂 → 損傷心肌細胞
+
+4. **白血球聚集：**
+   - 可阻塞微血管
+   - 促成「**無復流（no-reflow）**」現象
+   - 釋放蛋白酶與彈性酶導致細胞死亡
+
+5. **血小板與補體活化：**
+   - 促成微血管損傷
+   - 補體活化被認為通過損傷內皮細胞在無復流現象中起作用
+
+**再灌流心肌的典型外觀：**
+- 出血性（血管損傷與滲漏的後果）
+- 顯微鏡下：不可逆損傷的心肌細胞出現**收縮帶壞死**
+  - 強烈嗜酸性的過度收縮肌節 bands
+  - 由鈣跨過細胞膜流入增高肌動蛋白-肌球蛋白相互作用創建
+  - 缺乏 ATP，肌節無法放鬆 → 卡在痛苦的高張狀態
+
+### 臨床特徵
+
+**典型 MI：**
+- 以嚴重的壓迫性胸骨後疼痛（或壓迫感）為前兆
+- 可放射至頸部、下巴、腹部或左臂
+- 疼痛通常持續數分鐘至數小時
+- 硝酸甘油或休息無法緩解
+
+**非典型表現（10%-15% 的患者）：**
+- 可能表現為非典型體徵與症狀
+- 可能完全無症狀（「**無聲**」梗塞）
+- 在有潛在糖尿病（自主神經病變可能阻止疼痛感知）與老年人的患者中特別常見
+
+**理學檢查：**
+- 脈搏通常快速且微弱
+- 患者常有多汗（出汗）與噁心（特別是後壁 MI）
+- 呼吸困難常見（心肌收縮力受損、二尖瓣裝置功能障礙 → 急性肺充血與水腫）
+- 大面積 MI（>40% 的左心室）：發生**心因性休克**
+
+**心電圖異常：**
+- Q 波、ST 段變化、T 波倒置
+- （後兩者代表心肌復極化異常）
+
+**心律不整：**
+- 常見（由缺血心肌與傳導系統的電氣異常引起）
+- **住院前發生的 MI 相關死亡中，大多數死於到院前致命心律不整**
+
+**實驗室評估：**
+- 基於測量從受損心肌細胞透過受損膜漏出的血液大分子水平
+
+**生物標記：**
+
+| 生物標記 | 特點 |
+|---------|------|
+| **Myoglobin** | 敏感性与特异性较低 |
+| **CK-MB** | 肌酸激酶的心肌亞型；曾是標準生物標記但現因 troponins 的優勢而較少使用；在 MI 後 2-4 小時開始升高，24-48 小時達峰值，約 72 小時內恢復正常 |
+| **Troponins T 與 I（TnT, TnI）** | 正常情況下不在循環中；急性 MI 後：2-4 小時內可檢出，48 小時達峰值，持續升高 7-10 天；高特異性與敏感性 |
 | **Lactate dehydrogenase** | |
 
-**With reperfusion:** Both troponin and CK-MB levels may peak earlier (more rapid washout from necrotic tissue)
+**再灌流時**：Troponin 與 CK-MB 可能較早達峰（從壞死組織較快 washout）
 
-### Consequences and Complications of Myocardial Infarction
+### 心肌梗塞的併發症
 
-**Overall in-hospital death rate for MI:** ~7%-8%
-- MI associated with ST segment elevations: ~10% mortality
-- MI without ST segment elevations: ~6% mortality
+**整體住院死亡率**：約 7%-8%
+- ST 段抬高型 MI：死亡率約 10%
+- 非 ST 段抬高型 MI：死亡率約 6%
 
-**Out-of-hospital mortality substantially poorer:** One third of individuals with STEMIs die (usually of arrhythmia within 1 hour of symptom onset) before receiving appropriate medical attention
+**院外死亡率明顯更高**：三分之一的 STEMI 患者在獲得適當醫療照護前死亡（通常在症狀發作後 1 小時內死於心律不整）
 
-**Nearly three fourths of patients experience one or more complications:**
+**近四分之三的患者經歷一種或多種併發症：**
 
-#### 1. Contractile Dysfunction
-- MIs affect left ventricular pump function in proportion to volume of damage
-- Most cases: some degree of left ventricular failure (hypotension, pulmonary congestion, pulmonary edema)
-- Severe "pump failure" (cardiogenic shock): occurs in ~10% of patients with transmural MIs
-- Typically associated with infarcts damaging **≥40%** of left ventricle
+#### 1. 收縮功能障礙
+- MI 按損傷體積比例影響左心室幫浦功能
+- 大多數病例：某種程度的左心室衰竭（低血壓、肺充血、肺水腫）
+- 嚴重的「幫浦衰竭」（心因性休克）：發生在約 10% 的穿透性 MI 患者
+- 通常與損傷**≥40%** 左心室的梗塞相關
 
-#### 2. Papillary Muscle Dysfunction
-- Papillary muscles rupture infrequently after MI but often dysfunctional and poorly contractile (due to ischemia)
-- Leads to postinfarct mitral regurgitation
-- Later: papillary muscle fibrosis and shortening or global ventricular dilation can cause mitral valve insufficiency
+#### 2. 乳頭肌功能障礙
+- MI 後乳頭肌斷裂少見，但常功能不良且收縮力差（因缺血）
+- 導致梗塞後二尖瓣逆流
+- 後期：乳頭肌纖維化與短縮或全心室擴張可導致二尖瓣閉鎖不全
 
-#### 3. Right Ventricular Infarction
-- Isolated right ventricular infarction occurs in only 1%-3% of MIs
-- Right ventricle affected by RCA occlusions leading to posterior septal or left ventricular infarction
-- Either case: right-sided heart failure common → pooling of blood in venous circulation and systemic hypotension
+#### 3. 右心室梗塞
+- 僅 1%-3% 的 MI 發生單獨右心室梗塞
+- 右心室受 RCA 閉塞影響導致後間隔或左心室梗塞
+- 任一情況：右心衰竭常見 → 靜脈循環血液淤積與全身性低血壓
 
-#### 4. Myocardial Rupture
-- Complicates only 1%-5% of MIs but frequently fatal when it occurs
-- **Left ventricular free wall rupture:** Most common → rapidly fatal hemopericardium and cardiac tamponade
-- **Ventricular septal rupture:** Creates VSD with left-to-right shunting
-- **Papillary muscle rupture:** Leads to severe mitral regurgitation
-- **Rupture occurs most commonly within 3-7 days after infarction** (when lysis of necrotic myocardium is maximal and infarct converted to soft, friable granulation tissue)
+#### 4. 心肌破裂
+- 僅併發 1%-5% 的 MI，但發生時常致命
+- **左心室游離壁破裂**：最常見 → 快速致命的心包填塞
+- **室間隔破裂**：形成 VSD 伴左至右分流
+- **乳頭肌破裂**：導致嚴重二尖瓣逆流
+- **破裂最常發生在梗塞後 3-7 天**（這時壞死心肌正在最大程度溶解，梗塞轉化為柔軟易碎的肉芽組織）
 
-**Risk factors for free wall rupture:**
-- Age >60 years
-- Anterior or lateral wall infarctions
-- Female gender
-- Lack of left ventricular hypertrophy
-- First MI (scarring from prior MIs tends to limit risk for myocardial tearing)
+**游離壁破裂的危險因子：**
+- 年齡 >60 歲
+- 前壁或側壁梗塞
+- 女性
+- 無左心室肥厚
+- 首次 MI（先前 MI 的疤痕傾向限制心肌撕裂的風險）
 
-#### 5. Arrhythmias
-- MIs lead to myocardial irritability and conduction disturbances → can cause sudden death
-- ~90% of patients develop some form of rhythm disturbance (higher incidence in STEMIs vs. NSTEMIs)
+#### 5. 心律不整
+- MI 導致心肌易激惹與傳導干擾 → 可導致心臟驟停
+- 約 90% 的患者發生某種形式的心律障礙（STEMI 比 NSTEMI 發生率更高）
 
-**MI-associated arrhythmias:**
-- Heart block of variable degree (including asystole)
-- Bradycardia
-- Supraventricular tachyarrhythmias
-- Ventricular premature contractions or ventricular tachycardia
-- Ventricular fibrillation
+**MI 相關心律不整：**
+- 不同程度的心傳導阻滯（包括心静止）
+- 心搏過緩
+- 室上性心搏過速
+- 室性早搏或心室心搏過速
+- 心室顫動
 
-**Risk for serious arrhythmias (e.g., ventricular fibrillation):** Greatest in first hour, declines thereafter
+**嚴重心律不整（如心室顫動）的風險**：在第一小時內最高，此後下降
 
-#### 6. Pericarditis
-- Transmural MIs can elicit fibrinohemorrhagic pericarditis
-- Epicardial manifestation of underlying myocardial inflammation
-- Heralded by anterior chest pain and pericardial friction rub
-- Typically appears **2-3 days after infarction**, then gradually resolves
-- Extensive infarcts or severe pericardial inflammation occasionally can lead to large effusions
-- Can organize to form dense adhesions → constrictive lesion
+#### 6. 心包炎
+- 穿透性 MI 可引起纖維素-出血性心包炎
+- 心外膜下心肌發炎的表現
+- 以心前區疼痛與心包摩擦音為前兆
+- 通常在梗塞後 **2-3 天**出現，然後逐漸消退
+- 廣泛梗塞或嚴重心包發炎偶爾可導致大量積液
+- 可機化形成緻密粘連 → 縮窄性病變
 
-#### 7. Chamber Dilation
-- Due to weakening of necrotic muscle
-- May be disproportionate stretching, thinning, and dilation of infarcted region (especially with anteroseptal infarcts)
+#### 7. 心腔擴張
+- 由壞死肌肉弱化引起
+- 可能不成比例地拉伸、變薄並擴張梗塞區域（尤其是前間隙梗塞）
 
-#### 8. Mural Thrombus
-- Combination of attenuated myocardial contractility (causing stasis), chamber dilation, and endocardial damage (causing thrombogenic surface) can foster mural thrombosis
-- Eventually leads to left-sided thromboembolism
+#### 8. 壁血栓
+- 收縮力減退（導致淤滯）、心腔擴張與心內膜損傷（產生血栓形成表面）的組合可促進壁血栓形成
+- 最終導致左側血栓栓塞
 
-#### 9. Ventricular Aneurysm
-- Late complication
-- Most commonly results from large transmural anteroseptal infarct healing with formation of thinned wall of scar tissue
-- Frequently give rise to formation of mural thrombi, arrhythmias, and heart failure
-- **Do not rupture**
+#### 9. 心室動脈瘤
+- 晚期併發症
+- 最常見於大穿透性前間隙梗塞，癒合時形成薄的壁疤痕組織
+- 常導致壁血栓、心律不整與心衰竭
+- **不會破裂**
 
-#### 10. Progressive Heart Failure
-- Discussed under "Chronic Ischemic Heart Disease"
+#### 10. 進行性心衰竭
+- 在「慢性缺血性心臟病」下討論
 
-**Risk and prognosis depend on:**
-- Infarct size, site, and type (subendocardial vs. transmural)
-- Large transmural infarcts: higher probability of cardiogenic shock, arrhythmias, late CHF
-- **Anterior transmural MIs:** Greatest risk for free wall rupture, expansion, aneurysm formation, mural thrombi
-- **Posterior transmural infarcts:** More likely complicated by conduction blocks, right ventricular involvement
-- With ventricular septal ruptures in posterior area: more difficult to manage
-- **Patients with anterior infarcts:** Much more guarded prognosis than those with posterior infarcts
-- **Subendocardial infarcts:** Thrombi may form on endocardial surface; pericarditis, rupture, and aneurysms rarely occur
+**風險與預後取決於：**
+- 梗塞大小、位置與類型（心內膜下 vs. 穿透性）
+- 大穿透性梗塞：心因性休克、心律不整、晚期 CHF 的概率更高
+- **前壁穿透性 MI**：游離壁破裂、擴張、动脉瘤形成、壁血栓的風險最大
+- **後壁穿透性梗塞**：更易併發傳導阻滯、右心室受累
+- 後壁區域的室間隔破裂更難處理
+- **前壁梗塞患者**：預後比後壁梗塞患者差得多
+- **心內膜下梗塞**：血栓可在心內膜表面形成；心包炎、破裂與动脉瘤罕見發生
 
-**Compensation by remaining viable myocardium:**
-- Noninfarcted regions undergo hypertrophy and dilation
-- Along with scarring and thinning of infarcted zones → collectively termed **ventricular remodeling**
-- Initial compensatory hypertrophy is hemodynamically beneficial
-- Adaptive effect can be overwhelmed → ventricular function may decline with ventricular aneurysm formation
+**殘存存活心肌的代償：**
+- 非梗塞區域經歷肥厚與擴張
+- 與梗塞區域的疤痕形成與變薄共同 → 統稱為**心室重構**
+- 初始代償性肥厚在血流動力學上是有益的
+- 適應效果可被淹沒 → 心室功能可能隨著心室动脉瘤形成而下降
 
-**Long-term prognosis after MI:**
-- Depends on quality of left ventricular function and severity of atherosclerotic narrowing of vessels perfusing remaining viable myocardium
-- Overall mortality within first year: ~30% (including deaths before reaching hospital)
-- Annual mortality rate thereafter for patients who suffered MI: **3%-4%**
+**MI 後長期預後：**
+- 取決於左心室功能質量與滋養殘存存活心肌的血管粥狀硬化狹窄嚴重程度
+- 第一年內總死亡率：約 30%（包括未到院即死亡者）
+- 此後曾發生 MI 的患者年死亡率：**3%-4%**
 
-### Chronic Ischemic Heart Disease
+### 慢性缺血性心臟病
 
-**Also called ischemic cardiomyopathy**
-- Progressive heart failure secondary to ischemic myocardial damage
-- In most instances: known clinical history of previous MI
-- After prior infarction(s): chronic IHD appears when compensatory mechanisms (e.g., hypertrophy) of residual myocardium begin to fail
-- In other cases: severe CAD can cause diffuse myocardial dysfunction and micro-infarction and replacement fibrosis without any clinically evident episode of frank infarction
+**又稱缺血性心肌病變**
+- 繼發於缺血性心肌損傷的進行性心衰竭
+- 大多數病例：有先前 MI 的已知臨床病史
+- 經先前梗塞後：當殘存心肌的代償機制（如肥厚）開始衰竭時出現慢性 IHD
+- 其他病例：嚴重 CAD 可導致瀰漫性心肌功能障礙與微梗塞及置換性纖維化，但無任何明顯的梗塞發作
 
-**Heart failure typically severe** — occasionally punctuated by new episodes of angina or infarction
-**Arrhythmias, CHF, and intercurrent MI** account for most of associated morbidity and mortality
+**心衰竭通常嚴重**——間或有新發心絞痛或梗塞
 
-#### Morphology
+**心律不整、CHF 與新發 MI** 是大多數相關發病率與死亡率的原因
 
-- Left ventricular dilation and hypertrophy
-- Often with discrete areas of gray-white scarring from previous healed infarcts
-- Invariably moderate to severe atherosclerosis of coronary arteries (sometimes with total occlusion)
-- Endocardium shows patchy, fibrous thickening; mural thrombi may be present
-- Microscopic: myocardial hypertrophy, diffuse subendocardial myocyte vacuolization, and fibrosis from previous infarction
+#### 形態學
 
-### Cardiac Stem Cells
+- 左心室擴張與肥厚
+- 常有來自先前癒合梗塞的灰色疤痕區域
+- 一定有冠狀动脉中度至重度粥狀硬化（偶有完全閉塞）
+- 心內膜可見斑片狀纖維增厚；可能有壁血栓
+- 顯微鏡：心肌肥厚、瀰漫性心內膜下心肌細胞空泡化與先前梗塞的纖維化
 
-**Interest in using cardiac stem cells to replace damaged myocardium.**
+### 心臟幹細胞
 
-**Background:**
-- Cardiac regeneration in metazoans (newts, zebrafish) well described
-- Cardiac myocytes of higher-order animals classically considered postmitotic without replicative potential
+**利用心臟幹細胞替換受損心肌的興趣。**
 
-**Increasing evidence points to:**
-- Bone marrow–derived precursors
-- Small resident stem cell population within myocardium
-- Capable of repopulating mammalian heart
-- Express cluster of cell surface markers allowing isolation and purification
-- Occur in very low frequency
+**背景：**
+- 後肢動物（蠼螋、斑馬魚）的心臟再生已有充分描述
+- 高等動物的心肌細胞傳統上被認為是後有絲分裂的，無複製潛力
 
-**Cardiac stem cells can:**
-- Self-renew
-- Generate all cell lineages seen within myocardium
-- Have slow intrinsic rate of proliferation (greatest in neonates, decreases with age)
-- Stem cell numbers and progeny also increase after myocardial injury or hypertrophy (albeit to limited extent)
+**越來越多證據表明：**
+- 骨髓來源的 precursors
+- 心肌內少量存在的 resident 幹細胞群
+- 能夠重建哺乳動物心臟
+- 錶達允許分離與純化的細胞表面 marker 簇
+- 以非常低的頻率出現
 
-**Potential:** Stimulating proliferation of these cells in vivo could facilitate recovery of myocardial function after acute MI or chronic IHD
+**心臟幹細胞可以：**
+- 自我更新
+- 生成心肌內可見的所有細胞譜系
+- 具有緩慢的內在增殖率（新生兒期最高，隨年齡下降）
+- 心肌損傷或肥厚後，幹細胞數量與後代也會增加（但程度有限）
 
-**Ex vivo expansion and subsequent administration** of such cells after MI: area of vigorous investigation
-**Unfortunately:** Results thus far have been less than exciting
+**潛力**：在體內刺激這些細胞的增殖可促進急性 MI 或慢性 IHD 後的心肌功能恢復
 
-### Summary: Ischemic Heart Disease
+**在 MI 後在體外擴增並隨後給予這些細胞**：是積極研究中的領域
 
-- In vast majority of cases, cardiac ischemia is due to coronary artery atherosclerosis; vasospasm, vasculitis, and embolism are less common causes
-- Cardiac ischemia results from mismatch between coronary supply and myocardial demand and manifests as different, albeit overlapping syndromes:
-  - **Angina pectoris** is exertional chest pain due to inadequate perfusion, typically due to atherosclerotic disease causing >70% fixed stenosis ("critical stenosis")
-  - **Unstable angina** is characterized by increasingly frequent pain, precipitated by progressively less exertion or occurring at rest; results from erosion or rupture of atherosclerotic plaque triggering platelet aggregation, vasoconstriction, and formation of mural thrombus (not necessarily occlusive)
-  - **Acute myocardial infarction** typically results from acute thrombosis after plaque disruption; majority occur in plaques that did not previously exhibit critical stenosis
-  - **Sudden cardiac death** usually results from fatal arrhythmia, typically without significant acute myocardial damage
-  - **Ischemic cardiomyopathy** is progressive heart failure due to ischemic injury, either from previous infarction(s) or chronic ischemia
-- Myocardial ischemia leads to loss of myocyte function within 1-2 minutes but causes death after only 30-40 minutes; myocardial infarction is diagnosed on basis of symptoms, electrocardiographic changes, and measurement of serum biomarkers such as cardiac-specific troponins; gross and histologic changes of infarction require hours to days to develop
-- Infarction can be modified by therapeutic intervention (thrombolysis or stenting), which salvages myocardium at risk but may also induce reperfusion-related injury
-- Complications of infarction include ventricular rupture, papillary muscle rupture, aneurysm formation, mural thrombus, arrhythmia, pericarditis, and CHF
+**不幸的是**：到目前為止結果並不令人振奮
 
 ---
 
 ## Arrhythmias
 
-**Aberrant rhythms** can be initiated anywhere in conduction system (from SA node down to individual myocyte).
+**心律不整**可從傳導系統的任何地方（從竇房結到個別心肌細胞）發起。
 
-**Designated as:**
-- Originating from atrium (supraventricular)
-- Within ventricular myocardium
+**分類：**
+- 起源於心房（室上性）
+- 起源於心室心肌
 
-**Characteristics:**
-- Sustained or sporadic (paroxysmal)
-- Manifest as:
-  - **Tachycardia** (fast heart rate)
-  - **Bradycardia** (slow heart rate)
-  - Irregular rhythm with normal ventricular contraction
-  - Chaotic depolarization without functional ventricular contraction (**ventricular fibrillation**)
-  - No electrical activity at all (**asystole**)
+**特點：**
+- 持續性或散發性（陣發性）
+- 表現為：
+  - **心搏過速**（快速心率）
+  - **心搏過緩**（緩慢心率）
+  - 心室收縮正常的不規則心律
+  - 無功能性心室收縮的混沌去極化（**心室顫動**）
+  - 完全無電活動（**心静止**）
 
-**Symptoms:**
-- Patients may be unaware of rhythm disorder
-- May note "racing heart" or palpitations (irregular rhythm)
-- Sustained arrhythmia → inadequate cardiac output → lightheadedness (near syncope), loss of consciousness (syncope), or sudden cardiac death
+**症狀：**
+- 患者可能意識不到心律障礙
+- 可能注意到「心跳加速」或心悸（不規則心律）
+- 持續性心律不整 → 心輸出不足 → 頭暈（近乎暈厥）、意識喪失（暈厥）或心臟驟停
 
-**Most common cause of rhythm disorders: Ischemic injury** (direct damage or dilation of heart chambers altering signal conduction)
+**心律障礙最常見的原因：缺血性損傷**（直接損傷或心臟心腔擴張改變信號傳導）
 
-### Mechanisms
+### 機制
 
-**SA node damage (e.g., sick sinus syndrome):**
-- Other fibers or AV node can take over pacemaker function
-- At much slower intrinsic rate → **bradycardia**
+**竇房結損傷（如病竇症候群）：**
+- 其他纖維或房室結可接替節點功能
+- 以更慢的內在頻率 → **心搏過緩**
 
-**Atrial myocytes become "irritable"** (depolarize independently and sporadically, as with atrial dilation):
-- Signals variably transmitted through AV node
-- Random "**irregularly irregular**" heart rate of **atrial fibrillation**
+**心房心肌細胞變得「易激惹」**（獨立且散發地去極化，如心房擴張）：
+- 信號可變地通過房室結傳導
+- **心房顫動**的隨機「完全不規則」心率
 
-**AV node dysfunction:**
-- Varying degrees of heart block
-- Simple prolongation of P-R interval on ECG (**first-degree heart block**)
-- Intermittent transmission of signal (**second-degree heart block**)
-- Complete failure (**third-degree heart block**)
+**房室結功能障礙：**
+- 不同程度的心傳導阻滯
+- ECG 上 P-R 間隔簡單延長（**第一度心傳導阻滯**）
+- 間歇性信號傳導（**第二度心傳導阻滯**）
+- 完全失敗（**第三度心傳導阻滯**）
 
-### Heritable Conditions Causing Arrhythmias
+### 可遺傳的心律不整原因
 
-**Important to recognize:** May alert physicians to need for intervention to prevent sudden cardiac death in proband and family members
+**重要的是要認識**：可提醒醫師需要干預以防止先證者及其家族成員心臟驟停
 
-**Associated with recognizable anatomic abnormalities:**
-- Congenital anomalies
-- Hypertrophic cardiomyopathy
-- Mitral valve prolapse
+**與可識別的解剖學異常相關：**
+- 先天性異常
+- 肥厚性心肌病變
+- 二尖瓣脫垂
 
-**"Primary electrical disorders"** (arrhythmias and sudden death in absence of structural cardiac pathology):
-- Can only be diagnosed by genetic testing (performed in those with positive family history or unexplained nonlethal arrhythmia)
+**「原發性電氣疾病」**（無結構心臟病理的心律不整與心臟驟停）：
+- 只能通過基因檢測診斷（在有陽性家族史或解釋不通的非致死性心律不整的患者中進行）
 
-**Most important: Channelopathies**
-- Caused by mutations in genes required for normal function of Na+, K+, and Ca+ channels
-- Ion channels conduct electrical currents mediating heart contraction
-- Defects can provoke arrhythmias
+**最重要的是：離子通道病**
+- 由維持 Na+、K+ 與 Ca+ 通道正常功能所需的基因突變引起
+- 離子通道傳導介導心臟收縮的電流
+- 缺陷可觸發心律不整
 
-**Prototype: Long QT syndrome**
-- Characterized by prolongation of QT segment on ECGs
-- Susceptibility to malignant ventricular arrhythmias
-- Several different gene mutations account for cases
-- **KCNQ1** most common → results in decreased potassium currents
+**原型：Long QT 症候群**
+- 特徵為 ECG 上 QT 段延長
+- 對惡性心室心律不整的易感性
+- 多種不同基因突變可致病
+- **KCNQ1** 最常見 → 導致鉀電流減少
 
-### Sudden Cardiac Death
+### 心臟驟停
 
-**Defined:** Unexpected death due to lethal arrhythmia (asystole or sustained ventricular fibrillation)
+**定義**：因致命心律不整（心静止或持續性心室顫動）導致的意外死亡
 
-**Statistics:**
-- ~400,000 individuals are victims each year in the United States
+**統計數據：**
+- 美國每年約 **40 萬人** 是受害者
 
-**Leading cause:** **Coronary artery disease** (responsible for **80%-90%** of cases)
+**主要原因**：**冠狀动脉疾病**（占 **80%-90%** 的病例）
 
-**Important:** SCD may be the first manifestation of IHD
+**重要**：SCD 可能是 IHD 的首發表現
 
-**Autopsy findings:** Typically shows severe atherosclerotic disease WITHOUT evidence of acute plaque disruption
+**驗屍發現**：通常顯示嚴重粥狀硬化疾病**但無急性斑塊破裂證據**
 
-**Thus:** In vast majority of cases, no associated myocardial infarction; 80%-90% of patients who suffer SCD but are successfully resuscitated do NOT show enzymatic or ECG evidence of myocardial necrosis (even if cause is IHD!)
-- Healed remote MIs present in ~40% of cases
+**因此**：絕大多數病例無相關心肌梗塞；80%-90% 的 SCD 但成功复苏的患者**不顯示**心肌壞死的酶學或心電圖證據（即使原因是 IHD！）
+- 約 40% 的病例有癒合的遠端 MI
 
-**In younger victims:** Nonatherosclerotic causes more common:
+**年輕受害者中**：非粥狀硬化原因更常見：
+- 遺傳性（離子通道病）或獲得性心臟傳導系統異常
+- 先天性冠狀动脉異常
+- 二尖瓣脫垂
+- 心肌炎或結節病
+- 擴張型或肥厚性心肌病變
+- 肺高壓
+- **心肌肥厚**——增加的心臟質量是 SCD 的獨立危險因子；在一些猝死的年輕人（包括運動員）中，高血壓性心肌肥厚或無法解釋的心臟質量增加是唯一的病理發現
 
-- Hereditary (channelopathies) or acquired abnormalities of cardiac conduction system
-- Congenital coronary arterial abnormalities
-- Mitral valve prolapse
-- Myocarditis or sarcoidosis
-- Dilated or hypertrophic cardiomyopathy
-- Pulmonary hypertension
-- **Myocardial hypertrophy** — increased cardiac mass is independent risk factor for SCD; in some young individuals (including athletes) who die suddenly, hypertensive hypertrophy or unexplained increased cardiac mass is the only pathologic finding
+**機制**：雖然缺血性損傷（及其他病理狀況）可直接影響傳導系統的主要組成部分，但大多數致命心律不整的觸發因素是**遠離傳導系統的心肌的電氣易激惹**
 
-**Mechanism:** Although ischemic injury (and other pathologic conditions) can directly affect major components of conduction system, most cases of fatal arrhythmia are triggered by **electrical irritability of myocardium distant from conduction system**
-
-**Prognosis improvement:** Implantation of **pacemaker** or **automatic cardioverter defibrillator** (senses and electrically counteracts episode of ventricular fibrillation)
-
-### Summary: Arrhythmias
-
-- Arrhythmias can be caused by ischemic or structural changes in conduction system or by myocyte electrical instability; in structurally normal hearts, arrhythmias more often are due to mutations in ion channels causing aberrant repolarization or depolarization
-- SCD most frequently is due to coronary artery disease leading to ischemia; myocardial irritability typically results from nonlethal ischemia or from preexisting fibrosis from previous myocardial injury; SCD less often is due to acute plaque rupture with thrombosis inducing rapidly fatal arrhythmia
+**預後改善**：植入**心臟節律器**或**自動心臟電擊去顫器**（感知並電氣對抗心室顫動發作）
 
 ---
 
 ## Hypertensive Heart Disease
 
-**Hypertensive heart disease (HHD)** is a consequence of increased demands placed on heart by hypertension, causing **pressure overload** and **ventricular hypertrophy**.
+**高血壓心臟病（Hypertensive Heart Disease, HHD）** 是心臟因高血壓承受額外需求而承受**壓力負荷**與**心室肥厚**的後果。
 
-**Hypertension** is a common disorder associated with considerable morbidity affecting many organs (heart, brain, kidneys).
+**高血壓**是與許多器官顯著發病率相關的常見疾病（心臟、大腦、腎臟）。
 
-**Cardiac complications of hypertension result from:**
-- Pressure overload
-- Ventricular hypertrophy
+**高血壓的心臟併發症來自：**
+- 壓力負荷
+- 心室肥厚
 
-**Myocyte hypertrophy** is an adaptive response to pressure overload; there are limits to adaptive capacity, and persistent hypertension can culminate in dysfunction, cardiac dilation, CHF, and even sudden death.
+**心肌細胞肥厚**是對壓力負荷的適應性反應；適應能力有極限，持續性高血壓可最終導致功能障礙、心臟擴張、CHF，甚至心臟驟停。
 
-**Hypertensive heart disease most commonly affects left side** (secondary to systemic hypertension); pulmonary hypertension can also cause **right-sided hypertensive changes** ("cor pulmonale")
+**高血壓心臟病最常影響左側**（繼發於全身性高血壓）；肺高壓也可導致**右側高血壓改變**（「肺心病」）
 
-### Systemic (Left-Sided) Hypertensive Heart Disease
+### 全身性（左側）高血壓心臟病
 
-**Diagnostic criteria:**
-1. Left ventricular hypertrophy in absence of other cardiovascular pathology (e.g., valvular stenosis)
-2. History or pathologic evidence of hypertension
+**診斷標準：**
+1. 無其他心血管病理（如瓣膜狹窄）的左心室肥厚
+2. 高血壓病史或病理證據
 
-**Framingham Heart Study established:** Even mild hypertension (above 140/90 mm Hg), if sufficiently prolonged, induces left ventricular hypertrophy
+**Framingham Heart Study 確立**：即使輕度高血壓（超過 140/90 mm Hg），若持續足夠時間，也可引起左心室肥厚
 
-**~25% of U.S. population** suffers from at least this degree of hypertension
+**約 25% 的美國人口** 至少患有這種程度的高血壓
 
-#### Morphology
+#### 形態學
 
-**Systemic hypertension imposes pressure overload on heart:**
+**全身性高血壓對心臟施加壓力負荷：**
 
-**Gross:**
-- Left ventricular hypertrophy, typically **without ventricular dilation** until very late in process
-- Heart weight can exceed **500 g** (normal for 60-70 kg individual: 320-360 g)
-- Left ventricular wall thickness can exceed **2.0 cm** (normal: 1.2-1.4 cm)
-- Increased wall thickness imparts stiffness → impairs diastolic filling → can result in left atrial dilation
-- In long-standing systemic hypertensive heart disease leading to congestive failure: hypertrophic left ventricle typically dilated
+**大體：**
+- 左心室肥厚，通常**直至病程非常晚期才有心室擴張**
+- 心臟重量可超過 **500 g**（60-70 kg 正常個體：320-360 g）
+- 左心室壁厚度可超過 **2.0 cm**（正常：1.2-1.4 cm）
+- 增加的壁厚度使心臟僵硬 → 損害舒張充盈 → 可導致左心房擴張
+- 長期全身性高血壓心臟病導致鬱血衰竭時：肥厚的左心室通常擴張
 
-**Microscopically:**
-- Increased transverse diameter of myocytes
-- Prominent nuclear enlargement and hyperchromasia ("**boxcar nuclei**")
-- Intercellular fibrosis
+**顯微鏡下：**
+- 心肌細胞橫徑增加
+- 核增大與深染（「**箱車核（boxcar nuclei）**」）
+- 細胞間纖維化
 
-#### Clinical Features
+#### 臨床特徵
 
-**Compensated HHD typically asymptomatic**
-- Suspected only from elevated blood pressure on routine physical examination
-- Or from ECG or echocardiographic findings of left ventricular hypertrophy
+**代償性 HHD 通常無症狀**
+- 通常只在常規體檢發現血壓升高
+- 或從心電圖或超聲心動圖發現左心室肥厚
 
-**Some patients present with:**
-- **Atrial fibrillation** (secondary to left atrial enlargement)
+**部分患者表現為：**
+- **心房顫動**（繼發於左心房擴張）
 - **CHF**
 
-**Mechanisms of hypertension leading to heart failure (incompletely understood):**
-- Hypertrophic myocytes fail to contract efficiently
-- Possibly due to structural abnormalities in newly assembled sarcomeres
-- Because vascular supply inadequate to meet demands of increased muscle mass
+**高血壓導致心衰竭的機制（尚未完全了解）：**
+- 肥厚的心肌細胞收縮效率下降
+- 可能由於新組裝的肌節結構異常
+- 因為血管供應不足以滿足增加肌肉質量的需求
 
-**Depending on severity and duration of condition, underlying cause of hypertension, and adequacy of therapeutic control, patients can:**
-1. Enjoy normal longevity and die of unrelated causes
-2. Develop IHD (hypertension potentiates coronary atherosclerosis)
-3. Suffer renal damage or cerebrovascular stroke
-4. Experience congestive heart failure
-5. Increased risk for SCD
+**根據病情的嚴重程度與持續時間、高血壓的根本原因與治療控制的有效性，患者可能：**
+1. 享有正常壽命，死於無關原因
+2. 發展為 IHD（高血壓加重冠狀粥狀硬化）
+3. 遭受腎損傷或腦血管中風
+4. 經歷鬱血性心衰竭
+5. SCD 風險增加
 
-**Effective hypertension control can prevent or lead to regression of cardiac hypertrophy and its attendant risks.**
+**有效的高血壓控制可預防或逆轉心臟肥厚及其相關風險。**
 
-### Pulmonary Hypertensive Heart Disease — Cor Pulmonale
+### 肺高壓心臟病 — 肺心病
 
-**Cor pulmonale:** Right ventricular hypertrophy and dilation (frequently with right-sided heart failure) caused by pulmonary hypertension attributable to primary disorders of lung parenchyma or pulmonary vasculature.
+**肺心病**：由歸因於肺實質或肺血管原發疾病的肺高壓引起的右心室肥厚與擴張（常伴右心衰竭）。
 
-**Excludes:** Right ventricular dilation and hypertrophy caused by left ventricular failure or congenital heart disease (substantially more common but excluded by definition)
+**不包括**：由左心室衰竭或先天性心臟病引起的右心室擴張與肥厚（儘管更常見，但根據定義排除）
 
-**Can be:**
-- **Acute** (e.g., pulmonary embolism)
-- **Slow and insidious** (prolonged pressure overload in setting of chronic lung and pulmonary vascular disease)
+**可為：**
+- **急性**（如肺栓塞）
+- **慢性漸進**（慢性肺與肺血管疾病中的長期壓力負荷）
 
-#### Morphology
+#### 形態學
 
-**Acute cor pulmonale:**
-- Right ventricle usually shows only dilation
-- If embolism causes sudden death: heart may even be of normal size
+**急性肺心病：**
+- 右心室通常只顯示擴張
+- 若栓塞導致猝死：心臟大小可能正常
 
-**Chronic cor pulmonale:**
-- Right ventricular (and often right atrial) hypertrophy
-- In extreme cases: thickness of right ventricular wall may be comparable to or even exceed that of left ventricle
-- When ventricular failure develops: right ventricle and atrium often dilated
-- Pulmonary arteries often contain atheromatous plaques and other lesions (reflecting longstanding pressure elevations)
+**慢性肺心病：**
+- 右心室（通常還有右心房）肥厚
+- 在極端病例：右心室壁厚度可能與左心室相當或甚至超過
+- 當心室衰竭發生時：右心室與心房常擴張
+- 肺动脉常有粥狀化斑塊與其他病變（反映長期壓力升高）
 
-### Table 11.3: Disorders Predisposing to Cor Pulmonale
+### Table 11.3: 易導致肺心病的疾病
 
-**Diseases of the Pulmonary Parenchyma:**
-- Chronic obstructive pulmonary disease
-- Diffuse pulmonary interstitial fibrosis
-- Pneumoconiosis
-- Cystic fibrosis
-- Bronchiectasis
+**肺實質疾病：**
+- 慢性阻塞性肺疾病
+- 瀰漫性肺間質纖維化
+- 肺塵症
+- 囊性纖維化
+- 支氣管擴張
 
-**Diseases of the Pulmonary Vessels:**
-- Recurrent pulmonary thromboembolism
-- Primary pulmonary hypertension
-- Extensive pulmonary arteritis (e.g., granulomatosis with polyangiitis)
-- Drug-, toxin-, or radiation-induced vascular obstruction
-- Extensive pulmonary tumor microembolism
+**肺血管疾病：**
+- 反覆性肺血栓栓塞
+- 原發性肺高壓
+- 廣泛性肺动脉炎（如肉芽腫性多發性血管炎）
+- 藥物、毒素或輻射引起的血管阻塞
+- 廣泛性肺腫瘤微栓塞
 
-**Disorders Affecting Chest Movement:**
-- Kyphoscoliosis
-- Marked obesity (Pickwickian syndrome)
-- Neuromuscular diseases
+**影響胸廓運動的疾病：**
+- 脊柱後側凸
+- 顯著肥胖（Pickwickian 症候群）
+- 神經肌肉疾病
 
-**Disorders Inducing Pulmonary Arterial Constriction:**
-- Metabolic acidosis
-- Hypoxemia
-- Obstructive sleep apnea
-- Idiopathic alveolar hypoventilation
-
-### Summary: Hypertensive Heart Disease
-
-- Hypertensive heart disease can affect either the left ventricle or the right ventricle; in the latter case, the disorder is most often due to primary pulmonary disease and is called cor pulmonale; elevated pressures induce myocyte hypertrophy and interstitial fibrosis that increases wall thickness and stiffness
-- The chronic pressure overload of systemic hypertension causes left ventricular concentric hypertrophy, often associated with left atrial dilation due to impaired diastolic filling of the ventricle; persistently elevated pressure overload can cause ventricular failure with dilation
-- Cor pulmonale results from pulmonary hypertension due to primary lung parenchymal or vascular disorders; hypertrophy of both the right ventricle and the right atrium is characteristic; dilation also may be seen when failure supervenes
+**誘導肺动脉收縮的疾病：**
+- 代謝性酸中毒
+- 低氧血症
+- 阻塞性睡眠呼吸中止
+- 特發性肺泡通氣不足
 
 ---
 
 ## Valvular Heart Disease
 
-**Valvular disease** may result in:
-- **Stenosis** — failure of valve to open completely, obstructing forward flow
-- **Insufficiency** (regurgitation or incompetence) — failure of valve to close completely, allowing regurgitation (backflow) of blood
-
-### Stenosis
-- Almost always due to primary cuspal abnormality stemming from chronic process (calcification or valve scarring)
-
-### Insufficiency
-- Can result from intrinsic disease of valve cusps (e.g., endocarditis)
-- Or disruption of supporting structures (aorta, mitral annulus, tendinous cords, papillary muscles, ventricular free wall) without primary cuspal injury
-- Can appear abruptly (e.g., chordal rupture) or insidiously (consequence of leaflet scarring and retraction)
-
-### General Features
-
-- Stenosis or regurgitation may occur alone or together in same valve
-- Valvular disease can involve only one valve (mitral valve most common target) or more than one valve
-- Turbulent flow through diseased valves produces abnormal heart sounds (**murmurs**); severe lesions can be externally palpated as **thrills**
-- Murmurs best heard at different locations on chest wall depending on valve involved
-- Nature (regurgitation vs. stenosis) and severity determine quality and timing of murmur (harsh systolic or soft diastolic)
+**瓣膜疾病**可導致：
+- **狹窄**——瓣膜無法完全打開，阻礙前向流動
+- **閉鎖不全**（逆流或功能不全）——瓣膜無法完全關閉，允許血液逆流
 
-**Outcome depends on:**
-- Valve involved
-- Degree of impairment
-- Tempo of development
-- Effectiveness of compensatory mechanisms
+### 狹窄
+- 幾乎總是由慢性過程（鈣化或瓣膜疤痕）引起的原發性小葉異常所致
 
-**Examples:**
-- Rapid destruction of aortic valve cusp by infection: massive regurgitation, abrupt onset of cardiac failure
-- Rheumatic mitral stenosis: progresses over years; clinical effects well tolerated until late in course
+### 閉鎖不全
+- 可源於小葉本身的疾病（如心內膜炎）
+- 或支撐結構（二尖瓣環、主動脈、心腱索、乳頭肌、心室游離壁）的擾亂，而非原發性小葉損傷
+- 可突然出現（如腱索斷裂）或隱匿發展（瓣膜疤痕與攣縮的後果）
 
-### Congenital Valvular Lesions
+### 一般特徵
 
-**Most common congenital valvular lesion:** **Bicuspid aortic valve**
-- Contains only two functional cusps instead of normal three
-- Occurs with frequency of **1%-2%** of all live births
-- Associated with mutations affecting proteins of Notch signaling pathway
-- Two cusps of unequal size; larger cusp exhibits midline raphe (resulting from incomplete cuspal separation)
-- Generally neither stenotic nor incompetent through early life
-- More prone to early and progressive degenerative calcification → stenosis
+- 狹窄或閉鎖不全可單獨或同時存在於同一瓣膜
+- 瓣膜疾病可只涉及一個瓣膜（最常見為二尖瓣）或一個以上
+- 通過病變瓣膜的湍流產生異常心音（**心雜音**）；嚴重病變可在外部觸及為**震顫**
+- 根據涉及的瓣膜在心前區不同位置聽診最佳
+- 病變的性質（逆流 vs. 狹窄）與嚴重程度決定心雜音的特質與時相（粗糙的收縮期或柔和的舒張期）
 
-### Acquired Valvular Diseases
+**結果取決於：**
+- 涉及的瓣膜
+- 損害程度
+- 發展速度
+- 代償機制的有效性
 
-**Most important causes** summarized in Table 11.4.
+### 先天性瓣膜病變
 
-**Acquired stenoses of aortic and mitral valves** account for approximately **two thirds** of all valve disease.
+**最常見的先天性瓣膜病變**：**雙葉主動脈瓣**
+- 只含兩個功能小葉而非正常的三個
+- 發生率為所有活產的 **1%-2%**
+- 與影響 Notch 訊號傳導途徑蛋白質的突變相關
+- 兩個小葉大小不等；較大的小葉顯示中線融合脊（源於不完全的小葉分離）
+- 在早年通常既不狹窄也不閉鎖不全
+- 更容易早期與進行性退化性鈣化 → 狹窄
 
-### Table 11.4: Etiology of Acquired Heart Valve Disease
+### 退化性瓣膜疾病
 
-**Aortic Valve Disease:**
+**描述影響瓣膜細胞外基質完整性的變化**
 
-*Aortic Stenosis:*
-- Postinflammatory scarring (rheumatic heart disease)
-- Senile calcific aortic stenosis
-- Calcification of congenitally deformed valve
+**退化性變化包括：**
+- **鈣化：**
+  - 小葉性（通常在主動脈瓣）
+  - 環形（在二尖瓣）
+  - 二尖瓣環鈣化通常無症狀，除非侵犯相鄰傳導系統
 
-*Aortic Regurgitation:*
-- Intrinsic valvular disease
-- Postinflammatory scarring (rheumatic heart disease)
-- Infective endocarditis
-- Aortic disease:
-  - Degenerative aortic dilation
-  - Syphilitic aortitis
-  - Ankylosing spondylitis
-  - Rheumatoid arthritis
-  - Marfan syndrome
+- **細胞外基質改變：**
+  - 蛋白聚糖增加，纖維性膠原與彈力蛋白減少（**黏液樣退化**）
+  - 或瓣膜纖維化與疤痕
 
-**Mitral Valve Disease:**
+- **基質金屬蛋白酶或其抑制劑生成的改變**
 
-*Mitral Stenosis:*
-- Postinflammatory scarring (rheumatic heart disease)
+- **退化性變化可能是老化的不可避免方面：**
+  - 與重複機械應力相關
+  - 每年 4 千萬次心跳
+  - 每次正常開關都需要瓣膜大量變形
 
-*Mitral Regurgitation:*
-- Abnormalities of leaflets and commissures:
-  - Postinflammatory scarring
-  - Infective endocarditis
-  - Mitral valve prolapse
-  - "Fen-phen"–induced valvular fibrosis
-- Abnormalities of tensor apparatus:
-  - Rupture of papillary muscle
-  - Papillary muscle dysfunction (fibrosis)
-  - Rupture of chordae tendineae
-- Abnormalities of left ventricular cavity and/or annulus:
-  - Left ventricular enlargement (myocarditis, dilated cardiomyopathy)
-  - Calcification of mitral ring
+### 鈣化性主動脈瓣狹窄
 
-*Fen-phen = Fenfluramine-phentermine*
+**主動脈瓣狹窄最常見的原因**
 
-### Degenerative Valve Disease
+**通常無症狀**——常規胸片或屍檢時偶然發現鈣化
 
-**Term describing changes affecting integrity of valvular ECM**
+**其他患者**：瓣膜硬化與/或鈣化嚴重到需要手術介入
 
-**Degenerative changes include:**
-- **Calcifications:**
-  - Cuspal (typically in aortic valve)
-  - Annular (in mitral valve)
-  - Mitral annular calcification usually asymptomatic unless encroaches on adjacent conduction system
+**發生率隨壽命延長而增加：**
+- 解剖學上正常的瓣膜：開始在患者達到 **70-80 歲**時表現
+- 雙葉主動脈瓣：發病年齡更早（**40-50 歲**）
 
-- **Alterations in ECM:**
-  - Increased proteoglycan and diminished fibrillar collagen and elastin (**myxomatous degeneration**)
-  - Or valve becomes fibrotic and scarred
+**雖然通常歸因於進行性年齡相關「磨損」：**
+- 小葉纖維化與鈣化可視為與年齡相關动脉硬化的瓣膜對應物
+- 慢性損傷、高血脂、高血壓、發炎及其他與粥狀硬化相關的因素被提議為促成因素（但缺乏確鑿證據）
 
-- **Changes in production of matrix metalloproteinases or their inhibitors**
+#### 形態學
 
-- **Degenerative changes probably inevitable aspect of aging:**
-  - Related to repetitive mechanical stresses
-  - 40 million beats per year
-  - Each normal opening and closing requires substantial valve deformation
+**特徵**：小葉流出側的堆疊鈣化團塊
+- 突入 Valsalva 竇
+- 機械性阻礙瓣膜開啟
+- **退化性主動脈瓣狹窄通常無小葉融合**（通常是先前發炎的標誌）
+- 小葉可能繼發性纖維化與增厚
 
-### Calcific Aortic Stenosis
+**早期、血液動力學上無關緊要的階段**：稱為**主動脈瓣硬化**
 
-**Most common cause of aortic stenosis**
+#### 臨床特徵
 
-**Usually asymptomatic** — discovered incidentally by viewing calcifications on routine chest radiograph or at autopsy
+**嚴重疾病時**：瓣膜孔被 compromise **70%-80%**（正常面積約 4 cm²）
 
-**In other patients:** Valvular sclerosis and/or calcification severe enough to cause stenosis → surgical intervention necessary
+**心輸出透過以下方式維持：**
+- 向心性左心室肥厚
+- 慢性流出道阻塞可將左心室壓力驅動至 **200 mm Hg 或更高**
 
-**Incidence increasing with longevity:**
-- In anatomically normal valves: begins to manifest when patients reach **70s and 80s**
-- With bicuspid aortic valves: onset at much earlier age (**40-50 years**)
+**肥厚的心肌容易缺血 → 可能出現心絞痛**
 
-**Although progressive age-associated "wear and tear" often invoked:**
-- Cuspal fibrosis and calcification can be viewed as valvular counterparts to age-related arteriosclerosis
-- Chronic injury due to hyperlipidemia, hypertension, inflammation, and other factors implicated in atherosclerosis have been proposed as contributors (but firm evidence lacking)
+**收縮與舒張功能障礙共同導致 CHF；** 最終會發生心臟失代償
 
-#### Morphology
+**主動脈瓣狹窄出現心絞痛、CHF 或暈厥：**
+- 標誌著代償性心臟超負荷的耗竭
+- 預後不良
+- **若不手術：50%-80% 的患者在 2-3 年內死亡**
 
-**Hallmark:** Heaped-up calcified masses on outflow side of cusps
-- Protrude into sinuses of Valsalva
-- Mechanically impede valve opening
-- **Commissural fusion NOT typical** of degenerative aortic stenosis (usually sign of previous inflammation)
-- Cusps may become secondarily fibrosed and thickened
+### 黏液性二尖瓣
 
-**Earlier, hemodynamically inconsequential stage:** Called **aortic valve sclerosis**
+**二尖瓣的黏液樣退化：**
+- 一個或兩個二尖瓣小葉「鬆弛」並在收縮期脫垂
+- 在收縮期像氣球一樣翻入左心房
 
-#### Clinical Features
+**原發性二尖瓣脫垂：**
+- 黏液樣二尖瓣退化的一種形式
+- 影響 **0.5%-2.4% 的成年人**
+- 最常見的瓣膜心臟病形式之一
+- 女性受影響幾乎是男性的 **7 倍**
 
-**In severe disease:** Valve orifices compromised by **70%-80%** (from normal area of ~4 cm²)
+**繼發性黏液樣二尖瓣退化：**
+- 男女發病率相等
+- 可發生在二尖瓣逆流由其他潛在原因引起的情況下（如 IHD）
 
-**Cardiac output maintained by:**
-- Concentric left ventricular hypertrophy
-- Chronic outflow obstruction can drive left ventricular pressures to **200 mm Hg or more**
+#### 發病機制
 
-**Hypertrophied myocardium prone to ischemia → angina may develop**
+**原發性黏液樣退化**：未知
 
-**Systolic and diastolic dysfunction collude to cause CHF;** cardiac decompensation eventually ensues
+**可能是**：結構蛋白合成或重構的潛在（可能是全身性）內在缺陷
 
-**Development of angina, CHF, or syncope in aortic stenosis:**
-- Heralds exhaustion of compensatory cardiac hyperfunction
-- Carries poor prognosis
-- **Without surgical intervention: 50%-80% of patients die within 2-3 years**
+**相關疾病：**
+- **Marfan 症候群**（由 fibrillin-1 突變引起，Chapter 7）——常見特徵
+- 偶爾其他結締組織疾病
+- 部分原發病患者：有全身結構異常的其他提示（脊柱側彎、高拱形顎）
 
-### Myxomatous Mitral Valve
+**機制**：結構蛋白（或製造它們的細胞）的輕微缺陷可能在富含微纖維與彈力蛋白的血流動力學應力下的結締組織（如心臟瓣膜）產生缺陷的細胞外基質
 
-**Myxomatous degeneration of mitral valve:**
-- One or both mitral leaflets are "floppy" and prolapse
-- Balloon back into left atrium during systole
+**繼發性黏液樣改變**：由慢性異常血流動力學力量作用於瓣膜肌纖維細胞的損傷引起
 
-**Primary mitral valve prolapse:**
-- Form of myxomatous mitral degeneration
-- Affects **0.5%-2.4% of adults**
-- One of most common forms of valvular heart disease
-- Women affected almost **7-fold more often** than men
+#### 形態學
 
-**Secondary myxomatous mitral degeneration:**
-- Affects men and women equally
-- Can occur in settings where mitral regurgitation is caused by other underlying cause (e.g., IHD)
+**特徵**：二尖瓣小葉的氣球樣突出（罩樣）
 
-#### Pathogenesis
+**受影響的小葉：**
+- 增大、冗餘、增厚且有彈性
+- 腱索延長、變薄，偶爾斷裂
 
-**Basis for primary myxomatous degeneration: Unknown**
+**原發性二尖瓣疾病**：常伴有三尖瓣受累（20%-40% 的病例）；較少見地，主、肺动脉瓣也受影響
 
-**Likely:** Underlying (possibly systemic) intrinsic defect of connective tissue synthesis or remodeling
+**組織學檢查：**
+- 基本改變：**纖維層變薄**（瓣膜的結構完整性依賴於此）
+- 伴隨**海綿層**（黏液樣/黏多糖樣物質沉積增加）的擴張
+- 無論黏液樣退化是原發性（細胞外基質內在缺陷）還是繼發性（由其他病因過程的逆流引起）都會發生相同的變化
 
-**Associated conditions:**
-- **Marfan syndrome** (due to fibrillin-1 mutations, Chapter 7) — common feature
-- Occasionally other connective tissue disorders
-- Some patients with primary disease: additional hints of systemic structural abnormalities (scoliosis, high-arched palate)
+#### 臨床特徵
 
-**Mechanism:** Subtle defects in structural proteins (or cells making them) may cause hemodynamically stressed connective tissues rich in microfibrils and elastin (e.g., cardiac valves) to elaborate defective ECM
+**大多數患者無症狀**——瓣膜異常偶然發現
 
-**Secondary myxomatous change:** Results from injury to valve myofibroblasts imposed by chronically aberrant hemodynamic forces
+**少數病例：**
+- 心悸
+- 呼吸困難
+- 非典型胸痛
 
-#### Morphology
+**聽診**：**收縮中期喀喇音**（瓣膜試圖關閉時，冗餘瓣膜小葉與腱索的突然張力）；有時伴有逆流性心雜音
 
-**Characteristic:** Ballooning (hooding) of mitral leaflets
+**自然病史大多良性；約 3% 的患者出現併發症：**
+- 血液動力學顯著的二尖瓣逆流與 CHF
+- 特別是腱索或瓣膜小葉斷裂時
 
-**Affected leaflets:**
-- Enlarged, redundant, thick, and rubbery
-- Tendinous cords elongated, thinned, occasionally ruptured
+**原發性黏液樣退化患者風險增加：**
+- **感染性心內膜炎**
+- **因心室心律不整導致的 SCD**
+- 中風或其他全身性梗塞（偶爾由左心房形成的血栓栓塞引起，非常罕見）
 
-**In primary mitral disease:** Concomitant tricuspid valve involvement frequent (20%-40% of cases); less commonly, aortic and pulmonic valves also affected
+### 風濕性瓣膜疾病
 
-**Histologic examination:**
-- Essential change: thinning of **fibrosa layer** (structural integrity of leaflet depends on this) 
-- Accompanied by expansion of middle **spongiosa layer** (increased deposition of myxomatous/mucoid material)
-- Same changes occur whether myxomatous degeneration is primary (intrinsic ECM defect) or secondary (caused by regurgitation from another etiologic process)
+**風濕熱**：A 族 β 溶血性鏈球菌感染（通常為咽炎，偶為皮膚感染）後發生的急性、免疫介導的、多系統發炎疾病
 
-#### Clinical Features
+**風濕性心臟病**：風濕熱的心臟表現
+- 與心臟各部分的發炎相關
+- 瓣膜發炎與疤痕產生最重要的臨床特徵
 
-**Most patients asymptomatic** — valvular abnormality discovered incidentally
+**瓣膜疾病主要以致變形性纖維性二尖瓣狹窄的形式出現**
+- 風濕性心臟病本質上是**獲得性二尖瓣狹窄的唯一原因**
 
-**Minority of cases:**
-- Palpitations
-- Dyspnea
-- Atypical chest pain
+**在西方的許多地區發病率已顯著下降**，原因包括：改善的社會經濟條件、鏈球菌咽炎的快速診斷與治療，以及許多 A 族鏈球菌菌株毒力的無法解釋的下降
 
-**Auscultation:** **Midsystolic click** (abrupt tension on redundant valve leaflets and chordae tendineae as valve attempts to close); sometimes associated regurgitant murmur
+**然而**：在發展中國家與美國經濟弱勢的城市地區，風濕熱與風濕性心臟病仍然是重要的公共衛生問題
 
-**Natural history mostly benign; ~3% of patients develop complications:**
-- Hemodynamically significant mitral regurgitation and CHF
-- Particularly if chordae or valve leaflets rupture
+#### 發病機制
 
-**Patients with primary myxomatous degeneration at increased risk for:**
-- **Infective endocarditis**
-- **SCD** due to ventricular arrhythmias
-- Stroke or other systemic infarctions (rarely, from embolism of thrombi formed in left atrium)
+**急性風濕熱是一種過敏反應：**
+- 針對 A 族鏈球菌分子的抗體與宿主心肌抗原交叉反應
+- 針對某些鏈球菌菌株 M 蛋白的抗體與心肌與心臟瓣膜中的蛋白質結合
+- 透過補體與 Fc 受體陽性細胞（包括巨噬細胞）的活化造成損傷
+- 識別鏈球菌肽的 CD4+ T 細胞可與宿主抗原交叉反應 → 細胞因子介導的發炎反應
 
-### Rheumatic Valvular Disease
+**症狀發作前有 2-3 週的延遲**：需要生成免疫反應的時間；鏈球菌在病變中完全缺席
 
-**Rheumatic fever:** Acute, immunologically mediated, multisystem inflammatory disease occurring after group A β-hemolytic streptococcal infections (usually pharyngitis, but occasionally skin infections)
+**只有少數受感染患者會發生風濕熱（約 3%）：** 受到影響者可能有遺傳易感性去發展交叉反應免疫反應
 
-**Rheumatic heart disease:** Cardiac manifestation of rheumatic fever
-- Associated with inflammation of all parts of heart
-- Valvular inflammation and scarring produce most important clinical features
+**致變形性纖維化病變**：是急性發炎緩解與疤痕形成相關癒合的可預測後果
 
-**Valvular disease principally takes form of deforming fibrotic mitral stenosis**
-- Rheumatic heart disease is essentially **only cause of acquired mitral stenosis**
+#### 形態學
 
-**Incidence declined remarkably** in many parts of Western world due to improved socioeconomic conditions, rapid diagnosis and treatment of streptococcal pharyngitis, and unexplained decline in virulence of many strains of group A streptococci
+**急性風濕熱**：各組織中的離散發炎灶
 
-**Nevertheless:** In developing countries and economically depressed urban areas in United States, rheumatic fever and rheumatic heart disease remain important public health problems
+**心肌發炎病變 — Aschoff 小體：**
+- **風濕熱的病理學特徵**
+- 淋巴細胞（主要為 T 細胞）、散在漿細胞的聚集
+- 與纖維素樣壞死區相關的胖乎乎的活化巨噬細胞（**Anitschkow 細胞**）
+- Anitschkow 細胞：豐富的細胞質；細胞核染色質濃縮成細長的波浪形帶（「**毛毛蟲細胞**」）
 
-#### Pathogenesis
+**急性風濕熱期間**：Aschoff 小體可在心包、心肌、心內膜（包括瓣膜）三層中的任何一層找到 → 風濕熱引起**全心炎**
 
-**Acute rheumatic fever is a hypersensitivity reaction:**
-- Antibodies directed against group A streptococcal molecules cross-react with host myocardial antigens
-- Antibodies against M proteins of certain streptococcal strains bind to proteins in myocardium and cardiac valves
-- Cause injury through activation of complement and Fc receptor–bearing cells (including macrophages)
-- CD4+ T cells recognizing streptococcal peptides can cross-react with host antigens → cytokine-mediated inflammatory responses
+**顯著特點：**
+- **心包**：可見纖維素性滲出物，通常消退無後遺症
+- **心肌**：心肌炎以間質結締組織中散在的 Aschoff 小體形式出現
+- **瓣膜受累**：小葉閉合線上的纖維素樣壞死與纖維素沉積 → 1-2 mm 贅生物（**疣狀赘生物**）；對心臟功能影響不大
 
-**2-3 week delay in symptom onset after infection:** Time needed to generate immune response; streptococci completely absent from lesions
+**慢性風濕性心臟病：**
+- 急性發炎的機化與隨後的疤痕形成
+- Aschoff 小體被纖維疤痕取代（慢性病中罕見）
+- 最典型的特徵：瓣膜小葉與小葉永久性增厚與攣縮
 
-**Only small minority of infected patients develop rheumatic fever (~3%):** Genetic susceptibility to development of cross-reactive immune responses likely in those affected
+**典型地在二尖瓣中：**
+- 小葉增厚
+- 連合融合與短縮
+- 腱索增厚與融合
 
-**Deforming fibrotic lesions:** Predictable consequence of healing and scarring associated with resolution of acute inflammation
+**纖維橋跨越瓣膜連合與鈣化**：形成「**魚嘴**」或「**鈕扣孔**」狹窄
 
-#### Morphology
+**顯微鏡檢查**：新生血管形成與瀰漫性纖維化，消除了正常小葉結構
 
-**Acute rheumatic fever:** Discrete inflammatory foci within variety of tissues
+**最重要的功能後果**：瓣膜狹窄與逆流；狹窄往往占優勢
 
-**Myocardial inflammatory lesions — Aschoff bodies:**
-- **Pathognomonic** for rheumatic fever
-- Collections of lymphocytes (primarily T cells), scattered plasma cells
-- Plump activated macrophages (**Anitschkow cells**) associated with zones of fibrinoid necrosis
-- Anitschkow cells: abundant cytoplasm; nuclei with chromatin centrally condensed into slender, wavy ribbon ("**caterpillar cells**")
+**瓣膜受累：**
+- 單獨二尖瓣：**70%** 的病例
+- 二尖瓣與主動豚疾病聯合計：**25%**
+- 三尖瓣：較少受累（且較不嚴重）
+- 肺动脉瓣：幾乎總是逃脫損傷
 
-**During acute rheumatic fever:** Aschoff bodies can be found in any of three layers of heart (pericardium, myocardium, endocardium including valves) → rheumatic fever causes **pancarditis**
+**嚴重二尖瓣狹窄時：**
+- 左心房進行性擴張（壓力負荷）
+- 引發**心房顫動**
+- 擴張與顫動的組合是血栓形成的肥沃底物
+- 常見大型壁血栓
+- 長期被動性靜脈充血 → 典型左心衰竭的肺血管與實質改變
+- 最終：右心室肥厚與衰竭
+- **單純二尖瓣狹窄：左心室通常正常**
 
-**Salient features:**
-- **Pericardium:** May exhibit fibrinous exudate, generally resolves without sequelae
-- **Myocardium:** Myocarditis takes form of scattered Aschoff bodies within interstitial connective tissue
-- **Valve involvement:** Fibrinoid necrosis and fibrin deposition along lines of closure → 1-2 mm vegetations (**verrucae**); cause little disturbance in cardiac function
+#### 臨床特徵
 
-**Chronic rheumatic heart disease:**
-- Organization of acute inflammation and subsequent scarring
-- Aschoff bodies replaced by fibrous scar (rarely seen in chronic disease)
-- Most characteristically: valve cusps and leaflets become permanently thickened and retracted
+**急性風濕熱：**
+- 最常見於兒童
+- 主要臨床表現：**心臟炎**
+- 約 20% 的首次發作發生在成人（關節炎為主要特徵）
 
-**Classically in mitral valves:**
-- Leaflet thickening
-- Commissural fusion and shortening
-- Thickening and fusion of chordae tendineae
+**症狀通常在鏈球菌感染後 2-3 週開始：**
+- 以**發燒**與**遊走性多關節炎**為前兆（一個大關節接一個疼痛腫脹，持續數天，然後自發緩解，無殘留功能障礙）
 
-**Fibrous bridging across valvular commissures and calcification:** Create "**fish-mouth**" or "**buttonhole**" stenoses
+**症狀發作時：**
+- 培養對鏈球菌呈陰性
+- 血清中針對鏈球菌抗原（如鏈球菌溶血素 O 或 DNAase）的抗體效價通常升高
 
-**Microscopic examination:** Neovascularization and diffuse fibrosis obliterating normal leaflet architecture
+**心臟炎的臨床體徵：**
+- 心包摩擦音與心律不整
+- 心肌炎可能嚴重到導致心臟擴張及由此產生的功能性二尖瓣逆流與 CHF
+- **不到 1% 的患者死於急性風濕熱**
 
-**Most important functional consequence:** Valvular stenosis and regurgitation; stenosis tends to predominate
+**急性風濕熱的診斷：**
+- 先前鏈球菌感染的 serologic 證據
+- **加上**兩個或多個 Jones 標準：
+  1. 心臟炎
+  2. 大關節的遊走性多關節炎
+  3. 皮下結節
+  4. 紅斑性環形皮疹（邊緣性紅斑）
+  5. Sydenham 舞蹈症（不由自主的神經系統障礙——無目的、快速運動；「聖維特斯舞蹈症」）
 
-**Valve involvement:**
-- Mitral valve alone: **70%** of cases
-- Combined mitral and aortic disease: **25%**
-- Tricuspid valve: less frequently (and less severely) involved
-- Pulmonic valve: almost always escapes injury
+**次要標準**：發燒、關節痛、心電圖改變、急性期反應物升高
 
-**With tight mitral stenosis:**
-- Left atrium progressively dilates (pressure overload)
-- Precipitating **atrial fibrillation**
-- Combination of dilation and fibrillation is fertile substrate for thrombosis
-- Large mural thrombi common
-- Long-standing passive venous congestion → pulmonary vascular and parenchymal changes typical of left-sided heart failure
-- Eventually: right ventricular hypertrophy and failure
-- **With pure mitral stenosis: left ventricle generally normal**
+**初次發作後：**
+- 患者對任何後續鏈球菌感染越來越容易疾病再活化
+- 心臟炎可能在每次復發時加重；損傷是累積的
 
-#### Clinical Features
+**慢性風濕性心臟炎：**
+- 通常在初次發作後數年或數十年才在臨床上明顯
+- 體徵與症狀取決於涉及哪些心臟瓣膜
 
-**Acute rheumatic fever:**
-- Most often in children
-- Principal clinical manifestation: **carditis**
-- ~20% of first attacks occur in adults (arthritis predominant feature)
+**除各種心臟雜音、心臟肥厚與擴張與 CHF 外：**
+- 患者常有心律不整（尤其是二尖瓣狹窄時的心房顫動）
+- 因心房壁血栓導致的血栓栓塞併發症
+- 疤痕累累且變形的瓣膜更容易患**感染性心內膜炎**
 
-**Symptoms typically begin 2-3 weeks after streptococcal infection:**
-- Heralded by **fever** and **migratory polyarthritis** (one large joint after another painful and swollen for days, followed by spontaneous resolution with no residual disability)
+**長期預後差異很大：**
+- 某些病例：瓣膜畸形 → 血流動力學異常 → 進一步變形纖維化的無情循環
+- **手術修復或置換（二尖瓣瓣膜整形術）** 已大大改善前景
 
-**At time of symptom onset:**
-- Cultures negative for streptococci
-- Serum titers of antibodies against streptococcal antigens (e.g., streptolysin O or DNAase) usually elevated
+### 感染性心內膜炎
 
-**Clinical signs of carditis:**
-- Pericardial friction rubs and arrhythmias
-- Myocarditis may be sufficiently severe to cause cardiac dilation and resultant functional mitral insufficiency and CHF
-- **Less than 1% of patients die of acute rheumatic fever**
+**感染性心內膜炎（Infective Endocarditis, IE）**：心臟瓣膜或心壁心內膜的微生物感染，導致由血栓性碎屑與微生物組成的贅生物形成，常伴隨底層心臟組織的破壞
 
-**Diagnosis of acute rheumatic fever:**
-- Serologic evidence of previous streptococcal infection
-- PLUS two or more Jones criteria:
-  1. Carditis
-  2. Migratory polyarthritis of large joints
-  3. Subcutaneous nodules
-  4. Erythematous annular rash (erythema marginatum)
-  5. Sydenham chorea (involuntary neurologic disorder — purposeless, rapid movements; "St. Vitus dance")
+**也可感染**：主動豚、动脉瘤囊、其他血管與人工裝置
 
-**Minor criteria:** Fever, arthralgias, ECG changes, elevated acute phase reactants
+**雖然真菌、立克次體與衣原體種可引起心內膜炎**：絕大多數由細胞外細菌引起
 
-**After initial attack:**
-- Patients increasingly vulnerable to disease reactivation with any subsequent streptococcal infections
-- Carditis likely to worsen with each recurrence; damage cumulative
+#### 分類
 
-**Chronic rheumatic carditis:**
-- Usually not clinically evident until years or decades after initial episode
-- Signs and symptoms depend on which cardiac valve(s) involved
+根據臨床過程的速度與嚴重程度分為**急性**與**亞急性**（與微生物的毒力及是否有潛在心臟疾病相關）
 
-**In addition to various cardiac murmurs, cardiac hypertrophy and dilation, and CHF:**
-- Patients often have arrhythmias (particularly atrial fibrillation with mitral stenosis)
-- Thromboembolic complications due to atrial mural thrombi
-- Scarred and deformed valves more susceptible to **infective endocarditis**
+**急性心內膜炎：**
+- 猛烈、破壞性的感染
+- 常涉及攻擊先前正常瓣膜的高毒力生物
+- 即使有適當的抗生素治療與/或手術，相關發病率與死亡率也很高
 
-**Long-term prognosis highly variable:**
-- Some cases: relentless cycle of valvular deformity → hemodynamic abnormality → further deforming fibrosis
-- **Surgical repair or replacement (mitral valvuloplasty)** has greatly improved outlook
+**亞急性心內膜炎：**
+- 低毒力生物
+- 影響先前異常的心臟（尤其是疤痕或變形的瓣膜）
+- 疾病隱匿
+- 即使未經治療：病程數週至數月的延續
+- 大多數患者在適當抗生素治療後康復
 
-### Infective Endocarditis
+#### 發病機制
 
-**Infective endocarditis (IE):** Microbial infection of heart valves or mural endocardium leading to formation of vegetations composed of thrombotic debris and organisms, often associated with destruction of underlying cardiac tissues
+**可發生在先前正常的瓣膜上**，但心臟異常是危險因素：
+- 風濕性心臟病
+- 二尖瓣脫垂
+- 雙葉主動豚瓣
+- 鈣化性瓣膜狹窄
 
-**Also may infect:** Aorta, aneurysmal sacs, other blood vessels, and prosthetic devices
+**人工心臟瓣膜**：現在佔所有 IE 病例的 **10%-20%**
 
-**Although fungi, rickettsiae, and chlamydial species can cause endocarditis:** Vast majority caused by extracellular bacteria
+**其他危險因素：**
+- 起搏器導線、留置血管導管處的無菌血小板-纖維素沉積
+- 原有心臟病血流「噴射」造成的心內膜損傷
+- 可成為細菌播散與心內膜炎發展的焦點
 
-#### Classification
+**增加風險的宿主因素：**
+- 中性粒細胞減少
+- 免疫缺陷
+- 惡性腫瘤
+- 糖尿病
+- 酒精或靜脈藥物濫用
 
-**Acute vs. subacute** based on tempo and severity of clinical course (related to virulence of microbe and whether underlying cardiac disease present)
+**致病生物因潛在風險因素而異：**
 
-**Acute endocarditis:**
-- Tumultuous, destructive infections
-- Frequently involves highly virulent organism attacking previously normal valve
-- Associated with substantial morbidity and mortality, even with appropriate antibiotic therapy and/or surgery
+| 情境 | 常見致病菌 |
+|------|----------|
+| 受損/變形瓣膜（50%-60% 的病例） | **Streptococcus viridans**（正常口腔菌群） |
+| 高毒力 | **Staphylococcus aureus**（皮膚常見）——攻擊健康與變形瓣膜；靜脈藥物濫用者的主要肇事者 |
+| 其他 | 腸球菌、HACEK 組（Haemophilus、Actinobacillus、Cardiobacterium、Eikenella、Kingella）——口腔共生菌 |
+| 罕見 | 革蘭氏陰性桿菌、真菌 |
+| 培養陰性（約 10%） | 先前抗生素治療、難以分離肇事劑、或生物嵌入贅生物中 |
 
-**Subacute endocarditis:**
-- Organisms of low virulence
-- Affects previously abnormal heart (especially scarred or deformed valves)
-- Disease appears insidiously
-- Even if untreated: follows protracted course of weeks to months
-- Most patients recover after appropriate antibiotic therapy
+**最重要的危險因素：血源性微生物的播散**
 
-#### Pathogenesis
+**入口：**
+- 明顯的感染或其他部位
+- 牙科或外科程序引起暫時性菌血症
+- 將污染物直接注射入血流（靜脈藥物濫用者）
+- 隱匿來源來自腸道或口腔
+- 輕微損傷
 
-**Can develop on previously normal valves,** but cardiac abnormalities predispose:
-- Rheumatic heart disease
-- Mitral valve prolapse
-- Bicuspid aortic valves
-- Calcific valvular stenosis
+**認識易致病的解剖學底物與引起菌血症的臨床情境允許適當的抗生素預防。**
 
-**Prosthetic heart valves:** Now account for **10%-20%** of all IE cases
+#### 形態學
 
-**Other predisposing factors:**
-- Sterile platelet-fibrin deposits at sites of pacemaker lines, indwelling vascular catheters
-- Endocardium damage by flow "jets" from preexisting cardiac disease
-- Can be foci for bacterial seeding and development of endocarditis
+**急性和亞急性形式**：在心臟瓣膜上形成疏鬆、笨重、具有潛在破壞性的贅生物，含纖維素、發炎細胞與微生物
 
-**Host factors increasing risk:**
-- Neutropenia
-- Immunodeficiency
-- Malignancy
-- Diabetes mellitus
-- Alcohol or intravenous drug abuse
+**最常見部位**：主動豚瓣與二尖瓣
 
-**Causative organisms differ depending on underlying risk factors:**
+**三尖瓣**：靜脈藥物濫用情境中的常見目標
 
-| Setting | Common Organisms |
-|---------|------------------|
-| Damaged/deformed valves (50%-60% of cases) | **Streptococcus viridans** (normal oral flora) |
-| More virulent | **Staphylococcus aureus** (common to skin) — attacks healthy AND deformed valves; major offender in IV drug abusers |
-| Additional | Enterococci, HACEK group (Haemophilus, Actinobacillus, Cardiobacterium, Eikenella, Kingella) — oral cavity commensals |
-| Rare | Gram-negative bacilli, fungi |
-| Culture-negative (~10%) | Previous antibiotic therapy, difficulty isolating offending agent, or organisms embedded within vegetations |
+**贅生物可為：**
+- 單個或多個
+- 可能涉及一個以上的瓣膜
+- 可侵蝕到底層心肌 → **膿腫腔（環形膿腫）**
+- 碎片狀赘生物常見（赘生物的疏鬆性質）
+- 碎片化的赘生物含大量微生物 → 血栓在它們停留處形成膿腫
+- 膿性梗塞與**黴菌性动脉瘤**（由细菌感染动脉壁引起）
 
-**Foremost predisposing factor: Seeding of blood with microbes**
+**亞急性心內膜炎**：通常比急性形式對瓣膜的破壞性小
 
-**Portal of entry:**
-- Obvious infection elsewhere
-- Dental or surgical procedure causing transient bacteremia
-- Injection of contaminated material directly into bloodstream (IV drug abusers)
-- Occult source from gut or oral cavity
-- Trivial injuries
+**顯微鏡檢查**：亞急性心內膜炎的赘生物底部常有肉芽組織（提示慢性），促進發炎細胞浸潤、纖維化與隨時間的鈣化
 
-**Recognition of predisposing anatomic substrates and clinical conditions causing bacteremia allows appropriate antibiotic prophylaxis.**
+#### 臨床特徵
 
-#### Morphology
+**發燒是最一致的體徵**
 
-**Both acute and subacute forms:** Friable, bulky, potentially destructive vegetations containing fibrin, inflammatory cells, and microorganisms on heart valves
+**亞急性疾病（尤其是老年人）**：可能無發燒；唯一表現可能是非特異性疲勞、體重減輕、流感樣症候群；脾腫大常見
 
-**Most common sites:** Aortic and mitral valves
+**急性心內膜炎**：迅速出現發燒、寒戰、虛弱、倦怠
 
-**Tricuspid valve:** Frequent target in setting of IV drug abuse
+**左側病變患者 90%** 有心臟雜音
 
-**Vegetations may be:**
-- Single or multiple
-- May involve more than one valve
-- Can erode into underlying myocardium → **abscess cavity (ring abscess)**
-- Shedding of emboli common (friable nature of vegetations)
-- Fragmented vegetations contain large numbers of organisms → abscesses at sites where emboli lodge
-- Septic infarcts and **mycotic aneurysms** (from bacterial infection of arterial wall)
+**不及時治療**：形成的微血栓 → 可導致：
+- 瘀點
+- 指甲床（裂片狀）出血
+- 視網膜出血（**Roth 斑點**）
+- 無痛性手掌或足底紅斑病變（**Janeway 病變**）
+- 疼痛性指尖結節（**Osler 結節**）
 
-**Subacute endocarditis:** Typically causes less valvular destruction than acute form
+**診斷基於**：陽性血培養與超聲心動圖發現
 
-**Microscopic examination:** Vegetations of subacute endocarditis often have granulation tissue at bases (suggesting chronicity), promoting development of chronic inflammatory infiltrates, fibrosis, and calcification over time
+**預後取決於**：感染性生物與併發症的發展
 
-#### Clinical Features
+**不良後遺（通常在發病後最初數週內）：**
+- **腎小球腎炎**——由抗原-抗體複合物在腎小球截留引起 → 血尿、蛋白尿、腎衰竭（Chapter 14）
+- 膿毒血症的臨床特徵
+- 心律不整（提示向下延伸到底層心肌與傳導系統）
+- 全身性栓塞
 
-**Fever is most consistent sign**
+**未經治療的 IE 通常致命**
 
-**Subacute disease (particularly in older adults):** Fever may be absent; only manifestations may be nonspecific fatigue, weight loss, flulike syndrome; splenomegaly common
+**適當的長期（≥6 週）抗生素治療與/或瓣膜置換：**
+- 死亡率降低
+- 低毒力生物（Streptococcus viridans 或 Streptococcus bovis）：**98%** 治愈率
+- 腸球菌與 Staphylococcus aureus：**60%-90%** 治愈率
+- 需氧革蘭氏陰性桿菌或真菌：**約 50%** 死亡率
 
-**Acute endocarditis:** Rapidly developing fever, chills, weakness, lassitude
+### 非感染性疣狀物
 
-**Murmurs present in 90%** of patients with left-sided lesions
+#### 非細菌性血栓性心內膜炎
 
-**Without prompt treatment:** Microemboli formed → can give rise to:
-- Petechiae
-- Nail bed (splinter) hemorrhages
-- Retinal hemorrhages (**Roth spots**)
-- Painless palm or sole erythematous lesions (**Janeway lesions**)
-- Painful fingertip nodules (**Osler nodes**)
+**NBTE**：在有潛在高凝狀態的患者中，於心臟瓣膜上沉積無菌血栓
 
-**Diagnosis confirmed by:** Positive blood cultures and echocardiographic findings
+**替代名稱：Marantic 心內膜炎**
 
-**Prognosis depends on infecting organism and development of complications**
+**可發生在完全健康的個體**，但與一般衰弱或消耗性疾病相關的多種疾病增加風險
 
-**Adverse sequelae (generally within first weeks after onset):**
-- **Glomerulonephritis** due to glomerular trapping of antigen-antibody complexes → hematuria, albuminuria, renal failure (Chapter 14)
-- Clinical features of septicemia
-- Arrhythmias (suggesting extension to underlying myocardium and conduction system)
-- Systemic embolization
+**與感染性心內膜炎相比**：無菌瓣膜病變是**非破壞性的**
 
-**Untreated IE generally fatal**
+**疣狀物**：通常小（1-5 mm 直徑）；瓣膜損傷非先決條件；通常發生在先前正常的瓣膜上
 
-**With appropriate long-term (≥6 weeks) antibiotic therapy and/or valve replacement:**
-- Mortality reduced
-- Low-virulence organisms (Streptococcus viridans or Streptococcus bovis): **98% cure rate**
-- Enterococci and Staphylococcus aureus: **60%-90%** cure rates
-- Aerobic gram-negative bacilli or fungi: **~50%** fatality rate
+**高凝狀態通常是先兆：**
+- 慢性彌散性血管內凝血
+- 高雌激素狀態
+- 潛在惡性腫瘤（尤其是黏液性腺癌）
+  - 與循環黏蛋白與/或腫瘤產生的組織因子引起的促凝作用有關
 
-### Noninfected Vegetations
+**心內膜創傷**（如留置導管）是另一個公認的危險因素
 
-#### Nonbacterial Thrombotic Endocarditis
+**臨床意義：**
+- 對瓣膜的局部影響通常微不足道
+- 可通過產生栓塞變得臨床意義重大 → 腦、心臟、其他器官的梗塞
+- 可成為細菌定植的潛在 nidus → 感染性心內膜炎
 
-**NBTE:** Deposition of sterile thrombi on cardiac valves, typically in those with underlying hypercoagulable state
+#### Libman-Sacks 心內膜炎
 
-**Alternate term: Marantic endocarditis**
+**特徵**：系統性紅斑狼瘡患者瓣膜上的無菌疣狀物
 
-**Can occur in otherwise healthy individuals,** but wide variety of diseases associated with general debility or wasting increase risk
+**發生在約 10%** 的 SLE 患者中
 
-**In contrast to infective endocarditis:** Sterile valvular lesions are **nondestructive**
+**可能作為免疫複合物沉積的後果發育：**
+- 相關發炎
+- 疣狀物相鄰瓣膜的纖維素樣壞死
 
-**Vegetations:** Typically small (1-5 mm in diameter); valvular damage not prerequisite; usually occurs on previously normal valves
+**隨後的纖維化與嚴重畸形可類似慢性風濕性心臟病**
 
-**Hypercoagulable states are usual precursor:**
-- Chronic disseminated intravascular coagulation
-- Hyperestrogenic states
-- Underlying malignancy (particularly mucinous adenocarcinomas)
-  - Related to procoagulant effect of circulating mucin and/or tissue factor elaborated by tumors
+**可發生在任何位置：**
+- 瓣膜表面
+- 腱索上
+- 甚至在心房或心室心內膜上
 
-**Endocardial trauma** (e.g., from indwelling catheter) also recognized predisposing condition
-
-**Clinical significance:**
-- Local effect on valve usually trivial
-- Can become clinically significant by giving rise to emboli → infarcts in brain, heart, other organs
-- Can serve as potential nidus for bacterial colonization → infective endocarditis
-
-#### Libman-Sacks Endocarditis
-
-**Characterized by:** Sterile vegetations on valves of patients with systemic lupus erythematosus
-
-**Occurs in ~10%** of patients with SLE
-
-**Probably develops as consequence of immune complex deposition:**
-- Associated inflammation
-- Fibrinoid necrosis of valve adjacent to vegetation
-- Subsequent fibrosis and serious deformity can resemble chronic rheumatic heart disease
-
-**Can occur anywhere:**
-- On valve surface
-- On cords
-- Even on atrial or ventricular endocardium
-
-**Similar lesions can occur in setting of anti-phospholipid antibody syndrome** (Chapter 4)
-
-### Summary: Valvular Heart Disease
-
-- Valve pathology can lead to occlusion (stenosis) and/or regurgitation (insufficiency); acquired aortic or mitral valve stenosis accounts for approximately two thirds of all valve disease
-- Valve calcification typically results in stenosis; abnormal matrix synthesis and turnover leads to myxomatous degeneration and insufficiency
-- Inflammatory valve diseases cause postinflammatory neovascularization and scarring; rheumatic heart disease results from anti-streptococcal antibodies that cross-react with cardiac tissues; it most commonly affects the mitral valve and is responsible for almost all cases of acquired mitral stenosis
-- Infective endocarditis can rapidly destroy normal valves, or can be indolent and minimally destructive of previously abnormal valves; systemic embolization can produce septic infarcts
-- Nonbacterial thrombotic endocarditis occurs on previously normal valves as a result of hypercoagulable states; embolization is an important complication
+**抗磷脂抗體症候群患者也可發生類似病變**（Chapter 4）
 
 ---
 
-## Cardiomyopathies and Myocarditis
+## Cardiomyopathies and Myitis
 
-**Cardiomyopathies:** Cardiac diseases due to intrinsic myocardial dysfunction
-- **Primary:** Principally confined to myocardium
-- **Secondary:** Cardiac manifestation of systemic disorder
+**心肌病變**：由心肌內在功能障礙引起的心臟疾病
+- **原發性**：主要限於心肌
+- **繼發性**：全身性障礙的心臟表現
 
-**Include:**
-- Inflammatory disorders (e.g., myocarditis)
-- Immunologic diseases (e.g., sarcoidosis)
-- Systemic metabolic disorders (e.g., hemochromatosis)
-- Muscular dystrophies
-- Genetic disorders of myocardial fibers
+**包括：**
+- 發炎性疾病（如心肌炎）
+- 免疫性疾病（如結節病）
+- 全身性代謝疾病（如血鐵質沉積症）
+- 肌肉失養症
+- 心肌纖維的遺傳性疾病
 
-**Many cases of unknown etiology → idiopathic;** however, a number of previously "idiopathic" cardiomyopathies shown to be consequence of specific genetic abnormalities in cardiac energy metabolism or structural/contractile proteins
+**許多病例病因不明 → 特發性**；然而，許多先前被認為是「特發性」的心肌病變已被證實是心臟能量代謝或結構/收縮蛋白特定基因異常的後果
 
-### Classification
+### 分類
 
-**Three time-honored clinical, functional, and pathologic patterns:**
+**三種歷史悠久的臨床、功能與病理模式：**
 
-| Pattern | Frequency | Key Feature |
-|---------|-----------|-------------|
-| **Dilated cardiomyopathy (DCM)** | 90% of cases | Progressive cardiac dilation and systolic dysfunction |
-| **Hypertrophic cardiomyopathy (HCM)** | Less common | Myocardial hypertrophy with diastolic dysfunction |
-| **Restrictive cardiomyopathy** | Least common | Decreased ventricular compliance with diastolic dysfunction |
+| 模式 | 頻率 | 關鍵特徵 |
+|------|------|----------|
+| **擴張型心肌病變（DCM）** | 90% 的病例 | 進行性心臟擴張與收縮功能障礙 |
+| **肥厚型心肌病變（HCM）** | 較少見 | 心肌肥厚伴舒張功能障礙 |
+| **限制型心肌病變** | 最少見 | 心室順應性降低伴舒張功能障礙 |
 
-**Within each pattern:**
-- Spectrum of clinical severity
-- Sometimes clinical features overlap among groups
-- Each can be caused by specific identifiable cause or be idiopathic
+**在每種模式內：**
+- 臨床嚴重程度範圍
+- 有時臨床特徵在各組間重疊
+- 每種都可由特定可識別的原因引起或為特發性
 
-### Dilated Cardiomyopathy
+### 擴張型心肌病變
 
-**Characterized by:**
-- Progressive cardiac dilation
-- Contractile (systolic) dysfunction
-- Usually with concurrent hypertrophy
-- Regardless of cause, clinicopathologic patterns similar
+**特徵：**
+- 進行性心臟擴張
+- 收縮（收縮性）功能障礙
+- 通常同時有肥厚
+- 無論原因為何，臨床病理模式相似
 
-#### Pathogenesis
+#### 發病機制
 
-**Many individuals with DCM have familial (genetic) form**
+**許多 DCM 患者有家族性（遺傳）形式**
 
-**DCM can also result from various acquired myocardial insults:**
+**DCM 也可由各種後天心肌損傷引起：**
 
-- **Myocarditis** (inflammatory disorder preceding development of cardiomyopathy in at least some cases; sometimes caused by viral infections)
+- **心肌炎**（在某些病例中先於心肌病變發生的發炎性疾病；有時由病毒感染引起）
 
-- **Toxicities:**
-  - Chemotherapeutic agents
-  - Chronic alcoholism (history elicited in 10%-20% of patients)
+- **毒性：**
+  - 化療藥物
+  - 慢性酒精中毒（10%-20% 的患者可獲知病史）
 
-- **Pregnancy:** "Peripartum cardiomyopathy"
+- **懷孕**：「围產期心肌病」
 
-- **Stress-provoked**
+- **應激誘發**
 
-- **Tachycardia-induced**
+- **心搏過速誘發**
 
-**By time DCM is diagnosed:** Frequently already progressed to end-stage disease; heart dilated and poorly contractile; at autopsy/transplant, fails to reveal specific pathologic features
+**確診 DCM 時**：通常已進展到晚期；心臟擴張且收縮力差；在屍檢/移植時，未能揭示特定病理特徵
 
-**Nevertheless:** Genetic and epidemiologic studies suggest at least five general pathways can lead to end-stage DCM:
+**然而**：遺傳學與流行病學研究表明，至少有五種一般途徑可導致終末期 DCM：
 
-1. **Genetic causes:**
-   - Hereditary basis in **20%-50%** of cases
-   - Over **50 genes** known to be mutated
-   - **Autosomal dominant inheritance** predominant pattern
-   - Mutations affecting cytoskeletal proteins or proteins linking sarcomere to cytoskeleton (e.g., α-cardiac actin) most commonly involved
-   - **X-linked DCM:** Most frequently associated with mutations in **dystrophin** (cell membrane protein coupling intracellular cytoskeleton to ECM)
-   - Uncommon forms: mutations of mitochondrial proteins involved in oxidative phosphorylation or fatty acid β-oxidation → defective ATP generation
-   - Other genetic forms: mutations in cytoskeletal proteins such as **desmin** (principal intermediate filament protein in cardiac myocytes) and nuclear lamins A and C
-   - Since contractile myocytes and conduction fibers share common developmental pathway, congenital conduction abnormalities also can be feature of inherited forms of DCM
+1. **遺傳原因：**
+   - **20%-50%** 的病例有遺傳基礎
+   - 已知超過 **50 個基因**有突變
+   - **自體顯性遺傳**為主要模式
+   - 最常涉及的突變影響細胞骨架蛋白或連接肌節與細胞骨架的蛋白質（如 α-心臟肌動蛋白）
+   - **X 連鎖 DCM**：最常與 **dystrophin**（將細胞內細胞骨架與細胞外基質耦合的細胞膜蛋白）突變相關
+   - 不常見形式：粒線體蛋白或涉及氧化磷酸化或脂肪酸 β-氧化的蛋白質突變 → ATP 生成缺陷
+   - 其他遺傳形式：細胞骨架蛋白如 **desmin**（心肌細胞的主要中間絲蛋白）與核膜蛋白 A 和 C 的突變
+   - 由於收縮性心肌細胞與傳導纖維共享共同的發育途徑，先天性傳導異常也可成為遺傳性 DCM 的特徵
 
-2. **Infection:**
-   - Nucleic acid "footprints" of coxsackievirus B and other enteroviruses can occasionally be detected in myocardium from late-stage DCM patients
-   - Sequential endomyocardial biopsies have documented instances where infectious myocarditis progressed to DCM
-   - Many cases of DCM attributed to viral infections (even though inflammation absent from end-stage heart)
+2. **感染：**
+   - 偶爾可在終末期 DCM 患者的心肌中檢測到 coxsackievirus B 及其他腸道病毒的核酸「足跡」
+   - 順序性心內膜活檢記錄了感染性心肌炎進展為 DCM 的實例
+   - 許多歸因於病毒感染的 DCM 病例（即使晚期心臟中無發炎）
 
-3. **Alcohol or other toxic exposure:**
-   - Alcohol abuse strongly associated with development of DCM
-   - Alcohol and its metabolites (especially acetaldehyde) have direct toxic effect on myocardium
-   - Chronic alcoholism can be associated with thiamine deficiency → element of beriberi heart disease (Chapter 8)
-   - Other toxic agents: cobalt, particularly **doxorubicin (Adriamycin)** — chemotherapeutic drug
+3. **酒精或其他毒性暴露：**
+   - 酒精 abuse 與 DCM 發展密切相關
+   - 酒精及其代謝物（尤其是乙醛）對心肌有直接毒性作用
+   - 慢性酒精中毒可伴有硫胺素缺乏 → 腳氣病心臟病的組成部分（Chapter 8）
+   - 其他毒性劑：鈷，特別是 **doxorubicin（Adriamycin）**——化療藥物
 
-4. **Peripartum cardiomyopathy:**
-   - Occurs late in gestation or several weeks to months postpartum
-   - **Multifactorial etiology:**
-     - Pregnancy-associated hypertension
-     - Volume overload
-     - Nutritional deficiency
-     - Metabolic derangements (e.g., gestational diabetes)
-     - Immunologic responses
-   - Recent work suggests primary defect is **impaired angiogenesis within myocardium** leading to ischemic injury
-   - Anti-angiogenic cleavage products of prolactin (rises late in pregnancy) and placental-derived antagonists to VEGF implicated
-   - **Fortuitely:** Approximately one half of these patients spontaneously recover normal function
+4. **围產期心肌病：**
+   - 發生在妊娠晚期或產後數週至數月
+   - **多因素病因：**
+     - 妊娠相關高血壓
+     - 容量過負荷
+     - 營養缺乏
+     - 代謝紊亂（如妊娠糖尿病）
+     - 免疫反應
+   - 最新研究表明原發缺陷是心肌內**血管生成受損**導致缺血性損傷
+   - 妊娠晚期升高的泌乳素與胎盤來源的 VEGF 拮抗劑的抗血管生成切割產物被牽扯其中
+   - **幸運的是**：約一半的這些患者自發恢復正常功能
 
-5. **Iron overload:**
-   - Can result from hereditary hemochromatosis (Chapter 16) or multiple transfusions
-   - Can cause restrictive cardiomyopathy due to interstitial fibrosis
-   - **DCM most common manifestation**
-   - Attributed to interference with metal-dependent enzyme systems or injury from iron-mediated production of reactive oxygen species
+5. **鐵過負荷：**
+   - 可由遺傳性血鐵質沉積症（Chapter 16）或多次輸血引起
+   - 可因間質纖維化導致限制型心肌病
+   - **DCM 是最常見的表現**
+   -歸因於對金屬依賴酶系統的干擾或鐵介導的活性氧種產生造成的損傷
 
-#### Morphology
+#### 形態學
 
-- Heart enlarged (up to 2-3 times normal weight) and flabby
-- Dilation of all chambers
-- Because of wall thinning accompanying dilation, ventricular thickness may be less than, equal to, or greater than normal
-- Mural thrombi often present → source of thromboemboli
-- By definition: valvular and vascular lesions (e.g., atherosclerotic coronary artery disease) that can cause cardiac dilation secondarily are absent
+- 心臟擴大（達正常體積的 2-3 倍）且鬆弛
+- 所有心腔擴張
+- 由於擴張伴隨的壁變薄，心室厚度可能小於、等於或大於正常
+- 常有壁血栓 → 血栓栓子的來源
+- 按定義：可繼發性引起心臟擴張的瓣膜與血管病變（如粥狀硬化性冠狀动脉疾病）不存在
 
-**Characteristic histologic abnormalities in DCM (nonspecific):**
-- Most myocytes exhibit hypertrophy with enlarged nuclei
-- Many are attenuated, stretched, and irregular
-- Variable interstitial and endocardial fibrosis
-- Scattered areas of replacement fibrosis (mark previous myocyte ischemic necrosis from hypoperfusion, or footprints of "missed" myocarditis)
+**DCM 的特徵性組織學異常（非特異性）：**
+- 大多數心肌細胞顯示肥厚伴核增大
+- 許多被拉長、伸展且不規則
+- 程度不一的間質與心內膜下纖維化
+- 散在的置換性纖維化區域（標記先前缺血性壞死或「漏報」心肌炎）
 
-**In DCM secondary to iron overload:** Marked accumulation of intramyocardial hemosiderin (demonstrable by Prussian blue staining)
+**繼發於鐵過負荷的 DCM**：可透過 Prussian blue 染色顯示明顯的心肌內血鐵質積累
 
-#### Clinical Features
+#### 臨床特徵
 
-**Fundamental defect:** Ineffective contraction
+**基本缺陷**：無效的收縮
 
-**In end-stage DCM:** Cardiac ejection fraction typically **<25%** (normal: 50%-65%)
+**終末期 DCM**：心臟射出分數通常 **<25%**（正常：50%-65%）
 
-**Secondary mitral regurgitation and abnormal cardiac rhythms common**
+**繼發性二尖瓣逆流與異常心律常見**
 
-**Embolism from intracardiac (mural) thrombi can occur**
+**心內膜（壁）血栓的栓塞可能發生**
 
-**Most commonly diagnosed between 20 and 50 years of age**
+**最常在 20-50 歲之間確診**
 
-**Typically manifests with signs of slowly progressive CHF:**
-- Dyspnea
-- Easy fatigability
-- Poor exertional capacity
+**典型表現為緩慢進行性 CHF 的體徵：**
+- 呼吸困難
+- 容易疲勞
+- 運動能力差
 
-**Prognosis:**
-- **One half of patients die within 2 years**
-- Only **25% survive longer than 5 years**
-- Death usually due to progressive cardiac failure or arrhythmia
+**預後：**
+- **一半的患者在 2 年內死亡**
+- 只有 **25%** 存活超過 5 年
+- 死亡通常由於進行性心衰竭或心律不整
 
-**Treatment:**
-- **Cardiac transplantation** is only definitive treatment
-- Implantation of long-term ventricular assist devices increasingly utilized
-- In some patients, course of mechanical assistance can produce durable regression of cardiac dysfunction
+**治療：**
+- **心臟移植**是唯一確定的治療
+- 長期心室輔助裝置植入越來越多使用
+- 在一些患者中，機械輔助的過程可產生心肌功能障礙的持久逆轉
 
-### Arrhythmogenic Right Ventricular Cardiomyopathy
+### 致心律失常性右心室心肌病變
 
-**Autosomal dominant disorder**
-- Classically manifests with right-sided heart failure and rhythm disturbances
-- Can cause sudden cardiac death
+**自體顯性障礙**
+- 典型表現為右心衰竭與心律不整
+- 可導致心臟驟停
 
-**Prevalence:** Close to 1 in 5000 in adult population (Italy); likely similar in US (may be underreported)
+**發生率**：在成年人中接近 1/5000（義大利）；在美國可能相似（可能漏報）
 
-**Almost 10%** of sudden deaths in athletes ascribed to this entity
+**近 10%** 的運動員猝死歸因於此病
 
-**Morphologically:** Right ventricular wall severely thinned due to myocyte replacement by fatty infiltration and lesser amounts of fibrosis
+**形態上**：右心室壁因心肌細胞被脂肪浸潤與較少纖維化替代而嚴重變薄
 
-**Many causative mutations involve genes encoding:**
-- **Desmosomal junctional proteins** at intercalated disk (e.g., plakoglobin)
-- Proteins interacting with desmosome (e.g., intermediate filament desmin)
+**許多致病突變涉及編碼以下物質的基因：**
+- **間粒連接蛋白**（如 plakoglobin）於插入式磁盤
+- 與 desmosome 相互作用的蛋白質（如中間絲 desmin）
 
-**Thought that myocyte death is caused by desmosomal detachment**, particularly during strenuous exercise
+**認為心肌細胞死亡是由 desmosomal 脫離引起**，特別是在劇烈運動期間
 
-### Hypertrophic Cardiomyopathy
+### 肥厚型心肌病變
 
-**Characterized by:**
-- Myocardial hypertrophy
-- Defective diastolic filling
-- In one third of cases: ventricular outflow obstruction
+**特徵：**
+- 心肌肥厚
+- 舒張功能障礙
+- 三分之一病例：心室流出道阻塞
 
-**Heart:** Thick-walled, heavy, hypercontractile (striking contrast to flabby, poorly contractile heart in DCM)
+**心臟**：厚壁、重、过度收缩（與 DCM 的鬆弛、收缩力差的心臟形成鮮明對比）
 
-**Systolic function usually preserved in HCM;** myocardium does not relax → **primary diastolic dysfunction**
+**收縮功能通常在 HCM 中保留**；心肌不能放鬆 → **原發性舒張功能障礙**
 
-**Needs to be distinguished clinically from disorders causing ventricular stiffness** (e.g., amyloid deposition) **and ventricular hypertrophy** (e.g., aortic stenosis and hypertension)
+**需要在臨床上與以下疾病區分**：引起心室僵硬的疾病（如澱粉樣沉積）與心室肥厚（如主動豚狹窄與高血壓）
 
-#### Pathogenesis
+#### 發病機制
 
-**Most cases caused by missense mutations** in genes encoding proteins forming contractile apparatus
+**大多數病例由收縮裝置蛋白編碼基因的错义突变引起**
 
-**Usual pattern of transmission:** Autosomal dominant with variable expression
+**通常的傳播模式**：具有變異性表現的自體顯性
 
-**Over 400 causative mutations** in 9 different genes identified
+**已鉴定超过 400 個致病突变**在 9 個不同基因中
 
-**All have unifying feature:** All affect sarcomeric proteins and **increase myofilament function**
-- Results in myocyte hypercontractility
-- Increased energy use
-- Net negative energy balance
+**所有突變都有統一特徵**：都影響肌節蛋白，**增加肌節功能**
+- 導致心肌細胞过度收缩
+- 增加能量使用
+- 净負能量平衡
 
-**Sarcomeric proteins most frequently involved:**
-1. **β-myosin heavy chain** (most common)
-2. **Myosin-binding protein C**
+**最常涉及的肌節蛋白：**
+1. **β-肌凝蛋白重鏈**（最常見）
+2. **肌凝蛋白結合蛋白 C**
 3. **Troponin T**
 
-Mutations in these three genes account for **70%-80%** of all HCM cases
+這三個基因的突變佔所有 HCM 病例的 **70%-80%**
 
-**Some genes mutated in HCM also mutated in DCM** (e.g., beta-myosin):
-- In DCM: mutations **depress** motor function
-- In HCM: mutations cause **gain** of function
+**某些在 HCM 中也有突變的基因在 DCM 中也有突变**（如 beta-肌凝蛋白）：
+- 在 DCM：突變**降低**馬達功能
+- 在 HCM：突變導致**功能獲得**
 
-#### Morphology
+#### 形態學
 
-**Marked by:** Massive myocardial hypertrophy **without ventricular dilation**
+**特徵**：大量心肌肥厚**無心室擴張**
 
-**Classically:** Disproportionate thickening of ventricular septum relative to left ventricle free wall ("**asymmetric septal hypertrophy**")
+**典型地**：心室間隔相對於左心室游離壁不成比例增厚（「**非對稱性間隔肥厚**」）
 
-~**10% of HCM cases:** Concentric hypertrophy
+約 **10% 的 HCM 病例**：向心性肥厚
 
-**On longitudinal sectioning:** Ventricular cavity loses usual round-to-ovoid shape → compressed into "**banana-like**" configuration
+**縱向切開時**：心室腔失去通常的圓形至橢圓形 → 被壓縮成「**香蕉狀**」構型
 
-**Anterior mitral leaflet contacts septum during ventricular systole:**
-- Produces plaque in left ventricular outflow tract
-- Thickening of mitral leaflet
-- Correlates with functional left ventricular outflow tract obstruction due to systolic anterior motion of mitral valve
+**前二尖瓣小葉在收缩期接觸間隔：**
+- 在左心室流出道產生斑塊
+- 二尖瓣小葉增厚
+- 與二尖瓣收縮期前向運動引起的功能性左心室流出道阻塞相關
 
-**Characteristic histologic features:**
-- Marked myocyte hypertrophy
-- **Haphazard myocyte (and myofiber) disarray**
-- **Interstitial fibrosis**
+**特徵性組織學特徵：**
+- 明顯的心肌細胞肥厚
+- **心肌細胞（和肌纖維）混乱排列**
+- **間質纖維化**
 
-#### Clinical Features
+#### 臨床特徵
 
-**Can present at any age;** typically manifests during postpubertal growth spurt
+**可在任何年齡出現**；通常在青春期後生長突增期間出現
 
-**Clinical symptoms best understood in context of functional abnormalities:**
+**臨床症狀最好在功能異常的背景下理解：**
 
-**Characterized by:**
-- Massive left ventricular hypertrophy
-- Paradoxically: **markedly reduced stroke volume**
-  - Consequence of impaired diastolic filling and overall smaller chamber size
-  - ~25% of patients have dynamic obstruction to left ventricular outflow by anterior mitral leaflet
+**特徵：**
+- 大量左心室肥厚
+- 反諷地：**每搏輸出量嚴重減少**
+  - 舒張功能障礙與整體較小心腔大小的後果
+  - 約 25% 的患者有二尖瓣前葉引起的左心室流出道的動態阻塞
 
-**Reduced cardiac output and secondary increase in pulmonary venous pressure cause:**
-- **Exertional dyspnea**
-- Harsh systolic ejection murmur
+**減少的心輸出與繼發性肺靜脈壓力增加導致：**
+- **運動性呼吸困難**
+- 粗糙的收縮期噴射性心雜音
 
-**Combination of:**
-- Massive hypertrophy
-- High left ventricular pressures
-- Compromised intramural arteries
+**組合：**
+- 大量肥厚
+- 高左心室壓力
+- 受損的壁內动脉
 
-**Frequently leads to myocardial ischemia (angina),** even in absence of concomitant CAD
+**即使無合併 CAD，也常導致心肌缺血（心絞痛）**
 
-**Major clinical problems:**
-- Atrial fibrillation with mural thrombus formation
-- **Ventricular fibrillation leading to sudden cardiac death**
-- Infectious endocarditis of mitral valve
+**主要臨床問題：**
+- 伴壁血栓形成的心房顫動
+- **可導致心臟驟停的心室顫動**
+- 二尖瓣的感染性心內膜炎
 - CHF
 
-**Most patients' symptoms improved by therapy promoting ventricular relaxation**
+**大多數患者的症狀通過促進心室舒張的治療得到改善**
 
-**Partial surgical excision or controlled alcohol-induced infarction of septal muscle** can relieve outflow tract obstruction
+**部分手術切除或可控酒精誘導的間隔肌肉梗塞**可緩解流出道阻塞
 
-**HCM is important cause of sudden cardiac death:**
-- In almost **one third of cases of sudden cardiac death in athletes younger than 35 years**, underlying cause is HCM
+**HCM 是心臟驟停的重要原因：**
+- 在 **不到 35 歲的猝死運動員中，近三分之一**的根本原因是 HCM
 
-### Restrictive Cardiomyopathy
+### 限制型心肌病變
 
-**Characterized by:** Primary decrease in ventricular compliance → impaired ventricular filling during diastole (wall is stiffer)
+**特徵**：原發性心室順應性降低 → 舒張期心室充盈受損（壁更僵硬）
 
-**May be idiopathic** or associated with systemic diseases affecting myocardium:
-- Radiation fibrosis
-- Amyloidosis
-- Sarcoidosis
-- Products of inborn errors of metabolism
+**可為特發性**或與全身性疾病相關：
+- 放射性纖維化
+- 澱粉樣變性
+- 結節病
+- 先天性代謝錯誤的產物
 
-**Three forms merit brief mention:**
+**三種形式值得簡要提及：**
 
-#### 1. Amyloidosis
+#### 1. 澱粉樣變性
 
-**Caused by:** Deposition of extracellular proteins with predilection for forming insoluble β-pleated sheets (Chapter 5)
+**由**：對形成不溶性 β-摺板 sheets 有親和力的細胞外蛋白質沉積引起（Chapter 5）
 
-**Cardiac amyloidosis can occur:**
-- In setting of systemic amyloidosis (e.g., multiple myeloma)
-- Predominantly restricted to heart (e.g., **senile cardiac amyloidosis**)
+**心臟澱粉樣變性可發生在：**
+- 全身性澱粉樣變性的背景下（如多發性骨髓瘤）
+- 主要限於心臟（如**老年心臟澱粉樣變性**）
 
-**Senile cardiac amyloidosis:**
-- Deposition of normal (or mutant) forms of **transthyretin** (liver-synthesized circulating protein transporting thyroxine and retinol)
-- In hearts of older adult patients → restrictive cardiomyopathy
-- **4% of African Americans** carry specific mutation of transthyretin increasing risk of cardiac amyloidosis over fourfold
+**老年心臟澱粉樣變性：**
+- 沉積正常（或突變）形式的**甲狀腺素運載蛋白**（由肝臟合成的循環蛋白，轉運甲狀腺素與視黃醇）
+- 在老年患者的心臟中 → 限制型心肌病
+- **4% 的非裔美國人**攜帶增加心臟澱粉樣變性風險超過四倍的甲狀腺素運載蛋白特定突變
 
-**Besides depositing as amyloid:** Immunoglobulin light-chains in AL-type amyloid are **directly cardiotoxic** and can induce myocardial dysfunction
+**除了沉積為澱粉樣外**：免疫球蛋白輕鏈在 AL 型澱粉樣中是**直接心臟毒性**的，可誘導心肌功能障礙
 
-#### 2. Endomyocardial Fibrosis
+#### 2. 心內膜下心肌纖維化
 
-**Principally a disease of children and young adults in Africa and other tropical areas**
+**主要是非洲及其他熱帶地區兒童與青年的疾病**
 
-**Characterized by:** Dense diffuse fibrosis of ventricular endocardium and subendocardium
-- Often involving tricuspid and mitral valves
-- Fibrous tissue markedly diminishes volume and compliance of affected chambers → restrictive physiology
+**特徵**：心室心內膜與心內膜下的緻密瀰漫性纖維化
+- 常涉及三尖瓣與二尖瓣
+- 纖維組織顯著減少受累心腔的體積與順應性 → 限制型生理
 
-**Linked to:**
-- Nutritional deficiencies
-- Inflammation related to helminthic infections (e.g., hypereosinophilia)
+**與以下相關：**
+- 營養缺乏
+- 與蠕蟲感染相關的發炎（如嗜酸性粒細胞增多症）
 
-**Worldwide:** Most common form of restrictive cardiomyopathy
+**全球**：最常見的限制型心肌病形式
 
-#### 3. Loeffler Endomyocarditis
+#### 3. Loeffler 心內膜心肌炎
 
-**Also exhibits:** Endocardial fibrosis, typically with formation of large mural thrombi
+**也表現**：心內膜纖維化，通常伴大型壁血栓
 
-**No geographic or population predilection**
+**無地理或人群偏愛**
 
-**Characterized by:**
-- Peripheral **hypereosinophilia**
-- Eosinophilic tissue infiltrates
-- Release of eosinophil granule contents (especially major basic protein) probably engenders endocardial and myocardial necrosis → scarring → layering of endocardium by thrombus → thrombus organization
+**特徵：**
+- 周邊**嗜酸性粒細胞增多**
+- 嗜酸性粒細胞組織浸潤
+- 嗜酸性粒細胞顆粒內容物（尤其是主要鹼性蛋白）的釋放可能引起心內膜與心肌壞死 → 纖維化 → 心內膜被血栓覆蓋 → 血栓機化
 
-**Some patients have underlying hypereosinophilic myeloproliferative neoplasm** driven by gene rearrangements leading to expression of constitutively active tyrosine kinases (Chapter 12)
+**部分患者有潛在的嗜酸性粒細胞增多性骨髓增殖性腫瘤**，由導致組成性活性酪氨酸激酶表達的基因重排驅動（Chapter 12）
 
-**Treatment with tyrosine kinase inhibitors** can result in hematologic remission and reversal of endomyocardial lesions
+**酪氨酸激酶抑制劑治療**可導致血液學緩解與心內膜病變的逆轉
 
-#### Morphology
+#### 形態學
 
-**In restrictive cardiomyopathy:**
-- Ventricles of approximately normal size or only slightly enlarged
-- Cavities not dilated
-- Myocardium is firm
-- Both atria typically dilated (consequence of restricted ventricular filling and pressure overloads)
+**限制型心肌病：**
+- 心室大小約正常或僅輕微增大
+- 心腔不擴張
+- 心肌堅硬
+- 兩個心房通常擴張（受限心室充盈與壓力負荷的後果）
 
-**Microscopic examination:** Variable degrees of interstitial fibrosis
+**顯微鏡檢查**：程度不一的間質纖維化
 
-**Gross morphologic findings similar for disparate causes;** endomyocardial biopsy often can reveal specific etiology
+**不同原因的 gross 形態學發現相似**；心內膜活檢常可揭示特定病因
 
-### Myocarditis
+### 心肌炎
 
-**Encompasses diverse group of clinical entities** in which infectious agents and/or inflammatory processes target myocardium
+**涵蓋臨床實體的多樣群體**，其中感染性因子與/或發炎過程瞄準心肌
 
-**Important to distinguish myocarditis from conditions like IHD** where inflammatory process is secondary to some other cause of myocardial injury
+**重要的是將心肌炎與以下疾病區分**：IHD 等，心肌的發炎過程是繼發於其他一些損傷原因的
 
-#### Pathogenesis
+#### 發病機制
 
-**In United States:** **Viral infections most common cause**
-- Coxsackieviruses A and B and other enteroviruses account for majority
-- Cytomegalovirus (CMV), HIV, influenza virus less common
+**在美國**：**病毒感染是最常見的原因**
+- Coxsackieviruses A 與 B 及其他腸道病毒佔大多數
+- 巨細胞病毒（CMV）、HIV、流感病毒較少見
 
-**Offending agents identified by:**
-- Serologic studies showing rising antibody titers
-- Molecular diagnostic techniques using infected tissues
+**肇事因子透過以下方式確認：**
+- 顯示效價上升的血清學研究
+- 使用感染組織的分子診斷技術
 
-**Mechanisms:**
-- Some viruses cause direct cell death
-- In most cases: injury results from immune response directed against virally infected cells (analogous to damage by virus-specific T cells on hepatitis virus–infected liver cells)
-- In some cases: viruses trigger reaction against cross-reacting proteins (e.g., myosin heavy chain)
+**機制：**
+- 有些病毒直接造成細胞死亡
+- 在大多數情況下：損傷是由針對病毒感染細胞的免疫反應引起的（類似於肝炎病毒感染肝細胞的病毒特異性 T 細胞損傷）
+- 在某些情況下：病毒觸發對交叉反應蛋白的反應（如肌凝蛋白重鏈）
 
-**Nonviral infectious causes span the microbial world:**
+**非病毒性感染原因涵蓋微生物世界：**
 
-- **Protozoan Trypanosoma cruzi:** Agent of Chagas disease
-  - Uncommon in northern hemisphere
-  - Affects up to **one half of population** in endemic areas of South America
-  - Myocardial involvement in vast majority
-  - ~10% of patients die during acute attack
-  - Others: chronic immune-mediated phase with progressive CHF and arrhythmia **10-20 years later**
+- **原生動物 Trypanosoma cruzi**：Chagas 病的病原體
+  - 在北半球少見
+  - 在南美洲地方性流行區影響高達**一半的人口**
+  - 絕大多數有心肌受累
+  - 約 10% 的患者在急性發作期間死亡
+  - 其他：在 10-20 年後出現慢性免疫介導期，伴有進行性 CHF 與心律不整
 
-- **Toxoplasma gondii:** Can cause myocarditis, particularly in immunocompromised individuals (household cats most common vector)
+- **Toxoplasma gondii**：可引起心肌炎，尤其是在免疫功能受損的個體中（家貓是最常見的媒介）
 
-- **Trichinosis:** Most common helminthic disease associated with cardiac involvement
+- **旋毛蟲病**：與心臟受累相關的最常見蠕蟲病
 
-- **Lyme disease:** ~5% of patients have myocarditis (caused by bacterial spirochete *Borrelia burgdorferi*)
-  - Manifests primarily as self-limited conduction system disease
-  - Frequently requires temporary pacemaker insertion
+- **萊姆病**：約 5% 的患者有心肌炎（由细菌螺旋體 *Borrelia burgdorferi* 引起）
+  - 主要表現為自限性傳導系統疾病
+  - 常需要臨時起搏器植入
 
-**Noninfectious causes:**
-- Systemic diseases of immune origin (e.g., systemic lupus erythematosus, polymyositis)
-- Drug hypersensitivity reactions affecting heart (hypersensitivity myocarditis) — can occur with wide range of agents
-  - Typically benign
-  - Rarely leads to CHF or sudden death
+**非感染性原因：**
+- 免疫原性全身性疾病（如系統性紅斑狼瘡、多發性肌炎）
+- 影響心臟的藥物過敏反應（過敏性心肌炎）——可由多種藥物引起
+  - 通常良性
+  - 很少導致 CHF 或心臟驟停
 
-#### Morphology
+#### 形態學
 
-**Acute myocarditis:**
-- Heart may appear normal or dilated
-- In advanced stages: myocardium typically flabby, often mottled with pale and hemorrhagic areas
-- Mural thrombi may be present
+**急性心肌炎：**
+- 心臟可能看起來正常或擴張
+- 在晚期：心肌通常鬆弛，常有蒼白與出血區域的斑駁
+- 可能有壁血栓
 
-**Microscopically:** Edema, interstitial inflammatory infiltrates, myocyte injury
+**顯微鏡下**：水腫、間質發炎浸潤、心肌細胞損傷
 
-- **Diffuse lymphocytic infiltrate most common** (inflammatory involvement often patchy — can be "missed" on endomyocardial biopsy)
-- If patient survives acute phase: lesions may resolve without significant sequelae or heal by progressive fibrosis
+- **瀰漫性淋巴細胞浸潤最常見**（發炎通常為斑片狀——可能在心內膜活檢上「漏報」）
+- 若患者存活急性期：病變可能消退無明顯後遺症或以進行性纖維化癒合
 
-**Hypersensitivity myocarditis:**
-- Interstitial and perivascular infiltrates composed of lymphocytes, macrophages, and **high proportion of eosinophils**
+**過敏性心肌炎：**
+- 由淋巴細胞、巨噬細胞與**高比例嗜酸性粒細胞**組成的間質與血管周圍浸潤
 
-**Giant cell myocarditis:**
-- Morphologically distinctive
-- Characterized by widespread inflammatory cell infiltrates containing **multinucleate giant cells** (formed by macrophage fusion)
-- Probably represents aggressive end of spectrum of lymphocytic myocarditis
-- At least focal (and frequently extensive) necrosis
-- **Carries poor prognosis**
+**巨大细胞心肌炎：**
+- 形態學上獨特
+- 以含有**多核巨細胞**（由巨噬細胞融合形成）的廣泛發炎細胞浸潤為特征
+- 可能代表淋巴細胞性心肌炎的積極一端
+- 至少局部（且常廣泛）壞死
+- **預後差**
 
-**Chagas myocarditis:**
-- Parasitization of scattered myofibers by trypanosomes
-- Accompanied by inflammatory infiltrate of neutrophils, lymphocytes, macrophages, occasional eosinophils
+**Chagas 心肌炎：**
+- 散在的心肌纖維被錐蟲寄生
+- 伴有中性粒細胞、淋巴細胞、巨噬細胞、偶有嗜酸性粒細胞的發炎浸潤
 
-#### Clinical Features
+#### 臨床特徵
 
-**Broad clinical spectrum:**
-- At one end: disease is asymptomatic; patients recover without sequelae
-- At other extreme: precipitous onset of heart failure or arrhythmias, occasionally with sudden death
-- Many levels between with various signs and symptoms (fatigue, dyspnea, palpitations, pain, fever)
+**廣泛的臨床範圍：**
+- 一端：疾病無症狀；患者康復無後遺症
+- 另一端：突然出現心衰竭或心律不整，偶有心臟驟停
+- 中間有許多程度，表現各異（疲勞、呼吸困難、心悸、疼痛、發燒）
 
-**Clinical features can mimic acute MI**
+**臨床特徵可類似急性 MI**
 
-**Occasionally:** Clinical progression from myocarditis to DCM
+**偶爾**：從心肌炎到 DCM 的臨床進展
 
-### Other Causes of Myocardial Disease
+### 心臟毒性藥物
 
-#### Cardiotoxic Drugs
+**癌症治療的心臟併發症是重要的臨床問題**
 
-**Cardiac complications of cancer therapy are important clinical problem**
+**與以下相關的心臟毒性：**
+- 傳統化療藥物
+- 標靶藥物（如酪氨酸激酶抑制劑）
+- 某些形式的免疫治療（如免疫檢查點抑制）
 
-**Cardiotoxicity associated with:**
-- Conventional chemotherapeutic agents
-- Targeted drugs (e.g., tyrosine kinase inhibitors)
-- Certain forms of immunotherapy (e.g., immune checkpoint blockade)
+**Anthracyclines doxorubicin 與 daunorubicin**：最常與毒性心肌損傷相關
+- 常呈現為擴張型心肌病變與心衰竭
+- **劑量依賴性**（在總劑量超過 **500 mg/m²** 時，心臟毒性越來越頻繁）
+- 主要歸因於心肌細胞膜的脂质过氧化
 
-**Anthracyclines doxorubicin and daunorubicin:** Most frequently associated with toxic myocardial injury
-- Often takes form of dilated cardiomyopathy and heart failure
-- **Dose-dependent** (cardiotoxicity progressively more frequent above total dose of **500 mg/m²**)
-- Attributed primarily to peroxidation of lipids in myocyte membranes
+**許多其他藥物被牽扯**（鋰、酚噻嗪、氯喹）：有時導致心肌損傷與心臟驟停
 
-**Many other agents implicated** (lithium, phenothiazines, chloroquine): Sometimes cause myocardial injury and sudden death
+**這些化學藥物和藥物損傷的心臟常見發現：**
+- 肌纖維腫脹
+- 細胞質空泡化
+- 脂肪變性
 
-**Common findings in hearts injured by many of these chemicals and drugs:**
-- Myofiber swelling
-- Cytoplasmic vacuolization
-- Fatty change
+**停用此類藥物**可導致完全緩解，無明顯後遺症
 
-**Discontinuing such agents** can lead to complete resolution with no apparent sequelae
+**更廣泛的損傷**導致心肌細胞壞死 → 擴張型心肌病變
 
-**More extensive damage** produces myocyte necrosis → dilated cardiomyopathy
+### 兒茶酚胺
 
-#### Catecholamines
+**伴有收縮帶的心肌壞死灶：**
+- 常伴有稀疏的單核細胞浸潤（主要為巨噬細胞）
+- 可發生在有**嗜鉻細胞瘤**（分泌兒茶酚胺的腫瘤，Chapter 20）的個體中
 
-**Foci of myocardial necrosis with contraction bands:**
-- Often associated with sparse mononuclear inflammatory infiltrate (mostly macrophages)
-- Can occur in individuals with **pheochromocytoma** (tumor elaborating catecholamines, Chapter 20)
+**類似變化可發生在各種藥物（內源性或外源性）中：**
+- 可卡因
+- 高劑量麻黃鹼（許多感冒/過敏製劑中的擬交感神經藥）
+- 顱內病變引起的強烈自主刺激
+- 如多巴胺等血管加壓劑
 
-**Similar changes can occur with variety of agents (endogenous or exogenous):**
-- Cocaine
-- High doses of ephedrine (adrenergic agent in many cold/allergy formulations)
-- Intense autonomic stimulation secondary to intracranial lesions
-- Vasopressor agents such as dopamine
+**兒茶酚胺心臟毒性的機制（不確定）：**
+- 要么是通過鈣超載對心肌細胞的直接毒性
+- 要么是在心率增加的情況下血管收縮
 
-**Mechanism of catecholamine cardiotoxicity (uncertain):**
-- Either direct toxicity on cardiac myocytes via calcium overload
-- Or vasoconstriction in face of increased heart rate
-
-**Mononuclear cell infiltrate** probably reaction to microscopic foci of myocyte cell death
-
-### Summary: Cardiomyopathies and Myocarditis
-
-- Cardiomyopathy refers to intrinsic cardiac muscle disease; there may be specific causes, or it may be idiopathic
-- The three general pathophysiologic categories of cardiomyopathy are dilated (accounting for 90% of cases), hypertrophic, and restrictive (least common)
-- **DCM** results in systolic (contractile) dysfunction; causes include myocarditis, toxic exposures (e.g., alcohol), and pregnancy; in 20%-50% of cases, mutations affecting cytoskeletal proteins are responsible
-- **HCM** results in diastolic (relaxation) dysfunction; virtually all cases are due to autosomal dominant mutations in proteins that make up the contractile apparatus, in particular β-myosin heavy chain
-- **Restrictive cardiomyopathy** results in a stiff, noncompliant myocardium and can be due to depositions (e.g., amyloid), increased interstitial fibrosis (e.g., due to radiation), or endomyocardial scarring
-- **Arrhythmogenic right ventricular cardiomyopathy** is an autosomal dominant disorder of cardiac muscle that manifests with right-sided heart failure and rhythm disturbances that can cause sudden cardiac death in athletes
-- **Myocarditis** is an inflammatory disorder caused by infections or immune reactions; coxsackieviruses A and B are most common pathogens in United States; clinically, myocarditis may be asymptomatic, give rise to acute heart failure, or evolve to DCM
+**單核細胞浸潤**可能是對顯微鏡下心肌細胞死亡灶的反應
 
 ---
 
 ## Pericardial Disease
 
-**Pericardial lesions typically associated with:**
-- Pathologic process elsewhere in heart or surrounding structures
-- Secondary to systemic disorder
+**心包病變通常與：**
+- 心臟其他部分或周圍結構的病理過程相關
+- 或繼發於全身性疾病
 
-**Pericardial disorders include:** Effusions and inflammatory conditions, sometimes resulting in fibrous constriction
+**心包疾病包括**：積液與發炎情況，有時導致纖維性縮窄
 
-### Pericardial Effusion and Hemopericardium
+### 心包積液與心包積血
 
-**Normally:** Pericardial sac contains <50 cc of thin, clear, straw-colored fluid
+**正常情況**：心包囊含有 <50 cc 的淡黃色透明液體
 
-**Under various circumstances:** Pericardial sac may be distended by:
-- **Serous fluid** (pericardial effusion)
-- **Blood** (hemopericardium)
-- **Pus** (purulent pericarditis)
+**在不同情況下**：心包囊可被以下擴張：
+- **漏出液**（心包積液）
+- **血液**（心包積血）
+- **脓**（化脓性心包炎）
 
-**Causes of pericardial effusions:**
+**心包積液的原因：**
 
-| Type | Causes |
-|------|--------|
-| **Serous** | Congestive heart failure, hypoalbuminemia of any cause |
-| **Serosanguineous** | Blunt chest trauma, malignancy, ruptured MI, aortic dissection |
-| **Chylous** | Mediastinal lymphatic obstruction |
+| 類型 | 原因 |
+|------|------|
+| **漏出性** | 鬱血性心衰竭、低蛋白血症（任何原因） |
+| **血清血液性** | 鈍性胸部創傷、惡性腫瘤、破裂的 MI、主動豚夾層 |
+| **乳糜性** | 縱隔淋巴結阻塞 |
 
-**With long-standing cardiac enlargement or slowly accumulating fluid:** Pericardium has time to dilate
-- Chronic pericardial effusions can become quite large without interfering with cardiac function
-- With chronic effusions <500 cc: only clinical significance is characteristic globular enlargement of heart shadow on chest radiograph
+**長期心臟擴大或緩慢積聚的液體**：心包有時間擴張
+- 慢性心包積液可變得相當大而不干擾心臟功能
+- 慢性積液 <500 cc：唯一的臨床意義是胸部 X 光上心臟影的特徵性球形增大
 
-**In contrast:** Rapidly developing fluid collections of **200-300 cc** (e.g., due to hemopericardium from ruptured MI or aortic dissection) can produce clinically devastating compression of thin-walled atria and venae cavae or ventricles
-- Cardiac filling restricted → potentially fatal **cardiac tamponade**
+**對比**：快速形成的液體積聚 **200-300 cc**（如由破裂的 MI 或主動豚夾層引起的心包積血）可對薄壁心房與腔靜脈或心室造成臨床壓迫
+- 心臟充盈受限 → 潛在致命的**心包填塞**
 
-### Pericarditis
+### 心包炎
 
-**Primary pericarditis uncommon** — typically due to viral infection (often with concurrent myocarditis)
+**原發性心包炎罕見**——通常由病毒感染引起（常伴同樣的心肌炎）
 
-**Bacteria, fungi, or parasites may also be involved**
+**細菌、真菌或寄生蟲也可能參與**
 
-**In most cases:** Pericarditis secondary to acute MI or cardiac surgery ("Dressler's syndrome"), radiation to mediastinum, or processes involving other thoracic structures (e.g., pneumonia, pleuritis)
+**在大多數情況下**：心包炎是急性 MI 或心臟手術（「Dressler 症候群」）、纵隔放療或涉及胸部其他結構的過程（如肺炎、胸膜炎）的继发表现
 
-**Uremia:** Most common systemic disorder associated with pericarditis
+**尿毒症**：與心包炎相關的最常見全身性疾病
 
-**Less common secondary causes:**
-- Rheumatic fever
-- Systemic lupus erythematosus
-- Metastatic malignancies
+**較少見的繼發原因：**
+- 風濕熱
+- 系統性紅斑狼瘡
+- 轉移性惡性腫瘤
 
-**Pericarditis can:**
-1. Cause immediate hemodynamic complications if elicits large effusion (cardiac tamponade)
-2. Resolve without significant sequelae
-3. Progress to chronic fibrosing process
+**心包炎可：**
+1. 如果引起大量積液，立即產生血流動力學併發症（心包填塞）
+2. 消退無明顯後遺症
+3. 進展為慢性纖維化過程
 
-#### Morphology
+#### 形態學
 
-**Acute viral pericarditis or uremia:** Exudate typically fibrinous
-- Imparts irregular, shaggy appearance to pericardial surface ("**bread and butter**" pericarditis)
+**急性病毒性心包炎或尿毒症**：滲出物通常為纖維素性
+- 給予心包表面不規則、蓬鬆的外觀（「**麵包與奶油**」心包炎）
 
-**Acute bacterial pericarditis:** Exudate fibrinopurulent (suppurative), often with areas of frank pus
-- Tuberculous pericarditis can exhibit areas of caseation
+**急性细菌性心包炎**：滲出物為纖維素-膿性（化脓性），常有膿的區域
+- 結核性心包炎可見壞死區
 
-**Pericarditis due to malignancy:** Often associated with exuberant, shaggy fibrinous exudate and bloody effusion
-- Metastases can be grossly evident as irregular excrescences or may be grossly inapparent (especially in leukemia)
+**惡性腫瘤引起的心包炎**：常伴有旺盛的纖維素性滲出物與血性積液
+- 轉移可在屍檢時作為不規則赘生物明顯，或可能完全不明顯（尤其是白血病時）
 
-**In most cases:** Acute fibrinous or fibrinopurulent pericarditis resolves without sequelae
+**在大多數情況下**：急性纖維素性或纖維素-膿性心包炎消退無後遺症
 
-**With extensive suppuration or caseation:** Healing can result in fibrosis (chronic pericarditis)
+**有廣泛化脓或壞死時**：癒合可導致纖維化（慢性心包炎）
 
-**Chronic pericarditis:**
-- May be associated with delicate adhesions or dense, fibrotic scars obliterating pericardial space
-- In extreme cases: heart completely encased by dense fibrosis → cannot expand normally during diastole → **constrictive pericarditis**
+**慢性心包炎：**
+- 可能伴有精細粘連或緻密、纖維化疤痕，關閉心包空間
+- 在極端情況下：心臟完全被緻密纖維化包裹 → 在舒張期無法正常擴張 → **限制性心包炎**
 
-#### Clinical Features
+#### 臨床特徵
 
-**Classically manifests with:**
-- Atypical chest pain (not related to exertion, worse in recumbency)
-- Prominent friction rub
+**典型表現為：**
+- 非典型胸痛（與運動無關，臥位時更嚴重）
+- 明顯的心包摩擦音
 
-**When associated with significant fluid accumulation:**
-- Acute pericarditis can cause cardiac tamponade → declining cardiac output → consequent shock
+**當伴有明顯液體積聚時：**
+- 急性心包炎可引起心包填塞 → 心輸出下降 → 隨之休克
 
-**Chronic constrictive pericarditis:**
-- Produces combination of right-sided venous distention and low cardiac output
-- Similar clinical picture to restrictive cardiomyopathy
+**慢性限制性心包炎：**
+- 產生右側靜脈擴張與低心輸出的組合
+- 與限制型心肌病變的臨床表現相似
 
 ---
 
 ## Cardiac Tumors
 
-### Primary Neoplasms
+### 原發性腫瘤
 
-**Primary cardiac tumors are uncommon** — most are (fortunately) benign
+**原發性心臟腫瘤少見**——大多數是（幸運地）良性的
 
-**Five most common (no malignant potential)** — account for **80%-90%** of all primary heart tumors:
-1. **Myxomas**
-2. **Fibromas**
-3. **Lipomas**
-4. **Papillary fibroelastomas**
-5. **Rhabdomyomas**
+**五種最常見的（無惡性潛能）**——佔所有原發性心臟腫瘤的 **80%-90%**：
+1. **黏液瘤（Myxomas）**
+2. **纖維瘤（Fibromas）**
+3. **脂肪瘤（Lipomas）**
+4. **乳頭狀纖維彈性瘤（Papillary fibroelastomas）**
+5. **横紋肌瘤（Rhabdomyomas）**
 
-**Most common primary malignant tumor of heart:** **Angiosarcomas**
+**心臟最常見的原發性惡性腫瘤**：**血管肉瘤（Angiosarcomas）**
 
-**Only myxomas and rhabdomyomas merit further mention:**
+**只需要進一步提及黏液瘤與横紋肌瘤：**
 
-#### Myxomas
+#### 黏液瘤
 
-**Most common primary tumors of adult heart**
+**成人心臟最常見的原發性腫瘤**
 
-**~90% are atrial:**
-- Left atrium accounts for **80%** of those
+**約 90% 位於心房：**
+- 左心房佔 **80%**
 
-#### Rhabdomyomas
+#### 横紋肌瘤
 
-**Most frequent primary tumors of heart in infants and children**
-- Frequently discovered owing to valvular or outflow obstruction
+**嬰兒與兒童心臟最常見的原發性腫瘤**
+- 常因瓣膜或流出道阻塞而被發現
 
-**Occur with high frequency in patients with tuberous sclerosis** (mutations in TSC1 or TSC2 tumor suppressor genes)
-- Loss of TSC-1 and TSC-2 activity leads to myocyte overgrowth
+**在結節性硬化症患者中以高頻率發生**（TSC1 或 TSC2 腫瘤抑制基因突變）
+- TSC-1 與 TSC-2 活性喪失導致心肌細胞過度生長
 
-**Often regress spontaneously** → sometimes considered hamartomas rather than true neoplasms
-- Not all cardiac rhabdomyomas occurring in patients with tuberous sclerosis are clonal
+**常自發消退**——有時被認為是 hamartomas 而非真正的腫瘤
+- 並非所有發生在結節性硬化症患者中的心臟横紋肌瘤都是克隆性的
 
-#### Morphology
+#### 形態學
 
-**Myxomas:**
-- Almost always single
-- Classically arise in region of fossa ovalis (atrial septum)
-- Can be small (<1 cm) or massive (up to 10 cm across)
-- Sessile or pedunculated masses
-- Most often: soft, translucent, villous lesions with gelatinous appearance
-- Pedunculated forms: sufficiently mobile to swing into mitral or tricuspid valve during systole → intermittent obstruction or "wrecking ball" effect damaging valve leaflets
+**黏液瘤：**
+- 幾乎總是單個
+- 典型地位於卵圓窩區域（心房間隔）
+- 可小（<1 cm）或大（達 10 cm）
+- 無柄或有柄的團塊
+- 最常見：柔軟、半透明、絨毛樣病變，具膠凍樣外觀
+- 有柄形式：足以在收缩期像鐘擺一樣擺入二尖瓣或三尖瓣 → 間歇性阻塞或「破碎錘」效應，損傷瓣膜小葉
 
-**Histologically:**
-- Stellate, frequently multinucleated myxoma cells (typically with hyperchromatic nuclei)
-- Cells showing endothelial, smooth muscle, and/or fibroblastic differentiation
-- All cell types arise from differentiation of multipotential mesenchymal tumor cells
-- Cells embedded in abundant acid mucopolysaccharide ground substance
-- Hemorrhage, poorly organizing thrombus, mononuclear inflammation usually present
+**組織學：**
+- 星形、頻繁多核的黏液瘤細胞（通常有深染核）
+- 顯示內皮、平滑肌與/或纖維母細胞分化的細胞
+- 所有細胞類型來源於多潛能間充質腫瘤細胞的分化
+- 細胞嵌入豐富的酸性黏多糖基質中
+- 出血、機化不良的血栓、單核發炎通常存在
 
-**Rhabdomyomas:**
-- Gray-white masses up to several centimeters in diameter
-- Protrude into ventricular chambers
+**横紋肌瘤：**
+- 灰白色團塊，直徑可達數厘米
+- 突入心室腔
 
-**Histologically:**
-- Mixed population of cells
-- Most characteristic: large, rounded, or polygonal cells containing numerous glycogen-laden vacuoli separated by strands of cytoplasm running from plasma membrane to centrally located nucleus → "**spider cells**"
+**組織學：**
+- 混合的細胞群
+- 最特徵性：大、圓形或多邊形細胞，含有多個由細胞質條從細胞膜延伸到中央細胞核的糖原填充空泡 → 「**蜘蛛細胞**」
 
-#### Clinical Features
+#### 臨床特徵
 
-**Major clinical manifestations of myxomas due to:**
-- Valvular "ball-valve" obstruction
-- Embolization
-- **Constitutional syndrome** (fever, malaise) — caused by elaboration of **interleukin-6** by tumor cells (major mediator of acute-phase response)
+**黏液瘤的主要臨床表現源於：**
+- 瓣膜「球閥」阻塞
+- 栓塞
+- **全身性徵候群**（發燒、不適）——由腫瘤細胞分泌的 **interleukin-6** 引起（急性期反應的主要介質）
 
-**Diagnosis:** Echocardiography (modality of choice)
+**診斷**：超聲心動圖（首選方式）
 
-**Treatment:** Surgical resection — almost uniformly curative
+**治療**：手術切除——幾乎普遍可治愈
 
-### Cardiac Effects of Noncardiac Neoplasms
+### 非心臟腫瘤的心臟效應
 
-**With enhanced patient survival due to diagnostic and therapeutic advances:** Significant cardiovascular effects of noncardiac neoplasms and their therapy increasingly encountered
+**隨著患者因診斷與治療進步而存活增強**：非心臟腫瘤及其治療的心血管效應越來越常見
 
-### Table 11.6: Cardiovascular Effects of Noncardiac Neoplasms
+### Table 11.6: 非心臟腫瘤的心血管效應
 
-**Direct Consequences of Tumor:**
-- Pericardial and myocardial metastases
-- Large vessel obstruction
-- Pulmonary tumor emboli
+**腫瘤的直接後果：**
+- 心包與心肌轉移
+- 大血管阻塞
+- 肺腫瘤栓子
 
-**Indirect Consequences of Tumor (Complications of Circulating Mediators):**
-- Nonbacterial thrombotic endocarditis
-- Carcinoid heart disease
-- Pheochromocytoma-associated heart disease
-- Myeloma-associated amyloidosis
+**腫瘤循環介質的間接後果（並發症）：**
+- 非细菌性血栓性心內膜炎
+- 類癌心臟病
+- 嗜鉻細胞瘤相關心臟病
+- 骨髓瘤相關澱粉樣變性
 
-**Effects of Tumor Therapy:**
-- Chemotherapy
-- Radiation therapy
+**腫瘤治療的效應：**
+- 化學治療
+- 放射治療
 
-**Most frequent metastatic tumors involving heart:**
-- Carcinomas of lung and breast
-- Melanomas
-- Leukemias
-- Lymphomas
+**最常見累及心臟的轉移性腫瘤：**
+- 肺癌與乳腺癌
+- 黑色素瘤
+- 白血病
+- 淋巴瘤
 
-**Metastases can reach heart and pericardium by:**
-- Retrograde lymphatic extension (carcinomas)
-- Hematogenous seeding (many tumors)
-- Direct contiguous extension (primary carcinoma of lung, breast, esophagus)
-- Venous extension (tumors of kidney or liver)
+**轉移可通過以下方式到達心臟與心包：**
+- 逆向淋巴延伸（癌）
+- 血源性播種（許多腫瘤）
+- 直接延續（肺癌、乳腺癌、食道癌的原發癌）
+- 靜脈延伸（腎或肝臟腫瘤）
 
-**Clinical symptoms most often associated with pericardial spread:**
-- Symptomatic pericardial effusions
-- Mass-effect sufficient to restrict cardiac filling
+**臨床症狀最常與心包蔓延相關：**
+- 有症狀的心包積液
+- 足以限制心臟充盈的質量效應
 
-**Bronchogenic carcinoma or malignant mediastinal lymphoma:** May infiltrate extensively → encasement, compression, or invasion of superior vena cava → obstruction to blood flow from head and upper extremities (**superior vena cava syndrome**)
+**支氣管肺癌或惡性縱隔淋巴瘤**：可廣泛浸潤 → 包繞、壓迫或侵犯上腔靜脈 → 從頭部與上肢回流的血流受阻（**上腔靜脈症候群**）
 
-**Renal cell carcinoma:** Often invades renal vein and may grow as continuous column up inferior vena cava into right atrium → blocking venous return to heart
+**腎細胞癌**：常侵犯腎靜脈，可作為連續柱狀向上生長進入右心房 → 阻斷靜脈回流心臟
 
-**Noncardiac tumors can affect cardiac function indirectly** via circulating tumor-derived substances:
-- Nonbacterial thrombotic endocarditis
-- Carcinoid heart disease
-- Pheochromocytoma-associated myocardial damage
-- Myeloma-associated AL-type amyloidosis
+**非心臟腫瘤可通過循環腫瘤衍生物質間接影響心臟功能**：
+- 非细菌性血栓性心內膜炎
+- 類癌心臟病
+- 嗜鉻細胞瘤相關心肌損傷
+- 骨髓瘤相關 AL 型澱粉樣變性
 
-**Complications of chemotherapy:** Discussed earlier
+**化學治療的並發症**：前文已討論
 
-**Radiation used to treat breast, lung, or mediastinal neoplasms can cause:**
-- Pericarditis
-- Pericardial effusion
-- Myocardial fibrosis
-- Chronic pericardial disorders
-- Accelerated coronary artery disease
-- Mural and valvular endocardial fibrosis
+**用於治療乳房、肺或縱隔腫瘤的放射治療可導致：**
+- 心包炎
+- 心包積液
+- 心肌纖維化
+- 慢性心包疾病
+- 加速性冠狀动脉疾病
+- 心壁與瓣膜心內膜纖維化
 
-### Carcinoid Heart Disease
+### 類癌心臟病
 
-**Carcinoid syndrome:** Results from bioactive compounds (e.g., serotonin) released by carcinoid tumors (Chapter 15)
-- Systemic manifestations: flushing, diarrhea, dermatitis, bronchoconstriction
+**類癌症候群**：由類癌腫瘤釋放的生物活性化合物（如血清素）引起（Chapter 15）
+- 全身表現：潮紅、腹瀉、皮炎、支氣管痙攣
 
-**Carcinoid heart disease:** Cardiac manifestation caused by bioactive compounds
-- Occurs in **one half of patients** in whom systemic syndrome develops
+**類癌心臟病**：由生物活性化合物引起的心臟表現
+- 在全身症候群發展的患者中，約 **一半** 發生
 
-**Cardiac lesions typically do not occur until massive hepatic metastatic burden** (liver normally inactivates circulating mediators before they can affect heart)
+**在心臟病變通常不會發生，直到大量肝臟轉移負荷**（肝臟通常在介質到達心臟之前將其滅活）
 
-**Classically:** Endocardium and valves of **right heart** primarily affected (first cardiac tissues bathed by mediators released by gastrointestinal carcinoid tumors)
+**典型地**：主要影響**右心**的心內膜與瓣膜（胃腸道類癌腫瘤釋放的介質首先浸泡的心臟組織）
 
-**Left side afforded some protection** because pulmonary vascular bed degrades mediators
+**左心有一定保護**，因为肺血管床可降解介質
 
-**However:** Left-sided heart carcinoid lesions can occur with:
-- Atrial or ventricular septal defects
-- Right-to-left flow
-- Primary pulmonary carcinoid tumors
+**然而**：左心類癌病變可發生在：
+- 心房或心室間隔缺損
+- 右至左分流
+- 原發性肺類癌腫瘤
 
-#### Pathogenesis
+#### 發病機制
 
-**Mediators elaborated by carcinoid tumors:**
-- **Serotonin (5-hydroxytryptamine)**
-- Kallikrein
-- Bradykinin
-- Histamine
-- Prostaglandins
+**類癌腫瘤釋放的介質：**
+- **血清素（5-羥色胺）**
+- 血管舒緩素
+- 緩激肽
+- 組織胺
+- 前列腺素
 - Tachykinins
 
-**Not clear which is causative,** but plasma levels of serotonin and urinary excretion of serotonin metabolite **5-hydroxyindoleacetic acid** correlate with severity of right-sided heart lesions
+**尚不清楚哪個是致病原因**，但血漿血清素水平與尿中血清素代謝物 **5-羥基吲哚乙酸** 的排泄與右心病變的嚴重程度相關
 
-**Valvular plaques in carcinoid syndrome similar to lesions** occurring with administration of:
-- **Fenfluramine** (appetite suppressant)
-- **Ergot alkaloids** (for migraine headaches)
+**類癌症候群中的瓣膜斑塊與以下管理時發生的病變相似：**
+- **Fenfluramine**（食欲抑制劑）
+- **麥角鹼類**（用於偏頭痛）
 
-These agents either affect systemic serotonin metabolism or directly bind to hydroxytryptamine receptors on heart valves
+這些製劑要么影響全身血清素代謝，要么直接與心臟瓣膜上的羟色胺受體結合
 
-#### Morphology
+#### 形態學
 
-**Cardiovascular lesions in carcinoid syndrome:**
-- Distinctive, glistening white, intimal, plaquelike thickenings on endocardial surfaces of cardiac chambers and valve leaflets
-- Composed of smooth muscle cells and sparse collagen fibers embedded in acid mucopolysaccharide–rich matrix
-- Underlying structures intact
-- With right-sided involvement: typical findings are **tricuspid insufficiency** and **pulmonic stenosis**
+**類癌症候群中的心血管病變：**
+- 獨特的、有光澤的白色、內膜、板樣增厚，位於心腔與瓣膜小葉的心內膜表面
+- 由嵌入富含黏多糖的基質中的平滑肌細胞與稀疏膠原纖維組成
+- 底層結構完整
+- 右側受累時：典型發現為**三尖瓣逆流**與**肺动脉狹窄**
 
 ---
 
 ## Cardiac Transplantation
 
-**With permanent ventricular assist device implantation increasingly an option,** cardiac transplantation remains treatment of choice for patients with intractable heart failure
+**隨著永久性心室輔助裝置植入越來越成為一種選擇**，心臟移植仍是難治性心衰竭患者的治療選擇
 
-**Without transplantation:** Medically managed end-stage heart failure carries **50% 1-year mortality rate**; less than **10%** of patients survive 5 years
+**若不移植**：藥物管理的終末期心衰竭的 **1 年死亡率** 為 **50%**；不到 **10%** 的患者存活 5 年
 
-**Over 5,000 heart transplantation procedures performed annually worldwide** — mostly for DCM and IHD
+**全球每年進行超過 5000 例心臟移植手術**——主要用於 DCM 與 IHD
 
-### Major Complications
+### 主要並發症
 
-#### 1. Acute Cardiac Rejection
-- Characterized by interstitial lymphocytic inflammation, myocyte damage
-- Histologic pattern similar to viral myocarditis
-- Both T cell– and antibody responses to allograft involved in rejection reaction
+#### 1. 急性心臟排斥
+- 以間質淋巴細胞發炎、心肌細胞損傷為特征
+- 組織學模式類似病毒性心肌炎
+- 排斥反應中涉及對同種異體移植物的 T 細胞與抗體反應
 
-#### 2. Allograft Arteriopathy
-- **Single most important long-term limitation** for cardiac transplantation
-- Marked by late, progressive, diffusely stenosing intimal proliferation in coronary arteries → ischemic injury
+#### 2. 移植物动脉病
+- **心臟移植的長期單一最重要限制因素**
+- 以冠狀动脉中遲發性、進行性、彌散性狹窄性內膜增生為特征 → 缺血性損傷
 
-** immunosuppression required for allograft survival also increases risk for:**
-- Opportunistic infections
-- Certain malignancies (e.g., Epstein-Barr virus–associated lymphoma)
+**同種異體移植物存活所需的免疫抑制也增加以下風險：**
+- 機會性感染
+- 某些惡性腫瘤（如 Epstein-Barr 病毒相關淋巴瘤）
 
-### Prognosis
+### 預後
 
-**Despite these problems:** Outlook generally good
-- **1-year survival rate: 90%**
-- **5-year survival rate: >70%**
-
----
-
-## Suggested Readings
-
-- Azaouagh A, Churzidse S, Konorza T, et al: Arrhythmogenic right ventricular cardiomyopathy/dysplasia: a review and update, Clin Res Cardiol 100:383, 2011
-- Bruneau BG: The developmental genetics of congenital heart disease, Nature 451:943, 2008
-- Cerrone M, Priori SG: Genetics of sudden death: focus on inherited channelopathies, Eur Heart J 32:2109, 2011
-- Cooper LT Jr: Myocarditis, N Engl J Med 360:1526, 2009
-- Grozinsky-Glasberg S, Grossman AB, Gross DJ: Carcinoid heart disease: from pathophysiology to treatment, Neuroendocrinology 101:263, 2015
-- Guilherme L, Köhler KF, Kalil J: Rheumatic heart disease: mediation by complex immune events, Adv Clin Chem 53:31, 2011
-- Hausenloy DJ, Yellon DM: Myocardial ischemia-reperfusion injury: a neglected therapeutic target, J Clin Invest 123:92, 2013
-- Heusch G, Libby P, Gersh B, et al: Cardiovascular remodelling in coronary artery disease and heart failure, Lancet 383:1933, 2014
-- Hill EE, Herijgers P, Herregods MC, et al: Evolving trends in infective endocarditis, Clin Microbiol Infect 12:5, 2006
-- Huang JB, Liu YL, Sun PW, et al: Molecular mechanisms of congenital heart disease, Cardiovasc Pathol 19:e183, 2010
-- Li C, Xu S, Gotlieb AI: The response to valve injury, Cardiovasc Pathol 20:183, 2011
-- Mann DL, Zipes DP, Libby P, et al, editors: Braunwald's heart disease: a textbook of cardiovascular medicine, ed 10, Philadelphia, 2015, Elsevier
-- Maron BJ, Towbin JA, Thiene G, et al: Contemporary definitions and classification of the cardiomyopathies, Circulation 113:1807, 2006
-- Mitchell RN: Graft vascular disease: immune response meets the vessel wall, Annu Rev Pathol 4:19, 2009
-- New SE, Aikawa E: Molecular imaging insights into early inflammatory stages of arterial and aortic valve calcification, Circ Res 108:1381, 2011
-- Ovize M, Baxter GF, Di Lisa F, et al: Postconditioning and protection from reperfusion injury, Cardiovasc Res 87:406, 2010
-- Patten IS, Rana S, Shahul S, et al: Cardiac angiogenic imbalance leads to peripartum cardiomyopathy, Nature 485:333, 2012
-- Rasmussen TL, Raveendran G, Zhang J, et al: Getting to the heart of myocardial stem cells and cell therapy, Circulation 123:1771, 2011
-- Seidman CE, Seidman JG: Identifying sarcomere gene mutations in hypertrophic cardiomyopathy, Circ Res 108:743, 2011
-- Watkins H, Houman A, Redwood C: Inherited cardiomyopathies, N Engl J Med 364:1643, 2011
-- Wu JC, Child JS: Common congenital heart disorders in adults, Curr Probl Cardiol 29:641, 2004
+**儘管有這些問題**：前景通常良好
+- **1 年存活率：90%**
+- **5 年存活率：>70%**

@@ -1,976 +1,308 @@
 ---
 layout: single
-title: "Chapter 09: Diseases of the Blood and Lymph Nodes"
+title: "Chapter 09: General Pathology of Infectious Diseases"
 ---
 
+## 章節導讀
 
-# Chapter 9: General Pathology of Infectious Diseases
+本章系統性介紹感染性疾病的病理基礎。感染性疾病的臨床表現是病原體本身對組織的直接損傷與宿主免疫反應間接造成組織損傷兩者交互作用的結果。理解各類病原體的獨特結構、生活史與致病機制，是臨床診斷與治療的基石。病毒是最小的絕對細胞內寄生體，依賴宿主細胞的轉譯與複製機器；病毒與宿主細胞的受體互動決定了 viral tropism，並進一步影響臨床表現。細菌依據 Gram stain 分為陽性与阴性，決定了內毒素（LPS）與外毒素的不同致病途徑。真菌、原蟲與蠕蟲則各有複雜的生活史，常需一個以上的中間宿主。感染途徑決定了病原體侵入人體的方式，而病原體的免疫逃避機制（如抗原變異、抑制 phagolysosome fusion）則決定了感染的慢性化或潛伏化。本章的最後也探討了新興與再浮現傳染病的威脅，如 SARS、MERS、Zika 病毒等。
+
+---
 
 ## Classes of Human Pathogens
 
-### Table 9.1 — Classes of Human Pathogens
+人體病原體可分為六大類（從最小到最大）：
 
-| Taxonomic Category | Prions | Viruses | Bacteria | Fungi | Protozoa | Helminths |
-|---|---|---|---|---|---|---|
-| **Size** | <20 nm | 20–400 nm | 0.2–15 µm | 2–200 µm | 1–50 µm | 3 mm–10 m |
-| **Propagation** | Intracellular | Obligate intracellular | Extracellular | Facultative intracellular | Extracellular | Facultative intracellular |
-| **Site(s)** | — | — | Extracellular | Intracellular | Extracellular | Intracellular |
-| **Example(s)** | Prion protein | Poliovirus | *Streptococcus pneumoniae* | *Candida albicans* | *Trypanosoma brucei* | *Wuchereria bancrofti* |
-| | | *Chlamydia trachomatis* | *Mycobacterium tuberculosis* | *Histoplasma capsulatum* | *Trypanosoma cruzi* | *Trichinella spiralis* |
-| | | | | | *Leishmania donovani* | |
-| **Disease(s)** | Creutzfeldt-Jacob disease | Poliomyelitis | Pneumonia | Thrush | Sleeping sickness | Filariasis |
-| | | Trachoma, urethritis | Tuberculosis | Histoplasmosis | Chagas disease | Trichinosis |
-| | | | | | Kala-azar | |
+| 病原體類別 | 大小範圍 | 複製方式 | 代表疾病 |
+|-----------|---------|---------|---------|
+| **Prions（prion）** | <20 nm | 蛋白質錯誤折疊自我複製（無核酸） | Creutzfeldt-Jakob disease（CJD）、variant CJD、Bovine spongiform encephalopathy（BSE）|
+| **Viruses（病毒）** | 20-400 nm | 絕對細胞內寄生（依賴宿主轉譯與複製機器） | Influenza、HIV/AIDS、Poliomyelitis、Herpes、HPV |
+| **Bacteria（細菌）** | 0.2-15 μm | 細胞外或兼性細胞內 | Pneumonia、肺結核、敗血症、腦膜炎 |
+| **Fungi（真菌）** | 2-200 μm | 兼性或絕對細胞內 | Candidiasis、Aspergillosis、Histoplasmosis、Coccidioidomycosis |
+| **Protozoa（原蟲）** | 1-50 μm | 細胞外或細胞內 | 瘧疾（Plasmodium）、利什曼病（Leishmania）、錐蟲病（Trypanosoma）、阿米巴痢疾 |
+| **Helminths（蠕蟲）** | 3 mm–10 m | 兼性或絕對細胞內 | 絲蟲病、旋毛蟲病、血吸蟲病、鉤蟲感染 |
 
-> **Table 9.1** Classes of Human Pathogens — Overview of major pathogen categories, their size ranges, replication sites, examples, and associated diseases.
-
+---
 
 ## General Principles of Microbial Pathogenesis
 
-Microbial pathogens cause disease through diverse mechanisms. Some viral components and particles aggregate within infected cells and form characteristic **inclusion bodies**, which may be seen with the light microscope and are useful for diagnosis (Fig. 9.1).
+### 病原體致病的共同原則
 
-- **Cytomegalovirus (CMV)** — infected cells are enlarged with large eosinophilic nuclear inclusions and smaller basophilic cytoplasmic inclusions
-- **Herpes viruses** — form large nuclear inclusions surrounded by a clear halo
-- **Smallpox and rabies viruses** — form characteristic cytoplasmic inclusions
-- Many viruses (e.g., poliovirus) do **not** produce inclusions
+感染性疾病的發生需要三個要素：**傳染源（source）**、**傳播途徑（mode of transmission）**、與**易感宿主（susceptible host）**。
 
-Viruses cause disease in several ways:
-- **Transient illnesses** — e.g., colds, influenza
-- **Persistent infections** — continuing to multiply (e.g., chronic HBV infection) or surviving in latent nonreplicating form (e.g., herpes zoster → shingles)
-- **Tumor transformation** — e.g., HPV → warts and cervical carcinoma
-- **Age/immune status–dependent manifestations** — e.g., CMV causes congenital neurologic damage or gastroenteritis in immunocompromised hosts
+微生物致病的方式可分為三種主要機制：
 
+1. **直接細胞損傷（Direct cell injury）**：病原體附著並進入宿主細胞，直接造成細胞死亡或功能障礙
+2. **毒素或酶的分泌（Toxin/enzyme secretion）**：病原體在遠處產生毒性分子，殺死細胞或降解組織成分
+3. **宿主免疫反應（Host immune response）**：針對病原體的免疫防禦在清除感染的同時，也造成附加的組織損傷（免疫病理學）
 
-### Viruses
+### Viral Inclusions
 
-Viruses account for a large share of human infections. Key features:
-
-- **Obligate intracellular** pathogens
-- Can cause **transient**, **persistent/latent**, or **transforming** infections
-- **Tropism** — determined by host receptors, transcription factor specificity, and tissue environment
-
-> **Fig. 9.1** Examples of viral inclusions:
-> - **(A)** Cytomegalovirus infection in lung — nuclear (long arrow) and ill-defined cytoplasmic (short arrows) inclusions
-> - **(B)** Varicella-zoster virus in skin — multinucleate cells with molding nuclei, eosinophilic haloed nuclear inclusions
-> - **(C)** Hepatitis B in liver — "ground-glass" cytoplasm reflecting accumulated HBsAg
-
-
-### Table 9.2 — Selected Human Viral Diseases and Their Pathogens
-
-| Organ System | Pathogen | Disease(s) |
-|---|---|---|
-| **Respiratory** | Adenovirus | Upper- and lower-respiratory tract infections, conjunctivitis |
-| | Rhinovirus | Upper-respiratory tract infection |
-| | Influenza viruses A, B | Influenza |
-| | Respiratory syncytial virus | Bronchiolitis, pneumonia |
-| **Digestive** | Mumps virus | Mumps, pancreatitis, orchitis |
-| | Rotavirus | Childhood gastroenteritis |
-| | Norovirus | Gastroenteritis |
-| | Hepatitis A virus | Acute viral hepatitis |
-| | Hepatitis B virus | Acute or chronic hepatitis |
-| | Hepatitis D virus | With HBV infection: acute or chronic hepatitis |
-| | Hepatitis C virus | Acute or chronic hepatitis |
-| | Hepatitis E virus | Acute viral hepatitis |
-| **Systemic / Skin eruptions** | Measles virus | Measles (rubeola) |
-| | Rubella virus | German measles (rubella) |
-| | Varicella-zoster virus | Chickenpox, shingles |
-| | Herpes simplex virus type 1 | Oral herpes ("cold sore") |
-| | Herpes simplex virus type 2 | Genital herpes |
-| | Cytomegalovirus | Cytomegalic inclusion disease in newborn; gastroenteritis in transplant patients |
-| | Epstein-Barr virus | Infectious mononucleosis |
-| | HIV-1 and HIV-2 | AIDS |
-| | Papillomavirus | Skin/genital warts; cervical carcinoma |
-| **Central nervous system** | Poliovirus | Poliomyelitis |
-| | JC virus | Progressive multifocal leukoencephalopathy (opportunistic) |
-| | Zika virus | Congenital microcephaly |
-
-> **Table 9.2** Selected viral diseases organized by organ system affected.
-
-
-### Bacteria
-
-Bacteria are **prokaryotes** — they have a cell membrane but lack membrane-bound nuclei and organelles.
-
-#### Cell Wall Structure
-
-- **Gram-positive bacteria** — thick cell wall retaining crystal violet stain
-- **Gram-negative bacteria** — thin cell wall + outer membrane (Fig. 9.2)
-- Cell wall composed of **peptidoglycan** (polymer of sugar chains linked by peptide bridges)
-
-#### Classification
-
-- **By Gram stain**: Gram-positive or Gram-negative
-- **By shape**: Cocci (spherical) or Bacilli (rod-shaped) (Fig. 9.3)
-- **By oxygen requirement**: Aerobic or anaerobic
-- **By location**: Extracellular, facultative intracellular, or obligate intracellular
-
-#### Surface Structures
+某些病毒在感染細胞內複製時，病毒成分（核酸、蛋白質、顆粒）聚集形成肉眼可見的包涵體（inclusion bodies），具有診斷價值：
 
-- **Flagella** — rotate to move bacteria
-- **Pili** — surface projections that attach bacteria to host cells or extracellular matrix
-- **Capsule** — inhibits phagocytosis
+| 病毒 | 位置 | 形態 |
+|------|------|------|
+| **CMV** | 核內與細胞質內 | 大型嗜酸性（eosinophilic）核內包涵體；細胞質內嗜鹼性（basophilic）包涵體 |
+| **Herpes viruses（HSV、VZV）** | 核內 | 大型嗜酸性包涵體，周圍有透明暈（cowdry type A body） |
+| **Rabies virus** | 細胞質內 | Negri bodies——嗜酸性胞質內包涵體，常見於海馬迴與 Purkinje cells |
+| **Smallpox（天花）** | 細胞質內 | Guarnieri bodies——嗜酸性胞質內包涵體 |
 
-#### Intracellular Survival Strategies
+### 感染類型的臨床意義
 
-- Many bacteria remain **extracellular**
-- **Facultative intracellular** bacteria (e.g., mycobacteria) survive both outside and inside cells
-- **Obligate intracellular** bacteria (e.g., rickettsia) grow only inside host cells
+| 感染類型 | 機制 | 代表疾病與預後 |
+|---------|------|--------------|
+| **短暫性感染（Acute infection）** | 病毒在免疫反應後被清除 | 普通感冒、流感；康復後通常無病毒殘留 |
+| **持續性/潛伏性感染（Persistent/latent infection）** | 病毒持續低層次複製，或以非複製形式存在於組織中 | 慢性 HBV（可進展至肝硬化）；VZV 再活化導致帶狀皰疹（herpes zoster）|
+| **腫瘤轉化（Tumor transformation）** | 病毒基因整合至宿主基因組，干擾細胞週期調控 | HPV（→宮頸鱗狀細胞癌）、EBV（→Burkitt lymphoma）|
+| **年齡/免疫依賴性表現（Immunodependent expression）** | 免疫狀態決定疾病表現與嚴重度 | CMV 在先天性感染（智能障礙）與免疫抑制宿主（視網膜炎、肺炎）的表現截然不同 |
 
-#### Key Intracellular Bacteria
+---
 
-- **Chlamydia trachomatis** — obligate intracellular; causes female sterility (fallopian tube scarring) and blindness (chronic conjunctival inflammation → corneal opacification)
-- **Rickettsia** — injure endothelial cells → hemorrhagic vasculitis, rash; transmitted by arthropod vectors (lice, ticks, mites); can cause fatal CNS injury (Rocky Mountain spotted fever, epidemic typhus)
-- **Mycoplasma / Ureaplasma** — lack a cell wall; tiniest free-living organisms (125–300 nm)
+## Viruses
 
-> **Fig. 9.2** Molecules on the surface of gram-negative and gram-positive bacteria involved in microbial pathogenesis.
+### 病毒的致病機制
 
-> **Fig. 9.3** Bacterial morphologies:
-> - **(A)** Gram-positive elongated cocci in pairs/chains (*Streptococcus pneumoniae*) in sputum
-> - **(B)** Gram-negative intracellular rods (*Klebsiella pneumoniae* or *E. coli*) in bronchoalveolar lavage
-> - **(C)** Silver stain showing helical spirochetes (*Borrelia burgdorferi*) in brain tissue
+病毒是絕對細胞內寄生體（obligate intracellular parasite），完全依賴宿主細胞的轉譯與複製機器。疾病表現主要取決於 **viral tropism（病毒親組織性）**——病毒對特定組織與細胞類型的親和性。
 
+**決定 Viral tropism 的因素：**
 
-### Table 9.3 — Selected Human Bacterial Diseases and Their Pathogens
+- **宿主細胞受體（Host cell receptor）**：病毒表面的 attachment proteins 必須與細胞表面的特定受體結合才能進入。例如，HIV 的 **CD4** 受體（主要見於 helper T cells、macrophages、dendritic cells），加上 co-receptors（CCR5 或 CXCR4）； influenza virus 結合呼吸道上皮細胞的 **sialic acid** 受體。
 
-| Microbiologic Category | Clinical Category | Species | Frequent Disease Presentation(s) |
-|---|---|---|---|
-| **Pyogenic cocci** | | *Staphylococcus aureus*, *S. epidermidis* | Abscess, cellulitis, pneumonia, sepsis |
-| | | *Streptococcus pyogenes* | Pharyngitis, erysipelas, scarlet fever |
-| | | *Streptococcus pneumoniae* | Lobar pneumonia, meningitis |
-| | | *Neisseria meningitidis* | Meningitis |
-| | | *Neisseria gonorrhoeae* | Gonorrhea |
-| **Gram-negative infections** | | *Escherichia coli*, *Klebsiella pneumoniae*, *Enterobacter aerogenes*, *Proteus mirabilis*, *Serratia marcescens*, *Pseudomonas aeruginosa*, *Bacteroides fragilis* | Urinary tract infection, wound infection, abscess, pneumonia, sepsis, shock, endocarditis |
-| | | *Legionella pneumophila* | Legionnaires' disease |
-| **Clostridial infections** | | *Clostridium tetani* | Tetanus (lockjaw) |
-| | | *Clostridium botulinum* | Botulism (paralytic food poisoning) |
-| | | *Clostridium perfringens*, *C. septicum* | Gas gangrene, necrotizing cellulitis |
-| | | *Clostridium difficile* | Pseudomembranous colitis |
-| **Zoonotic bacterial infections** | | *Bacillus anthracis* | Anthrax |
-| | | *Yersinia pestis* | Bubonic plague |
-| | | *Francisella tularensis* | Tularemia |
-| | | *Brucella melitensis*, *B. suis*, *B. abortus* | Brucellosis (undulant fever) |
-| | | *Borrelia recurrentis* | Relapsing fever |
-| | | *Borrelia burgdorferi* | Lyme disease |
-| **Treponemal infections** | | *Treponema pallidum* | Syphilis |
-| **Mycobacterial infections** | | *Mycobacterium tuberculosis*, *M. bovis* | Tuberculosis |
-| | | *Mycobacterium leprae* | Leprosy |
-| | | *Mycobacterium kansasii*, *M. avium* complex | Pulmonary disease, lymphadenitis, disseminated disease |
-| **Actinomycetal infections** | | *Nocardia asteroides* complex | Pulmonary disease, brain abscess |
-| | | *Actinomyces israelii* | Head and neck abscess |
-| **Other** | | *Haemophilus influenzae* | Meningitis, upper- and lower-respiratory tract infections |
-| | | *Bordetella pertussis* | Whooping cough |
-| | | *Corynebacterium diphtheriae* | Diphtheria |
-| **Enteric infections** | | Enteropathogenic *E. coli*, *Shigella* spp., *Vibrio cholerae*, *Campylobacter jejuni*, *C. coli*, *Yersinia enterocolitica*, *Salmonella* spp. | Invasive or noninvasive gastroenterocolitis |
-| | | *Salmonella enterica* serotype Typhi | Typhoid fever |
+- **宿主細胞蛋白酶（Host cell proteases）**：某些病毒的 envelope glycoproteins 需要被宿主蛋白酶切割才能活化，決定了病毒是否能進入特定細胞。例如，influenza virus 的 HA glycoprotein 需要呼吸道上皮的 protease 切割才能活化。
 
-> **Table 9.3** Major bacterial pathogens organized by microbiologic and clinical categories.
+- **轉錄因子特異性（Transcription factor specificity）**：病毒基因的啟動子需要宿主細胞的轉錄因子才能活化，因此只有特定組織細胞才能支持病毒複製。
 
+**病毒複製造成細胞損傷的機制：**
 
-### Fungi
+1. **直接細胞病變效應（Direct cytopathic effect，CPE）**：病毒蛋白質直接干擾宿主細胞大分子合成或結構完整性。例如，HSV 產生 **ICP-34.5** 蛋白，抑制宿主 mRNA 的 cap-dependent translation；poliovirus 的 3C protease 切割 host cell transcription factors。
 
-Fungi are **eukaryotes** with thick cell walls composed of:
-- **Beta-glucans**
-- **Chitin**
-- **Mannosylated glycoproteins**
+2. **免疫介導的細胞損傷（Immune-mediated cell injury）**：病毒抗原在感染細胞表面表達 → CD8⁺ cytotoxic T lymphocytes（CTLs）識別並殺死感染細胞。這是清除病毒感染的重要機制，但也造成組織損傷。
 
-#### Identification
+3. **轉化（Transformation）**：腫瘤病毒（oncogenic viruses）如 HPV、EBV 劫持細胞週期控制基因，使細胞不受控制地增殖。HPV 的 E6 蛋白降解 p53，E7 蛋白結合並抑制 Rb 蛋白。
 
-- **Calcofluor-white** stain binds chitin — used to identify fungi in patient specimens
-- **Beta-glucan assays** — used to diagnose disseminated fungal infections
-- **Thermal dimorphism** — some fungi grow as hyphae at room temperature but yeast at body temperature
+### 臨床上重要的病毒群
 
-#### Growth Forms
+| 病毒群 | 基因組 | 傳播途徑 | 代表疾病 | 腫瘤相關 |
+|--------|-------|---------|---------|---------|
+| **Picornavirus** | (+) ssRNA | Fecal-oral、respiratory | Poliomyelitis、普通感冒 | 無 |
+| **Influenza virus** | (-) ssRNA | Respiratory | 流感 | 無 |
+| **Paramyxovirus** | (-) ssRNA | Respiratory | 麻疹、腮腺炎、副流感 | 無 |
+| **Rhabdovirus** | (-) ssRNA | Animal bite | 狂犬病 | 無 |
+| **Filovirus** | (-) ssRNA | Contact | Ebola、Marburg | 無 |
+| **Coronavirus** | (+) ssRNA | Respiratory | SARS、MERS、COVID-19 | 無 |
+| **Hepatitis viruses** | DNA/RNA | Blood、sexual | 肝炎（A-E 型） | HBV、HCV（肝細胞癌）|
+| **Herpesvirus** | dsDNA | Contact、sexual | 皰疹、VZV（帶狀皰疹）、CMV、EBV | EBV（Burkitt lymphoma、nasopharyngeal carcinoma）|
+| **Papillomavirus** | dsDNA | Sexual、contact | 尖狀濕疣（condyloma）、宮頸癌 | **是**（HPV）|
+| **Retrovirus** | ssRNA（→cDNA） | Blood、sexual、vertical | HIV/AIDS | HTLV-1（T-cell leukemia/lymphoma）|
+| **Polyomavirus** | dsDNA | Respiratory、contact | PML（JC virus in 免疫抑制者） | BK virus（移植後腎病）|
 
-- **Yeast** — rounded cells
-- **Hyphae** — slender, filamentous; can be **septate** or **aseptate**
-- **Conidia** — asexual spores produced on specialized fruiting bodies
+---
 
-#### Classification
+## Bacteria
 
-**Endemic fungi** — geographically restricted invasive species:
-- *Coccidioides* — southwestern United States
-- *Histoplasma* — Ohio River Valley
+### 細胞壁結構與 Gram stain 分類
 
-**Opportunistic fungi** — ubiquitous; cause severe disease only in immunocompromised hosts:
-- *Candida*, *Aspergillus*, *Mucor*, *Cryptococcus*
-- Cause **vascular occlusion, hemorrhage, and tissue necrosis** with minimal inflammation
-- *Pneumocystis jiroveci* — major opportunistic infection in AIDS patients
+**Gram-positive bacteria：**
+- 厚的 peptidoglycan 層（約 20-80 nm）
+- 含 **teichoic acid**——連接 peptidoglycan 與細胞膜
+- 染 Crystal violet 後不被脫色（保留藍紫色）
 
-#### Types of Infection
+**Gram-negative bacteria：**
+- 薄的 peptidoglycan 層（約 2-3 nm）
+- 外膜（outer membrane）位於 peptidoglycan 外側，含：
+  - **Lipopolysaccharide（LPS）**——含有 **Lipid A**（endotoxin 的毒性成分）與 O-antigen
+  - **Porins**——允許小分子通過
+- 染 Safranin 後呈粉紅色（被 Crystal violet 覆蓋但仍可見）
 
-- **Superficial infections** — skin, hair, nails (dermatophytes); called **tinea** (e.g., tinea pedis = athlete's foot, tinea capitis = scalp ringworm)
-- **Subcutaneous infections** — abscesses or granulomas; chronic infections (e.g., mycetomas)
-- **Deep fungal infections** — systemic spread, organ destruction in immunocompromised hosts
+### 細菌的表面結構與功能
 
-> **Fig. 9.4** Meningeal blood vessels with angioinvasive *Mucor* species — irregular width, near right-angle branching of hyphae.
+| 結構 | 化學組成 | 功能 |
+|------|---------|------|
+| **Flagella（鞭毛）** | 蛋白質（flagellin）| 旋轉運動（motility）；與致病性相關（趨化性、侵襲力）|
+| **Pili / Fimbriae（菌毛）** | 蛋白質（pilin）| 附著於宿主細胞或細胞外基質；性菌毛（sex pilus）用於接合（conjugation）|
+| **Capsule（莢膜）** | 多糖（少數為蛋白質）| 抑制吞噬（phagocytosis）；抗補體；幫助生物膜（biofilm）形成 |
+| **S-layer** | 蛋白質 | 保護、附著 |
 
+### 內毒素（Endotoxin）與外毒素（Exotoxin）
 
-### Protozoa
+**內毒素（LPS / Lipid A）：**
 
-Protozoa are **single-celled eukaryotes** — major causes of disease and death in developing countries.
+- 為 **Gram-negative bacteria** 的外膜成分
+- 毒性成分 Lipid A 激活 **TLR4**（toll-like receptor 4）→ 啟動 innate immunity
+- 激活補體（C3a、C5a——anaphylatoxins，導致血管擴張與通透性增加）
+- 誘導細胞激素釋放：**TNF-α、IL-1、IL-6**（導致發燒、低血壓、敗血症性休克）
+- 劑量效應：高劑量→**septic shock、DIC、ARDS（急性呼吸窘迫症候群）**、multiple organ failure
 
-#### Replication Sites
+**外毒素（Exotoxin）：**
 
-- **Intracellular** — e.g., *Plasmodium* in red cells, *Leishmania* in macrophages
-- **Extracellular** — urogenital system, intestine, or blood
+| 類型 | 機制 | 代表疾病與病原 |
+|------|------|--------------|
+| **A-B toxins** | B subunit 結合細胞表面受體，A subunit 進入細胞發揮酶活性 | Anthrax（炭疽桿菌——edema factor 為 adenylate cyclase，導致組織水腫；lethal factor 為 metalloprotease，切割 MAPK kinases）；霍亂毒素（cholera toxin—— ADP-ribosylates Gs protein → 持續性 adenylate cyclase 活化 → 大量 cAMP → 腸道大量 Cl⁻ 與水分分泌→米湯樣腹瀉）；Pertussis toxin（百日咳—— ADP-ribosylates Gi protein → 持續性 adenylate cyclase 活化）|
+| **超抗原（Superantigens）** | 不經 antigen presentation 直接結合 MHC II 與 T-cell receptor β chain → 大規模 T 細胞活化 → cytokine storm | Toxic shock syndrome toxin-1（TSST-1，*S. aureus*）；Streptococcal pyrogenic exotoxin（SPE，*S. pyogenes*）|
+| **神經毒素（Neurotoxins）** | 干擾神經傳遞 | Botulinum toxin（*C. botulinum*）—— cleaves SNARE proteins → 阻斷 ACH release → 弛緩性癱瘓（flaccid paralysis）；Tetanus toxin（*C. tetani*）—— blocks inhibitory neurotransmitters（GABA、glycine）release → 痙攣性癱瘓（spastic paralysis）；|
+| **Enterotoxins（腸道毒素）** | 影響胃腸道 | *S. aureus* enterotoxin（嘔吐——作用於嘔吐中樞）；*V. cholerae* enterotoxin（見前述）；*E. coli* heat-labile toxin（LT）—— similar mechanism to cholera toxin |
 
-#### Key Protozoal Pathogens
+### 重要病原菌群
 
-- ***Trichomonas vaginalis*** — sexually transmitted flagellated parasite; colonizes vagina and male urethra
-- ***Entamoeba histolytica*** — ingested as cysts in contaminated food/water; becomes motile trophozoite; attaches to intestinal epithelium
-- ***Giardia lamblia*** — same transmission route; causes malabsorption by blunting villi
-- ***Plasmodium***, ***Trypanosoma***, ***Leishmania*** — bloodborne; transmitted by insect vectors
-- ***Toxoplasma gondii*** — acquired through contact with oocyst-shedding cats or eating cyst-ridden undercooked meat
+| 病原菌 | Gram | 特性 | 主要疾病 |
+|--------|------|------|---------|
+| ***Staphylococcus aureus*** | + | 凝固酶陽性、β-hemolytic、葡萄狀排列 | 皮膚感染、蜂窩組織炎、敗血症、毒素性休克、食物中毒 |
+| ***Streptococcus pneumoniae*** | + | α或β溶血、膽鹽溶解、optichin 敏感 | 社區性肺炎、腦膜炎、中耳炎 |
+| ***Streptococcus pyogenes*** (Group A) | + | β-hemolytic、BACTH positive | 咽炎、風濕熱（autoimmune）、腎小球腎炎、蜂窩組織炎 |
+| ***Mycobacterium tuberculosis*** | Acid-fast | 需氧、緩慢生長、cell wall 含 mycolic acid | 肺結核、空洞型肺結核（cavitary TB）|
+| ***Mycobacterium leprae*** | Acid-fast | 緩慢生長、低溫偏好（32-35°C）| 痲瘋（leprosy）——結核型（Th1 反應）與瘤型（Th2，反應）|
+| ***Neisseria meningitidis*** | - | 雙球菌、氧化酶陽性 | 流行性腦膜炎 |
+| ***Neisseria gonorrhoeae*** | - | 雙球菌、氧化酶陽性 | 淋病 |
+| ***E. coli*** | - | 兼性厭氧、周鞭毛 | 泌尿道感染、腹瀉（EPEC、EHEC、ETEC、EAEC）、腦膜炎（新生兒）|
+| ***Vibrio cholerae*** | - | 弧形、單鞭毛、鹼性蛋白腖中生長 | 霍亂（米湯樣腹瀉）|
+| ***Helicobacter pylori*** | - | 螺旋形、多鞭毛、urease 強陽性 | 胃/十二指腸潰瘍、胃癌 |
+| ***Clostridium difficile*** | + | 厭氧、spore-forming、產生 toxin A/B | 抗生素相關偽膜性結腸炎 |
 
+---
 
-### Helminths
+## Fungi
 
-Parasitic worms are **highly differentiated multicellular organisms** with complex life cycles — alternate between sexual reproduction in the definitive host and asexual multiplication in an intermediate host/vector.
+### 結構與分類
 
-#### Disease Patterns
+真菌是真核生物，細胞壁主要由 **β-glucans**、**chitin** 與 **mannosylated glycoproteins** 組成（與植物細胞壁的 cellulose 不同）。細胞膜含有 **ergosterol**（與動物細胞膜的 cholesterol 不同——這是 antifungal drugs 如 fluconazole、amphotericin B 的作用靶點）。
 
-- Humans may harbor:
-  - **Adult worms** (e.g., *Ascaris lumbricoides*)
-  - **Immature stages** (e.g., *Toxocara canis*)
-  - **Asexual larval forms** (e.g., *Echinococcus* spp.)
-- Adult worms do **not multiply** in humans — severity proportional to worm burden
-  - 10 hookworms → mild/no disease
-  - 1000 hookworms → severe anemia (blood consumption)
-- **Schistosomiasis** — disease from inflammatory response to eggs/larvae, not adult worms
+**生長形態：**
+- **Yeast（酵母菌）**：單細胞，圓形或橢圓形，出芽繁殖（*Candida* 在某些條件下也可呈現）
+- **Hyphae（菌絲）**：絲狀結構；可為 **septate（有隔）**（如 *Aspergillus*）或 **aseptate/nonseptate（無隔）**（如 *Mucor*、*Rhizopus*）
+- **Conidia（分生孢子）**：無性孢子，由菌絲頂端或側面產生
+- **Pseudohyphae**：出芽延伸但不完全分開，形成串珠狀（如 *Candida albicans*）
 
-#### Three Groups of Helminths
+**兩大類感染性真菌：**
 
-**Roundworms (Nematodes)**
-- Circular cross-section, nonsegmented
-- Intestinal: *A. lumbricoides*, *Strongyloides stercoralis*, hookworms
-- Tissue-invasive: filariae (*Wuchereria bancrofti*), *Trichinella spiralis*
+| 類別 | 特性 | 地理分布 | 代表病原 |
+|------|------|---------|---------|
+| **Endemic fungi（地方性真菌）** | 地理分布受限；健康宿主也可致病；感染後可慢性化 | 地區特定 | *Coccidioides immitis*（美國西南部）、*Histoplasma capsulatum*（Ohio River Valley）、*Blastomyces dermatitidis*（密西西比河流域）、*Paracoccidioides brasiliensis*（中南美）|
+| **Opportunistic fungi（伺機性真菌）** | 無處不在；幾乎只在免疫抑制宿主引起疾病 | 全球分布 | *Candida* spp.（伺機性感染最常見）、*Aspergillus fumigatus*（invasive aspergillosis）、*Mucor/Rhizopus*（mucormycosis，常見於糖尿病酮酸中毒）、*Cryptococcus neoformans*（隱球菌腦膜炎，愛滋病指標疾病）|
 
-**Tapeworms (Cestodes)**
-- Head (scolex) + ribbon of flat segments (proglottids)
-- Adsorb nutrition through tegument; no digestive tract
-- Intestinal: fish, beef, pork tapeworms
-- Tissue cysts: *Echinococcus granulosus* → hydatid cysts; pork tapeworm larvae → cysticerci
+**依形態學分類：**
+- **Dimorphic fungi（二形性真菌）**：在組織內為酵母形（37°C），在環境中為黴菌形（室溫）。例如 *Histoplasma*、*Coccidioides*、*Blastomyces*。
+- **Mucor/Rhizopus**：常見於糖尿病與免疫抑制者，表現為 rhinocerebral infection。
 
-**Flukes (Trematodes)**
-- Leaf-shaped flatworms with prominent suckers
-- Include liver flukes, lung flukes, and schistosomes
+---
 
-> **Fig. 9.5** Coiled *Trichinella spiralis* larva within a skeletal muscle cell.
+## Protozoa
 
+單細胞真核生物，是開發中國家疾病與死亡的主要原因，感染可分為腸道、血液/組織與細胞內三大類。
 
-### Ectoparasites
+### 重要原蟲性疾病
 
-**Ectoparasites** — insects (lice, bedbugs, fleas) or arachnids (mites, ticks, spiders) that cause disease by biting or living on/in the skin.
+| 寄生蟲 | 疾病 | 致病機制與臨床特點 |
+|--------|------|-----------------|
+| ***Plasmodium* spp.（瘧原蟲）** | 瘧疾（Malaria）| 紅血球內繁殖→溶血；*P. falciparum* 感染可致 **腦瘧疾**（cytoadherence 於腦微血管內皮）、**黑水熱**（renal failure）、**孕婦流產**；週期性發冷發熱（tertian malaria P. vivax/ovale 每 48 小時；quartan malaria P. malariae 每 72 小時；*P. falciparum* 不規則發熱）|
+| ***Leishmania donovani*** | 黑熱病（Visceral leishmaniasis / Kala-azar）| 細胞內寄生於巨噬細胞（可在網狀內皮系統中長期存活）→ 肝脾腫大、貧血、血小板減少、體重下降；診斷：骨髓穿刺可見 **amastigotes**（無鞭毛型）|
+| ***Trypanosoma brucei*** | 非洲睡眠病（African trypanosomiasis）| 錐鞭毛蟲（trypomastigotes）在血液與淋巴系統繁殖→侵入 CNS（血腦屏障穿過）→腦膜腦炎（嗜睡、意識障礙、最終昏迷）；由 tsetse fly 傳播 |
+| ***Entamoeba histolytica*** | 阿米巴痢疾（Amoebic dysentery）| 滋養體（trophozoite）侵入結腸黏膜→接觸性細胞毒性（pore-forming proteins、proteases）→結腸潰爛；可經血行散布至肝臟→**阿米巴肝膿瘍** |
+| ***Giardia lamblia*** | 梨形蟲病（Giardiasis）| 滋養體吸附腸道上皮微絨毛→絨毛萎縮→吸收不良→脂肪痢（steatorrhea）與腹瀉；常見於旅遊者腹瀉 |
+| ***Toxoplasma gondii*** | 弓蟲症（Toxoplasmosis）| 貓糞便中的 oocysts 或未煮熟的肉類中的 tissue cysts；免疫正常者通常無症狀或輕微淋巴結病；先天性感染（經胎盤）→脈絡膜視網膜炎、顱內鈣化、智能障礙；免疫抑制者（愛滋病）→腦炎（壞死性腦炎，*T. gondii* tachyzoites）|
 
-- **Pediculosis** — lice attached to hairs
-- **Scabies** — mites burrowing into stratum corneum
-- **Clinical features** — itching, excoriations; mixed infiltrate of lymphocytes, macrophages, and eosinophils at bite sites
-- **Vectors** — arthropods transmit other pathogens (e.g., *Borrelia burgdorferi* → Lyme disease, transmitted by deer ticks)
+---
 
+## Helminths
 
-## The Microbiome
+寄生蠕蟲是多細胞生物，具有複雜的生活史，在終宿主與一個或多個中間宿主之間交替。臨床表現與蟲體負荷（worm burden）直接相關。
 
-The **microbiome** is the diverse microbial population of bacteria, fungi, and viruses found in or on the human body (intestinal tract, skin, upper airway, vagina).
+### 三大類蠕蟲
 
-#### Key Roles in Normal Health
+| 類別 | 橫截面形狀 | 代表寄生蟲 |
+|------|-----------|---------|
+| **Nematodes（線蟲）** | 圓形 | 蛔蟲（*Ascaris lumbricoides*）、鉤蟲（*Ancylostoma duodenale*、*Necator americanus*）、旋毛蟲（*Trichinella spiralis*）、蟯蟲（*Enterobius vermicularis*）、絲蟲（*Wuchereria bancrofti*）|
+| **Cestodes（絛蟲）** | 扁形、分節 | 猪肉絛蟲（*Taenia solium*）、牛肉絛蟲（*Taenia saginata*）、棘球絛蟲（*Echinococcus granulosus*——包蟲囊腫）|
+| **Trematodes（吸蟲）** | 扁形、葉狀 | 肝吸蟲（*Clonorchis sinensis*）、血吸蟲（*Schistosoma mansoni/japonicum*）|
 
-- **Intestinal flora** — responsible for food absorption, epithelial integrity, intestinal immune system function, competitive inhibition of pathogens
-- Gut microbiome is a **regulator of nutritional status**
+### 重要蠕蟲感染
 
-#### New Understanding via rRNA Sequencing
+**鉤蟲感染（Hookworm）：**
+- 幼蟲經皮膚侵入（*Ancylostoma* 幼蟲也可經口感染）→ 幼蟲經血行至肺部，穿過肺泡至氣管，被吞嚥至腸道
+- 成蟲附著於小腸黏膜吸血
+- 臨床：腸道慢性失血→缺鐵性貧血；嚴重程度與蟲體負荷成正比
+- 全球超過 5 億人感染，是開發中國家缺鐵性貧血的重要原因
 
-- In healthy individuals: microbiome is **very diverse** (>1000 bacterial species in normal intestinal flora)
-- **Bacterial diversity** greatest in oral cavity and stool → intermediate on skin → least in vagina
-- Part of the bacterial population is **relatively stable** over time but can be altered by diet and environment
+**旋毛蟲病（Trichinosis）：**
+- 食用未煮熟的猪肉（含有 *Trichinella spiralis* 的 encysted larvae）→ 腸道幼蟲釋出→成蟲在腸道發育
+- 雌蟲產生幼蟲→幼蟲經血行散布至骨骼肌（選擇性侵犯血流豐富的肌肉，如 diaphragm、masseter、intercostals）
+- 臨床：腸道症狀（腹瀉、腹痛）；肌肉症狀（肌肉痛、發燒、眶周水腫）；心肌、腦部侵犯（罕見但嚴重）
+- 診斷：肌肉活檢（encysted larvae）；serology（ELISA）
 
-#### Dysbiosis — Changes Associated with Disease
+**血吸蟲病（Schistosomiasis）：**
+- 尾蚴（cercariae）經皮膚侵入（接觸污染水體）→ 幼蟲經血行散布
+- *S. mansoni / S. japonicum*：成蟲位於 mesenteric venules；蟲卵沉積於腸道與肝臟（→ **periportal fibrosis / Symmers pipestem fibrosis**→ 門脈高壓）
+- *S. haematobium*：成蟲位於膀胱靜脈叢；蟲卵沉積於膀胱壁（→ 血尿、膀胱纖維化、鱗狀細胞癌）
+- 慢性炎症與纖維化是組織損傷的核心機制
 
-**Antibiotic use** → kills normal commensal bacteria → overgrowth of *C. difficile* → pseudomembranous colitis
-- Treated by **duodenal stool infusion** from healthy donors (Fecal Microbiota Transplantation)
+---
 
-**Obesity** — stool microbiome less diverse; bacterial phyla proportions differ
-- Weight loss shifts proportions to resemble lean individuals
-- Germ-free animals gain more weight when colonized with high-fat diet–associated bacteria
+## 感染途徑與散布方式
 
-**Inflammatory bowel disease** — reduced diversity, altered bacterial phyla proportions; also associated with changes in **viral populations** in stool
+### 進入途徑
 
+| 途徑 | 正常防禦機制 | 突破防禦的致病菌 |
+|------|------------|---------------|
+| **皮膚** | 完整表皮、低 pH、脂肪酸、normal flora | *S. aureus*（經毛囊、汗腺侵入）；黴菌（經角蛋白侵入）；寄生蟲幼蟲（血吸蟲 cercariae、鉤蟲幼蟲）|
+| **呼吸道** | 黏液纖毛清除（mucociliary escalator）、alveolar macrophages、sIgA | *M. tuberculosis*（抵抗 alveolar macrophage 殺傷）；病毒（破坏纤毛上皮）；*Bordetella pertussis*（colonizes respiratory epithelium）|
+| **胃腸道** | 胃酸（pH <2）、膽鹽、黏液層、normal gut flora、sIgA | *V. cholerae*（耐胃酸，大量繁殖）；*Shigella*（侵犯腸道上皮）；寄生蟲卵/囊體 |
+| **泌尿生殖道** | 尿液沖洗（micturition）、低 pH（陰道）、正常的 lactobacilli | *E. coli*（泌尿道感染最常見）；*N. gonorrhoeae*；*Chlamydia trachomatis*|
 
-## Techniques for Identifying Infectious Agents
+### 病原體的散布方式
 
-### Culture
+| 方式 | 機制 | 代表病原 |
+|------|------|---------|
+| **直接擴散（Direct extension）** | 病原體產生溶解酶（hyaluronidase、collagenase、proteases）→組織間蔓延 | *S. aureus*（hyaluronidase→蜂窩組織炎）；*Clostridium perfringens*（lecithinase/α-toxin→ gas gangrene）|
+| **淋巴/血行散布（Lymphatic/hematogenous spread）** | 進入淋巴系統或血液→遠處器官播散 | Poliovirus（viremia→CNS）；HBV（viremia→肝臟）；*M. tuberculosis*（經淋巴血行散布至全身）|
+| **神經元軸突運輸（Neural spread）** | 病毒或毒素逆行或順行運輸沿軸突 | Rabies virus（逆行至CNS）；VZV（逆行至 dorsal root ganglion →潛伏，再活化為帶狀皰疹）；HSV（也可在神經節潛伏）|
 
-- Bacterial and fungal cultures remain **essential** for diagnostic testing
-- Viral culture has been largely replaced by alternative methods
-
-### Histology
-
-- Some agents visible in **H&E-stained sections**:
-  - CMV and HSV inclusion bodies
-  - Bacterial clumps (usually stain blue)
-  - *Candida* and *Mucor* (fungi)
-  - Most protozoa and all helminths
-- **Special stains** improve visualization:
-  - **Gram stain** — most bacteria
-  - **Acid-fast stain** — mycobacteria, nocardiae
-  - **Silver stain** — fungi, legionellae, *Pneumocystis*
-  - **Periodic acid–Schiff (PAS)** — fungi, amebae
-  - **Mucicarmine stain** — *Cryptococci*
-  - **Giemsa stain** — *Leishmaniae*, *Plasmodium*
-  - **Antibody labeling** — all classes
-
-> **Tip:** Organisms are best visualized at the **advancing edge** of a lesion, not the necrotic center.
-
-### Serology
-
-- **IgM detection** shortly after symptom onset — often diagnostic
-- **4-fold rise in titer** between acute and convalescent (4–6 weeks) phases — diagnostic
-- Useful for viral hepatitis diagnosis
-- **Cross-reacting antibodies** (e.g., in syphilis, infectious mononucleosis) — used diagnostically
-
-### Molecular Diagnostics
-
-- **Nucleic acid amplification** (PCR, transcription-mediated amplification) — used for:
-  - Gonorrhea, chlamydial infection, tuberculosis, herpes encephalitis
-  - PCR of CSF for HSV encephalitis: **~80% sensitivity** vs. <10% for viral culture
-  - Nucleic acid tests for genital *Chlamydia*: **10–30% more cases** detected than by culture
-- **Quantitative PCR** for BK virus, CMV, EBV — assesses viral loads in transplant recipients
-- **Molecular panels** — detect 20+ pathogens simultaneously for respiratory and gastrointestinal infections
-- **Quantitative viral nucleic acid assays** — guide management of HIV, HBV, HCV
-- **Next-generation sequencing** — detecting novel/rare pathogens and epidemiologic investigations
-
-### Proteomics
-
-- **Mass spectrometry** — identifies microorganisms by protein content
-- Rapid bacterial species identification
-- Does **not** provide antibiotic sensitivity (still requires culture)
-
-
-### Table 9.4 — Techniques for Identifying Infectious Agents
-
-| Technique | Infectious Agent(s) |
-|---|---|
-| Gram stain | Most bacteria |
-| Wet Mount / Calcofluor-white / Fungi-fluor | Fungi |
-| Acid-fast stain | Mycobacteria, nocardiae (modified) |
-| Silver stain | Fungi, legionellae, *Pneumocystis* |
-| Periodic acid–Schiff stain | Fungi, amebae |
-| Mucicarmine stain | *Cryptococci* |
-| Giemsa stain | *Leishmaniae*, *Plasmodium* |
-| Antibodies | All classes |
-| Culture | All classes |
-| DNA probes and PCR | All classes |
-| Proteomic methods / Mass spectrometry | Bacteria, mycobacteria, fungi |
-
-> **Table 9.4** Summary of laboratory techniques for identifying infectious agents.
-
-
-## Newly Emerging and Reemerging Infectious Diseases
-
-Several factors contribute to the emergence of new infectious diseases:
-
-### Reasons for Discovery of New Pathogens
-
-- **Improved detection methods** — pathogens likely present for centuries
-  - *Helicobacter pylori* (gastritis, peptic ulcer) — discovered in 1980s
-  - *Mycobacterium lepromatosis* (leprosy) — recently identified through DNA sequencing
-
-- **Animals as source of human pathogens**
-  - **MERS CoV** and **SARS** — likely spread from animals to humans (detected 2003, 2012)
-  - **HIV** and ***Borrelia burgdorferi*** — also of animal origin
-
-- **Microbes acquire virulence-enhancing genes**
-  - 2011 Germany: new highly virulent shiga-toxin–producing *E. coli* from sprout seed contamination
-  - Strain acquired shiga-toxin gene from a bacteriophage
-
-- **Immunosuppression** — AIDS, transplant therapy, cancer chemotherapy
-  - *Human herpes virus 8*, *Mycobacterium avium* complex, *P. jirovecii*
-
-### Zika Virus — Emerging Clinical Syndromes
-
-- Discovered 1947 in Uganda; remained rare for decades
-- Spread expanded from Africa, Asia, Pacific → Americas (2015 outbreak in Brazil)
-- **Transmission** — *Aedes* mosquito bites, sexual transmission, blood transfusion
-- **Clinical effects** — most cases asymptomatic or mild; associated with:
-  - **Guillain-Barré syndrome** (immune damage to nervous system)
-  - **Congenital microcephaly** and CNS defects when infection occurs during pregnancy
-- Public Health Emergency of International Concern
-
-### Factors Driving Reemergence
-
-- **Human behavior** — AIDS: initially in homosexual men/drug users → now predominantly heterosexual (sub-Saharan Africa); Ebola 2014 spread via border movement and burial practices; SARS spread rapidly via air travel
-
-- **Environmental changes** — Forest regrowth → increased deer/mice → more tick vectors → increased Lyme disease, babesiosis, ehrlichiosis; Global warming → *Aedes*-borne Dengue and Zika now found in >50% of U.S. states; Chikungunya reached Americas in 2013
-
-- **Geographic spread via travel/animal movement** — West Nile virus (Europe/Asia/Africa) → U.S. in 1999 (infected mosquito or bird); Highly pathogenic H5 influenza viruses spread worldwide via bird migration and domestic bird transport
-
-- **Antibiotic resistance** — *Mycobacterium tuberculosis*, *Neisseria gonorrhoeae*, *Klebsiella pneumoniae*, *S. aureus*; Drug-resistant *Plasmodium falciparum* in Asia, Africa, Latin America
-
-
-## Agents of Bioterrorism
-
-The CDC has categorized bioweapons into three risk levels (Table 9.5).
-
-### Category A — Highest Risk
-
-- **Easily disseminated or person-to-person transmission**
-- **High mortality** with major public health impact
-- Potential for pandemics, widespread panic, social disruption
-- Require special public health preparedness
-
-| Disease | Agent |
-|---|---|
-| Anthrax | *Bacillus anthracis* |
-| Botulism | *Clostridium botulinum* toxin |
-| Plague | *Yersinia pestis* |
-| Smallpox | *Variola major* virus |
-| Tularemia | *Francisella tularensis* |
-| Viral hemorrhagic fevers | Ebola, Marburg, Lassa, others |
-
-**Smallpox** — high transmissibility, ≥30% case mortality, no effective therapy, spread by respiratory secretions and skin lesions. Routine U.S. vaccination ended 1972 → population now highly susceptible. Reinstituted for some medical/military personnel.
-
-### Category B — Moderate Risk
-
-- Less easily disseminated; moderate morbidity, low mortality
-- Require specific diagnostic and surveillance measures
-- Many can be spread in food or water
-
-| Disease | Agent |
-|---|---|
-| Brucellosis | *Brucella* spp. |
-| Epsilon toxin | *Clostridium perfringens* |
-| Food safety threats | *Salmonella* spp., *E. coli* O157:H7, *Shigella*, others |
-| Glanders | *Burkholderia mallei* |
-| Melioidosis | *Burkholderia pseudomallei* |
-| Psittacosis | *Chlamydia psittaci* |
-| Q fever | *Coxiella burnetii* |
-| Ricin toxin | Castor beans (*Ricinus communis*) |
-| Staphylococcal enterotoxin B | *S. aureus* |
-| Typhus fever | *Rickettsia prowazekii* |
-| Mosquito-borne encephalitis | Venezuelan/ Eastern/ Western equine encephalitis, others |
-| Water safety threats | *Vibrio cholerae*, *Cryptosporidium parvum*, others |
-
-### Category C — Emerging Threats
-
-- **Emerging pathogens** engineered for mass dissemination
-- Ease of availability, production, and dissemination
-- Potential for high morbidity and mortality
-
-| Threat | Examples |
-|---|---|
-| Emerging infectious diseases | Nipah virus, hantavirus, others |
-
-> **Table 9.5** CDC bioterrorism agent categories.
-
-
-## Transmission and Dissemination of Microbes
-
-Microbes enter the host through several body surfaces and disseminate via different routes once inside.
-
-### Routes of Entry of Microbes
-
-The first defenses against infection are **intact skin** and **mucosal surfaces** — physical barriers producing antimicrobial substances.
-
-- Respiratory, gastrointestinal, or genitourinary infections in healthy individuals → caused by **virulent microorganisms** capable of damaging/penetrating intact epithelial barriers
-- Most skin infections in healthy individuals → caused by **less virulent organisms** that breach skin through damaged sites
-
-
-#### Skin
-
-- **Dense keratinized outer layer** — natural barrier; low pH (<5.5) + fatty acids inhibit most microorganisms
-- Normal flora include potential opportunists: *S. aureus*, *Candida albicans*
-
-**Portal of Entry:**
-- **Wounds, surgical incisions** — *Staphylococci*
-- **Burns** — *Pseudomonas aeruginosa*
-- **Diabetic/pressure-related foot sores** — multibacterial
-- **Intravenous catheters** — local or systemic infection
-- **Needle sticks** — HBV, HCV, HIV
-- **Arthropod/animal bites** — fleas, ticks, mosquitoes, mites, lice → transmit arboviruses, bacteria, protozoa, helminths
-- **Direct penetration** — *Schistosoma* larvae release enzymes dissolving extracellular matrix; dermatophytes infect intact stratum corneum
-
-
-#### Gastrointestinal Tract
-
-- Transmitted via **fecal-contaminated food or drink**
-- **Acidic gastric secretions** — important defense; neutralize many pathogens
-  - *Vibrio cholerae*: requires 10¹¹ organisms to infect; neutralizing gastric acid reduces infectious dose 10,000-fold
-  - *Shigella*, *Giardia* cysts — acid-resistant; <100 organisms can cause illness
-
-**Normal GI Defenses:**
-1. Viscous mucus covering intestinal epithelium
-2. Lytic pancreatic enzymes and bile detergents
-3. Mucosal antimicrobial **defensins**
-4. Normal flora
-5. Secreted **IgA antibodies** (produced by plasma cells in MALT; transported by M cells)
-
-**Pathogens using M cells** — poliovirus, enteropathic *E. coli*, *V. cholerae*, *S. enterica* serotype Typhi, *Shigella flexneri*
-
-**When GI defenses fail:**
-- Low gastric acidity
-- Antibiotics altering normal flora (*C. difficile* colitis)
-- Stalled peristalsis or mechanical obstruction
-- Enveloped viruses (inactivated by bile) — only non-enveloped viruses (hepatitis A, rotavirus) can enter via GI tract
-
-**Bacterial GI Disease Mechanisms:**
-
-| Mechanism | Example |
-|---|---|
-| Toxin production in food (preformed) | *S. aureus*, *Bacillus cereus* → food poisoning without gut bacterial growth |
-| Adhesion, local proliferation, toxin production | *V. cholerae*, ETEC → exotoxins cause fluid secretion → watery diarrhea |
-| Invasion → ulceration, inflammation, hemorrhage | *Shigella*, *Salmonella*, *Campylobacter* → bloody diarrhea (dysentery) |
-| Systemic spread | *S. enterica* serotype Typhi → Peyer patches → mesenteric lymph nodes → bloodstream |
-
-**Fungal GI Infections** — in immunocompromised individuals; *Candida* (part of normal flora) → oral thrush, membranous esophagitis; can spread to stomach, lower GI, and other organs
-
-**Intestinal Parasites — Disease Mechanisms:**
-
-| Organism | Mechanism |
-|---|---|
-| *Giardia lamblia* | Attaches to brush border → villous blunting → malabsorption + chronic inflammation |
-| *Cryptosporidia* | Taken up by enterocytes → replicates → mucosal damage, villous atrophy, inflammation |
-| *Entamoeba histolytica* | Kills host cells by contact-mediated cytolysis (pore protein) → ulceration and invasion of colonic mucosa |
-| *Ascaris lumbricoides* | Large numbers → gut obstruction; invades and damages bile ducts |
-| Hookworms | Suck blood from intestinal villi → iron-deficiency anemia |
-| *Diphyllobothrium* (fish tapeworm) | Deprives host of vitamin B12 → anemia |
-
-
-#### Respiratory Tract
-
-- Large numbers of microorganisms inhaled daily
-- **Particle size determines penetration depth:**
-  - Large particles → trapped in mucociliary blanket (nose, upper respiratory tract) → coughed out or swallowed
-  - Small particles (<5 µm) → travel directly to alveoli → phagocytosed by alveolar macrophages or recruited neutrophils
-
-**How Respiratory Pathogens Overcome Defenses:**
-- **Attachment** — influenza viruses have **hemagglutinin** proteins binding sialic acid on epithelial cells → host cell engulfs virus
-- **Toxin-mediated ciliary paralysis** — *Haemophilus influenzae*, *Mycoplasma pneumoniae*, *Bordetella pertussis*
-- **Post-influenza** — *S. pneumoniae*, *S. aureus* cause pneumonia after viral infection destroys ciliated epithelium
-- **Chronic damage** — smokers, cystic fibrosis; **acute injury** — intubated patients, aspiration
-- **Avoiding phagocytosis** — *M. tuberculosis* escapes killing within phagolysosomes of macrophages
-- **Opportunistic fungi** — infect lungs when cellular immunity is depressed or leukocytes are reduced (*P. jiroveci* in AIDS, *Aspergillus* after chemotherapy)
-
-
-#### Urogenital Tract
-
-**Urinary Tract:**
-- Almost always invaded from exterior via **urethra**
-- **Regular flushing with urine** — key defense; bladder urine normally sterile
-- Successful pathogens (*N. gonorrhoeae*, *E. coli*) **adhere** to urinary epithelium
-- **Anatomy matters** — women's urethra is 5 cm vs. 20 cm in men → women have far more UTIs
-- **Obstruction** (e.g., benign prostatic hyperplasia) or **reflux** → increased susceptibility
-- UTIs can ascend to kidneys → **acute and chronic pyelonephritis**
-
-**Vagina (Puberty to Menopause):**
-- Protected by **low pH** from glycogen catabolism by **lactobacilli**
-- Antibiotics kill lactobacilli → **yeast overgrowth** → vaginal candidiasis
-
-
-### Table 9.6 — Routes of Microbial Infection
-
-| Site | Major Local Defense(s) | Basis for Failure of Defense | Pathogen/Disease (Examples) |
-|---|---|---|---|
-| **Skin** | Epidermal barrier | Mechanical defects (punctures, burns, ulcers), needle sticks, arthropod/animal bites, direct penetration | *Staphylococcus aureus*, *Candida albicans*, *Pseudomonas aeruginosa*, HIV, hepatitis viruses, yellow fever, plague, Lyme disease, malaria, rabies, Zika virus, *Schistosoma* |
-| **Gastrointestinal tract** | Epithelial barrier, acidic secretions, bile and pancreatic enzymes, normal protective flora, mucus layer | Attachment and local proliferation | *Vibrio cholerae*, *Giardia* |
-| | | Microbial attachment and invasion | *Shigella*, *Salmonella*, *Campylobacter* |
-| | | Uptake through M cells | Poliovirus, certain pathogenic bacteria |
-| | | Acid-resistant cysts and eggs | Many protozoa and helminths |
-| | | Resistant microbial external coats | Hepatitis A, Rotavirus, Norovirus |
-| | | Broad-spectrum antibiotic use | *Clostridium difficile* |
-| **Respiratory tract** | Mucociliary clearance | Ciliary paralysis by toxins | *Haemophilus influenzae*, *M. pneumoniae*, *Bordetella pertussis* |
-| | | Attachment and local proliferation of microbes | Influenza viruses |
-| | | Resident alveolar macrophages | Resistance to killing by phagocytes → *M. tuberculosis* |
-| **Urogenital tract** | Urination | Obstruction, microbial attachment | *E. coli* |
-| | Normal vaginal flora (acidic pH) | Antibiotic use | *Candida albicans* |
-| | Intact epidermal/epithelial barrier | Microbial attachment and local proliferation | *Neisseria gonorrhoeae* |
-| | | Local trauma, direct infection/local invasion | Herpes viruses, Zika virus, *Treponema pallidum*, HPV |
-
-> **Table 9.6** Routes of microbial infection — local defenses and failure mechanisms.
-
-
-### Spread and Dissemination Within the Body
-
-Some microorganisms proliferate **locally** at the site of initial infection; others **penetrate the epithelial barrier** and spread to distant sites via lymphatics, blood, or nerves.
-
-**Contrast:**
-- **Superficial infections** — confined to lumen of hollow viscera (e.g., *V. cholerae*) or interact exclusively with epithelial cells (e.g., papillomaviruses, dermatophytes)
-- **Disseminated infections** — spread beyond initial entry site
-
-#### Modes of Spread
-
-| Mode | Mechanism | Examples |
-|---|---|---|
-| **Lysis and invasion** | Extracellular bacteria/fungi/helminths secrete lytic enzymes; follow tissue planes → regional lymphatics | *S. aureus* (hyaluronidase degrades ECM) → abscess → bacteremia → deep organs |
-| **Through blood and lymph** | In plasma: most viruses, bacteria, fungi, some protozoa, all helminths | Poliovirus, HBV |
-| | In leukocytes: herpesviruses, HIV, mycobacteria, *Leishmania*, *Toxoplasma* | |
-| | In red cells: *Plasmodium*, *Babesia* | |
-| **Cell-to-cell transmission** | Replication and release of virions; cell fusion; transport within nerves | Rabies virus, varicella-zoster virus |
-
-#### Consequences of Bloodborne Spread
-
-- **Sporadic low-virulence bacteremia** (e.g., during tooth brushing) → quickly controlled by normal host defenses
-- **Disseminated viremia/bacteremia/fungemia/parasitemia** by virulent pathogens → serious danger → fever, hypotension, sepsis
-- **Massive bloodstream invasion** by bacteria → rapidly fatal, even in healthy individuals
-
-#### Distant Manifestations
-
-| Pathogen | Entry Portal | Distant Manifestation |
-|---|---|---|
-| Varicella-zoster, measles viruses | Airways | Skin rash |
-| Poliovirus | Intestine | Motor neuron death → paralysis |
-| *Schistosoma mansoni* | Skin | Portal vein/mesenteric vessels → liver and intestine damage |
-| *Schistosoma haematobium* | Skin | Urinary bladder → cystitis |
-| Rabies virus | Animal bite | Retrograde transport in sensory neurons → brain → encephalitis and death |
-
-> **Fig. 9.6** Routes of entry and dissemination of microbes — penetrating epithelial/mucosal barriers; most spread through lymphatics or bloodstream; some travel through nerves.
-
-
-### Transmission of Microbes
-
-Transmission depends on **hardiness** of the microbe:
-- Bacterial spores, protozoan cysts, thick-shelled helminth eggs → survive in cool, dry environments
-- Less hardy microorganisms → must be quickly passed person-to-person
-
-**Exit (Mode of leaving host) is as important as entry:**
-
-| Exit Route | Pathogens/Mode |
-|---|---|
-| **Skin** | *S. aureus*, dermatophytes (desquamated skin); HSV, *Treponema pallidum* (genital skin lesions) |
-| **Oral secretions** | Mumps virus, CMV, rabies virus (replicate in salivary glands) |
-| **Respiratory secretions** | Influenza viruses (large droplets, ≤3 feet); *M. tuberculosis*, varicella-zoster virus (small droplets/dust, long distances) |
-| **Stool** | *Shigella*, *G. lamblia*, rotavirus; hepatitis A virus (replicates in liver); *S. enterica* serotype Typhi (gallbladder → bile → stool) |
-| **Blood** | Via invertebrate vectors (malaria, arboviruses); medical practices (blood transfusion, equipment reuse); IV drug use (shared needles) |
-| **Urine** | *S. haematobium* (grows in bladder veins; eggs reach urine) |
-| **Genital tract** | STIs from urethra, vagina, cervix, rectum, oral pharynx; transmitted by direct contact; often by asymptomatic individuals; risk of additional STIs |
-| **Vertical transmission** | **Placental-fetal** — most likely when mother infected during pregnancy; damage depends on fetal age at infection (rubella 1st trimester → heart malformations, mental retardation, cataracts, deafness; Zika → congenital microcephaly); **During birth** — contact through birth canal (gonococcal/chlamydial conjunctivitis); **Postnatal in breast milk** — CMV, HIV, HBV |
-
-**Zoonotic infections** — transmitted from animals to humans via direct contact, consumption of animal products, or indirect transmission via invertebrate vectors.
-
-
-### Summary: Transmission of Microbes
-
-**Modes of Transmission:**
-- Contact (direct and indirect)
-- Respiratory droplets
-- Fecal-oral route
-- Sexual transmission
-- Vertical transmission (mother to fetus or newborn)
-- Insect/arthropod vectors
-
-**Conditions for Establishment of Infection:**
-- Pathogen possesses **virulence factors** that overcome normal host defenses, OR
-- Host defenses are **compromised**
-
-**Host Defenses Against Infection:**
-
-| Site | Defenses |
-|---|---|
-| **Skin** | Tough keratinized barrier, low pH, fatty acids, normal microbiota |
-| **Respiratory system** | Alveolar macrophages, mucociliary clearance by bronchial epithelium, IgA |
-| **Gastrointestinal system** | Acidic gastric pH, viscous mucus, pancreatic enzymes and bile, defensins, IgA, normal flora |
-| **Urogenital tract** | Repeated flushing, acidic environment from commensal vaginal flora |
-
+---
 
 ## How Microorganisms Cause Disease
 
-Infectious agents damage tissues by **three mechanisms**:
+### 三種主要損傷機制
 
-1. **Direct cell death** — contact/enter host cells and directly cause death
-2. **Toxin/enzyme release** — kill cells at a distance, degrade tissue components, damage blood vessels → ischemic necrosis
-3. **Host immune response** — defensive responses directed against invader but cause additional tissue damage
+1. **直接細胞死亡**：病原體附著並進入宿主細胞，直接干擾細胞功能或破壞細胞結構，導致細胞死亡
+2. **毒素或酶分泌**：外毒素在遠處殺死細胞或降解組織；內毒素（LPS）激活巨噬細胞與補體，產生全身性細胞激素風暴
+3. **宿主免疫反應**：病原體引發的免疫反應在清除感染的同時，造成附加組織損傷——這是許多感染性疾病病理變化的核心
 
+### 免疫逃避機制
 
-### Mechanisms of Viral Injury
+| 策略 | 機制 | 例子 |
+|------|------|------|
+| **抗原變異（Antigenic variation）** | 基因層面產生表面抗原結構變異 | HIV（高突變率→envelope glycoprotein 持續變異）；*N. gonorrhoeae*（pili 蛋白改變）；*Trypanosoma*（表面 VSG 蛋白切換）|
+| **抗吞噬作用（Antiphagocytic mechanisms）** | 莢膜抑制吞噬；表面蛋白阻斷 opsonization | *S. pneumoniae*（莢膜）；*B. anthracis*（莢膜）|
+| **阻斷 phagosome-lysosome fusion** | 在吞噬細胞記憶體活，不與 lysosome 融合 | *M. tuberculosis*（阻止 E丹D1 與 phagosome 融合）；*Legionella* |
+| **干擾補體活化（Complement evasion）** | 表面蛋白抑制補體 cascade | *M. tuberculosis*（lipoarabinomannan）；*N. gonorrhoeae*（sialic acid 模擬）|
+| **干擾 IFN 途徑（Interferon pathway disruption）** | 病毒產生 IFN 受體同源物或抑制 JAK/STAT 途徿 | Vaccinia virus（分泌 IFN-α/β 受體同源物）；HCV（抑制 STAT-1 phosphorylation）|
+| **隱藏於免疫豁免區（Immune-privileged sites）** | 病毒在 CNS、眼部或睪丸等免疫抑制微環境中存活 | HSV 在 dorsal root ganglion 潛伏；CMV 在 monocyte/macrophage 中潛伏 |
 
-Viruses directly damage host cells by entering and replicating at the host's expense. Disease manifestations are largely determined by **viral tropism** for specific tissues and cell types.
+---
 
-#### Factors Influencing Tropism
+## 新興與再浮現傳染病
 
-| Factor | Mechanism | Example |
-|---|---|---|
-| **Host receptors** | Surface proteins bind to specific host cell surface proteins | HIV gp120 binds CD4, CXCR4, CCR5 on T cells/macrophages |
-| **Host proteases** | Enable binding/activation of viral proteins | Host protease cleaves and activates influenza hemagglutinin |
-| **Specificity of transcription factors** | Presence of lineage-specific factors recognizing viral enhancer/promoter elements | JC virus replicates only in oligodendroglia (CNS) — promoter active in glial cells |
-| **Physical characteristics of tissues** | Temperature, environment affect tropism | Enteroviruses resist acid/bile/digestive enzymes → replicate in intestine; Rhinoviruses replicate optimally at upper-respiratory tract temperatures |
+### 新病原體的發現因素
 
-#### Mechanisms of Viral Cell Damage
+- **檢測方法改善**：分子生物學與基因組學進步使新病原體得以識別（如 *H. pylori* 在 1980 年代才被培養並確認為胃潰瘍病因）
+- **動物來源的人類病原體（Zoonoses）**：新興傳染病約 75% 來自動物。MERS CoV（2012，蝙蝠→駱駝→人）；SARS-CoV（2003，蝙蝠→果子狸→人）；HIV（猿免疫缺陷病毒 SIV 跨物種傳播）
+- **微生物獲得毒力增強基因**：2011 年德國腸道出血性 *E. coli* O104:H4（獲得 Shiga toxin 基因與 EAEC 的黏附因子→造成溶血性尿毒症候群）
+- **免疫抑制人群增加**：愛滋病流行、器官移植與免疫抑制藥物使用增加，暴露了原本無症狀或低病原性的伺機性病原體
 
-| Mechanism | Example |
-|---|---|
-| **Direct cytopathic effects** | Poliovirus blocks host protein synthesis (inactivates cap-binding protein); HSV produces proteins inhibiting cellular DNA/mRNA synthesis and degrading host DNA; Viral replication triggers **apoptosis** (ER perturbations → caspase activation) |
-| **Anti-viral immune responses** | CTLs attack virus-infected cells; HBV → CTL-mediated destruction of hepatocytes (attempting to clear infection) |
-| **Transformation of infected cells** | Oncogenic viruses (HPV, EBV) → hijack cell cycle control, anti-apoptotic strategies, insertional mutagenesis → benign or malignant tumors |
+### Zika 病毒的臨床表現
 
-> **Fig. 9.7** Mechanisms by which viruses cause injury to cells — entry via receptor, replication, metabolic derangements, cell lysis/fusion, neoplastic transformation, viral inclusions, host T cell–mediated injury.
+- **傳播途徑**：*Aedes* 蚊子叮咬（主要）；性接觸；輸血；垂直傳播（母胎傳播）
+- **成人：** 大多數感染者無症狀或症狀輕微（發燒、皮疹、關節痛、結膜炎）；Guillain-Barré 症候群（自體免疫性神經脫髓鞘病）
+- **胎兒/新生兒：** 孕婦感染→胎兒 **先天性小頭症（microcephaly）** 與 CNS 嚴重缺陷（brain atrophy、腦室擴大、視網膜病變）；與胎兒腦發育期間 neural progenitor cell 受到病毒直接損傷相關
 
+---
 
-### Mechanisms of Bacterial Injury
+## Summary
 
-#### Bacterial Virulence
-
-Pathogenic bacteria have **virulence genes** frequently clustered in **pathogenicity islands**. Small numbers of virulence genes determine harmfulness.
-
-- *Salmonella* strains infecting humans are a single species; only a few virulence genes determine whether isolate causes life-threatening typhoid fever or self-limited gastroenteritis
-
-**Genetic elements spreading virulence factors:**
-- **Plasmids** (small circular DNAs) and **bacteriophages** (viruses) spread between bacteria
-- Can carry toxins, antibiotic resistance enzymes
-- **Plasmids/transposons encoding antibiotic resistance** → convert susceptible bacteria to resistant strains
-- **Carbapenemase genes** on plasmids → pan-resistant gram-negative bacilli (CDC urgent threat)
-
-**Population-Level Virulence:**
-- **Quorum sensing** — bacteria coordinately regulate virulence gene expression at high population densities; *S. aureus* secretes autoinducer peptides → increasing concentration → stimulates exotoxin production
-- **Biofilms** — bacteria live within viscous polysaccharide layer adhering to host tissues or devices (intravascular catheters, artificial joints); biofilms make bacteria inaccessible to immune effectors and increase antibiotic resistance; important in bacterial endocarditis, artificial joint infections, cystic fibrosis respiratory infections
-
-#### Bacterial Adherence to Host Cells
-
-**Adhesins** — bacterial surface molecules that bind to host cells or ECM:
-
-| Structure | Example | Binding Target |
-|---|---|---|
-| Protein F, teichoic acid | *S. pyogenes* | Fibronectin on host cell surfaces and ECM |
-| **Pili (filamentous proteins)** | *E. coli* causing UTIs | P pilus binds Gal(α1–4)Gal on uroepithelial cells |
-| | *N. gonorrhoeae* | Pili mediate adherence and are targets of antibody response; **antigenic variation** in pili → immune escape |
-
-#### Bacterial Toxins
-
-**Endotoxins** — components of bacterial cell (LPS of gram-negative outer membrane):
-- **Lipid A** (anchor) + **core sugar chain** + **O antigen** (variable; used for serotyping)
-- Lipid A binds **CD14** on leukocytes → Toll-like receptor 4 → inflammatory responses
-- **Beneficial effects** — activates protective immunity (cytokines, chemokines, costimulatory molecules)
-- **Harmful effects** — septic shock, DIC, ARDS (excessive cytokine induction, especially TNF)
-
-**Exotoxins** — secreted proteins causing cellular injury:
-
-| Type | Mechanism | Examples |
-|---|---|---|
-| **Enzymes** | Proteases, hyaluronidases, coagulases, fibrinolysins | Exfoliative toxins of *S. aureus* → cleave keratinocyte adhesion proteins → epidermal detachment |
-| **A-B toxins** | Two-component: A (enzymatic) + B (binding) | *B. anthracis* (edema factor, lethal factor — see Fig. 9.8), *V. cholerae*, *C. diphtheriae* |
-| **Superantigens** | Bind conserved T-cell receptor portions → massive T lymphocyte proliferation + cytokine release → capillary leak → SIRS | *S. aureus*, *S. pyogenes* → toxic shock syndrome |
-| **Neurotoxins** | Cleave proteins involved in neurotransmitter secretion at synaptic junction → paralysis (neurons not killed) | *C. botulinum* (blocks acetylcholine release → flaccid paralysis), *C. tetani* (blocks glycine release → spastic paralysis) → respiratory failure |
-| **Enterotoxins** | Affect GI tract | *S. aureus* (nausea/vomiting), *V. cholerae* (voluminous watery diarrhea), *C. difficile* (bloody diarrhea) |
-
-> **Fig. 9.8** Anthrax exotoxin mechanism — protective antigen (B subunit) binds receptor, cleaved, forms heptamer; edema factor (EF) or lethal factor (LF) bind, enter cell. EF + calmodulin = adenylate cyclase → ↑cAMP → water efflux → edema. LF = protease destroying MAPKKs → cell death.
-
-
-### Protective Immunity to Infection
-
-#### Innate and Adaptive Immunity (Overview)
-
-Humoral and cellular immune responses protect the host from most infections (detailed in Chapter 5). Key components:
-
-| Component | Role |
-|---|---|
-| **Humoral immunity** | Antibodies neutralize pathogens, opsonize for phagocytosis, activate complement |
-| **Cellular immunity** | T cells (especially CTLs) kill infected cells; CD4+ T cells coordinate responses |
-| **Innate immunity** | Physical barriers, phagocytes, pattern recognition receptors (TLRs, NLRs), antimicrobial peptides (defensins, cathelicidins, thrombocidins) |
-| **Complement** | Opsonization, MAC formation, inflammation |
-| **Cytokines/Interferons** | Early antiviral defense; inflammatory mediators |
-
-
-### Injurious Effects of Host Immune Responses
-
-Host immune responses to microbes can sometimes **cause tissue injury**:
-
-| Mechanism | Example |
-|---|---|
-| **Granulomatous inflammation** | *M. tuberculosis* → delayed hypersensitivity → granulomas → sequester bacilli but also cause caseous necrosis and fibrosis |
-| **T-cell–mediated inflammation** | HBV and HCV hepatocyte damage is mainly immune-mediated, not cytopathic |
-| **Innate immune inflammation** | Pattern recognition receptors bind PAMPs and DAMPs → activate immune system → inflammation (Chapter 5) |
-| **Humoral immunity** | Poststreptococcal glomerulonephritis → antibodies bind streptococcal antigens → immune complexes deposit in glomeruli → nephritis |
-
-
-## Immune Evasion by Microbes
-
-After bypassing tissue barriers, infectious microorganisms must evade innate and adaptive immunity to proliferate and transmit.
-
-### Table 9.7 — Mechanisms of Antigenic Variation
-
-| Mechanism | Example Agent(s) | Disease |
-|---|---|---|
-| **High mutation rate** | HIV | AIDS |
-| **Genetic reassortment** | Influenza virus | Influenza |
-| **Genetic rearrangement** (recombination, gene conversion, site-specific inversion) | Influenza virus, Rotavirus | Influenza, Diarrhea |
-| **Large diversity of serotypes** | *Borrelia burgdorferi* | Lyme disease |
-| | *Neisseria gonorrhoeae* | Gonorrhea |
-| | *Trypanosoma* spp. | African sleeping sickness |
-| | *Plasmodium* spp. | Malaria |
-| | Rhinoviruses | Colds |
-| | *Streptococcus pneumoniae* | Pneumonia, meningitis |
-
-### Evasion Strategies
-
-| Strategy | Mechanism |
-|---|---|
-| **Antigenic variation** | Genetic mechanisms generate surface antigen variation; low-fidelity RNA polymerases (HIV, influenza); reassortment (influenza); gene switching (Borrelia, Trypanosoma); 90+ *S. pneumoniae* serotypes with different capsule polysaccharides |
-| **Modification of surface proteins** | Resist binding of antimicrobial peptides (defensins, cathelicidins, thrombocidins); inactivate/downregulate these peptides | *Shigella*, *S. aureus* |
-| **Overcoming antibodies and complement** | *M. tuberculosis* subverts complement → activates alternative pathway → complement coats bacteria → uptake by monocytes → reaches replication site; Many bacteria use intracellular "hideout" to escape antibodies/complement: *Shigella*, enteroinvasive *E. coli*, *M. tuberculosis*, *M. leprae*, *S. enterica* serotype Typhi; *Listeria monocytogenes* manipulates cytoskeleton → spreads cell-to-cell → evades immune defenses |
-| **Resisting phagocytosis** | Carbohydrate capsules (*S. pneumoniae*, *N. meningitidis*, *H. influenzae*); Surface proteins A (*S. aureus*) and M (*S. pyogenes*) inhibit phagocytosis |
-| **Escaping phagosome killing** | *M. tuberculosis* blocks phagosome-lysosome fusion → proliferates in macrophage; *Legionella* produces listeriolysin O + phospholipases → degrades phagosome membrane → escapes to cytoplasm; also modulates small GTPases |
-| **Escaping the inflammasome** | *Yersinia* and *Salmonella* express virulence proteins inhibiting mature inflammasome formation, suppressing caspase activation, blocking signaling pathways; disables antimicrobial defense |
-| **Disrupting interferon pathways** | Viruses produce soluble IFN receptor homologs blocking IFN action; produce proteins inhibiting JAK/STAT signaling; RIG-I inhibition blocks downstream IFN pathway; encode cytokine/chemokine homologs as competitive antagonists |
-| **Blocking apoptosis** | Gives viruses time to replicate, persist, or transform |
-| **Decreased T-cell recognition** | HSV, CMV, EBV bind/alter MHC class I localization → impaired peptide presentation to CD8+ CTLs; herpesviruses express MHC class I homologs as decoys for NK cell inhibitory receptors; target MHC class II for degradation → impaired CD4+ T-cell help; HIV infects CD4+ T cells, macrophages, dendritic cells → directly compromises leukocyte function |
-
-> **Fig. 9.9** Overview of immune evasion mechanisms — modulation of surface structure, inhibition of phagocytosis, phagosome-lysosome fusion inhibition, signal transduction modulation, inhibition of antigen presentation, viral latency, viral cytokine homologs.
-
-### Summary: Immune Evasion
-
-**Key strategies:**
-- **Antigenic variation**
-- **Inactivating antibodies or complement**
-- **Resisting phagocytosis** (e.g., capsule production)
-- **Escaping the phagosome**
-- **Viral latency**
-- **Suppressing adaptive immune response** (inhibiting antigen presentation, disrupting interferon pathways)
-
-
-## Spectrum of Inflammatory Responses to Infection
-
-The interaction between microbe and host determines histologic features. **Five major histologic patterns:**
-
-1. **Suppurative** inflammation
-2. **Mononuclear/Granulomatous** inflammation
-3. **Cytopathic-Cytoproliferative** reactions
-4. **Necrosis**
-5. **Chronic inflammation/Scarring**
-
-> **Key concept:** Many pathogens produce similar reaction patterns; few features are unique to or pathognomonic for a particular microorganism.
-
-### Mononuclear and Granulomatous Inflammation
-
-- **Mononuclear interstitial infiltrates** — common in chronic inflammation; can appear acutely with viruses, intracellular bacteria, or parasites
-- **Eosinophilia** — prominent in some helminthic infections
-
-| Cell Type Predominating | Example | Reflects |
-|---|---|---|
-| Lymphocytes | HBV infection (Fig. 9.10A) | Cell-mediated immunity against pathogen |
-| Plasma cells | Primary and secondary syphilis (Fig. 9.10B) | Chronic immune response |
-
-**Granulomatous inflammation** — distinctive form of mononuclear inflammation:
-- Evoked by agents that resist eradication but stimulate strong T-cell–mediated immunity
-- Examples: *M. tuberculosis*, *Histoplasma capsulatum*, schistosome eggs
-- Characterized by **epithelioid cells** (activated macrophages) that may fuse into **giant cells**
-- Often with **central caseous necrosis** (Fig. 9.10C)
-
-> **Fig. 9.10** Mononuclear and granulomatous inflammation:
-> - **(A)** Acute viral hepatitis — predominantly lymphocytic infiltrate
-> - **(B)** Secondary syphilis — perivascular lymphoplasmacytic infiltrate + endothelial proliferation
-> - **(C)** Tuberculosis granuloma — caseation (center), epithelioid macrophages, giant cells, surrounding T lymphocytes
-
-### Cytopathic-Cytoproliferative Reaction
-
-- Usually caused by **viruses**
-- Lesions characterized by **cell necrosis** or **cellular proliferation** with **sparse inflammatory cells**
-
-**Morphology:**
-- Viral aggregates visible as **inclusion bodies** (herpesviruses, adenovirus) → may induce **polykaryons** (multinucleated cells; measles, herpesviruses)
-- Focal cell damage → epithelial detachment → **blisters**
-- Some viruses cause **epithelial proliferation** — venereal warts (HPV), molluscum contagiosum (poxviruses)
-- Some viruses → **malignant neoplasms** (Chapter 6)
-
-### Tissue Necrosis
-
-- **Clostridium perfringens** and other toxin-secreting organisms → rapid, severe necrosis with tissue damage as dominant feature
-- Necrotic lesions resemble **infarcts** — disruption of basophilic nuclear staining, preserved cellular outlines
-- *Clostridia* introduced by penetrating trauma, bowel infection in neutropenic host
-- *E. histolytica* → colonic ulcers and liver abscesses with extensive liquefactive necrosis, minimal inflammation
-- **Viruses** → widespread necrosis with inflammation (HSV → temporal lobes; HBV → liver)
-- *C. diphtheriae* exotoxins → laryngeal epithelial necrosis → pseudomembrane → potential asphyxia
-
-### Chronic Inflammation and Scarring
-
-- Many infections → chronic inflammation → resolve with healing or lead to **extensive scarring**
-- **Exuberant scarring** as major cause of dysfunction:
-  - Schistosome eggs → "pipestem" fibrosis of liver; fibrosis of bladder wall (Fig. 9.11)
-  - *M. tuberculosis* → constrictive fibrous pericarditis
-  - Chronic HBV → cirrhosis (fibrous septa around regenerating hepatocyte nodules)
-
-> **Fig. 9.11** *Schistosoma haematobium* infection of bladder — calcified eggs + extensive scarring.
-
-**Mixed patterns in practice:**
-- Different host reactions often occur **simultaneously**
-- Example: AIDS lung — CMV (cytolytic changes) + *Pneumocystis* (interstitial inflammation)
-- Similar patterns seen in responses to physical/chemical agents and inflammatory conditions of unknown cause
-
-**In immunocompromised individuals:**
-- **Absence of inflammatory response** eliminates histologic clues
-- Other diagnostic tests (culture, special stains, molecular) are **essential**
-
-> **Fig. 9.12** *Mycobacterium avium* in AIDS duodenal biopsy — massive intracellular macrophage infection with acid-fast organisms; organisms persist in macrophages because inadequate T cells to mount granulomatous response.
-
-
-## Infections in Individuals With Immunodeficiencies
-
-Inherited or acquired defects in immunity often impair only part of the immune system → susceptibility to **specific types** of infections.
-
-### Inherited Immunodeficiencies
-
-| Defect | Susceptibility |
-|---|---|
-| **Antibody deficiency** (e.g., X-linked agammaglobulinemia) | Severe bacterial infections by extracellular bacteria; a few viral infections (rotavirus, enteroviruses) |
-| **T-cell defects** | Intracellular pathogens — viruses and some parasites |
-| **Early complement component deficiency** | **Encapsulated bacteria** — *S. pneumoniae* |
-| **Late complement component deficiency** | *Neisseria* infections |
-| **Neutrophil function deficiency** | *S. aureus*, gram-negative bacteria, fungi |
-| **TLR signaling molecule mutations** | Pyogenic bacterial diseases, especially *S. pneumoniae* |
-| **Impaired TLR3 responses** | Childhood HSV encephalitis |
-| **IL-17 immunity defects** (e.g., STAT3 mutations) | Chronic mucocutaneous candidiasis |
-
-### Acquired Immunodeficiencies
-
-| Cause | Associated Susceptibility |
-|---|---|
-| **HIV/AIDS** | CD4+ helper T-cell depletion → profound immunosuppression → multitude of infections |
-| **Bone marrow infiltration/suppression** (e.g., leukemia) | Various opportunistic infections |
-| **Immunosuppressive drugs** | Opportunistic infections |
-| **Hemopoietic stem cell transplantation** | Opportunistic infections |
-| **Cystic fibrosis** | Impaired respiratory clearance → *Pseudomonas aeruginosa* infections |
-| **Sickle cell disease** (lack of splenic function) | Encapsulated bacteria — *S. pneumoniae* |
-| **Burns** | Skin barrier loss → *Pseudomonas aeruginosa* |
-| **Malnutrition** | Impaired immune defenses |
-
-### Summary: Patterns of Host Responses to Microbes
-
-| Pattern | Typical Cause |
-|---|---|
-| **Neutrophil-rich acute suppurative inflammation** | "Pyogenic" bacteria, some fungi |
-| **Mononuclear cell infiltrates** | Chronic infections, some acute viral infections |
-| **Granulomatous inflammation** | *M. tuberculosis*, certain fungi |
-| **Cytopathic and proliferative lesions** | Some viruses |
-| **Necrosis** | Tissue-damaging toxins — *C. perfringens* |
-| **Chronic inflammation and scarring** | Final common pathway of many infections |
-
-**In immunocompromised patients:**
-- Antibody/complement/neutrophil defects → severe bacterial infections **without neutrophilic infiltrate**
-- Viral cytopathic effects (cell fusion, inclusions) may still be present
-- Viral infections may **not** engender expected mononuclear inflammatory response
-- Without helper T cells → organisms that usually cause granulomatous inflammation (e.g., *M. avium* complex) **fail to do so**
-
-
-## Suggested Readings
-
-- Arvanitis M, et al. *Molecular and nonmolecular diagnostic methods for invasive fungal infections.* Clin Microbiol Rev 27:490, 2014.
-- Belkaid Y, Segre JA. *Dialogue between skin microbiota and immunity.* Science 346:954, 2014.
-- Bennett E, Dolan R, Blaser MJ. *Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases.* ed 8, Philadelphia, 2014, Saunders.
-- Bergsbaken T, et al. *Pyroptosis: host cell death and inflammation.* Nat Rev Microbiol 7:99, 2010.
-- Blair JM, et al. *Molecular mechanisms of antibiotic resistance.* Nat Rev Microbiol 13:42, 2015.
-- Buchan BW, Ledeboer NA. *Emerging technologies for the clinical microbiology laboratory.* Clin Microbiol Rev 27:783, 2014.
-- Cadwell K. *The virome in host health and disease.* Immunity 42:805, 2015.
-- Dantas G, et al. *Experimental approaches for defining functional roles of microbes in the human gut.* Annu Rev Microbiol 67:459, 2013.
-- Galán JE, et al. *Bacterial type III secretion systems: specialized nanomachines for protein delivery into target cells.* Annu Rev Microbiol 68:415, 2014.
-- Geno KA, et al. *Pneumococcal capsules and their types: past, present, and future.* Clin Microbiol Rev 28:871, 2015.
-- Goo E, et al. *Control of bacterial metabolism by quorum sensing.* Trends Microbiol 23:567, 2015.
-- Hobley L, et al. *Giving structure to the biofilm matrix: an overview of individual strategies and emerging common themes.* FEMS Microbiol Rev 39:649, 2015.
-- Jorgensen JH, Pfaller MA. *Manual of Clinical Microbiology.* ed 11, Washington, DC, 2015, ASM Press.
-- Jucker M, Walker LC. *Self-propagation of pathogenic protein aggregates in neurodegenerative diseases.* Nature 501:45, 2013.
-- Keeney KM, et al. *Effects of antibiotics on human microbiota and subsequent disease.* Annu Rev Microbiol 68:217, 2014.
-- Khabbaz RF, et al. *Challenges of infectious diseases in the USA.* Lancet 384:53, 2014.
-- Lagier JC, et al. *Current and past strategies for bacterial culture in clinical microbiology.* Clin Microbiol Rev 28:208, 2015.
-- Mackey TK, et al. *Emerging and reemerging neglected tropical diseases: a review of key characteristics, risk factors, and the policy and innovation environment.* Clin Microbiol Rev 27:949, 2014.
-- Nash AA, et al. *Mims' Pathogenesis of Infectious Disease.* ed 6, San Diego, 2015, Academic Press.
-- Okumura CY, Nizet V. *Subterfuge and sabotage: evasion of host innate defenses by invasive gram-positive bacterial pathogens.* Annu Rev Microbiol 68:439, 2014.
-- Panchaud A, et al. *Emerging role of Zika virus in adverse fetal and neonatal outcomes.* Clin Microbiol Rev 29:659, 2016.
-- Safronetz D, et al. *Birth and pathogenesis of rogue respiratory viruses.* Annu Rev Pathol 10:449, 2015.
-- Sommer F, Backhed F. *The gut microbiota—masters of host development and physiology.* Nat Rev Microbiol 11:227, 2013.
-- Wlodarska M, et al. *A microbiological revolution meets an ancient disease: improving the management of tuberculosis with genomics.* Clin Microbiol Rev 28:523, 2015.
-
+- 人類病原體分為六大類：prions、viruses、bacteria、fungi、protozoa、helminths；由小到大，由簡至繁
+- 病毒通過 viral tropism（受體、蛋白酶、轉錄因子）、直接細胞病變效應、免疫損傷與轉化致病
+- 病毒複製時產生的 inclusion bodies（CMV——核內與細胞質內；HSV/VZV——核內嗜酸性包涵體；Rabies——Negri bodies）具有診斷價值
+- 細菌依 Gram stain 分類；內毒素（LPS）是 Gram-negative bacteria 的主要毒性成分，激活補體與細胞激素；外毒素分為 A-B toxins（霍亂毒素、炭疽毒素）、超抗原（TSST-1）、神經毒素（botulinum、tetanus toxins）
+- 真菌分為 endemic（地理分布受限，健康宿主可致病）與 opportunistic（免疫抑制宿主專屬；*Candida*、*Aspergillus*、*Mucor*、*Cryptococcus*）；抗真菌藥物作用於 ergosterol 合成
+- 原蟲與蠕蟲的生活史複雜，臨床表現與蟲體負荷相關；開發中國家負擔最重
+- 感染途徑包括皮膚、呼吸道、胃腸道與泌尿生殖道；散布方式包括直接擴散、淋巴/血行散布與神經元軸突運輸
+- 病原體通過 antigenic variation、抗吞噬、阻斷 phagolysosome fusion、干擾 IFN 等機制逃避宿主免疫
+- 新興傳染病的出現與動物來源、檢測技術進步、免疫抑制增加密切相關

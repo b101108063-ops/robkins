@@ -5,1157 +5,618 @@ title: "Chapter 06: Neoplasia"
 
 # Chapter 6: Neoplasia
 
-## Introduction
+## Chapter 6 導讀
 
-Neoplasia is the pathologic process that results in the formation of neoplasms (tumors). The key distinction is:
-
-- **Benign neoplasms** — grow expansively but do not invade surrounding tissue or metastasize
-- **Malignant neoplasms (cancers)** — grow aggressively, invade local structures, and metastasize to distant sites
-
-The study of neoplasia bridges epidemiology, molecular biology, pathology, and clinical medicine.
+Neoplasia（腫瘤）是病理學的核心章節，涵蓋從分子機制到臨床表徵的完整知識體系。本章首先闡述 neoplasm 的命名規則與流行病學，區分良性腫瘤與惡性腫瘤（cancers）的關鍵差異；接著深入探討癌症的分子基礎——從基因變異（point mutations、染色體異常、deletions、amplifications）到表觀遺傳修飾，以及 noncoding RNA 在腫瘤發生中的角色；然後系統解說腫瘤的八大 hallmark 特性（生長信號自給、對生長抑制信號不敏感、代謝重編程、逃避凋亡、無限複製潛能、持續血管新生、侵襲與轉移、免疫監控逃逸）與兩個 enabling 特徵（基因組不穩定性、腫瘤促進性發炎）；最後說明致癌因素（化學致癌物、輻射、病毒與微生物）、癌症對宿主的影响（cachexia、paraneoplastic syndromes）以及診斷與治療的現代方法。理解腫瘤生物學，是認識癌症診斷與治療的必備基礎。
 
 ---
 
 ## Nomenclature and Epidemiology
 
-### Nomenclature of Neoplasms
+### Neoplasm 的命名規則
 
-Tumor naming follows predictable rules:
+腫瘤的命名遵循可預測的原則：
 
-- **Benign tumors** — suffix `-oma` added to the cell type (e.g., lipoma, chondroma)
-- **Malignant tumors of epithelial origin** — suffix `-carcinoma` (e.g., adenocarcinoma, squamous cell carcinoma)
-- **Malignant tumors of mesenchymal origin** — suffix `-sarcoma` (e.g., osteosarcoma, leiomyosarcoma)
-- **Malignant tumors of hematopoietic origin** — specific terms (e.g., leukemia, lymphoma)
-- **Germ cell tumors** — may use terms like seminoma, dysgerminoma, or teratocarcinoma
+- **良性腫瘤**：於細胞類型後加字尾 `-oma`（如 lipoma、chondroma）
+- **上皮來源的惡性腫瘤**：字尾 `-carcinoma`（如 adenocarcinoma、squamous cell carcinoma）
+- **間質來源的惡性腫瘤**：字尾 `-sarcoma`（如 osteosarcoma、leiomyosarcoma）
+- **造血來源的惡性腫瘤**：使用特定名稱（如 leukemia、lymphoma）
+- **生殖細胞腫瘤**：可能使用 seminoma、dysgerminoma、teratocarcinoma 等名稱
 
-Special cases:
-- **Melanoma** is malignant (not a benign "melanocytoma")
-- **Lymphoma** is always malignant
-- Prefix `osteo-` in osteosarcoma is redundant etymologically but conventional
+**特殊情況：**
+- **Melanoma** 是惡性的（而非良性的 "melanocytoma"）
+- **Lymphoma** 總是惡性的
+- **Grading 與 Staging**：用於量化癌症侵襲性與擴散程度，Staging 在臨床上比 Grading 更有價值
 
-Grading and staging systems are used to quantify cancer aggressiveness and spread, with staging proving more clinically valuable than grading.
+### 良性腫瘤與惡性腫瘤的區別
+
+| 特徵 | 良性腫瘤 | 惡性腫瘤 |
+|------|---------|---------|
+| 生長方式 | 膨脹性生長，有包膜 | 浸潤性生長，無包膜 |
+| 轉移 | 無 | 有 |
+| 細胞分化 | 良好 | 不良（anaplasia） |
+| 核分裂 | 少見 | 常見 |
+| 邊界 | 清楚 | 不清楚 |
 
 ---
 
 ## Molecular Basis of Neoplasia
 
-### Genetic Lesions in Cancer
+### 癌症中的基因損傷
 
-Mutations in cancer cells are classified as:
+癌症細胞的基因變異可分為：
+- **Driver mutations（驅動突變）**：對惡性表型有貢獻的致病突變
+- **Passenger mutations（乘客突變）**：中性突變，累積但不驅動癌症
 
-- **Driver mutations** — pathogenic mutations that contribute to malignancy
-- **Passenger mutations** — neutral mutations that accumulate but do not drive cancer; may become drivers if selective pressure changes (e.g., under chemotherapy)
+#### 點突變（Point Mutations）
 
-Tumor cells acquire driver mutations through several mechanisms:
+點突變可激活原癌基因或使腫瘤抑制基因失活。例如：
+- **RAS**：人類腫瘤中最常見的突變原癌基因（約30%的癌症）；密碼子12、13或61的突變使 RAS 鎖定在活性 GTP 結合狀態
+- **BRAF**：超過60%的黑色素瘤中突變；位於 RAF/ERK/MAP kinase 路徑
 
-#### Point Mutations
+#### 染色體異常
 
-Point mutations activate proto-oncogenes or inactivate tumor suppressor genes. Examples include:
+**染色體易位（Translocations）**尤其重要：
+- **Philadelphia chromosome**——t(9;22) 產生 **BCR-ABL fusion gene**，見於超過90%的慢性骨髓性白血病；產生持續性酪氨酸激酶活性
+- **(8;14) 易位**——將 **MYC** 置於免疫球蛋白重鏈增強子旁，導致 MYC 過表達
+- **(11;22) 易位**——產生 **EWS-FLI1 fusion gene**，見於尤文氏肉瘤
 
-- **RAS** — most commonly mutated oncogene in human tumors (~30% of all cancers); mutations in codons 12, 13, or 61 lock RAS in active GTP-bound state
-- **BRAF** — mutated in >60% of melanomas; lies in the RAF/ERK/MAP kinase pathway
+#### 缺失（Deletions）
 
-#### Chromosomal Abnormalities
+缺失移除腫瘤抑制基因的等位基因。由於腫瘤抑制基因需要**雙等位基因失活**（二次打擊假說）：
+- **第13q14缺失**——視網膜母細胞瘤中 **RB gene** 的缺失
+- **第17p缺失**——**TP53**（最重要的腫瘤抑制基因）的缺失
 
-Gene rearrangements contribute to carcinogenesis by:
-- Overexpressing proto-oncogenes
-- Generating novel fusion genes with altered signaling capacity
+#### 基因擴增（Gene Amplifications）
 
-**Translocations** are particularly important:
-- **Philadelphia chromosome** — t(9;22) creates **BCR-ABL fusion gene** in chronic myeloid leukemia; results in constitutive tyrosine kinase activity
-  - Seen in >90% of chronic myeloid leukemia cases
-  - The few Philadelphia chromosome–negative cases harbor cryptic BCR-ABL fusion genes
-- **(8;14) translocation** — places **MYC** next to immunoglobulin heavy chain enhancer in Burkitt lymphoma, causing MYC overexpression
-- **(11;22) translocation** — creates **EWS-FLI1 fusion gene** in Ewing sarcoma
+基因擴增產生原癌基因的多拷貝，導致過表達：
+- **NMYC 擴增**——見於25-30%的神經母細胞瘤；與預後不良相關
+- **HER2 (ERBB2) 擴增**——見於約20%的乳癌；可用抗 HER2 抗體標靶治療
 
-**Note:** Lymphoid tumors commonly have recurrent gene rearrangements because lymphocytes express special enzymes (RAG1/RAG2) that purposefully introduce DNA breaks during immunoglobulin and T-cell receptor gene recombination. Repair of these breaks is error-prone, sometimes activating proto-oncogenes.
+#### 非整倍體（Aneuploidy）
 
-Gene rearrangements also occur in myeloid neoplasms and sarcomas, creating fusion genes that encode:
-- Hyperactive tyrosine kinases (e.g., BCR-ABL)
-- Novel oncogenic transcription factors (e.g., EWS-FLI1)
-
-#### Deletions
-
-Deletions remove tumor suppressor gene alleles. Since tumor suppressors require **biallelic inactivation** (two-hit hypothesis):
-1. First hit: inactivating point mutation in one allele
-2. Second hit: deletion of the other allele
-
-Key examples:
-- **Deletion of 13q14** — loss of **RB gene** in retinoblastoma
-- **Deletion of 17p** — loss of **TP53** (most important tumor suppressor gene)
-
-#### Gene Amplifications
-
-Gene amplification produces multiple copies of proto-oncogenes, leading to overexpression. Two patterns:
-- **Double minutes** — small extrachromosomal structures
-- **Homogeneously staining regions (HSR)** — amplified genes inserted into chromosomes
-
-Clinical examples:
-- **NMYC amplification** — found in 25–30% of neuroblastomas; associated with poor prognosis
-- **HER2 (ERBB2) amplification** — found in ~20% of breast cancers; targeted by anti-HER2 antibody therapy
-
-#### Aneuploidy
-
-**Aneuploidy** = chromosome number that is not a multiple of 23 (haploid). Particularly common in carcinomas.
-
-Mechanism: errors at the **mitotic checkpoint** — the major control that prevents chromosome segregation mistakes.
-
-Consequence: aneuploidy tends to increase copy number of oncogenes and decrease copy number of tumor suppressors (e.g., chromosome 8 [containing MYC] is often gained; chromosome 17 [containing TP53] is often lost).
-
-#### MicroRNAs and Cancer
-
-**microRNAs (miRNAs)** — ~22-nucleotide non-coding RNAs that negatively regulate gene expression post-transcriptionally.
-
-- If a miRNA targets a **tumor suppressor gene**, overactivity of that miRNA reduces the tumor suppressor protein → such miRNAs are called **oncomiRs**
-- If a miRNA inhibits an **oncogene**, loss of that miRNA leads to oncogene overexpression
-
-Examples:
-- Downregulation of certain miRNAs in leukemias/lymphomas → increased **BCL2** (anti-apoptotic) expression
-- Dysregulation of miRNAs controlling **RAS** and **MYC** in lung tumors and B-cell leukemias
-
-### Epigenetic Modifications and Cancer
-
-**Epigenetics** = reversible, heritable changes in gene expression without mutation (DNA methylation, histone modifications).
-
-Cancer cells are characterized by:
-- **Global DNA hypomethylation**
-- **Selective promoter-localized hypermethylation** (silences tumor suppressor genes)
-
-Mechanism: tumor suppressor genes may be silenced by promoter hypermethylation rather than mutation. Genome-wide hypomethylation causes chromosomal instability and can induce tumors in mice.
-
-Deep sequencing of cancer genomes has identified mutations in genes that regulate epigenetic modifications, suggesting certain genetic changes are selected because they alter the "epigenome" to favor cancer growth.
-
-**Example:** NOTCH1 acts as an **oncogene** in T-cell leukemia (turns on pro-growth genes in T-cell progenitors) but as a **tumor suppressor** in squamous cell carcinomas (turns on tumor suppressor genes in keratinocytes).
-
-#### Summary: Genetic Lesions in Cancer
-
-- Point mutations and nonrandom chromosomal abnormalities (gene rearrangements, deletions, amplifications) drive carcinogenesis
-- **Gene rearrangements** (usually translocations) overexpress oncogenes or generate novel fusion proteins
-- **Deletions** frequently affect tumor suppressor genes; **amplifications** increase oncogene expression
-- **miRNA** dysregulation can reduce tumor suppressors or overexpress proto-oncogenes
-- **Epigenetic changes** (DNA methylation, histone modifications) silence tumor suppressor genes and alter the epigenome without mutation
+**非整倍體**是指染色體數目不是23（單倍體）的整倍數。機制：的有絲分裂檢查點錯誤。
 
 ---
 
 ## Carcinogenesis: A Multistep Process
 
-No single mutation is sufficient to transform a normal cell into a cancer cell. **Carcinogenesis is multistep**, requiring accumulation of multiple genetic alterations.
+癌症的發生是**多步驟過程**，需要累積多個基因改變。
 
-### Tumor Progression
+### 腫瘤進展
 
-During tumor development:
-1. A single founding cell accumulates driver mutations
-2. Tumor cells continue to evolve through **Darwinian selection**
-3. Mutations accumulate independently in different cells
-4. Some mutations make cells better at growth, survival, invasion, metastasis, or immune evasion
-5. **Subclones** with these advantageous mutations dominate the tumor
+在腫瘤發展過程中：
+1. 單一創始細胞累積驅動突變
+2. 腫瘤細胞透過 **Darwinian selection** 持續演化
+3. 不同細胞獨立累積突變
+4. 某些突變使細胞更善於生長、存活、侵襲、轉移或逃避免疫
+5. 具有這些優勢突變的**亞克隆**主導腫瘤
 
-Despite being monoclonal in origin, malignant tumors are typically **genetically heterogeneous** by clinical presentation.
-
-### Clinical Implications
-
-Genetic evolution explains two key properties of cancers:
-1. Tendency to become more aggressive over time
-2. Tendency to become less responsive to therapy (e.g., recurrent tumors after chemotherapy are often resistant to the original drug regimen)
-
-Acquired resistance stems from outgrowth of subclones that have mutations or epigenetic alterations imparting drug resistance.
+尽管起源於單克隆，惡性腫瘤在臨床表現時通常是**基因異質的**。
 
 ---
 
 ## Hallmarks of Cancer
 
-All cancers display eight fundamental changes in cell physiology (the **hallmarks of cancer**):
+所有癌症都展現細胞生理的八種基本改變（癌症的標誌）：
 
-1. **Self-sufficiency in growth signals**
-2. **Insensitivity to growth-inhibitory signals**
-3. **Altered cellular metabolism**
-4. **Evasion of apoptosis**
-5. **Limitless replicative potential (immortality)**
-6. **Sustained angiogenesis**
-7. **Invasion and metastasis**
-8. **Evasion of immune surveillance**
+1. **生長信號的自給自足（Self-sufficiency in growth signals）**
+2. **對生長抑制信號的不敏感性（Insensitivity to growth-inhibitory signals）**
+3. **細胞代謝的改變（Altered cellular metabolism）**
+4. **逃避細胞凋亡（Evasion of apoptosis）**
+5. **無限複製潛能（Limitless replicative potential）**
+6. **持續血管新生（Sustained angiogenesis）**
+7. **侵襲與轉移（Invasion and metastasis）**
+8. **逃避免疫監控（Evasion of immune surveillance）**
 
-Two **enabling characteristics** accelerate acquisition of these hallmarks:
-- **Genomic instability** (mutator phenotype)
-- **Tumor-promoting inflammation**
+兩個** enable 特徵**加速這些標誌的獲得：
+- **基因組不穩定性（Genomic instability）**
+- **腫瘤促進性發炎（Tumor-promoting inflammation）**
 
-### Self-Sufficiency in Growth Signals
+### 生長信號的自給自足
 
-**Proto-oncogenes** = normal cellular genes whose products promote cell proliferation.
+**原癌基因（Proto-oncogenes）**是促進細胞增殖的正常細胞基因。
 
-**Oncogenes** = mutant or overexpressed versions of proto-oncogenes that function autonomously without requiring normal growth-promoting signals.
+** oncogenes** 是原癌基因的突變或過表達版本，可在不需正常生長促進信號的情況下自主運作。
 
-**Oncoproteins** promote uncontrolled proliferation through several mechanisms:
+**Oncoproteins** 透過多種機制推動不受控的增殖：
 
-#### Growth Factors
+#### 生長因子
 
-- Some cancer cells **synthesize their own growth factors** and express the corresponding receptor → **autocrine loops** (e.g., glioblastomas secrete PDGF and express PDGF receptor)
-- Tumor cells can also signal stromal cells to produce growth factors
+某些癌細胞**合成自己的生長因子**並表達相應受體→**自泌循環**（autocrine loops）
 
-#### Growth Factor Receptors
+#### 生長因子受體
 
-- Some receptors have intrinsic **tyrosine kinase activity**; mutations or overexpression cause constitutive signaling
-- **ERBB1 (EGF receptor)** — overexpressed in 80% of squamous cell carcinomas of lung, 50%+ of glioblastomas, 80–100% of head/neck epithelial tumors
-- **HER2 (ERBB2)** — amplified in ~20% of breast cancers; targeted by anti-HER2 antibodies (bench-to-bedside medicine)
-- Point mutations or gene rearrangements can also create **chimeric receptors** that are constitutively active
+某些受體具有內在**酪氨酸激酶活性**；突變或過表達導致持續信號。
 
-#### Downstream Signal-Transducing Proteins
+**ERBB1 (EGF receptor)**：
+- 80%的肺鱗狀細胞癌過表達
+- 50%以上的膠質母細胞瘤過表達
 
-**RAS** — most commonly mutated oncogene in human tumors (~30% of all cancers; even higher in pancreatic adenocarcinoma).
+**HER2 (ERBB2)**：
+- 約20%的乳癌擴增
+- 可用抗 HER2 抗體標靶治療
 
-RAS signaling cycle:
-1. **GDP-bound RAS** = inactive
-2. Growth factor stimulation → GDP exchanged for **GTP** → **active RAS**
-3. Intrinsic **GTPase** activity hydrolyzes GTP → GDP → returns RAS to inactive state
-4. **GTPase-activating proteins (GAPs)** accelerate this hydrolysis (molecular brakes)
+#### 下游信號轉導蛋白
 
-RAS activation by point mutation: mutations in GTP-binding pocket or enzymatic region block GTP hydrolysis → RAS trapped in active GTP-bound form → continuous proliferation signal.
+**RAS**——人類腫瘤中最常見的突變 oncogene（約30%）。
 
-**GAP tumor suppressors:**
-- **NF1** (neurofibromin-1) — mutated in neurofibromatosis type 1; GAP whose loss leads to unchecked RAS activation
-- **PTEN** — negative inhibitor of PI3 kinase; frequently mutated in carcinomas and leukemias
+RAS 信號循環：
+1. **GDP-RAS** = 無活性
+2. 生長因子刺激 → GDP 交換為 **GTP** → **活性 RAS**
+3. 內在 **GTPase** 活性水解 GTP → GDP → RAS 返回無活性狀態
+4. **GTPase-activating proteins (GAPs)** 加速水解
 
-**BCR-ABL** — fusion gene created by Philadelphia chromosome t(9;22):
-- Contains **ABL tyrosine kinase domain** fused to **BCR** domain
-- BCR domain self-associates → unleashes **constitutive tyrosine kinase activity**
-- Activates all signals downstream of RAS → potent growth stimulator
-- **Imatinib mesylate (Gleevec)** — BCR-ABL kinase inhibitor; revolutionized targeted therapy
-- Example of **oncogene addiction** — tumor is profoundly dependent on BCR-ABL signaling
+RAS 激活（點突變）：突變阻止 GTP 水解 → RAS 困於活性 GTP 結合狀態 → 持續增殖信號。
 
-#### Nuclear Transcription Factors
+**BCR-ABL**——由 Philadelphia chromosome t(9;22) 產生的融合基因：
+- 含 **ABL酪氨酸激酶結構域** 與 **BCR結構域**
+- **Imatinib mesylate (Gleevec)**——BCR-ABL 激酶抑制劑
 
-Oncogenic transcription factors drive expression of growth-promoting genes. **MYC** is the most commonly involved in human tumors.
+#### 核轉錄因子
 
-MYC functions:
-- Activates transcription of growth-promoting genes (e.g., cyclin-dependent kinases)
-- Enhances metabolic changes supporting cell growth
-- Activates genes needed for biosynthesis of nucleotides, amino acids, lipids
+**MYC** 是人類腫瘤中最常涉及的轉錄因子。
 
-MYC dysregulation sources:
-- **(8;14) translocation** in Burkitt lymphoma
-- **Amplification** in breast, colon, lung cancers
-- **NMYC amplification** in neuroblastomas
-- **LMYC amplification** in small cell lung cancer
+MYC 功能：
+- 激活生長促進基因的轉錄
+- 增強支持細胞生長的代謝變化
+- 激活核苷酸、胺基酸、類脂生物合成所需的基因
 
-#### Cyclins and Cyclin-Dependent Kinases
+MYC 失調來源：
+- **(8;14) 易位**（Burkitt lymphoma）
+- **擴增**（乳癌、結腸癌、肺癌）
+- **NMYC 擴增**（神經母細胞瘤）
 
-**Cyclin-dependent kinases (CDKs)** — activated by binding to cyclins; CDK-cyclin complexes phosphorylate substrates that drive cell cycle progression.
+#### Cyclins 與 Cyclin-Dependent Kinases
 
-**CDK inhibitors (CDKIs)** — silence CDKs and exert negative control over the cell cycle.
+**Cyclin-dependent kinases (CDKs)**——與 cyclins 結合後激活； CDK-cyclin 複合體磷酸化推動細胞週期進展的受質。
 
-Two main checkpoints:
-- **G1/S checkpoint** — most important; defects cause cells to continually re-enter S phase
-- **G2/M checkpoint**
+**CDK 抑制劑（CDKIs）**——沉默 CDKs，對細胞週期產生負控制。
 
-All cancers appear to have genetic lesions that disable the G1/S checkpoint.
+兩個主要檢查點：
+- **G1/S 檢查點**——最重要；缺陷導致細胞持續進入 S 期
+- **G2/M 檢查點**
 
-Mechanisms of G1/S checkpoint dysregulation:
+所有癌症似乎都有使 G1/S 檢查點失活的基因損傷。
 
-| Type | Examples |
-|------|----------|
-| Gain-of-function in CDK4 or D cyclins | Cyclin D overexpression (breast, esophagus, liver cancers; lymphomas); CDK4 amplification (melanomas, sarcomas, glioblastomas) |
-| Loss-of-function in CDKIs | Germline CDKN2A (p16) mutations in 25% of melanoma-prone families; acquired CDKN2A deletion/inactivation in 75% of pancreatic carcinomas, 40–70% of glioblastomas, 50% of esophageal cancers, 20% of non-small cell lung carcinomas |
+---
 
-**Important note:** Increased oncoprotein production alone does not cause sustained proliferation. **Cell senescence** and **apoptosis** must also be disabled for oncogene action to proceed unopposed.
+## Tumor Suppressor Genes
 
-#### Summary: Self-Sufficiency in Growth Signals
+**腫瘤抑制基因**編碼對細胞增殖「踩剎車」的蛋白質。其失活使細胞對生長抑制信號不再敏感。
 
-- **Proto-oncogenes** encode normal growth-promoting proteins; **oncogenes** function autonomously
-- **Oncoproteins** drive proliferation by:
-  - Autocrine loops (growth factor + receptor expressed by same cell)
-  - Constitutively active receptors or tyrosine kinases (e.g., HER2 amplification; BCR-ABL fusion)
-  - Mutations in RAS (blocks GTP hydrolysis → continuous signaling)
-  - Overexpression of transcription factors (e.g., MYC translocation in Burkitt lymphoma)
-  - Dysregulation of cyclin/CDK complexes (overcome cell cycle brakes)
+抗生長信號透過以下機制阻止增殖：
+1. 進入 **G0（靜止期）**
+2. 分化（退出複製池）
+3. 非複製性**衰老**
+4. **細胞凋亡**
 
-### Insensitivity to Growth-Inhibitory Signals: Tumor Suppressor Genes
+### RB：細胞週期的調控者
 
-**Tumor suppressor genes** encode proteins that **apply brakes** to cell proliferation. Disruption renders cells refractory to growth inhibition.
+**RB**（視網膜母細胞瘤基因）——第一個被發現的腫瘤抑制基因，是此家族的原型。
 
-Anti-growth signals prevent proliferation through several mechanisms:
-1. Entry into **G0 (quiescence)**
-2. Differentiation (exit from replicative pool)
-3. Nonreplicative **senescence**
-4. **Apoptosis**
+**二次打擊假說（Knudson, 1974）**：
+- 需要兩個「打擊」才能產生視網膜母細胞瘤
+- 兩個 RB 等位基因（13q14）都必須失活
+- **家族性病例**：兒童遺傳一個缺陷 RB 等位基因；當正常等位基因在視網膜細胞中因體細胞突變而丢失時，發生視網膜母細胞瘤 → 特徵為**體染色體顯性遺傳**（性狀層面），但**隱性**（細胞層面）
+- **散發性病例**：兩個 RB 等位基因在同一視網膜細胞中因體細胞突變而丢失
 
-#### RB: Governor of the Cell Cycle
+**RB 功能**：調控 **G1/S 檢查點**——DNA 複製前的閘門。
 
-**RB** (retinoblastoma gene) — first tumor suppressor gene discovered; prototype of this family.
+G1/S 檢查點機制：
+1. **低磷酸化 RB**（活性）結合 **E2F 轉錄因子** → 阻止 cyclin E 轉錄
+2. **絲裂原信號** → cyclin D–CDK4/6 複合體磷酸化並**抑制 RB** → 釋放 E2F → cyclin E 表達 → DNA 複製開始
 
-**Two-hit hypothesis** (Knudson, 1974):
-- Two mutations ("hits") required to produce retinoblastoma
-- Both normal alleles of RB (locus 13q14) must be inactivated
-- **Familial cases:** children inherit one defective RB allele; retinoblastoma develops when the normal allele is lost by somatic mutation in retinoblasts → **autosomal dominant inheritance** at trait level, but **recessive** at cellular level
-- **Sporadic cases:** both RB alleles lost by somatic mutation in one retinal cell
+為何不是每種癌症都突變 RB？其他控制 RB 磷酸化的基因可能失調：
+- **CDK4 激活**和 **cyclin D 過表達** → 磷酸化/抑制 RB
+- **CDKN2A (p16) 丢失** → 移除對 CDK4/6 的抑制 → RB 抑制
 
-Biallelic RB loss also found in breast cancer, small cell lung cancer, and bladder cancer. Patients with familial retinoblastoma also have increased risk of **osteosarcomas** and soft-tissue sarcomas.
+### TP53：基因組的守護者
 
-**RB function:** regulates the **G1/S checkpoint** — the portal before DNA replication.
+**TP53** 編碼 **p53**——細胞應激的中心監測器。
 
-G1/S checkpoint mechanism:
-1. **Hypophosphorylated RB** (active) binds to **E2F transcription factors** → prevents transcription of cyclin E
-2. RB also recruits **histone deacetylases** and **histone methyltransferases** → chromatin remodeling that blocks transcription
-3. **Mitogenic signaling** → cyclin D–CDK4/6 complexes phosphorylate and **inactivate RB** → releases E2F → cyclin E expression → DNA replication proceeds
-4. When cells enter M phase, phosphatases remove phosphates from RB → regenerates hypophosphorylated (active) RB
+p53 被以下因素激活：
+- **DNA 損傷**（電離輻射、致癌物、致突變劑）
+- **缺氧**
+- ** oncogene 應激**
+- **不適當的 oncogene 信號**
 
-RB also regulates transcription factors controlling differentiation (myocyte, adipocyte, melanocyte, macrophage-specific factors), coupling cell cycle control with differentiation.
+p53 反應：
+1. **細胞週期停滯**（G1/S 封鎖）——經由上調 **CDKN1A (p21)**（CDK 抑制劑）
+2. **DNA 修復**——誘導 DNA 修復基因
+3. **衰老**或**細胞凋亡**——如果損傷無法修復
 
-**Why isn't RB mutated in every cancer?** Other genes controlling RB phosphorylation can be dysregulated:
-- **CDK4 activation** and **cyclin D overexpression** → phosphorylate/inactivate RB
-- **CDKN2A (p16) loss** → removes inhibition of CDK4/6 → RB inactivation
+p53 被稱為**「基因組的守護者」**。p53 丢失後，DNA 損傷無法修復，突變被固定，細胞向惡性轉化。
 
-#### TP53: Guardian of the Genome
+**臨床重要性：**
+- 超過70%的人類癌症有 TP53 突變
+- 其餘癌症通常有 TP53 上游或下游基因的缺陷
+- **Li-Fraumeni 症候群**——遺傳突變 TP53 等位基因；50歲前惡性腫瘤風險增加25倍
 
-**TP53** encodes **p53** — the central monitor of cellular stress.
+### TGF-β 路徑
 
-p53 is activated by:
-- **DNA damage** (ionizing radiation, carcinogens, mutagens)
-- **Hypoxia**
-- **Oncogenic stress**
-- **Inappropriate oncogene signaling**
+**TGF-β** 是正常上皮、內皮和造血細胞增殖的強效抑制劑。
 
-p53 responses:
-1. **Cell cycle arrest** (G1/S block) — via transcriptional upregulation of **CDKN1A (p21)**, a CDK inhibitor that prevents RB phosphorylation
-2. **DNA repair** — induces DNA repair genes (e.g., GADD45)
-3. **Senescence** or **apoptosis** — if damage cannot be repaired
+機制：
+1. 結合 **TGF-β 受體複合體**（I型和II型）
+2. 受體二聚化激活信號級聯
+3. 轉錄 **CDKIs**（生長抑制）和抑制生長促進基因（MYC、CDK4）
 
-**p53-induced senescence:** permanent cell cycle arrest with specific morphology and gene expression changes; requires p53 and/or RB activation.
+在許多癌症中，TGF-β 信號因以下突變而受損：
+- **II型 TGF-β 受體**——見於結腸癌、胃癌、子宮內膜癌
+- **SMAD 分子**（信號轉導器）——**SMAD4** 失活常見於胰臟癌
 
-**p53-induced apoptosis:** mediated by upregulation of pro-apoptotic genes including **BAX** and **PUMA**.
+### 接觸抑制、NF2 與 APC
 
-p53 is called the **"guardian of the genome."** With p53 loss, DNA damage goes unrepaired, mutations become fixed, and cells progress toward malignant transformation.
+**接觸抑制**——正常細胞在形成融合單層時停止增殖。
 
-**Clinical significance:**
-- >70% of human cancers have TP53 mutations
-- Remaining cancers often have defects in genes upstream or downstream of TP53
-- **Li-Fraumeni syndrome** — inherited mutant TP53 allele; 25-fold greater risk of malignant tumor by age 50
-  - Spectrum includes sarcomas, breast cancer, leukemia, brain tumors, adrenal cortex carcinomas
-  - Patients develop tumors at younger age and may have multiple primary tumors
-- **MDM2 amplification** — overexpression of p53 inhibitor; seen in some sarcomas
-- Oncogenic DNA viruses (HPV, polyomaviruses, hepatitis B) encode proteins that bind and nullify p53
+**E-cadherin** 介導上皮層的細胞-細胞接觸：
+- 胞質部分結合 **β-catenin**
+- 相鄰 E-cadherin 分子將細胞連接在一起
+- E-cadherin 隔離 β-catenin → 傳遞抗生長信號
 
-#### Transforming Growth Factor-β Pathway
+**APC-β-catenin 路徑：**
 
-**TGF-β** is a potent inhibitor of proliferation in normal epithelial, endothelial, and hematopoietic cells.
+**APC**（腺瘤性息肉病基因）突變於：
+- **家族性腺瘤性息肉病（FAP）**——患者生來有一個突變 APC 等位基因；在青少年/二十多歲時在結腸形成數百至數千個息肉；其中一個或多個息肉不可避免地發生惡性轉化
+- **70-80%的散發性結腸癌**
 
-Mechanism:
-1. Binds to **TGF-β receptor complex** (types I and II)
-2. Receptor dimerization activates signaling cascade
-3. Transcription of **CDKIs** (growth-suppressing) and repression of growth-promoting genes (MYC, CDK4)
+APC 功能：
+- APC 編碼一種促進 **β-catenin 降解**的胞質蛋白
+- **APC 丢失**：β-catenin 降解被阻止 → β-catenin 作為生長促進轉錄因子
 
-In many cancers, TGF-β signaling is impaired by mutations in:
-- **Type II TGF-β receptor** — seen in colon, stomach, and endometrial cancers
-- **SMAD molecules** (signal transducers) — **SMAD4** inactivation is common in pancreatic cancers
-- **Downstream targets** — loss of p21 expression or MYC overexpression
+---
 
-Late-stage tumors may use TGF-β signaling for **epithelial-to-mesenchymal transition (EMT)** — promoting migration, invasion, and metastasis (opposite of TGF-β's original tumor-suppressing role).
+## Altered Cellular Metabolism
 
-#### Contact Inhibition, NF2, and APC
+癌細胞表現**Warburg 效應**（有氧糖酵解）——即使在氧氣充足的情況下也高度攝取葡萄糖並轉化為乳酸。
 
-**Contact inhibition** — normal cells stop proliferating when they form confluent monolayers.
+**臨床應用**：**PET 掃描**使用 18F-氟脫氧葡萄糖顯示腫瘤。
 
-**E-cadherin** mediates cell–cell contact in epithelial layers:
-- Cytoplasmic portion binds **β-catenin**
-- Adjacent E-cadherin molecules hold cells together
-- E-cadherin sequesters β-catenin → transmits anti-growth signals
+**Warburg 代謝的意義**：生長中的細胞需要生物合成中間產物來合成 DNA、RNA、蛋白質、類脂和胞器。有氧糖酵解提供用於生物合成的代謝中間產物，而氧化磷酸化（36 ATP/葡萄糖 vs. 2 ATP/葡萄糖）不產生用於構建模塊的碳。
 
-Mechanisms of contact inhibition:
-1. **NF2 (neurofibromin-2/merlin)** — acts downstream of E-cadherin to maintain contact inhibition; homozygous loss causes neural tumors; germ line mutations cause **neurofibromatosis type 2**
-2. **β-catenin** — key component of **WNT signaling pathway** (see below)
+### 自噬（Autophagy）
 
-**APC-β-catenin pathway:**
+**自噬**——細胞在營養不足時消耗自己的胞器、蛋白質和膜作為能量來源。
 
-**APC** (adenomatous polyposis coli) gene — mutated in:
-- **Familial adenomatous polyposis (FAP)** — patients born with one mutant APC allele develop hundreds to thousands of colonic polyps by teens/twenties; polyps show loss of the second APC allele; inevitable malignant transformation in one or more polyps
-- **70–80% of sporadic colon cancers**
+許多促進自噬的基因是腫瘤抑制基因。
 
-APC function:
-- APC encodes a cytoplasmic protein that promotes **β-catenin degradation**
-- β-catenin has dual functions: binds E-cadherin (cell adhesion) and acts in WNT signaling
-- In **WNT signaling:** WNT ligands → prevent APC-mediated β-catenin degradation → β-catenin translocates to nucleus → acts as transcriptional activator
-- Without WNT (quiescent cells): β-catenin is degraded by a destruction complex containing APC
-- **With APC loss:** β-catenin degradation prevented → WNT signaling inappropriately activated → increased transcription of growth-promoting genes (cyclin D1, MYC) and transcriptional repressors of E-cadherin (TWIST, SLUG) → reduced contact inhibition
+### 腫瘤代謝（Oncometabolism）
 
-Colonic cancers with normal APC may have **activating β-catenin mutations** that resist APC-mediated degradation.
+**異檸檬酸脫氫酶（IDH）**突變揭示了一種新的致癌機制。
 
-#### Summary: TGF-β, Contact Inhibition, and APC-β-Catenin Pathways
+腫瘤代謝途徑：
+1. **IDH 突變** → 產生 **2-羥基戊二酸（2-HG）**而非正常產物
+2. 2-HG 抑制 **TET2** 和其他表觀遺傳酶
+3. TET2 丢失 → 異常 DNA 甲基化模式 → 癌症基因的錯誤表達 → 轉化
 
-- **TGF-β** inhibits proliferation by inducing CDKIs and suppressing MYC; function compromised in many cancers by receptor or SMAD mutations
-- **E-cadherin** maintains contact inhibition; lost in epithelial cancers via multiple mechanisms
-- **APC** regulates β-catenin destruction; with APC loss, β-catenin accumulates and acts as a growth-promoting transcription factor
-- **Familial adenomatous polyposis:** germ line APC mutation + somatic loss of remaining allele → hundreds of colonic polyps → inevitable cancer development
+見於膽管癌、神經膠質瘤、急性骨髓性白血病和肉瘤。
 
-### Altered Cellular Metabolism
+---
 
-Cancer cells demonstrate **Warburg effect** (aerobic glycolysis) — high glucose uptake and conversion to lactate even in the presence of ample oxygen.
+## Evasion of Cell Death
 
-Clinical application: **PET scanning** uses 18F-fluorodeoxyglucose to visualize tumors.
+癌細胞面臨內在應激（DNA 損傷、代謝紊亂、缺氧），可誘導細胞凋亡——尤其是在化療和放療時。
 
-**Why Warburg metabolism?** Growing cells need biosynthetic intermediates for DNA, RNA, proteins, lipids, and organelles. Aerobic glycolysis provides metabolic intermediates for biosynthesis, whereas oxidative phosphorylation (36 ATP/glucose vs. 2 ATP/glucose) does not produce carbon moieties for building blocks.
+癌細胞逃避細胞凋亡主要涉及使**內在途徑**失活的後天性異常。
 
-**Normal growing cells** (embryonic tissue, activated lymphocytes) also rely on aerobic fermentation — this is a general property of growing cells, not cancer-specific.
+**內在細胞凋亡途徑：**
+1. **BCL2 蛋白家族平衡**決定粒線體外膜完整性：
+   - **促凋亡**：BAX 和 BAK → 在粒線體膜上形成孔洞 → 釋放 cytochrome c
+   - **抗凋亡**：BCL2、BCL-XL、MCL1 → 抑制 BAX/BAK
+   - **僅 BH3 蛋白**：BAD、BID、PUMA → 中和抗凋亡蛋白 → 促進細胞凋亡
+2. Cytochrome c 釋放 → 結合 APAF-1 → 激活 caspase-9 → 激活執行者 caspases
+3. **凋亡抑制蛋白（IAPs）**——結合 caspase-9 並阻止細胞凋亡
 
-Metabolic reprogramming is triggered by signaling cascades downstream of growth factor receptors — the same pathways deregulated by oncogenes and tumor suppressor genes in cancers.
+**逃避機制：**
+1. **TP53 功能丢失**——阻止 PUMA（促凋亡 BH3-only 蛋白）上調
+2. **抗凋亡 BCL2 家族成員過表達**：
+   - 濾泡性淋巴瘤：t(14;18) 易位將 BCL2 置於免疫球蛋白重鏈增強子旁 → BCL2 過表達
+   - 慢性淋巴細胞白血病：透過特定 miRNA 丢失導致 BCL2 上調
 
-Key regulatory factors:
-- **Growth factor receptor signaling** → upregulates glucose uptake and inhibits pyruvate kinase → builds up upstream glycolytic intermediates → siphoned off for DNA, RNA, protein synthesis
-- **RAS signaling** → upregulates glucose transporters and glycolytic enzymes; promotes lipid biosynthesis; stimulates protein synthesis factors
-- **MYC** → drives expression of glycolytic enzymes and glutaminase; glutamine is a key carbon source for biosynthesis
+**治療意義：**
+- **MDM2 抑制劑**——恢復 MDM2 擴增腫瘤中的 p53
+- **BH3 模擬物**——模擬 BH3-only 蛋白，抑制抗凋亡 BCL2 家族成員
 
-Tumor suppressors often **oppose** Warburg metabolism:
-- **NF1, PTEN** — brake PI3K/AKT signaling downstream of growth factor receptors
-- **p53** — upregulates genes that inhibit glucose uptake, glycolysis, lipogenesis, and NADPH generation
+---
 
-#### Autophagy
+## Limitless Replicative Potential（無限複製潛能）
 
-**Autophagy** — cells cannibalize their own organelles, proteins, and membranes as energy sources during nutrient deficiency.
+正常人類細胞：最多約70次複製 → 複製性衰老。
 
-Tumor cells often grow under marginal conditions without triggering autophagy. Several autophagy-promoting genes are tumor suppressors.
+**機制**：染色體末端的進行性 **telomere 縮短**。
 
-Paradox: under severe nutrient deprivation, tumor cells may use autophagy for **dormancy** (metabolic hibernation) — surviving hard times and potentially causing therapeutic resistance.
+Telomere 危機途徑：
+1. 縮短的 telomere → 被 DNA 修復機制識別為雙股 DNA 斷裂 → 細胞週期停滯和衰老（由 TP53 和 RB 介導）
+2. 如果 TP53 或 RB 被禁用：**非同源性末端連接（NHEJ）**被不當激活 → 連接縮短的染色體末端
+3. 產生**雙著絲粒染色體** → 在有絲分裂時被拉開 → 新的雙股斷裂
+4. **橋-融合-斷裂循環** → 基因組不穩定性 → **有絲分裂災難** → 大量細胞凋亡
 
-#### Oncometabolism
+腫瘤要獲得無限複製：
+- 必須避免衰老和有絲分裂災難
+- 必須**重新激活 telomerase** → 停止橋-融合-斷裂循環 → 細胞獲得永生
 
-Mutations in **isocitrate dehydrogenase (IDH)** revealed a new oncogenic mechanism.
+**Telomerase**：在正常幹細胞中活性；在大多數體細胞中缺如或非常低。
+- **85-95%的癌症**使用 telomerase 上調來維持 telomere
+- 某些腫瘤使用**替代性 telomere 延長機制（ALT）**（依賴 DNA 重組）
 
-Oncometabolic pathway:
-1. **IDH mutation** → altered enzyme produces **2-hydroxyglutarate (2-HG)** instead of normal product
-2. 2-HG inhibits **TET2** and other epigenetic enzymes (TET family regulates DNA methylation)
-3. TET2 loss → abnormal DNA methylation patterns → misexpression of cancer genes → transformation
+---
 
-Found in cholangiocarcinomas, gliomas, acute myeloid leukemias, and sarcomas. **Drugs targeting mutant IDH** are now in clinical trials and have shown therapeutic responses.
+## Sustained Angiogenesis（持續血管新生）
 
-#### Summary: Altered Cellular Metabolism
+實體腫瘤在誘導血管新生前不能增大超過 **1-2 mm** 直徑。
 
-- **Warburg metabolism** (aerobic glycolysis) is induced by growth factors in normal proliferating cells; becomes fixed in cancer via driver mutations
-- **RAS, MYC, mutated growth factor receptors** induce Warburg metabolism; **PTEN, NF1, p53** oppose it
-- **Autophagy** can be corrupted by cancer to provide nutrients or allow dormancy
-- **Mutant IDH** produces **oncometabolites** (e.g., 2-HG) that alter the epigenome → oncogenic gene expression changes
+腫瘤血管是異常的：滲漏、擴張、紊乱的連接——在血管造影上可見。
 
-### Evasion of Cell Death
+**新生血管形成**——血管從現有毛細血管萌芽。雙重效應：
+1. 灌流供應營養和氧氣
+2. 內皮細胞分泌生長因子（IGFs、PDGF）刺激相鄰腫瘤細胞
 
-**Apoptosis** (regulated cell death) — orderly dismantling of cells without inflammation. Two pathways:
-- **Extrinsic pathway** — triggered by death receptors (FAS, FAS-ligand)
-- **Intrinsic (mitochondrial) pathway** — initiated by perturbations (growth factor loss, DNA damage)
+血管新生的分子基礎：
+- **缺氧** → 穩定 **HIF1α** → 激活 VEGF 轉錄 → 血管新生梯度
+- **p53 丢失** → 減少 thrombospondin-1（抗血管新生）和去抑制 VEGF
+- **RAS、MYC、MAPK** 功能獲得 → 上調 VEGF
 
-Cancer cells face intrinsic stresses (DNA damage, metabolic disturbances, hypoxia) that can induce apoptosis — especially under chemotherapy and radiation.
+---
 
-Cancer evasion of apoptosis mainly involves acquired abnormalities that disable the **intrinsic pathway**.
+## Invasion and Metastasis（侵襲與轉移）
 
-**Intrinsic pathway of apoptosis:**
-1. **BCL2 protein family balance** determines mitochondrial outer membrane integrity:
-   - **Pro-apoptotic:** BAX and BAK → form pores in mitochondrial membrane → release cytochrome c
-   - **Anti-apoptotic:** BCL2, BCL-XL, MCL1 → inhibit BAX/BAK
-   - **BH3-only proteins:** BAD, BID, PUMA → neutralize anti-apoptotic proteins → promote apoptosis
-2. Cytochrome c released → binds APAF-1 → activates caspase-9 → activates executioner caspases (caspase-3)
-3. **Inhibitor of apoptosis proteins (IAPs)** — bind caspase-9 and prevent apoptosis
+**轉移**——腫瘤細胞從原發部位擴散到遠處部位——是癌症相關發病和死亡的主要原因。
 
-**Mechanisms of evasion:**
-1. **Loss of TP53 function** — prevents upregulation of PUMA (pro-apoptotic BH3-only protein); occurs via TP53 mutation or MDM2 amplification
-2. **Overexpression of anti-apoptotic BCL2 family members:**
-   - Follicular lymphoma: t(14;18) translocation fuses BCL2 (18q21) to immunoglobulin heavy chain enhancer → BCL2 overexpression → lymphocyte survival → lymphadenopathy
-   - Chronic lymphocytic leukemia: BCL2 upregulation via loss of specific miRNAs
-   - MCL1 amplification in some lung and breast cancers
+**轉移級聯：**
+1. 局部侵襲細胞外基質
+2. 進入血液/淋巴管（intravasation）
+3. 在血管中轉運
+4. 從血管外出（extravasation）
+5. 形成微轉移
+6. 生長成肉眼可見的腫瘤
 
-**Therapeutic implications:**
-- **MDM2 inhibitors** — reactivate p53 in tumors with MDM2 amplification
-- **BH3 mimetics** — mimic BH3-only proteins, inhibit anti-apoptotic BCL2 family members → induce apoptosis; effective against BCL2-overexpressing tumors (e.g., chronic lymphocytic leukemia)
+### 侵襲細胞外基質
 
-#### Summary: Evasion of Cell Death
+侵襲需要四個連續步驟：
 
-- Cancers evade apoptosis primarily by disabling the **intrinsic (mitochondrial) pathway**
-- **Loss of p53** (mutation or MDM2 amplification) is the most common mechanism
-- **BCL2, BCL-XL, MCL1 overexpression** protects tumor cells from BAX/BAK-mediated apoptosis
-- **t(14;18) translocation** in follicular lymphomas fuses BCL2 to immunoglobulin heavy chain locus
-- **MDM2 inhibitors** and **BCL2 family inhibitors** are promising therapeutic agents
+**步驟1：細胞間連接的鬆動**
+- **E-cadherin** 在幾乎所有上皮癌症中丢失
 
-### Limitless Replicative Potential (Immortality)
-
-Normal human cells: maximum ~70 doublings → replicative senescence.
-
-**Mechanism:** progressive **telomere shortening** at chromosome ends.
-
-Telomere crisis pathway:
-1. Shortened telomeres → recognized by DNA repair machinery as double-stranded DNA breaks → cell cycle arrest and senescence (mediated by TP53 and RB)
-2. If TP53 or RB are disabled: **nonhomologous end-joining (NHEJ)** inappropriately activated → joins shortened chromosome ends
-3. Creates **dicentric chromosomes** → pulled apart at anaphase → new double-stranded breaks
-4. **Bridge-fusion-breakage cycles** → genomic instability → **mitotic catastrophe** → massive apoptosis
-
-For tumors to achieve limitless replication:
-- Must avoid senescence AND mitotic catastrophe
-- Must **reactivate telomerase** → stops bridge-fusion-breakage cycles → cell achieves immortality
-
-**Telomerase:** active in normal stem cells; absent or very low in most somatic cells.
-- **85–95% of cancers** use telomerase upregulation for telomere maintenance
-- Some tumors use **alternative lengthening of telomeres** (DNA recombination-dependent)
-
-**Evidence:** Colonic adenoma → adenocarcinoma progression shows early lesions have high genomic instability with low telomerase; malignant lesions have complex karyotypes with high telomerase activity.
-
-#### Summary: Limitless Replicative Potential
-
-- Normal cells lacking telomerase: shortened telomeres → cell cycle arrest (senescence) or mitotic catastrophe
-- Checkpoint-disabled cells: NHEJ → dicentric chromosomes → bridge-fusion-breakage cycles → genomic instability
-- **Tumor cells reactivate telomerase** → avoid death → achieve immortality
-
-### Sustained Angiogenesis
-
-Solid tumors cannot enlarge beyond **1–2 mm** diameter without inducing angiogenesis.
-
-Tumor vasculature is abnormal: leaky, dilated, haphazard connections — visible on angiograms.
-
-**Neoangiogenesis** — vessels sprout from existing capillaries. Dual effect:
-1. Perfusion supplies nutrients and oxygen
-2. Endothelial cells secrete growth factors (IGFs, PDGF) that stimulate adjacent tumor cells
-
-Angiogenesis also contributes to metastasis by permitting tumor cell access to blood vessels.
-
-**Angiogenic switch:** Most early human tumors do not induce angiogenesis → remain small or in situ until the angiogenic switch.
-
-Molecular basis of angiogenic switch:
-- Increased production of angiogenic factors (from tumor cells, macrophages, fibroblasts)
-- Loss of angiogenic inhibitors
-- Proteases release proangiogenic factors from ECM (e.g., basic FGF)
-
-Factors tilting balance toward angiogenesis:
-- **Hypoxia** → stabilizes **HIF1α** → activates VEGF transcription → angiogenic gradient
-- **p53 loss** → reduces thrombospondin-1 (anti-angiogenic) and de-represses VEGF
-- **RAS, MYC, MAPK** gain-of-function → upregulate VEGF
-- **VEGF** levels detectable in serum and urine of cancer patients
-
-**Therapeutic anti-angiogenic agents** (e.g., **bevacizumab** — anti-VEGF monoclonal antibody) can prolong life but are not curative. Advanced cancers develop escape routes.
-
-#### Summary: Sustained Angiogenesis
-
-- Tumor growth requires angiogenesis; controlled by balance of angiogenic and anti-angiogenic factors
-- **Hypoxia** triggers angiogenesis via HIF1α → VEGF
-- **p53 loss** removes brake on angiogenesis (reduces thrombospondin-1)
-- **RAS, MYC, MAPK** signaling upregulate VEGF
-- **VEGF inhibitors** prolong survival in advanced cancers but are not curative
-
-### Invasion and Metastasis
-
-Metastasis — the major cause of cancer-related morbidity and mortality — involves complex interactions among cancer cells, stromal cells, and the **extracellular matrix (ECM)**.
-
-**Metastatic cascade:**
-1. Local invasion of ECM
-2. Intravasation into blood/lymph vessels
-3. Transit through vasculature
-4. Extravasation from vessels
-5. Formation of micrometastases
-6. Growth into macroscopic tumors
-
-#### Invasion of Extracellular Matrix
-
-Tissues are organized into compartments separated by two types of ECM:
-- **Basement membranes**
-- **Interstitial connective tissue**
-
-Both contain collagens, glycoproteins, and proteoglycans.
-
-Invasion requires four sequential steps:
-
-**Step 1: Loosening of intercellular connections**
-- **E-cadherin** is lost in almost all epithelial cancers via:
-  - Mutational inactivation of E-cadherin genes
-  - Activation of β-catenin genes
-  - Expression of SNAIL and TWIST transcription factors (suppress E-cadherin)
-
-**Step 2: Degradation of basement membrane and interstitial matrix**
-- Tumor cells secrete proteolytic enzymes or induce stromal cells (fibroblasts, inflammatory cells) to produce:
-  - **Matrix metalloproteinases (MMPs)**
+**步驟2：基底膜和間質基質的降解**
+- 腫瘤細胞分泌蛋白水解酶：
+  - **基質金屬蛋白酶（MMPs）**
   - **Cathepsin D**
-  - **Urokinase plasminogen activator**
-- MMPs remodel basement membrane/matrix AND release ECM-sequestered growth factors (chemotactic, angiogenic, growth-promoting effects)
-- **MMP-9** — gelatinase that cleaves type IV collagen (epithelial and vascular basement membrane) and releases VEGF from ECM
-- Benign tumors show little type IV collagenase activity; malignant counterparts overexpress it
+  - **尿激酶纖溶酶原激活物**
 
-**Step 3: Changes in attachment to ECM proteins**
-- Normal epithelial cells have **integrins** for basement membrane laminin and collagens (polarized at basal surface) → maintain resting, differentiated state
-- Loss of adhesion in normal cells → apoptosis
-- Tumor cells are **resistant to this form of cell death**
-- MMP cleavage of collagen IV and laminin generates novel binding sites that stimulate tumor cell migration
+**步驟3：附著於 ECM 蛋白的改變**
+- 正常上皮細胞有 **integrins** 連接基底膜 laminin 和膠原蛋白
+- 腫瘤細胞**抵抗這種形式的細胞死亡**
 
-**Step 4: Locomotion (migration)**
-- Complex process involving receptors and signaling proteins → actin cytoskeleton
-- Potentiated by:
-  - **Autocrine motility factors** (cytokines from tumor cells)
-  - Cleavage products of matrix components (collagen, laminin)
-  - Growth factors (IGFs I and II)
-  - **HGF/SCF (hepatocyte growth factor/scatter factor)** — from stromal cells; concentrations elevated at advancing edges of glioblastoma
+**步驟4：運動（遷移）**
+- 由受體和信號蛋白 → actin 細胞骨架複雜過程
 
-**Stromal cells** (fibroblasts, immune cells) are not merely a barrier — they engage in reciprocal signaling with tumor cells that enable multiple cancer hallmarks.
+### 血管散播與腫瘤細胞的歸巢
 
-#### Vascular Dissemination and Homing of Tumor Cells
+**液態活檢（Liquid biopsies）**——實體瘤患者的血液樣本——顯示即使是小型癌症，每天也會脫落數百萬個腫瘤細胞。
 
-**Liquid biopsies** — blood samples from solid tumor patients — reveal millions of tumor cells shed daily from even small cancers.
+**轉移部位**由以下因素決定：
+1. **解剖位置和血管引流**——大多數轉移發生在遇到的第一個毛細血管床（肝、肺）
+2. **器官趨性**——某些腫瘤優先轉移到特定組織：
+   - 前列腺癌 → 骨
+   - 肺癌 → 腎上腺和腦
 
-Most circulate as single cells; others form emboli by aggregating with platelets.
+---
 
-Despite easy access to circulation, metastasis is highly inefficient because:
-- Tumor cells are vulnerable to immune destruction in circulation
-- Adhesion and invasion of distant tissues is difficult
-- Even after extravasation, cells may fail to grow due to lack of stromal support or immune recognition
-- **Tumor dormancy** — prolonged survival of micrometastases without progression — is well described in melanoma, breast, and prostate carcinoma
+## Evasion of Immune Surveillance（逃避免疫監控）
 
-**Metastatic sites** determined by:
-1. **Anatomic location and vascular drainage** — most metastases occur in first capillary bed encountered (liver, lung)
-2. **Organ tropism** — some tumors preferentially spread to specific tissues:
-   - Prostate carcinoma → bone
-   - Bronchogenic carcinoma → adrenal glands and brain
-   - Neuroblastoma → liver and bone
+**免疫監控**——免疫系統持續掃描身體以發現並摧毁新興的惡性細胞。
 
-**Organ tropism mechanisms:**
-- Tumor cell adhesion molecules with ligands on specific endothelial cells
-- **Chemokine receptors** (e.g., **CXCR4**) — many cancers express CXCR4; implicated in extravasation of circulating tumor cells (e.g., from breast cancer)
-- Non-permissive ("unfavorable soil") environments — skeletal muscle and spleen are rarely sites of metastasis despite being well vascularized
+#### 腫瘤抗原
 
-#### Metastasis: Why Do Only Some Tumors Metastasize?
+癌細胞表達刺激免疫系統的抗原。腫瘤抗原的來源：
 
-**Probabilistic model:** metastasis is a matter of chance multiplied by tumor cell number and time.
+1. **新抗原（Neoantigens）**——來自驅動和乘客突變的新蛋白序列
+2. **過表達/正常自體抗原**——如 **tyrosinase**（黑色素素合成酶）
+3. **癌症-睪丸抗原**——在除睪丸生殖細胞外的所有成人組織中沉默
+4. **病毒抗原**——來自致癌病毒的蛋白質（HPV、EBV）
 
-**Deterministic model:** metastasis is inevitable in certain tumors because they harbor cells with a specific metastatic phenotype.
+#### 腫瘤的免疫逃避機制
 
-Key points:
-- Large tumors more likely to metastasize than small tumors
-- Tumor size and type do not fully explain individual cancer behavior
-- Some tumors acquire all mutations needed for metastasis early in development
-- Stromal makeup, immune infiltrates, and angiogenesis quality also influence metastasis
+腫瘤透過以下機制逃避免疫力：
+1. **抗原表達丢失**——腫瘤細胞下調新抗原或 MHC class I
+2. **表達免疫抑制因子**（如 TGF-β、PD-L1）
+3. **免疫檢查點激活**
 
-**EMT (epithelial-to-mesenchymal transition):**
-- Carcinoma cells downregulate epithelial markers (e.g., E-cadherin) and upregulate mesenchymal markers (e.g., vimentin, smooth muscle actin)
-- Morphologic change from polygonal epithelioid to spindly mesenchymal shape
-- Increased production of proteolytic enzymes
-- Promotes migratory, invasive phenotype essential for metastasis
-- **SNAIL and TWIST** — transcription factors that promote EMT by repressing E-cadherin expression
-- EMT may be an emergent property of tumor-stroma interactions rather than requiring specific mutations
+**關鍵免疫檢查點：**
+- **PD-L1（程序性死亡配體1）**——常在腫瘤細胞上表達；結合 CTL 上的 PD-1 受體 → CTL 變得不反應並失去殺傷能力
+- **CTLA4**——在 T 細胞上表達；抑制 T 細胞功能
 
-#### Summary: Invasion and Metastasis
+**檢查點封堵療法：**
+- **抗 CTLA4 抗體**（如 ipilimumab）——釋放淋巴結中 T 細胞激活的剎車
+- **抗 PD-1/抗 PD-L1 抗體**（如 pembrolizumab、nivolumab）——恢復腫瘤組織中 CTL 的殺傷能力
 
-- Four steps: loosening of cell–cell contacts, degradation of ECM, attachment to novel ECM, migration
-- **E-cadherin loss** is a key event in EMT and invasion
-- **MMPs and cathepsins** degrade basement membrane and interstitial matrix
-- Proteolytic enzymes release growth factors from ECM and generate chemotactic/angiogenic fragments
-- Many tumors arrest in the first capillary bed encountered (lung and liver most commonly)
-- **Organ tropism** is influenced by adhesion molecules and chemokine receptors (e.g., CXCR4)
-- **EMT** (promoted by SNAIL/TWIST) facilitates migration and invasion
+---
 
-### Evasion of Immune Surveillance
+## Genomic Instability as an Enabler of Malignancy
 
-**Immune surveillance** — the immune system constantly scans the body for emerging malignant cells and destroys them.
+#### 遺傳性非息肉病結腸癌（HNPCC）症候群
 
-Evidence for immune surveillance:
-- Tumor-specific T cells and antibodies detected in patients
-- Extent and quality of immune infiltrates in cancers correlates with outcome
-- Increased incidence of certain cancers in immunodeficient individuals
-- Dramatic success of **immunotherapy** in treating several cancers
+- **DNA 錯配修復**基因缺陷
+- 錯配修復基因作為 DNA 的「拼寫檢查器」
+- **微衛星不穩定性（MSI）**——特徵性發現
 
-#### Tumor Antigens
+#### 色素性乾皮病
 
-Cancer cells express antigens that stimulate the immune system. Sources of tumor antigens:
+- **核苷酸切除修復**途徑缺陷
+- 無法修復 UV 誘導的**嘧啶二聚體**
+- 大幅增加陽光暴露區域**皮膚癌**的風險
 
-1. **Neoantigens** — new protein sequences from driver and passenger mutations; immune system is not tolerant of these
-2. **Overexpressed/normal self-antigens** — e.g., **tyrosinase** (melanin biosynthesis enzyme) expressed only in melanocytes and melanomas
-3. **Cancer-testis antigens** — encoded by genes silent in all adult tissues except testis germ cells; present in sperm (which lack MHC class I) → effectively tumor-specific
-4. **Viral antigens** — proteins from oncogenic viruses (HPV, EBV)
+#### BRCA1 與 BRCA2
 
-#### Effective Immune Responses to Tumor Antigens
+- 種系突變佔家族性乳癌的50%
+- 功能於**同源重組 DNA 修復**途徑
+- 兩個拷貝都必須失活才能發生癌症
 
-Immune reactions to cancers are initiated by:
-1. Death of individual cancer cells (from dysregulated growth, metabolic stress, hypoxia)
-2. Release of **damage-associated molecular patterns (DAMPs)** → stimulate innate immune cells
-3. Dendritic cells phagocytose dead cells → migrate to lymph nodes → **cross-presentation** of tumor neoantigens on MHC class I
-4. **CD8+ T cells** (cytotoxic T lymphocytes, CTLs) → activated → home to tumor → kill tumor cells presenting neoantigens
-5. **Th1 helper cells** (IFN-γ-producing) → activate macrophages and contribute to tumor destruction
+---
 
-High levels of infiltrating CTLs and Th1 cells correlate with **better clinical outcomes** in many human tumors.
+## Tumor-Promoting Inflammation as an Enabler of Malignancy
 
-#### Immune Evasion by Cancers
+發炎細胞修改腫瘤微環境以 enable 癌症標誌：
 
-Tumors that reach clinical size must be composed of cells that are:
-- Invisible to the immune system, or
-- Express factors that actively suppress immunity
+1. **釋放生長因子**
+2. **移除生長抑制劑**
+3. **增強對細胞死亡的抵抗**
+4. **血管新生**
+5. **侵襲和轉移**
+6. **逃避免疫摧毁**
 
-**Cancer immunoediting** — the immune system promotes Darwinian selection of tumor subclones most able to avoid immune destruction.
-
-Mechanisms of immune evasion:
-1. **Loss of antigen expression** — tumor cells downregulate neoantigens or MHC class I
-2. **Mutations in β2-microglobulin** — prevent functional MHC class I assembly
-3. **Expression of immunosuppressive factors** (e.g., TGF-β, PD-L1)
-4. **Activation of immune checkpoints** — inhibitory pathways that control immune response magnitude
-
-**Key immune checkpoints:**
-- **PD-L1 (programmed cell death ligand 1)** — often expressed on tumor cells; binds PD-1 receptor on CTLs → CTLs become unresponsive and lose killing ability
-- **CTLA4** — expressed on T cells; inhibits T cell function
-
-**Checkpoint blockade therapy:**
-- **Anti-CTLA4 antibodies** (e.g., ipilimumab) — release brake on T cell activation in lymph nodes
-- **Anti-PD-1/anti-PD-L1 antibodies** (e.g., pembrolizumab, nivolumab) — restore CTL killing ability in tumor tissue
-- Response rates: 10–30% in solid tumors (melanoma, lung cancer, bladder cancer); higher in Hodgkin lymphoma
-- Side effects: **autoimmune manifestations** (colitis, systemic inflammation) due to checkpoint pathways' normal role in preventing responses to self-antigens
-
-**Other immunotherapies:**
-- **Personalized tumor vaccines** — using neoantigens from individual patients' tumors
-- **CAR T cells** — patient-derived CTLs engineered to express chimeric antigen receptors (extracellular antibody domain + intracellular activation domain); effective in B-cell leukemias; associated with serious cytokine-release complications
-
-**Paradox:** The immune response to tumors is not always protective. Tumors can release factors that promote:
-- **M2 macrophage** accumulation (immunosuppressive, wound-healing phenotype)
-- Angiogenesis
-- Tissue fibrosis
-
-This contributes to the concept that **cancers are like "wounds that do not heal."**
-
-#### Summary: Evasion of Immune Surveillance
-
-- Tumor cells express **neoantigens** (mutated proteins), **overexpressed self-antigens**, **cancer-testis antigens**, and **viral antigens** → recognized as foreign by immune system
-- Antitumor immunity is mainly **cell-mediated**; tumor antigens presented on **MHC class I** → recognized by **CD8+ CTLs**
-- Immunosuppressed patients have increased cancer risk (especially DNA virus-associated cancers)
-- Tumors evade immunity via: antigen loss, MHC downregulation, immunosuppressive factors (TGF-β, PD-L1), activation of immune checkpoints
-- **Checkpoint inhibitors** (anti-CTLA4, anti-PD-1/PD-L1) release brakes on immune response; effective but cause autoimmune side effects
-- **CAR T cells** — engineered CTLs with chimeric antigen receptors; effective in leukemias
-
-### Genomic Instability as an Enabler of Malignancy
-
-Despite constant exposure to mutagenic environmental agents, cancers are relatively rare because normal cells **sense and repair DNA damage**.
-
-Inherited defects in DNA repair genes → greatly increased cancer risk.
-
-#### Hereditary Nonpolyposis Colon Cancer (HNPCC) Syndrome
-
-- Defects in **DNA mismatch repair** genes (at least 4 genes)
-- Mismatch repair genes act as "spell checkers" for DNA
-- Without these proofreaders, errors accumulate at increased rate
-- Each affected individual inherits one defective copy → second "hit" occurs in colonic epithelial cells
-- **Microsatellite instability (MSI)** — characteristic finding: microsatellites (tandem repeats of 1–6 nucleotides) become unstable and change length
-- Accounts for 2–4% of colonic cancers; MSI detected in ~15% of sporadic cancers
-
-#### Xeroderma Pigmentosum
-
-- Autosomal recessive disorder
-- Defect in **nucleotide excision repair** pathway
-- Cannot repair **pyrimidine dimers** induced by UV light
-- Greatly increased risk of **skin cancers** in sun-exposed areas
-
-#### Diseases With Defects in DNA Repair by Homologous Recombination
-
-**Bloom syndrome, ataxia-telangiectasia, Fanconi anemia:**
-- Hypersensitivity to DNA-damaging agents
-- Complex phenotypes including cancer predisposition and developmental defects
-
-**ATM** (ataxia-telangiectasia) — protein kinase that senses DNA damage caused by ionizing radiation → directs p53 to initiate DNA damage response.
-
-**BRCA1 and BRCA2:**
-- Germ line mutations account for 50% of familial breast cancers
-- Function in **homologous recombination DNA repair** pathway
-- BRCA1 forms complexes in homologous recombination pathway and links to ATM pathway
-- BRCA2 binds **RAD51** (required for homologous recombination)
-- Both copies must be inactivated for cancer to develop
-- Rarely inactivated in sporadic breast cancers (unlike APC and TP53)
-
-#### Lymphoid Neoplasms: Mutations From Regulated Genomic Instability
-
-B and T lymphocytes intentionally introduce DNA breaks during **V(D)J recombination** (mediated by **RAG1** and **RAG2**). After antigen exposure, mature B cells express **AID** (activation-induced cytosine deaminase) for class switch recombination and somatic hypermutation.
-
-Errors in these processes provide mutations that cause lymphoid neoplasms.
-
-#### Summary: Genomic Instability as an Enabler of Malignancy
-
-- **HNPCC** — mismatch repair defects → microsatellite instability (MSI) → colon cancer
-- **Xeroderma pigmentosum** — nucleotide excision repair defect → inability to repair UV-induced pyrimidine dimers → skin cancers
-- **Bloom syndrome, ataxia-telangiectasia, Fanconi anemia** — defects in homologous recombination repair → cancer predisposition
-- **BRCA1/BRCA2** — in familial breast cancer; function in homologous recombination; both alleles must be lost
-- **RAG1, RAG2, AID** — lymphocyte-specific enzymes that induce genomic instability → lymphoid neoplasms
-
-### Tumor-Promoting Inflammation as an Enabler of Malignancy
-
-Infiltrating cancers provoke chronic inflammatory reactions that can cause systemic symptoms (anemia, fatigue, cachexia).
-
-Inflammatory cells modify the tumor microenvironment to enable hallmarks of cancer:
-
-1. **Release of growth factors** — leukocytes and stromal cells secrete EGF and proteases that liberate growth factors from ECM
-2. **Removal of growth suppressors** — proteases degrade adhesion molecules that mediate cell–cell and cell–ECM growth inhibition
-3. **Enhanced resistance to cell death** — tumor-associated macrophages may prevent **anoikis** (cell death from adhesion loss) via integrins
-4. **Angiogenesis** — inflammatory cells release VEGF and other angiogenic factors
-5. **Invasion and metastasis** — proteases from macrophages remodel ECM; TNF and EGF stimulate motility; TGF-β promotes EMT
-6. **Evasion of immune destruction** — TGF-β and other factors recruit immunosuppressive regulatory T cells or suppress CD8+ CTLs; **M2 macrophages** produce cytokines promoting angiogenesis, fibroblast proliferation, and collagen deposition
-
-"Cancers are like wounds that do not heal."
-
-**Therapeutic implication:** Aspirin and COX-2 inhibitors are associated with decreased colorectal cancer risk in epidemiological studies.
+「癌症就像不癒合的傷口。」
 
 ---
 
 ## Etiology of Cancer: Carcinogenic Agents
 
-Three classes of carcinogenic agents:
-1. Chemicals
-2. Radiant energy
-3. Microbial products
+### 化學致癌物
 
-### Chemical Carcinogens
+#### 直接作用劑
 
-First identified by Sir Percival Pott (1775) — scrotal skin cancer in chimney sweeps from soot exposure.
+- 不需要**代謝轉化**即可成為致癌物
+- 通常是弱致癌物
+- 包括一些**烷化劑**（用於化療）
 
-#### Direct-Acting Agents
+#### 間接作用劑
 
-- Require **no metabolic conversion** to become carcinogenic
-- Typically weak carcinogens
-- Include some **alkylating agents** used in chemotherapy (cyclophosphamide, chlorambucil, nitrosoureas)
-- Risk of inducing secondary leukemia or other cancers with curative chemotherapy
+需要代謝轉化為**最終致癌物**。
 
-#### Indirect-Acting Agents
+**多環烴：**
+- **Benzo[a]pyrene**——來自菸草燃燒（肺癌）；煤燃燒（歷史上的煙囪掃描工癌症）
 
-Require metabolic conversion to an **ultimate carcinogen**.
+**天然植物和微生物產品：**
+- **Aflatoxin B1**——來自 Aspergillus 黴菌；與非洲和遠東的肝細胞癌強相關
 
-**Polycyclic hydrocarbons:**
-- Created by burning fossil fuels, plant material, animal material
-- **Benzo[a]pyrene** — from tobacco combustion (lung cancer); coal burning (historical chimney sweep cancer)
-- Produced when broiling meats; present in smoked meats and fish
-- Metabolized to **epoxides** → form covalent DNA adducts
+### 輻射致癌
 
-**Aromatic amines and azo dyes:**
-- **β-naphthylamine** — caused 50-fold increased bladder cancer in aniline dye and rubber industry workers
-- Metabolized by **cytochrome P-450** enzymes
+**電離輻射**——已確定的致癌物。證據：
+- 未受保護的礦工：肺癌風險增加10倍
+- 廣島/長崎存活者：白血病（約7年潛伏期後）、甲狀腺/乳癌/結腸/肺癌
 
-**Natural plant and microbial products:**
-- **Aflatoxin B1** — from Aspergillus mold on improperly stored grains and nuts; strongly correlated with hepatocellular carcinoma in Africa and Far East
-- Others: vinyl chloride, arsenic, nickel, chromium, insecticides, fungicides, polychlorinated biphenyls
-- Nitrosamines — formed from nitrites (food preservatives) + food amines; suspected carcinogens
+**UV 輻射**：
+- 引起 DNA 中的**嘧啶二聚體**
+- 由核苷酸切除修復修復
+- **基底細胞癌、鱗狀細胞癌**——與累積 UV 暴露相關
+- **黑色素瘤**——與強烈間歇性暴露相關（日光浴）
 
-#### Mechanisms of Action
+---
 
-Chemical carcinogens contain **reactive electrophile groups** → form chemical adducts with DNA, RNA, and proteins → mutations.
+## Viral and Microbial Oncogenesis
 
-Specific carcinogens produce characteristic "mutational signatures":
-- **Aflatoxin B1** → specific TP53 mutations → points to aflatoxin as causative agent
-- UV light, tobacco smoke, and other carcinogens produce distinct mutation patterns useful in epidemiology
+### 人類乳突病毒（HPV）
 
-**Initiation-promotion sequence:**
-- **Initiator** (mutagen) — causes permanent DNA lesion (e.g., RAS mutation)
-- **Promoter** — stimulates clonal expansion of initiated cells through induced proliferation (itself non-mutagenic)
-- Repeated promoter exposure → clonal expansion → accumulation of additional mutations → malignant tumor
+**HPV 類型：**
+- **低風險（HPV-6、HPV-11）**：生殖器疣，低惡性潛力
+- **高風險（HPV-16、HPV-18）**：宮頸癌、肛門生殖器鱗狀細胞癌、約20%的口咽癌
 
-Promoters act by inducing cell proliferation — sustained proliferation increases mutagenesis risk.
+**致癌機制：**
 
-#### Summary: Chemical Carcinogens
+**E6 蛋白：**
+- 結合並介導 **p53 降解**
+- 刺激 **TERT**（telomerase 催化亞基）表達
 
-- Direct-acting agents: no metabolic conversion needed; weak carcinogens including some chemotherapy drugs
-- Indirect-acting agents: require metabolic activation (e.g., benzo[a]pyrene, aflatoxin)
-- Cytochrome P-450 polymorphisms influence individual susceptibility
-- Carcinogens are mutagenic; specific agents produce characteristic mutational signatures
-- **Promoters** stimulate proliferation of mutated cells → accumulation of additional mutations
+**E7 蛋白：**
+- 結合 **RB 蛋白** → 釋放 E2F 轉錄因子 → 促進細胞週期進展
+- 也使 p21 和 p27（CDK 抑制劑）失活
 
-### Radiation Carcinogenesis
+### Epstein-Barr 病毒（EBV）
 
-**Ionizing radiation** — established carcinogen. Sources: UV rays, radiographs, nuclear fission, radionuclides.
+第一個被發現與人類腫瘤相關的病毒（Burkitt 淋巴瘤）。
 
-Evidence:
-- Unprotected miners of radioactive elements: 10-fold increased lung cancer risk
-- Hiroshima/Nagasaki survivors: increased leukemia (after ~7-year latent period), thyroid/breast/colon/lung carcinomas
-- Chernobyl: persistently elevated cancer incidence in surrounding areas
+**相關腫瘤：**
+- **Burkitt 淋巴瘤**——非洲地區性；幾乎所有地區性病例都攜帶 EBV 基因組
+- **鼻咽癌**——100%的病例含有 EBV
+- **免疫抑制患者的 B 細胞淋巴瘤**
 
-Mechanism: causes **chromosome breakage, translocations, inversions, and point mutations** — double-stranded DNA breaks are most important.
+### 肝炎病毒
 
-**UV radiation** — special case because it highlights importance of DNA repair:
-- Causes **pyrimidine dimers** in DNA → repaired by nucleotide excision repair
-- **Nonmelanoma skin cancers** — associated with cumulative UV exposure
-- **Melanomas** — associated with intense intermittent exposure (sunbathing)
-- **Xeroderma pigmentosum** patients cannot repair pyrimidine dimers → vastly increased skin cancer risk
+**HBV 和 HCV**——70-85%的肝細胞癌由這些病毒引起。
 
-#### Summary: Radiation Carcinogenesis
+**機制：**
+- 都不是病毒編碼致癌蛋白
+- 主導機制：**免疫介導的慢性炎症** → 肝細胞死亡 → 再生 → 基因組損傷
 
-- Ionizing radiation: causes chromosome breakage and rearrangements → affects cancer genes → carcinogenesis
-- UV rays: induce pyrimidine dimers → repaired by nucleotide excision repair; defects cause xeroderma pigmentosum → skin cancers
+### 幽門螺旋桿菌
 
-### Viral and Microbial Oncogenesis
+與**胃腺癌**和**胃 MALT 淋巴瘤**相關。第一個被列為致癌物的細菌。
 
-#### Oncogenic RNA Viruses
-
-**HTLV-1 (Human T-cell leukemia virus type 1):**
-- Causes **adult T-cell leukemia/lymphoma (ATLL)**
-- Endemic in Japan, Caribbean, South America, Africa
-- 15–20 million people infected worldwide
-- Tropism for **CD4+ T cells**
-- Transmission: sexual intercourse, blood products, breastfeeding
-- Only 3–5% of infected individuals develop leukemia (40–60 year latent period)
-
-**Molecular mechanism:**
-- HTLV-1 does not contain an oncogene; no consistent proviral integration near proto-oncogenes
-- BUT viral integration is **clonal** in leukemic cells (present at moment of transformation)
-- Contains **tax gene** — encodes Tax protein that:
-  - Stimulates viral replication from 5' long-terminal repeat
-  - Alters host cell gene transcription and interacts with signaling proteins
-  - Activates **PI3 kinase** → promotes cell survival and growth
-  - Upregulates cyclin D, represses CDK inhibitors → cell cycle progression
-  - Activates **NF-κB** → promotes lymphocyte survival
-  - Interferes with DNA repair → genomic instability
-- HTLV-1 infection → polyclonal T-cell proliferation → accumulation of mutations → monoclonal neoplastic population
-
-#### Oncogenic DNA Viruses
-
-Five DNA viruses associated with human cancer:
-1. **HPV (Human papillomavirus)**
-2. **EBV (Epstein-Barr virus)**
-3. **KSHV/HHV-8 (Kaposi sarcoma herpesvirus)**
-4. **Merkel cell polyomavirus**
-5. **HBV (Hepatitis B virus)**
-
-**Human Papillomavirus (HPV):**
-
-HPV types:
-- **Low-risk (HPV-6, HPV-11):** genital warts, low malignant potential
-- **High-risk (HPV-16, HPV-18):** cervical cancer, anogenital squamous cell carcinomas, ~20% of oropharyngeal cancers (especially tonsils)
-
-**Oncogenic mechanism** (Fig. 6.33):
-
-**E6 protein:**
-- Binds and mediates **p53 degradation**
-- Stimulates **TERT** (telomerase catalytic subunit) expression → contributes to immortalization
-- High-risk HPV E6 has higher affinity for p53 than low-risk HPV E6
-
-**E7 protein:**
-- Binds **RB protein** → displaces E2F transcription factors → promotes cell cycle progression
-- High-risk HPV E7 has higher affinity for RB than low-risk HPV E7
-- Also inactivates p21 and p27 (CDK inhibitors)
-- Activates cyclins E and A
-
-**Viral integration:**
-- Benign warts: HPV genome maintained as episome (non-integrated)
-- Cancers: HPV genome randomly integrated into host genome → interrupts negative regulatory region → overexpression of E6 and E7 oncoproteins
-- Integrated cells show increased genomic instability
-
-**Prevention:** HPV vaccines are effective in preventing cervical cancer.
-
-**Epstein-Barr Virus (EBV):**
-
-First virus linked to a human tumor (Burkitt lymphoma).
-
-Associated tumors:
-- **Burkitt lymphoma** — endemic in Africa; virtually all endemic cases carry EBV genome
-- **Nasopharyngeal carcinoma** — 100% of cases worldwide contain EBV
-- **B-cell lymphomas in immunosuppressed patients**
-- Subset of T-cell lymphomas, NK-cell lymphomas, gastric carcinomas, rare sarcomas
-
-**Mechanism in B cells:**
-- EBV uses **CD21 complement receptor** to infect B cells
-- In vitro: polyclonal B-cell proliferation → immortal B lymphoblastoid cell lines
-- **LMP1 (latent membrane protein 1)** — EBV-encoded oncogene; acts like constitutively active CD40 → activates NF-κB and JAK/STAT → promotes B-cell proliferation and survival
-- **EBNA2** — transactivates host genes including cyclin D and SRC proto-oncogenes
-- **vIL-10** — viral cytokine that suppresses macrophage/monocyte activation
-
-In immunocompetent individuals: EBV-driven polyclonal B-cell proliferation is controlled by cytotoxic T cells; patient may be asymptomatic or have self-limited infectious mononucleosis. Some infected B cells enter a long-lived memory B-cell pool.
-
-**Burkitt lymphoma evolution (endemic):**
-1. Malaria impairs immune competence → sustained B-cell proliferation
-2. Cytotoxic T cells eliminate most EBV-infected B cells
-3. Residual cells acquire **MYC translocation** [t(8;14)] → outgrowth of monoclonal lymphoma
-4. Non-endemic (sporadic) Burkitt lymphomas: 80% unrelated to EBV but virtually all have MYC translocation
-
-**Immunosuppressed patients:** EBV-positive B-cell tumors, often at multiple sites; polyclonal initially → can evolve to monoclonal; usually lack MYC translocations but express LMP-1 and EBNA2 (antigenic → can be recognized by CTLs). Can regress if T-cell function is restored.
-
-**Nasopharyngeal carcinoma:** 100% EBV-positive worldwide; clonal viral integration in all tumor cells; LMP-1 expressed → activates NF-κB → upregulates VEGF and MMPs.
-
-#### Hepatitis B and Hepatitis C Viruses
-
-**HBV and HCV** — 70–85% of hepatocellular carcinomas worldwide are caused by these viruses.
-
-Mechanism:
-- Neither virus encodes an oncogenic protein
-- **HBV DNA** integrates into host genome but without consistent pattern
-- Dominant mechanism: **immunologically mediated chronic inflammation** → hepatocyte death → regeneration → genomic damage
-- Chronic inflammation → activated immune cells produce growth factors, cytokines, chemokines → promote cell survival and angiogenesis
-- Immune cells also produce **reactive oxygen species** → genotoxic and mutagenic
-- **NF-κB activation** in hepatocytes → blocks apoptosis → dividing cells accumulate mutations
-
-**HBx protein** — encoded by HBV genome; can:
-- Activate transcription factors and signal transduction pathways
-- Interfere with p53 function
-- Viral integration causes chromosomal rearrangements and deletions
-
-**HCV** — also strongly linked to hepatocellular carcinoma through similar chronic inflammation mechanism.
-
-#### Helicobacter pylori
-
-Implicated in **gastric adenocarcinomas** and **gastric lymphomas (MALT lymphomas)**. First bacterium classified as a carcinogen.
-
-Mechanism of gastric adenocarcinoma:
-- Similar to viral hepatitis: chronic inflammation → increased epithelial proliferation
-- Inflammatory milieu contains reactive oxygen species → DNA damage
-- Sequence: chronic gastritis → atrophy → intestinal metaplasia → dysplasia → cancer (takes decades; occurs in only 3% of infected patients)
-- **CagA** (cytotoxin-associated A gene) — injected into gastric epithelial cells via pathogenicity island → mimics unregulated growth factor stimulation
-
-**MALT lymphoma:**
-- H. pylori infection → activation of H. pylori-reactive T cells → polyclonal B-cell proliferation
-- Monoclonal B-cell tumor emerges from proliferating pool → MALT lymphoma
-- **Early in disease: antibiotic eradication of H. pylori causes lymphoma regression** (removes antigenic stimulus for T cells) → remarkable example of tumor dependence on host immune interactions
-
-#### Summary: Viral and Microbial Oncogenesis
-
-- **HTLV-1:** endemic T-cell leukemia; Tax protein promotes proliferation, survival, genomic instability
-- **HPV:** E6 (p53 degradation, TERT activation) and E7 (RB inactivation, cell cycle promotion) drive cervical and oropharyngeal cancers; high-risk strains have higher affinity targets
-- **EBV:** Burkitt lymphoma, nasopharyngeal carcinoma, immunosuppression-related lymphomas; LMP1 mimics CD40 → NF-κB activation
-- **HBV/HCV:** hepatocellular carcinoma; chronic inflammation → regeneration → genomic damage; HBV HbX protein also directly promotes oncogenesis
-- **H. pylori:** gastric adenocarcinoma and MALT lymphoma; CagA injection mimics growth factor signaling; chronic inflammation drives adenocarcinoma; early MALT lymphoma regresses with antibiotic treatment
+**機制：**
+- 類似於病毒性肝炎：慢性炎症 → 上皮增殖增加
+- 炎症環境含活性氧 → DNA 損傷
+- **CagA**（細胞毒素相關 A 基因）——通過致病島注入胃上皮細胞 → 模擬不受調節的生長因子刺激
 
 ---
 
 ## Clinical Aspects of Neoplasia
 
-### Effects of Tumor on Host
+### 腫瘤對宿主的影響
 
-Tumors cause problems through:
+腫瘤的問題由以下原因引起：
 
-1. **Location and impingement** — even small tumors can compress/destroy critical structures (e.g., 1-cm pituitary adenoma causing hypopituitarism)
-2. **Functional activity** — hormone production (e.g., insulinoma causing hyperinsulinism; adrenal tumors producing aldosterone → hypertension)
-3. **Bleeding and infection** — ulceration through adjacent surfaces
-4. **Rupture or infarction**
-5. **Cachexia**
+1. **位置和侵犯**——即使是小型腫瘤也可壓迫/摧毁關鍵結構
+2. **功能活動**——激素產生（如 insulinoma 導致高胰島素血症）
+3. **出血和感染**——通過相鄰表面潰爛
+4. **囊破裂或梗塞**
+5. **惡病質（Cachexia）**
 
-### Cancer Cachexia
+### 癌症惡病質
 
-Progressive loss of body fat and lean body mass; weakness, anorexia, anemia.
+進行性體脂和瘦肉量減少；虛弱、厭食、貧血。
 
-- Correlates with tumor size and extent of spread
-- NOT caused by nutritional demands of the tumor
-- Mechanism: **cytokines** (especially **TNF**) produced by tumor or host macrophages
-  - TNF suppresses appetite
-  - TNF inhibits lipoprotein lipase → prevents release of free fatty acids
-- Calorie expenditure remains high despite reduced food intake (unlike starvation)
-- Treatment: removal of the underlying tumor
+- 與腫瘤大小和擴散程度相關
+- **非**由腫瘤的營養需求引起
+- **機制**：**細胞激素**（尤其是 **TNF**）由腫瘤或宿主巨噬細胞產生
 
-### Paraneoplastic Syndromes
+### Paraneoplastic 症候群
 
-Symptom complexes that cannot be explained by local/distant tumor spread or indigenous hormone production. Occur in 10–15% of cancer patients.
+無法由局部/遠處腫瘤擴散或內源性激素產生解釋的症狀複合體。在10-15%的癌症患者中發生。
 
-Importance:
-- May be **earliest manifestation of occult cancer**
-- Can cause significant clinical illness or be lethal
-- May mimic metastatic disease → confuse treatment
-
-Common paraneoplastic syndromes:
-- **Hypercalcemia** — most commonly from **PTH-related protein (PTHrP)**; also TGF-α, active vitamin D; or widespread osteolytic bone metastases
-- **Cushing syndrome** — ectopic ACTH or ACTH-like polypeptides (e.g., small cell lung carcinoma)
-- **Nonbacterial thrombotic endocarditis** — hypercoagulability
-- Others: clubbing and hypertrophic osteoarthropathy (lung carcinomas); various neurologic syndromes
-
-### Grading and Staging
-
-**Grading** — based on degree of differentiation, mitotic rate, and architectural features:
-- Ranges from 2 categories (low/high grade) to 4 categories
-- Less reliable than staging; correlation between histologic appearance and biologic behavior is imperfect
-
-**Staging** — based on extent of spread:
-- **TNM system:** T = primary tumor size, N = regional lymph node involvement, M = metastases
-- T0 = in situ; T1–T4 increasing size; N0 = no nodal involvement, N1–N3 increasing nodal spread; M0/M1 = absence/presence of distant metastases
-- **Staging is of greater clinical value than grading**
-
-### Laboratory Diagnosis of Cancer
-
-#### Morphologic Methods
-
-- **Excision or biopsy** — standard approach; specimen must be adequate, representative, properly preserved
-- **Frozen section** — rapid diagnosis (minutes); useful for determining nature of mass or evaluating lymph nodes during surgery
-- **Fine-needle aspiration** — aspiration of cells from palpable or deep masses; used for breast, thyroid, lymph nodes, salivary glands; less invasive than surgery
-- **Cytologic (Papanicolaou) smears** — detection of shed cancer cells in secretions/fluids; best known for cervical cancer screening (the "Pap smear"); also used for endometrial, bronchial, bladder, gastric cancers and body cavity fluids
-
-**Immunohistochemistry** — detects specific proteins (antigens) using monoclonal antibodies:
-- **Cytokeratin** → undifferentiated carcinoma vs. lymphoma
-- **PSA (prostate-specific antigen)** → prostatic origin of metastatic tumor
-- **Estrogen receptors** → breast cancer prognosis and therapy
-
-**Flow cytometry** — fluorescently labeled antibodies against cell surface molecules; used routinely for classification of leukemias and lymphomas.
-
-#### Tumor Markers
-
-Biochemical assays for tumor-associated enzymes, hormones, and other markers in blood.
-
-- Used for **screening** (limited utility), **monitoring treatment response**, and **detecting recurrence**
-- Limitations: lack sensitivity and specificity; often elevated in benign conditions too
-
-Examples:
-- **PSA** — elevated in prostate cancer BUT also in benign prostatic hyperplasia; controversial as screening tool; very valuable for detecting residual disease/recurrence
-- **CEA (carcinoembryonic antigen)** — colorectal, pancreatic, gastric, breast carcinomas; elevated in various non-neoplastic conditions; useful for monitoring after resection (disappears with successful surgery; reappears with recurrence)
-- **AFP (alpha-fetoprotein)** — hepatocellular carcinoma, yolk sac tumors, some teratocarcinomas
-
-#### Molecular Diagnosis
-
-1. **Diagnosis of malignancy:**
-   - **PCR detection of rearranged T-cell receptor or immunoglobulin genes** — distinguishes monoclonal (neoplastic) from polyclonal (reactive) proliferations
-   - Detection of characteristic **translocations** (FISH or PCR): Ewing sarcoma, leukemias, lymphomas; **BCR-ABL** transcripts in CML
-   - **Point mutation detection** — e.g., JAK2 mutations in polycythemia vera
-
-2. **Prognosis and behavior:**
-   - Detection of **amplified oncogenes** (HER2, NMYC) → prognostic and therapeutic information
-   - **TP53 mutations** → poor prognosis in many cancers
-   - Quantifying **infiltrating cytotoxic T cells** → prognostic information
-
-3. **Detection of minimal residual disease:**
-   - **PCR for BCR-ABL transcripts** in CML after treatment
-   - Detection of **circulating tumor cells** and **circulating tumor DNA** ("liquid biopsy")
-
-4. **Diagnosis of hereditary cancer predisposition:**
-   - Detection of germ line mutations (e.g., BRCA1) → allows aggressive screening, prophylactic surgery, genetic counseling
-
-5. **Therapeutic decision-making:**
-   - Detection of **targetable mutations** → guides targeted therapy
-   - Example: **BRAF V600E mutation** → present in melanoma, colon cancer, thyroid cancer, hairy cell leukemia, Langerhans cell histiocytosis; tumors with this mutation respond to **BRAF inhibitors**
-
-#### Molecular Profiling: The Future
-
-**"Omics" technologies** — revolutionizing cancer diagnosis:
-- **Genomics** — whole genome sequencing
-- **Epigenomics** — genome-wide epigenetic modifications
-- **Transcriptomics** — all RNA expression (microarrays, RNA sequencing)
-- **Proteomics** — simultaneous measurement of many proteins
-- **Metabolomics** — snapshot of all cellular metabolites
-
-**The Cancer Genome Atlas (TCGA)** — systematic sequencing and cataloging of genomic alterations in human cancers.
-
-**Clinical applications:**
-- **Next-generation sequencing (NGS)** — whole genome sequencing now costs <$5000; can complete in weeks
-- **Targeted panels** — sequencing of hundreds of exons simultaneously; detect mutations present in as few as 5% of tumor cells
-- **DNA copy number arrays** — detect amplifications and deletions across the genome
-
-**Integration with histopathology:**
-- Histopathology provides information about anaplasia, invasiveness, and tumor heterogeneity that DNA sequences alone cannot provide
-- **In situ biomarker tests** remain essential for assessing tumor-stroma interactions (angiogenesis, host immune responses)
-- The future: **combination of morphologic and molecular techniques** for most accurate diagnosis and prognosis
-
-#### Summary: Laboratory Diagnosis of Cancer
-
-- **Morphologic methods:** biopsy, frozen section, fine-needle aspiration, cytologic smears
-- **Immunohistochemistry and flow cytometry:** detect protein expression patterns; aid in diagnosis and classification
-- **Tumor markers:** PSA, CEA, AFP — useful for monitoring treatment response and recurrence; limited for screening
-- **Molecular analyses:** detect translocations, mutations; diagnose malignancy, determine prognosis, detect minimal residual disease, diagnose hereditary predisposition, guide targeted therapy
-- **Molecular profiling:** DNA/RNA sequencing, copy number analysis; enables personalized/precision medicine; complements rather than replaces histopathology
+**常見的 paraneoplastic 症候群：**
+- **高血鈣**——最常見於 **PTH 相關蛋白（PTHrP）**
+- **Cushing 症候群**——異位 ACTH 或 ACTH 樣多肽
+- **非細菌性血栓性心內膜炎**——高凝狀態
 
 ---
 
-## Summary: Hallmarks of Cancer (Consolidated)
+## Laboratory Diagnosis of Cancer
 
-| Hallmark | Key Mechanisms |
-|----------|---------------|
-| Self-sufficiency in growth signals | Oncogene activation (RAS, MYC, BCR-ABL); autocrine loops; receptor overexpression (HER2) |
-| Insensitivity to growth inhibitors | Tumor suppressor loss (RB, TP53, TGF-β pathway, APC); CDK4 activation; cyclin D overexpression |
-| Altered cellular metabolism | Warburg effect; oncogene-driven glycolysis; oncometabolites (2-HG from IDH mutations) |
-| Evading apoptosis | p53 loss; BCL2 family overexpression; MDM2 amplification |
-| Limitless replicative potential | Telomerase reactivation |
-| Sustained angiogenesis | VEGF induction (HIF1α, hypoxia); loss of thrombospondin-1 |
-| Invasion and metastasis | E-cadherin loss; EMT (SNAIL/TWIST); MMPs; chemokine receptors (CXCR4) |
-| Evasion of immune surveillance | Antigen loss; checkpoint activation (PD-L1/PD-1, CTLA4); immunosuppressive microenvironment |
-| Enabling characteristics | Genomic instability (DNA repair defects); tumor-promoting inflammation |
+### 形態學方法
+
+- **切除或切片**——標準方法
+- **冷凍切片**——快速診斷
+- **細針穿刺**——從可觸及或深部腫塊抽取細胞
+- **細胞學（Papanicolaou）抹片**——檢測脫落癌細胞
+
+### 免疫組織化學與流式細胞術
+
+檢測蛋白質表達模式；幫助診斷和分類。
+
+### 腫瘤標記
+
+- **PSA**（攝護腺特異抗原）
+- **CEA**（癌胚抗原）
+- **AFP**（甲胎蛋白）
+
+### 分子分析
+
+- 檢測易位、突變
+- 診斷惡性腫瘤、判斷預後、檢測微小殘留病灶、診斷遺傳易感性、引導標靶治療
 
 ---
 
-## Summary: Therapeutic Targeting of Hallmarks
+## Summary
 
-| Hallmark | Therapeutic Approach |
-|----------|---------------------|
-| Self-sufficiency | EGFR inhibitors; BCR-ABL inhibitors (imatinib) |
-| Growth inhibitor evasion | CDK inhibitors |
-| Metabolic alterations | Glycolysis inhibitors |
-| Apoptosis evasion | BH3 mimetics; MDM2 inhibitors |
-| Immortality | Telomerase inhibitors |
-| Angiogenesis | VEGF inhibitors (bevacizumab) |
-| Invasion/metastasis | HGF/c-Met inhibitors |
-| Immune evasion | Checkpoint inhibitors (anti-CTLA4, anti-PD-1/PD-L1); CAR T cells |
-| Inflammation | COX-2 inhibitors (under investigation) |
+| 標誌 | 關鍵機制 |
+|------|---------|
+| 生長信號自給自足 | Oncogene 激活（RAS、MYC、BCR-ABL）；自泌循環；受體過表達（HER2） |
+| 生長抑制信號不敏感 | 腫瘤抑制基因丢失（RB、TP53、TGF-β 路徑、APC）；CDK4 激活；cyclin D 過表達 |
+| 細胞代謝改變 | Warburg 效應； oncogene 驅動的糖酵解； IDH 突變的腫瘤代謝物（2-HG） |
+| 逃避細胞凋亡 | p53 丢失； BCL2 家族過表達； MDM2 擴增 |
+| 無限複製潛能 | Telomerase 重新激活 |
+| 持續血管新生 | VEGF 誘導（HIF1α、缺氧）； thrombospondin-1 丢失 |
+| 侵襲與轉移 | E-cadherin 丢失； EMT（SNAIL/TWIST）； MMPs；趨化因子受體（CXCR4） |
+| 逃避免疫監控 | 抗原丢失；檢查點激活（PD-L1/PD-1、CTLA4）；免疫抑制微環境 |
+| .enable 特徵 | 基因組不穩定性（DNA 修復缺陷）；腫瘤促進性發炎 |

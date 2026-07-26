@@ -3,1810 +3,431 @@ layout: single
 title: "Chapter 20: Endocrine System"
 ---
 
-## Pituitary Gland
+# Chapter 20: Endocrine系統
 
-### Overview
+## 章節導讀
 
-The **pituitary gland** (hypophysis) is a small, bean-shaped structure located at the base of the brain within the **sella turcica**. It is intimately connected to the **hypothalamus** via:
+本章節系統介紹內分泌系統的病理學。內分泌腺體包括腦下垂體、甲狀腺、副甲狀腺、腎上腺、胰島與松果體，各自調節不同的生理功能並有其特有的疾病譜系。
 
-- A **stalk** composed of axons extending from hypothalamic neurons
-- A **rich venous plexus** constituting a portal circulation
+**腦下垂體**的重點在於 anterior pituitary adenomas 的分類——這些是最常見的 pituitary disorder，分為 prolactinoma、GH-secreting adenoma、ACTH-secreting adenoma 等功能類型，各有獨特的臨床症候群。Posterior pituitary disease 包括 diabetes insipidus（ADH 缺乏）與 SIADH（ADH 過量）。
 
-The pituitary regulates most other endocrine glands in coordination with the hypothalamus. It consists of two morphologically and functionally distinct components:
+**甲狀腺疾病**涵蓋 hyperthyroidism（最常見原因是 Graves disease）、hypothyroidism（最常見原因是 Hashimoto thyroiditis）與甲狀腺結節/甲狀腺癌。甲狀腺癌根據 follicular vs papillary 類型有不同的分子特徵與預後。
 
-| Component | Alternative Name | Embryologic Origin | Primary Function |
-|-----------|-----------------|-------------------|-----------------|
-| **Anterior lobe** | Adenohypophysis | Oral cavity epithelium | Produces trophic hormones |
-| **Posterior lobe** | Neurohypophysis | Hypothalamic neural tissue | Stores/releases ADH and oxytocin |
+**腎上腺疾病**說明 adrenal cortex 产生的激素（Aldosterone、Cortisol、Androgens）過多或不足的臨床後果，重點在 Cushing syndrome、Aldosteronism 與 adrenal insufficiency 的鑑別診斷。**糖尿病**在於其慢性併發症的發生機制（微血管與大血管疾病）。
 
-### Anterior Pituitary (Adenohypophysis)
+## 腦下垂體
 
-The anterior pituitary produces **trophic hormones** that stimulate hormone production from the thyroid, adrenal, and other glands. Cell types identified by staining characteristics include:
+### 概述
 
-- **Basophilic cells** — stain blue with H&E
-- **Eosinophilic cells** — stain red with H&E  
-- **Chromophobic cells** — poorly staining
+**腦下垂體（pituitary gland）**位於蝶骨的 sella turcica 內，由前葉（adenohypophysis）與後葉（neurohypophysis）組成，兩者在胚胎起源與功能上截然不同。
 
-These staining properties correlate with different **polypeptide hormones** within the cytoplasm, identified by:
+| 組成 | 替代名稱 | 胚胎起源 | 主要功能 |
+|---|---|---|---|
+| **前葉** | Adenohypophysis | 口腔道上皮 | 產生促激素（trophic hormones） |
+| **後葉** | Neurohypophysis | 下丘腦神經組織 | 儲存/釋放 ADH 與 oxytocin |
 
-- **Electron microscopy**
-- **Immunohistochemical techniques**
-
-#### Hypothalamic Regulation
-
-Hypothalamic factors controlling pituitary hormone release:
-
-**Stimulatory factors:**
-- **CRH** (corticotropin-releasing hormone)
-- **GHRH** (growth hormone–releasing hormone)
-- **GnRH** (gonadotropin-releasing hormone)
-- **TRH** (thyrotropin-releasing hormone)
-
-**Inhibitory factors:**
-- **GIH** (growth hormone inhibitory hormone) / **Somatostatin**
-- **PIF** (prolactin inhibitory factor) / **Dopamine**
-
-### Clinical Manifestations of Pituitary Disease
+### 腦下垂體疾病概述
 
 #### Hyperpituitarism
 
-**Hyperpituitarism** arises from excessive secretion of trophic hormones, most commonly due to an **anterior pituitary adenoma**.
+**Hyperpituitarism** 起源於促激素的過量分泌，最常見的原因是**腦下垂體腺瘤**。
 
 #### Hypopituitarism
 
-**Hypopituitarism** results from deficiency of trophic hormones due to destructive processes:
+**Hypopituitarism** 由促激素缺乏引起，由於：
+- 缺血性損傷
+- 手術
+- 放射治療
+- 發炎反應
+- 非功能性腦下垂體腺瘤侵蝕正常腦下垂體
 
-- Ischemic injury
-- Surgery
-- Radiation
-- Inflammatory reactions
-- Nonfunctional pituitary adenomas encroaching on normal pituitary
+#### 局部佔位效應
 
-#### Local Mass Effects
+不斷長大的腦下垂體病變導致：
+- **視神經交叉壓迫** → **雙顳側偏盲**（外側/顳側視野缺陷）
+- **顱內壓升高** → 頭痛、噁心、嘔吐
+- **海綿竇受累** → 顱神經麻痺
 
-Expanding pituitary lesions cause:
+### 前葉腫瘤
 
-- **Sellar expansion** and **bony erosion** of sella turcica
-- **Disruption of diaphragma sellae**
-- **Optic chiasm compression** → **bitemporal hemianopsia** (defects in lateral/temporal visual fields)
-- **Elevated intracranial pressure** → headache, nausea, vomiting
-- **Seizures** or **obstructive hydrocephalus** (extension beyond sella turcica)
-- **Cranial nerve palsy** (cavernous sinus involvement)
-- **Pituitary apoplexy** — acute hemorrhage with rapid enlargement and loss of consciousness (neurosurgical emergency)
+#### 腦下垂體腺瘤：一般特徵
 
----
+腦下垂體腺瘤是**最常見的前葉疾病**，多數為**良性腺瘤**。
 
-## Anterior Pituitary Tumors
+**分類**（根據產生的激素）：
 
-### Pituitary Adenomas: General Features
+<figure>
+<figcaption>Table 20.1 Classification of Pituitary Adenomas.</figcaption>
+</figure>
 
-Pituitary adenomas are the **most common cause of anterior pituitary disorders**, most being **benign adenomas**.
+#### 發生機制
 
-#### Classification
+**G-蛋白突變**是腦下垂體腺瘤最常見的基因組改變之一。**GNAS 基因**突變（約 40% 的 somatotroph cell adenomas）**消除 GTPase 活性** → 組成性 Gsα 激活 → 持續 cAMP → 不受控的增殖。
 
-Pituitary adenomas are classified by **hormone(s) produced**, detected by **immunohistochemical stains**:
+**家族性腦下垂體腺瘤（約 5%）**：
+- **MEN1** — menin 腫瘤抑制基因
+- **AIP** — aryl hydrocarbon 受體交互蛋白
 
-**Table 20.1 Classification of Pituitary Adenomas**
+### 功能性腺瘤與 Hyperpituitarism
 
-| Pituitary Cell Type | Hormone | Adenoma Subtypes | Associated Syndrome |
-|--------------------|---------|-----------------|-------------------|
-| **Lactotroph** | Prolactin | Lactotroph adenoma, Silent lactotroph adenoma | Galactorrhea, amenorrhea (females), sexual dysfunction, infertility |
-| **Somatotroph** | GH | Densely granulated somatotroph adenoma, Sparsely granulated somatotroph adenoma, Silent somatotroph adenoma | Gigantism (children), Acromegaly (adults) |
-| **Mammosomatotroph** | Prolactin, GH | Mammosomatotroph adenomas | Combined features of GH and prolactin excess |
-| **Corticotroph** | ACTH and POMC-derived peptides | Densely granulated corticotroph adenoma, Sparsely granulated corticotroph adenoma, Silent corticotroph adenoma | Cushing syndrome, hyperpigmentation |
-| **Thyrotroph** | TSH | Thyrotroph adenomas, Silent thyrotroph adenomas | Hyperthyroidism |
-| **Gonadotroph** | FSH, LH | Gonadotroph adenomas (null cell, oncocytic adenomas) | Hypogonadism, mass effects, hypopituitarism |
+#### Lactotroph Adenomas（泌乳激素瘤）
 
-> **Note:** Nonfunctional (silent) adenomas express corresponding hormones by immunohistochemistry but do not produce clinical syndromes. They typically present with mass effects and hypopituitarism.
+**泌乳激素瘤**是最常見的功能性腦下垂體腺瘤（約 30%）。
 
-#### Functional Status
+**高泌乳激素血症的臨床特徵**：
+- **閉經**
+- **溢乳**
+- **性慾減退**
+- **不孕**
 
-- **Functional** — hormone-producing (causes endocrine abnormalities)
-- **Nonfunctioning** — not producing hormone (produces mass effects)
-- **Silent** — hormone production demonstrable at tissue level only
+#### Somatotroph Adenomas（生長激素瘤）
 
-#### Size Classification
+**生長激素分泌性 somatotroph adenomas** 是第二常見的功能性腦下垂體腺瘤。
 
-- **Microadenomas** — <1 cm in diameter
-- **Macroadenomas** — >1 cm in diameter
+**臨床表現**：
 
-Nonfunctioning adenomas are more likely macroadenomas at diagnosis and may cause hypopituitarism by destroying adjacent parenchyma.
+*兒童（骨骼癒合前）*：
+- **巨人症** — 全身性身體增大，手臂與腿不成比例地長
 
-### Pathogenesis
+*成人（骨骼癒合後）*：
+- **肢端肥大症** — 軟組織、皮膚、內臟與臉部、手腳骨頭的過度生長
 
-#### Genetic Abnormalities
+**代謝後果**：
+- **糖尿病** — 生長激素誘導的外周胰島素抵抗
+- 高血壓
+- 關節炎
+- 充血性心臟衰竭
+- 增加胃腸道癌症風險
 
-**G-protein mutations** are among the most common genomic alterations in pituitary adenomas.
+### Hypopituitarism
 
-**G-protein signaling pathway:**
-- G-proteins transmit signals from cell surface receptors (GHRH, TSH, PTH receptors) to intracellular effectors (adenyl cyclase)
-- Generate second messengers (cAMP)
-- **Gs** is a stimulatory G protein pivotal in signal transduction
-- Gsα subunit encoded by **GNAS gene**
+臨床上顯著性腦下垂體功能減退在喪失 ≥75% 的前葉實質時發生。
 
-**Normal G-protein cycle:**
-1. In basal state: **GDP** bound to Gsα
-2. Ligand-receptor interaction: **GDP dissociates**, **GTP binds** to Gsα
-3. Gsα activation → **cAMP generation** → cellular proliferation and hormone synthesis
-4. GTPase activity in α-subunit **hydrolyzes GTP to GDP** → inactivation
+**最常見原因**：
+1. **腫瘤與佔位病變**（特別是非功能性腦下垂體腺瘤）
+2. **缺血性壞死** — **Sheehan syndrome**（產後壞死）
+   - 懷孕期間腦下垂體增大（泌乳激素分泌細胞增加）
+   - 對缺血損傷脆弱
 
-**GNAS mutations:**
-- Found in ~40% of **somatotroph cell adenomas**
-- **Abrogate GTPase activity** → constitutive Gsα activation → persistent cAMP → unchecked proliferation
-- Also described in minority of corticotroph adenomas
-- Absent in thyrotroph, lactotroph, and gonadotroph adenomas
+### Summary: 腦下垂體功能減退
 
-**Familial pituitary adenomas (~5% of cases):**
-- **MEN1** — menin tumor suppressor
-- **CDKN1B** — cyclin-dependent kinase inhibitor
-- **PRKAR1A** — protein kinase A regulatory subunit
-- **AIP** — aryl hydrocarbon receptor–interacting protein
+- **Hyperpituitarism** 最常由腦下垂體腺瘤引起
+- **泌乳激素瘤**引起溢乳、閉經與不孕
+- **生長激素分泌性腺瘤**引起巨人症（兒童）與肢端肥大症（成人）
+- **Hypopituitarism** 最常由腦下垂體腺瘤或 Sheehan syndrome（產後缺血性壞死）引起
 
-**Aggressive behavior associated abnormalities:**
-- **Cyclin D1** overexpression
-- **TP53** mutations
-- **RB** gene epigenetic silencing
-- **RAS** oncogene mutations (rare pituitary carcinomas)
+## 甲狀腺
 
-### Morphology
+### 甲狀腺功能與疾病分類
 
-**Gross features:**
-- Well-circumscribed, soft lesion
-- Small tumors confined to sella turcica
-- Larger lesions compress optic chiasm, erode sella turcica and anterior clinoid processes
-- ~30% are nonencapsulated and infiltrate adjacent bone, dura, and brain
-- Hemorrhage and necrosis common in larger adenomas
-
-**Microscopic features:**
-- Relatively uniform, polygonal cells
-- Arranged in sheets, cords, or papillae
-- **Sparse reticulin** (distinguishes from non-neoplastic parenchyma)
-- **Cellular monomorphism** (distinguishes from non-neoplastic tissue)
-- Cytoplasm may be acidophilic, basophilic, or chromophobic
-- **TP53-mutant adenomas** show brisk mitotic activity — designated **atypical adenomas**
-
----
-
-## Functioning Adenomas and Hyperpituitarism
-
-### Lactotroph Adenomas
-
-**Prolactinomas** are the most frequent hyperfunctioning pituitary adenoma (~30% of clinically recognized cases).
-
-**Clinical features of hyperprolactinemia:**
-- **Amenorrhea**
-- **Galactorrhea**
-- **Loss of libido**
-- **Infertility**
-
-**Diagnostic considerations:**
-- Even microadenomas can secrete sufficient prolactin for systemic symptoms
-- Diagnosed earlier in premenopausal women (obvious manifestations)
-- More subtle effects in men and older women
-- Prolactin elevation also occurs in: pregnancy, high-dose estrogen, renal failure, hypothyroidism, hypothalamic lesions, dopamine-inhibiting drugs
-
-**Stalk effect:** Any suprasellar mass may disturb hypothalamic inhibition of prolactin secretion → hyperprolactinemia (mild elevations <200 µg/L may indicate stalk effect rather than prolactinoma)
-
-### Somatotroph Adenomas
-
-**Growth hormone–secreting somatotroph adenomas** are the second most common functioning pituitary adenoma.
-
-**Clinical manifestations:**
-
-**In children (before epiphyseal closure):**
-- **Gigantism** — generalized increase in body size with disproportionately long arms and legs
-
-**In adults (after epiphyseal closure):**
-- **Acromegaly** — overgrowth of soft tissues, skin, viscera, and bones of face, hands, and feet
-  - **Prognathism** (jaw protrusion)
-  - Broadening of lower face
-  - Teeth separation
-  - Enlarged hands and feet (sausage-like fingers)
-
-**Metabolic consequences:**
-- **Diabetes mellitus** — growth hormone–induced peripheral insulin resistance
-- Failure to suppress GH in response to oral glucose load (sensitive test for acromegaly)
-- Gonadal dysfunction
-- Generalized muscle weakness
-- **Hypertension**
-- **Arthritis**
-- **Congestive heart failure**
-- Increased risk of gastrointestinal cancers
-
-### Corticotroph Adenomas
-
-Excess **ACTH** → adrenal cortisol hypersecretion → **Cushing syndrome**.
-
-**Cushing disease** — hypercortisolism caused by pituitary ACTH overproduction (named after Harvey Cushing).
-
-**Features:**
-- Most are **microadenomas** at diagnosis
-- **PAS-positive** (accumulation of glycosylated ACTH)
-- Detectable by immunohistochemistry
-
-**Nelson syndrome:**
-- Large, aggressive corticotroph adenomas developing after adrenalectomy
-- Loss of corticosteroid inhibition on preexisting microadenoma
-- Patients present with mass effects (hypercortisolism absent due to adrenal absence)
-- **Hyperpigmented skin** from increased **MSH** (melanocyte-stimulating hormone, derived from same precursor as ACTH)
-
-### Other Anterior Pituitary Neoplasms
-
-**Gonadotroph adenomas:**
-- Produce **LH** and **FSH** (act on gonads)
-- Secrete inefficiently and variably — usually no recognizable clinical syndrome
-- Detected by mass effects: impaired vision, headaches, diplopia, pituitary apoplexy
-- Cells show immunoreactivity for gonadotropin α-subunit and β-FSH/LH subunits
-
-**Thyrotroph adenomas:**
-- Account for ~1% of pituitary adenomas
-- Rare cause of **hyperthyroidism**
-
-**Nonfunctioning pituitary adenomas:**
-- ~25-30% of all pituitary tumors
-- Typical presentation: **mass effects**
-- May cause hypopituitarism (gradual enlargement or acute hemorrhage/pituitary apoplexy)
-
-**Pituitary carcinomas:**
-- Exceedingly rare
-- Local extension + distant metastases
-
----
-
-## Summary: Hyperpituitarism-Associated Adenomas
-
-- **Prolactinomas:** amenorrhea, galactorrhea, loss of libido, infertility
-- **GH-secreting (somatotroph) adenomas:** gigantism (children), acromegaly (adults), impaired glucose tolerance, diabetes mellitus
-- **Corticotroph cell adenomas:** Cushing syndrome, hyperpigmentation
-- All pituitary adenomas, particularly nonfunctioning, may cause mass effects and hypopituitarism
-
----
-
-## Hypopituitarism
-
-**Clinically significant hypopituitarism** occurs with loss of ≥75% of anterior pituitary parenchyma.
-
-### Etiology
-
-**Most common causes:**
-
-1. **Tumors and mass lesions** (especially nonfunctioning pituitary adenomas)
-
-2. **Ischemic necrosis** — **Sheehan syndrome** (postpartum necrosis)
-   - Most common form of clinically significant anterior pituitary necrosis
-   - During pregnancy: anterior pituitary enlarges (increased prolactin-secreting cells)
-   - Hyperplasia without increased blood supply (low-pressure portal system)
-   - Vulnerable to ischemic injury, especially with peripartal hypotension
-   
-   Other causes of pituitary necrosis: DIC, sickle cell anemia, elevated intracranial pressure, trauma, shock
-
-3. **Iatrogenic causes** — pituitary ablation by surgery or radiation
-
-**Other causes:**
-- Inflammatory lesions (sarcoidosis, tuberculosis)
-- Trauma
-- Metastatic tumors
-
-### Clinical Manifestations
-
-| Hormone Deficiency | Manifestation |
-|-------------------|---------------|
-| **GH deficiency** (children) | Pituitary dwarfism, growth failure |
-| **GnRH/LH deficiency** (women) | Amenorrhea, infertility |
-| **GnRH/LH deficiency** (men) | Decreased libido, impotence, loss of pubic/axillary hair |
-| **TSH deficiency** | Hypothyroidism |
-| **ACTH deficiency** | Hypoadrenalism |
-| **Prolactin deficiency** | Failure of postpartum lactation |
-| **MSH deficiency** | Pallor of skin |
-
----
-
-## Posterior Pituitary Syndromes
-
-### Structure and Function
-
-The **posterior pituitary** (neurohypophysis) consists of:
-
-- **Pituicytes** — modified glial cells
-- **Axonal processes** from hypothalamic neurons (supraoptic and paraventricular nuclei)
-
-**Hypothalamic hormones stored and released:**
-
-| Hormone | Action |
-|---------|--------|
-| **ADH** (anti-diuretic hormone / vasopressin) | Promotes water resorption in renal collecting tubules |
-| **Oxytocin** | Stimulates uterine smooth muscle contraction; contracts lactiferous duct smooth muscle |
-
-### Diabetes Insipidus
-
-**ADH deficiency** → inability to resorb water → **diabetes insipidus** characterized by **polyuria** (excessive urination).
-
-**Causes:**
-- Head trauma
-- Neoplasms
-- Inflammatory disorders of hypothalamus/pituitary
-- Surgical procedures involving hypothalamus/pituitary
-- Spontaneous (idiopathic)
-
-**Types:**
-
-| Type | Mechanism |
-|------|-----------|
-| **Central diabetes insipidus** | ADH deficiency (defective synthesis/release) |
-| **Nephrogenic diabetes insipidus** | Renal tubular unresponsiveness to circulating ADH |
-
-**Clinical features:**
-- Large volumes of dilute urine with inappropriately low specific gravity
-- **Hypernatremia** and **increased serum osmolality** (excessive free water loss)
-- **Thirst** and **polydipsia**
-- Life-threatening dehydration possible in obtunded/bedridden patients unable to drink
-
-### Syndrome of Inappropriate ADH Secretion (SIADH)
-
-**ADH excess** → excessive free water resorption → **hyponatremia**.
-
-**Causes:**
-- **Ectopic ADH secretion** by malignant neoplasms (especially **small-cell carcinoma of lung**)
-- Non-neoplastic lung diseases
-- Local injury to hypothalamus or neurohypophysis
-
-**Clinical manifestations:**
-- **Hyponatremia**
-- **Cerebral edema**
-- Neurologic dysfunction
-- Total body water increased, but blood volume normal
-- **No peripheral edema**
-
----
-
-## Thyroid Gland
-
-### Overview
-
-The thyroid gland consists of two lateral lobes connected by an isthmus, located below and anterior to the larynx.
-
-**Embryology:**
-- Develops from pharyngeal epithelium evagination (foramen cecum at tongue base)
-- Descends to anterior neck position
-- Explains **ectopic thyroid tissue** (lingual thyroid or other high neck sites)
-
-**Structure:**
-- Divided into lobules (20-40 follicles each)
-- Follicles lined by **cuboidal to low columnar epithelium**
-- Follicle lumen filled with **thyroglobulin** (iodinated precursor of thyroid hormone)
-
-### Hypothalamic-Pituitary-Thyroid Axis
-
-**TSH release mechanism:**
-1. Hypothalamus secretes **TRH** → stimulates anterior pituitary thyrotrophs
-2. **TSH** released into circulation
-3. TSH binds **TSH receptor** on thyroid follicular epithelial cells
-4. **Conformational change** in receptor → associates with **stimulatory G-protein**
-5. Activation → **increased intracellular cAMP**
-6. cAMP stimulates **thyroid hormone synthesis and release**
-
-**Thyroid hormone synthesis:**
-- Follicular cells convert thyroglobulin → **T4** (thyroxine) and **T3** (triiodothyronine)
-- Most T3/T4 bound to plasma proteins (T4-binding globulin) for transport
-- Binding proteins maintain narrow range of free T3/T4 while ensuring availability
-
-**Peripheral conversion:**
-- Majority of free T4 deiodinated to T3
-- T3 binds thyroid hormone nuclear receptors (**TR**) with 10-fold greater affinity than T4
-- Hormone-receptor complex binds **thyroid response elements (TREs)** on target genes
-- Regulates transcription → increased basal metabolic rate
-
-**Thyroid hormone effects:**
-- Increased carbohydrate and lipid catabolism
-- Increased protein synthesis
-- Increased basal metabolic rate
+甲狀腺產生的激素包括：
+- **T4（甲狀腺素）**：主要循環激素
+- **T3（三碘甲狀腺原氨酸）**：活性激素，由 T4 在外周轉化
 
 ### Hyperthyroidism
 
-**Thyrotoxicosis** is a hypermetabolic state caused by elevated circulating **free T3 and T4**. When caused by thyroid gland hyperfunction, it is commonly called **hyperthyroidism**.
+**Thyrotoxicosis** 是由循環游離 T3 與 T4 升高引起的超高代謝狀態。
 
-**Note:** Strictly, hyperthyroidism is one category of thyrotoxicosis. Other causes include:
-- Release of preformed thyroid hormone (e.g., thyroiditis)
-- Extrathyroidal source of thyroid hormone
+**最常見原因**（伴有甲狀腺功能亢進）：
+1. **Graves disease** — 瀰漫性增生伴自體免疫甲狀腺疾病（約 85%）
+2. **毒性多結節性甲狀腺腫** — 功能亢進結節
+3. **毒性腺瘤** — 單一功能亢進結節
 
-#### Three Most Common Causes of Thyrotoxicosis (with hyperfunction)
+#### Graves Disease
 
-1. **Graves disease** — diffuse hyperplasia with autoimmune thyroid disease (~85% of cases)
-2. **Toxic multinodular goiter** — hyperfunctioning nodules
-3. **Toxic adenoma** — single hyperfunctioning nodule
+**Graves disease** 是一種自體免疫性疾病，針對 **TSH receptor**。
 
-#### Clinical Manifestations of Thyrotoxicosis
+**致病機制**：
+- 甲狀腺刺激性自體抗體（TSI）結合 TSH receptor 並模擬 TSH 的作用
+- 導致甲狀腺過度生長與甲狀腺激素過量產生
+- TSI 是**致病性的**，不是單純的甲狀腺機能標誌
 
-**Constitutional symptoms:**
-- Soft, warm, flushed skin (increased blood flow/peripheral vasodilation)
-- Heat intolerance, excessive sweating
-- Weight loss despite increased appetite (sympathetic overactivity, hypermetabolism)
+**形態學**：
+- 甲狀腺瀰漫性增大
+- 濾泡細胞高柱狀，膠質減少或缺如
+- 邊緣毛細血管充血
 
-**Gastrointestinal:**
-- Rapid gut transit time (hypermotility)
-- Fat malabsorption, steatorrhea
+**臨床特徵**：
+- 甲狀腺毒症的典型症狀
+- **瀰漫性甲狀腺腫**
+- **甲狀腺眼病變**（眼球突出）：對 Graves disease 特異
+- **脛前黏液水腫**
+- **甲狀腺皮膚病變**
 
-**Cardiac:**
-- Palpitations, tachycardia (increased contractility, increased peripheral oxygen requirements)
-- May precipitate **congestive heart failure** in patients with preexisting heart disease
+#### 甲狀腺毒症的臨床表現
 
-**Neuromuscular:**
-- Nervousness, tremor, irritability (sympathetic overactivity)
-- Proximal muscle weakness (**thyroid myopathy**) — ~50% of patients
+**心臟**：
+- 心悸、心搏過速
+- 可能誘發**充血性心臟衰竭**
 
-**Ocular changes:**
-- Wide, staring gaze and lid lag (sympathetic overstimulation of superior tarsal muscle/Müller's muscle)
-- **Thyroid ophthalmopathy** with proptosis — specific to **Graves disease**
+**神經肌肉**：
+- 神經過敏、顫抖、激動
+- 近端肌肉無力（**甲狀腺肌病**）
 
-**Other manifestations:**
-- **Thyroid storm** — abrupt severe hyperthyroidism (medical emergency); elevated catecholamines during infection, surgery, stress; high mortality from cardiac arrhythmias
-- **Apathetic hyperthyroidism** — occurs in older adults; typical features often blunted
-
-#### Diagnosis of Hyperthyroidism
-
-- **Serum TSH** — most sensitive screening test; decreased even at earliest stages
-  - **Low TSH** + increased free T4 = primary hyperthyroidism
-  - **Normal or raised TSH** — possible secondary hyperthyroidism (pituitary/hypothalamic)
-- **Free T4** — usually increased
-- **Serum T3** — useful when T3 toxicosis suspected (elevated T3 with normal T4)
-- **Radioactive iodine uptake** scan:
-  - Diffusely increased uptake → Graves disease
-  - Increased uptake in solitary nodule → toxic adenoma
-  - Decreased uptake → thyroiditis
-
-#### Table 20.2 Causes of Thyrotoxicosis
-
-**Associated with Hyperthyroidism:**
-| Type | Cause |
-|------|-------|
-| **Primary** | Diffuse toxic hyperplasia (Graves disease), Toxic multinodular goiter, Toxic adenoma, Iodine-induced hyperthyroidism |
-| **Secondary** | TSH-secreting pituitary adenoma (rare) |
-
-**Not Associated with Hyperthyroidism:**
-- Granulomatous (de Quervain) thyroiditis (painful)
-- Subacute lymphocytic thyroiditis (painless)
-- Struma ovarii (ovarian teratoma with thyroid)
-- Factitious thyrotoxicosis (exogenous thyroxine intake)
-
----
+**診斷**：
+- **血清 TSH** — 最敏感的篩查測試；在初期就降低
+- **游離 T4 與 T3** — 通常升高
+- **放射性碘攝取掃描**
 
 ### Hypothyroidism
 
-**Hypothyroidism** results from structural or functional derangements interfering with thyroid hormone production.
+**甲狀腺功能減退**起因於干擾甲狀腺激素產生的結構或功能障礙。
 
-#### Classification
+**主要類型**：
+- **原發性甲狀腺功能減退**：甲狀腺本身的內在異常
+- **中樞性甲狀腺功能減退**：腦下垂體或下丘腦疾病
 
-| Type | Mechanism | Examples |
-|------|-----------|---------|
-| **Primary** | Intrinsic thyroid abnormality | Hashimoto thyroiditis, Postablative (surgery, radioiodine, radiation), Iodine deficiency, Drugs (lithium, iodides), Congenital biosynthetic defect |
-| **Secondary (Central)** | Pituitary or hypothalamic disease | Pituitary failure, Hypothalamic failure |
+#### Hashimoto Thyroiditis（橋本氏甲狀腺炎）
 
-#### Etiology of Primary Hypothyroidism
+**Hashimoto thyroiditis** 是自體免疫甲狀腺炎的最常見形式，也是碘充足地區**原發性甲狀腺功能減退**的最常見原因。
 
-- **Thyroid dysgenesis** or **dyshormonogenetic goiter** — most common cause of congenital hypothyroidism in the U.S.
-- **Endemic iodine deficiency** — common cause worldwide in infants/children
-- **Autoimmune thyroid disease** — **Hashimoto thyroiditis** (most common in iodine-sufficient regions)
-- **Iatrogenic** — thyroid ablation (surgery, radioiodine, radiation)
-- **Drugs** — lithium, iodides, p-aminosalicylic acid
+**致病機制**：
+- Th1 細胞媒介的反應
+- 針對甲狀腺過氧化物酶（TPO）與甲狀腺球蛋白的自體抗體
+- 甲狀腺細胞凋亡
 
-#### Clinical Manifestations
+**形態學**：
+- 甲狀腺對稱性增大
+- 密集的**淋巴細胞與漿細胞浸潤**
+- **Hürthle cells**（嗜酸性粒細胞化生）
+- **淋巴濾泡**形成
+- 進展為**纖維化**
 
-**Cretinism** (hypothyroidism in infancy/early childhood):
-- Impaired skeletal and CNS development
-- **Severe mental retardation**
-- Short stature
-- Coarse facial features, protruding tongue, umbilical hernia
-- Severity depends on timing of maternal thyroid deficiency in utero
+**臨床特徵**：
+- 起初：甲狀腺功能正常或甲狀腺功能減退
+- 典型表現：**無痛性甲狀腺腫**伴**甲狀腺功能減退症狀**
+- 其他自體免疫疾病風險增加
 
-**Myxedema** (hypothyroidism in older children/adults):
-- Generalized fatigue, apathy, mental sluggishness (may mimic depression)
-- Constipation, decreased sweating (reduced sympathetic activity)
-- Cool, pale skin (decreased blood flow)
-- Shortness of breath, decreased exercise capacity (reduced cardiac output)
-- **Atherogenic lipid profile** (increased total cholesterol, LDL)
-- **Nonpitting edema** from accumulation of glycosaminoglycans and hyaluronic acid
-- Broadening/coarsening of facial features, enlarged tongue, deepened voice
+### 甲狀腺結節與甲狀腺癌
 
-#### Diagnosis
+**甲狀腺結節**是甲狀腺的局灶性腫塊，在一般人群中常見（超聲檢查中可達 50%）。
 
-- **Serum TSH** — most sensitive screening test
-  - **Increased TSH** in primary hypothyroidism (loss of feedback inhibition)
-  - **Normal or decreased TSH** in secondary (central) hypothyroidism
-- **Serum T4** — decreased in hypothyroidism of any origin
+**評估**：
+- 甲狀腺功能測試（TSH）
+- 甲狀腺超聲
+- **細針穿刺活檢（FNA）** — 確定細胞學診斷
 
-#### Table 20.3 Causes of Hypothyroidism
+**甲狀腺癌的主要類型**：
 
-| Category | Causes |
-|----------|--------|
-| **Primary** | Postablative (surgery, radioiodine, external irradiation), Autoimmune (Hashimoto thyroiditis), Iodine deficiency, Drugs (lithium, iodides, p-aminosalicylic acid), Congenital biosynthetic defect, Genetic defects in thyroid development, Thyroid hormone resistance syndrome |
-| **Secondary (Central)** | Pituitary failure, Hypothalamic failure |
+| 類型 | 頻率 | 預後 | 分子特徵 |
+|---|---|---|---|
+| **乳頭狀甲狀腺癌** | 70-80% | 極佳 | BRAF 突變、RET/PTC 重排 |
+| **濾泡狀甲狀腺癌** | 10-15% | 良好 | RAS 突變 |
+| **髓質狀甲狀腺癌** | 5% | 良好到中等 | RET 突變 |
+| **未分化（間變）甲狀腺癌** | 1-2% | 極差 | BRAF、TERT 突變 |
 
----
+**乳頭狀甲狀腺癌**：
+- 最常見且預後最好的甲狀腺癌
+- 乳頭狀結構，砂粒體（psammoma bodies）
+- 淋巴結轉移常見，但整體預後極佳
 
-## Thyroiditis
+**濾泡狀甲狀腺癌**：
+- 血管侵犯是診斷關鍵
+- 與濾泡狀腺瘤的鑑別診斷需要手術標本
 
-**Thyroiditis** — diverse group of disorders characterized by thyroid inflammation.
+### Summary: 甲狀腺
 
-### Three Major Subtypes
+- **Graves disease** 是 hyperthyroidism 的最常見原因，特徵為瀰漫性甲狀腺腫、甲狀腺毒症與眼球突出。
+- **Hashimoto thyroiditis** 是自體免疫性甲狀腺炎，是碘充足地區甲狀腺功能減退的最常見原因。
+- **甲狀腺結節**常見，需要評估以排除惡性。
+- **乳頭狀甲狀腺癌**是最常見的甲狀腺癌，預後極佳。
 
-1. **Hashimoto thyroiditis** — chronic lymphocytic thyroiditis
-2. **de Quervain thyroiditis** — subacute granulomatous thyroiditis
-3. **Subacute lymphocytic thyroiditis** — painless/silent thyroiditis
+## 副甲狀腺
 
----
+### Hyperparathyroidism
 
-### Chronic Lymphocytic (Hashimoto) Thyroiditis
+**副甲狀腺功能亢進**以**甲狀旁腺激素（PTH）過量分泌**為特徵。
 
-Most common cause of hypothyroidism in iodine-sufficient regions.
+**類型**：
 
-**Demographics:** Peak age 45-65 years; female:male ratio 10:1 to 20:1.
+| 類型 | 原因 | 特徵 |
+|---|---|---|
+| **原發性** | 腺瘤（80-85%）、增生（10-15%） | 自發性 PTH 過量 |
+| **續發性** | 慢性腎臟疾病、VIT D 缺乏 | 代償性 PTH 增加 |
+| **三發性** | 腎移植後 | PTH 自主分泌 |
 
-#### Pathogenesis
+**「無症狀」原發性副甲狀腺功能亢進**：
+- 血清鈣輕度升高
+- PTH 升高或 upper normal
+- 典型無症狀
+- 常在常規血液檢查中發現
 
-Autoimmune destruction of thyroid gland by immune response to thyroid autoantigens.
+**臨床特徵（「骨頭、石頭、腹部、神經精神症狀」）**：
+- **骨**：囊性纖維性骨炎（osteitis fibrosa cystica）
+- **腎**：腎結石、腎鈣質沉積
+- **腹部**：便秘、噁心、消化性潰瘤、胰臟炎
+- **神經精神**：憂鬱、思緒混乱
 
-**Mechanisms of thyroid cell damage:**
+### Hypoparathyroidism
 
-1. **CD8+ cytotoxic T-cell–mediated killing** of thyroid epithelial cells
-2. **Cytokine-mediated cell death** — IFN-γ production → macrophage recruitment → follicle damage
-3. **Antibody-dependent cell-mediated cytotoxicity (ADCC)** — anti-thyroglobulin, anti-thyroid peroxidase antibodies
+**副甲狀腺功能減退**起因於 PTH 缺乏或作用不足。
 
-**Genetic component:**
-- ~40% concordance in monozygotic twins
-- Anti-thyroid antibodies in ~50% of asymptomatic siblings
-- **CTLA4** gene polymorphisms associated with increased susceptibility
+**原因**：
+- 甲狀腺手術中意外切除或損傷副甲狀腺（最常見）
+- 自體免疫性副甲狀腺破壞
+- DiGeorge syndrome（先天性胸腺與副甲狀腺發育不全）
 
-#### Morphology
+**臨床特徵**：
+- **低鈣血症** → 神經肌肉過度興奮
+- **腕足痙攣**（carpopedal spasm）
+- **Chvostek 與 Trousseau 徵象**
+- **癲癇**
+- **心律不整**（QT 間期延長）
 
-**Gross:** Diffusely and symmetrically enlarged thyroid.
+### Summary: 副甲狀腺
 
-**Microscopic:**
-- **Mononuclear inflammatory infiltrate** — small lymphocytes, plasma cells, well-developed germinal centers
-- **Hürthle (oxyphil) cells** — abundant eosinophilic granular cytoplasm (metaplastic response to injury; characterized by numerous mitochondria)
-- **Interstitial fibrosis** (fibrosing variant — small, atrophic thyroid)
+- **原發性副甲狀腺功能亢進**由腺瘤或增生引起，表現為高鈣血症與 PTH 升高
+- **副甲狀腺功能減退**最常由甲狀腺手術意外損傷引起，表現為低鈣血症
 
-#### Clinical Features
+## 腎上腺
 
-- Painless, symmetric, diffuse thyroid enlargement
-- Usually hypothyroidism (gradual development)
-- May be preceded by **hashitoxicosis** — transient thyrotoxicosis from follicle disruption
-- Associated with other **autoimmune diseases**
-- Increased risk of **B-cell non-Hodgkin lymphomas** in thyroid
-- Controversial association with **papillary thyroid carcinoma**
+### 腎上腺皮質
 
----
+腎上腺皮質產生三類激素：
+- **皮質醇（Glucocorticoids）**：調節代謝與 stress response
+- **醛固酮（Mineralocorticoids）**：調節電解質與血壓
+- **腎上腺雄激素（Adrenal androgens）**：調節毛髮生長與性功能
 
-### Subacute Granulomatous (de Quervain) Thyroiditis
+#### Cushing Syndrome
 
-Less common than Hashimoto thyroiditis.
+**Cushing syndrome** 是皮質醇過量的臨床症候群。
 
-**Demographics:** Peak age 30-50 years; female predominance.
+**原因分類**：
 
-**Etiology:** Likely viral or post-viral inflammatory process (not autoimmune). Most patients have preceding upper respiratory infection. Self-limiting (not self-perpetuating).
+| 原因 | 頻率 | 描述 |
+|---|---|---|
+| **ACTH 依賴性** | 80-85% | |
+| — 腦下垂體腺瘤（Cushing disease） | — 70% | 促腎上腺皮質激素瘤 |
+| — 異位 ACTH 分泌（肺小細胞癌） | — 15% | 肺癌等 |
+| **ACTH 非依賴性** | 15-20% | |
+| — 腎上腺皮質腺瘤 | — 60% | 單側 |
+| — 腎上腺皮質癌 | — 40% | 常有雄激素過量 |
+| — 微結節性發育不良 | — 少見 | 雙側 |
 
-#### Morphology
+**致病機制**：
+- 長期皮質醇過量
+- **蛋白質分解增加** → 肌肉消耗（四肢消瘦）
+- **脂肪重新分佈** → 中心性肥胖、滿月臉、水牛肩
+- **血糖升高** → 糖尿病
+- **免疫抑制** → 感染風險增加
+- **高血壓** → 電解質異常
 
-- Firm gland, intact capsule, unilateral or bilateral enlargement
-- **Histology:**
-  - Follicle disruption, colloid extravasation
-  - Neutrophil infiltration → replaced by lymphocytes, plasma cells, macrophages
-  - **Granulomatous reaction with giant cells** (containing colloid fragments)
-  - Healing by resolution and fibrosis
+**形態學**：
+- 雙側腎上腺皮質增生
+- 網狀帶與束狀帶細胞增殖
 
-#### Clinical Features
+#### 原發性醛固酮增多症（Conn Syndrome）
 
-- **Acute onset** with neck pain (especially with swallowing), fever, malaise
-- Variable thyroid enlargement
-- **Transient hyperthyroidism** (follicle disruption → hormone release)
-- **Increased leukocyte count and ESR**
-- Transient hypothyroidism may follow
-- **Self-limited** — most return to euthyroid within 6-8 weeks
+**原發性醛固酮增多症**由腎上腺皮質自主分泌過量醛固酮引起。
 
----
+**臨床特徵**：
+- **高血壓**（對常規治療抵抗）
+- **低鉀血症**
+- **代謝性鹼中毒**
 
-### Subacute Lymphocytic Thyroiditis
+#### 先天性腎上腺增生（CAH）
 
-Also called **silent** or **painless thyroiditis**; **postpartum thyroiditis** when following pregnancy.
+**先天性腎上腺增生**是一組由腎上腺皮質激素合成酶缺乏引起的常見常染色體隱性疾病。
 
-**Demographics:** Middle-aged women.
+**最常見形式**：21-hydroxylase 缺乏
+- 皮質醇減少 → ACTH 增加 → 腎上腺增大
+- 雄激素過量
+- 女孩：女性假兩性畸形
+- 男孩：陰莖增大（出生時不明顯）
 
-**Etiology:** Likely autoimmune (circulating anti-thyroid antibodies in majority).
+### 腎上腺髓質
 
-#### Clinical Features
+#### Pheochromocytoma
 
-- Painless neck mass or thyroid hormone excess features
-- Initial thyrotoxicosis (follicle damage) → return to euthyroid within months
-- Minority progress to hypothyroidism
-- Thyroid appears normal on gross inspection
-- **Histology:** Lymphocytic infiltration, hyperplastic germinal centers
+**Pheochromocytoma** 是腎上腺髓質的腫瘤，產生**兒茶酚胺**（腎上腺素與正腎上腺素）。
 
----
+**臨床特徵（10% 規則）**：
+- **10% 雙側性**
+- **10% 腎上腺外（副神經節瘤）**
+- **10% 家族性**
+- **10% 復發性**
+- **10% 惡性**
 
-### Other Forms of Thyroiditis
+**典型表現**：
+- **發作性高血壓**（心悸、蒼白、盜汗）
+- 頭痛
+- 焦慮
 
-**Riedel thyroiditis:**
-- Rare; manifestation of **IgG4-related disease**
-- Extensive fibrosis of thyroid and contiguous neck structures
-- Hard, fixed thyroid mass simulating neoplasm
-- Associated with idiopathic fibrosis in other sites (retroperitoneum)
+**診斷**：
+- 血漿游離甲氧基腎上腺素（metanephrines）
+- 24 小時尿兒茶酚胺與甲氧基腎上腺素
+- 定位：CT、MRI、MIBG 掃描
 
----
+### Summary: 腎上腺
 
-## Summary: Thyroiditis
+- **Cushing syndrome** 由皮質醇過量引起，可由腦下垂體腺瘤或腎上腺腫瘤引起
+- **原發性醛固酮增多症**表現為高血壓與低鉀血症
+- **Pheochromocytoma** 產生兒茶酚胺，表現為發作性高血壓與交感神經症狀
 
-- **Hashimoto thyroiditis** — most common cause of hypothyroidism in iodine-sufficient regions; autoimmune destruction with Hürthle cell change, mononuclear infiltrates, fibrosis
-- **de Quervain thyroiditis** — self-limited, likely viral; granulomatous inflammation with pain
-- **Subacute lymphocytic thyroiditis** — self-limited, often postpartum; painless lymphocytic inflammation
-
----
-
-## Graves Disease
-
-First described by Robert Graves (1835) — characterized by "violent and long continued palpitations in females" with thyroid enlargement.
-
-**Most common cause of endogenous hyperthyroidism.**
-
-### Classic Triad
-
-1. **Thyrotoxicosis** — diffusely enlarged, hyperfunctional thyroid
-2. **Infiltrative ophthalmopathy** — exophthalmos (~40% of patients)
-3. **Infiltrative dermopathy** — pretibial myxedema (minority)
-
-**Demographics:** Peak incidence 20-40 years; female:male ratio up to 7:1; affects 1.5-2% of women in the U.S.
-
-**Genetic factors:**
-- Increased incidence in relatives
-- ~60% concordance in monozygotic twins
-- **HLA-DR3** haplotype association
-- **CTLA4** and **PTPN22** polymorphisms (T-cell regulation genes)
-
-### Pathogenesis
-
-**TSH receptor autoantibodies** stimulate thyroid follicular cells independent of endogenous trophic hormones.
-
-**Autoantibodies in Graves disease:**
-
-| Antibody | Mechanism |
-|----------|-----------|
-| **Thyroid-stimulating immunoglobulin (TSI)** | IgG binding TSH receptor → mimics TSH → activates adenyl cyclase → increased thyroid hormone release |
-| **Thyroid growth-stimulating immunoglobulins** | Stimulate TSH receptor → thyroid follicular epithelium proliferation |
-| **TSH-binding inhibitor immunoglobulins** | Block TSH binding → may inhibit thyroid cell function |
-
-> Coexistence of stimulating and inhibiting immunoglobulins in same patient may explain episodic hypothyroidism.
-
-**Ophthalmopathy pathogenesis (T-cell mediated):**
-1. Retroorbital mononuclear cell infiltration (predominantly T cells)
-2. Inflammatory edema and swelling of extraocular muscles
-3. **Glycosaminoglycan accumulation** (hyaluronic acid, chondroitin sulfate)
-4. Increased adipocytes (fatty infiltration)
-5. Result: Eyeball displacement forward (**exophthalmos**)
-
-**Spectrum of autoimmune thyroid disease:**
-- **Graves disease** — thyroid hyperfunction (one extreme)
-- **Hashimoto disease** — thyroid hypofunction (other extreme)
-- Possible overlap within individuals and kindreds
-
-### Morphology
-
-**Thyroid gland:**
-- Enlarged (usually symmetric), smooth, soft, intact capsule
-- **Diffuse hypertrophy and hyperplasia** of follicular epithelial cells
-- Tall, columnar, crowded follicular cells
-- Small papillae projecting into follicular lumen (lacking fibrovascular cores — distinguishes from papillary carcinoma)
-- Pale colloid with scalloped margins
-- **Lymphoid infiltrates** (predominantly T cells, fewer B cells, plasma cells, germinal centers)
-
-**Orbital tissues (ophthalmopathy):**
-- **Edematous retroorbital connective tissues** from glycosaminoglycan deposition
-- Lymphocytic infiltration (mostly T cells)
-- Extraocular muscles initially edematous → late fibrosis
-
-**Dermopathy:**
-- Dermal thickening from glycosaminoglycan deposition and lymphocytic infiltration
-
-### Clinical Features
-
-**Thyrotoxicosis manifestations** (see Hyperthyroidism section).
-
-**Graves-specific findings:**
-- Audible bruit (increased blood flow through hyperactive gland)
-- Wide, staring gaze, lid lag
-- **Exophthalmos** (Graves ophthalmopathy) — may persist despite thyrotoxicosis treatment; risk of corneal injury
-- Weak extraocular muscles
-- **Pretibial myxedema** — skin over shins: scaly thickening, induration, orange-peel texture, pigmented papules/nodules
-
-**Laboratory findings:**
-- Elevated serum free T4 and T3
-- **Depressed serum TSH**
-- **Increased radioactive iodine uptake** (diffuse) — due to TSI stimulation
-
----
-
-## Summary: Graves Disease
-
-- Most common cause of endogenous hyperthyroidism; triad of thyrotoxicosis, ophthalmopathy, dermopathy
-- **Autoimmune disorder** — TSI antibodies mimic TSH action
-- Thyroid: diffuse hypertrophy/hyperplasia, lymphoid infiltrates
-- Orbit: glycosaminoglycan deposition, lymphoid infiltrates
-- Labs: elevated free T3/T4, decreased TSH
-
----
-
-## Diffuse and Multinodular Goiter
-
-**Goiter** — enlargement of the thyroid; most common thyroid disease manifestation.
-
-### Pathogenesis
-
-**Impaired thyroid hormone synthesis** (usually iodine deficiency) → compensatory TSH rise → follicular cell hypertrophy and hyperplasia → thyroid enlargement.
-
-- Enlargement proportional to level and duration of hormone deficiency
-- Most individuals remain euthyroid (compensatory mechanisms)
-- Severe defects → **goitrous hypothyroidism**
-
-#### Types
-
-| Type | Setting | Features |
-|------|---------|---------|
-| **Endemic goiter** | Iodine-deficient geographic regions (>10% prevalence) | Himalayas, Andes; declining with iodine supplementation |
-| **Sporadic goiter** | Non-endemic areas | Female predominance; peak at puberty/young adulthood; caused by iodine-rich foods (Brassicaceae family), enzymatic defects, or unknown |
-
-### Morphology
-
-**Early (diffuse goiter):**
-- TSH-induced hypertrophy and hyperplasia → diffuse, symmetric enlargement
-- Crowded columnar follicular cells
-- If iodine increases or demand decreases → **involution** → enlarged, colloid-rich gland (**colloid goiter**)
-- Cut surface: brown, glassy, translucent
-
-**Late (multinodular goiter):**
-- Recurrent hyperplasia/involution cycles → **multinodular goiter**
-- Multilobulate, asymmetrically enlarged (can be massive)
-- Cut surface: irregular nodules with brown, gelatinous colloid
-- Older lesions: fibrosis, hemorrhage, calcification, cystic change
-- Microscopic: colloid-rich follicles with flattened inactive epithelium; areas of hypertrophy/hyperplasia
-
-### Clinical Features
-
-**Mass effects:**
-- Cosmetic concern (large neck mass)
-- Airway obstruction
-- Dysphagia
-- **Superior vena cava syndrome** (vascular compression)
-
-**Toxic multinodular goiter (Plummer syndrome):**
-- ~10% develop thyrotoxicosis over 10 years
-- **Autonomous nodules** produce hormone independent of TSH
-- No ophthalmopathy or dermopathy (unlike Graves)
-- **Low malignancy risk** (<5%) but not zero
-
----
-
-## Thyroid Neoplasms
-
-Range from **circumscribed benign adenomas** to **highly aggressive anaplastic carcinomas**.
-
-### Clinical Evaluation of Thyroid Nodules
-
-**Solitary nodules** more likely neoplastic than multiple nodules.
-
-**Higher malignancy risk factors:**
-- Age <20 or >70 years
-- Male sex
-- History of radiation exposure
-- **Cold nodules** on radioactive iodine imaging (benign nodules tend to be "hot")
-
-> Ultimately, **fine-needle aspiration** and **histologic study** provide definitive diagnosis.
-
-### Thyroid Adenomas
-
-**Benign neoplasms** derived from follicular epithelium; usually solitary.
-
-#### Pathogenesis
-
-**Toxic adenomas:**
-- **Activating mutations** in TSH receptor signaling pathway components
-  - **TSHR mutations** (most common)
-  - **GNAS mutations** (Gsα subunit)
-- Result: **Thyroid autonomy** — hormone production independent of TSH
-- ~50% of toxic adenomas have such mutations
-- Shared mutations with autonomous nodules in toxic multinodular goiter
-
-**Nonfunctioning adenomas (<20%):**
-- **RAS mutations** or other genes shared with follicular carcinomas
-
-#### Morphology
-
-- Solitary, spherical, compresses adjacent parenchyma
-- **Well-defined, intact capsule** (hallmark feature)
-- Uniform follicles containing colloid
-- May show **Hürthle cell (oxyphil) change**
-- **Endocrine atypia** — focal nuclear pleomorphism, atypia, prominent nucleoli (does not indicate malignancy)
-
-> **Critical:** Intact capsule distinguishes adenoma from carcinoma (which shows capsular/vascular invasion).
-
-#### Clinical Features
-
-- Painless nodule (often discovered on routine exam)
-- Larger masses: dysphagia
-- **Toxic adenomas:** thyrotoxicosis features
-- **Radionuclide scanning:**
-  - Nonfunctioning adenomas: **cold nodules** relative to adjacent thyroid
-  - Toxic adenomas: **warm or hot nodules**
-  - ~10% of cold nodules prove malignant
-- Preoperative evaluation: **ultrasonography** and **fine-needle aspiration biopsy**
-- Definitive diagnosis requires **surgical excision and microscopic examination** (evaluate capsular integrity)
-- **Excellent prognosis** — no recurrence or metastasis
-
-### Thyroid Carcinomas
-
-**Increasing detection** in the U.S. (due to increased imaging), but **stable mortality** — many are clinically insignificant.
-
-**Demographics:** Female predominance in early/middle adulthood; equal distribution in childhood and late adult life.
-
-**Most thyroid carcinomas** (except medullary) derived from **thyroid follicular epithelium**.
-
-#### Subtypes and Relative Frequency
-
-| Subtype | Frequency | Cell of Origin |
-|---------|-----------|---------------|
-| **Papillary carcinoma** | >85% | Follicular epithelium |
-| **Follicular carcinoma** | 5-15% | Follicular epithelium |
-| **Anaplastic carcinoma** | <5% | Follicular epithelium |
-| **Medullary carcinoma** | 5% | Parafollicular C cells |
-
-### Molecular Pathogenesis of Thyroid Cancer
-
-Two oncogenic pathways downstream of growth factor receptors and RAS:
-
-1. **MAP kinase pathway**
-2. **PI3K/AKT pathway**
-
-#### Papillary Thyroid Carcinoma
-
-**Driver mutations:** Activation of MAP kinase pathway.
-
-| Mutation | Frequency | Mechanism |
-|----------|-----------|-----------|
-| **BRAF point mutations** | 33-50% | Constitutive MAP kinase activation (most common driver) |
-| **RET/PTC rearrangements** | ~20% | Chromosomal rearrangements |
-| **NTRK1 rearrangements** | Less common | Receptor tyrosine kinase activation |
-
-*Note: Papillary carcinomas have either BRAF mutation OR RET/NTRK rearrangement, not both.*
-
-#### Follicular Thyroid Carcinoma
-
-| Mutation | Frequency | Effect |
-|----------|-----------|--------|
-| **RAS mutations** | Common | PI3K/AKT pathway activation |
-| **PI3K gain-of-function mutations** | Common | PI3K/AKT pathway activation |
-| **PTEN loss-of-function mutations** | Common | PI3K/AKT pathway activation |
-| **PAX8:PPARG translocation t(2;3)(q13;p25)** | 33-50% | Unique to follicular carcinoma; disrupts thyroid development gene and differentiation receptor |
-
-*RAS and PI3K mutations found in follicular adenomas and anaplastic carcinomas — suggests shared histogenesis.*
-
-#### Anaplastic Carcinoma
-
-- Arises **de novo** or from **well-differentiated carcinoma progression**
-- Contains mutations seen in differentiated cancers (RAS, PIK3CA)
-- **TP53 loss-of-function mutations** — specific to anaplastic carcinoma (critical for development)
-- Highly aggressive; ~100% mortality
-
-#### Medullary Thyroid Carcinoma
-
-- Arises from **parafollicular C cells** (not follicular epithelium)
-- **Familial form (MEN-2):** Germ line **RET proto-oncogene** mutations
-- **Sporadic form:** ~50% have RET mutations
-
-### Papillary Thyroid Carcinoma
-
-Most common form of thyroid cancer; associated with ionizing radiation exposure.
-
-#### Morphology
-
-**Gross:**
-- Solitary or multifocal
-- Well-circumscribed, encapsulated OR infiltrating with ill-defined margins
-- Cut surface may show papillary foci
-
-**Microscopic hallmarks:**
-
-1. **Branching papillae** — fibrovascular stalks covered by cuboidal epithelial cells
-2. **Nuclear features** (sufficient for diagnosis even without papillary architecture):
-   - **Ground-glass/Orphan Annie eye nuclei** — finely dispersed chromatin, optically clear
-   - **Intranuclear inclusions/pseudoinclusions** — cytoplasmic invaginations
-   - **Intranuclear grooves**
-3. **Psammoma bodies** — concentrically calcified structures (almost specific to papillary carcinoma)
-4. **Lymphatic invasion** common; blood vessel invasion less common
-5. Cervical lymph node metastases — up to 50% of cases
-6. **Encapsulated follicular variant** — follicles lined by cells with papillary nuclear features; favorable prognosis
-
-#### Clinical Features
-
-- **Nonfunctional** — presents as painless neck mass or lymph node metastasis
-- **Fine-needle aspiration** diagnosis based on nuclear features
-- **Indolent** — 10-year survival >95%
-- Isolated cervical node metastases do not significantly affect prognosis
-- Hematogenous metastases (lung) occur in minority
-- **Prognostic factors:** Age (>40 less favorable), extrathyroidal extension, distant metastases
-
-> **NOTE:** Encapsulated follicular variant without invasion has essentially no malignant potential. WHO recommends classifying these as **benign neoplasms** (not carcinoma) to prevent overtreatment.
-
----
-
-## Follicular Thyroid Carcinoma
-
-**5-15% of primary thyroid cancers.**
-
-**Demographics:** Female predominance (3:1); peak 40-60 years (older than papillary).
-
-#### Morphology
-
-**Distinguished from adenoma by evidence of invasion:**
-- **Capsular invasion**
-- **Vascular invasion**
-
-**Microscopic:**
-- Well-differentiated follicular architecture
-- Uniform cells forming follicles
-- May show capsular and/or vascular invasion
-- Diagnosis requires histologic evidence of invasion
-
-#### Clinical Features
-
-- Nonfunctional
-- Presents as thyroid nodule
-- Distant metastases more common than papillary carcinoma
-- **Lymph node metastases less common** than papillary
-- Prognosis influenced by extent of invasion and distant metastases
-
----
-
-## Anaplastic Thyroid Carcinoma
-
-**<5% of thyroid cancers.**
-
-**Demographics:** Older patients (mean age 65); ~25% have history of well-differentiated carcinoma.
-
-#### Morphology
-
-- **Highly aggressive** — nearly 100% mortality
-- **Spindle cells, giant cells, or squamoid cells**
-- May show focal differentiation suggesting origin from well-differentiated carcinoma
-- Rapid local invasion
-- Early distant metastases
-
----
-
-## Medullary Thyroid Carcinoma
-
-**5% of thyroid cancers.**
-
-**Origin:** Parafollicular **C cells** (calcitonin-producing).
-
-#### Pathogenesis
-
-| Type | Mechanism |
-|------|-----------|
-| **Familial (MEN-2)** | Germ line **RET** mutations |
-| **Sporadic** | ~50% have RET mutations |
-
-#### Morphology
-
-- Usually solitary, firm, gray-white nodule
-- **C cells** — round/polygonal cells in nests, sheets, or follicles
-- **Amyloid stroma** (derived from calcitonin)
-- Positive for **calcitonin** and **chromogranin**
-
-#### Clinical Features
-
-- Nonfunctional (C cells don't produce thyroid hormone)
-- May present with diarrhea (calcitonin hypersecretion)
-- Often aggressive, especially in MEN-2B
-- 10-year survival: ~50%
-- Early lymph node and distant metastases
-
----
-
-## Summary: Thyroid Cancer Subtypes
-
-| Type | Frequency | Origin | Key Features | Prognosis |
-|------|-----------|--------|-------------|-----------|
-| **Papillary** | >85% | Follicular epithelium | Ground-glass nuclei, psammoma bodies, papillae | Excellent (>95% 10-year) |
-| **Follicular** | 5-15% | Follicular epithelium | Capsular/vascular invasion, RAS mutations | Good, distant mets |
-| **Anaplastic** | <5% | Follicular epithelium | Spindle/giant cells, TP53 mutations | Very poor (~100% mortality) |
-| **Medullary** | 5% | C cells | Amyloid stroma, calcitonin, RET mutations | Moderate (~50% 10-year) |
-
-## Parathyroid Glands
-
-### Overview
-
-The parathyroid glands develop from pharyngeal pouches (same origin as thymus). They are most commonly located near the upper and lower poles of each thyroid lobe but may be found anywhere along the descent pathway:
-- Carotid sheath
-- Thymus
-- Anterior mediastinum
-
-### Cell Types
-
-| Cell Type | Features |
-|-----------|----------|
-| **Chief cells** | Majority of gland; contain secretory granules with **PTH** |
-| **Oxyphil cells** | Single or small clusters; larger than chief cells; acidophilic cytoplasm; packed with mitochondria |
-
-### Parathyroid Hormone (PTH)
-
-PTH is the key regulator of **calcium homeostasis**.
-
----
-
-## Hyperparathyroidism
-
-### Primary Hyperparathyroidism
-
-**Most common cause of asymptomatic hypercalcemia.**
-
-#### Etiology
-
-- **Sporadic parathyroid adenoma** (~85% of cases)
-- Parathyroid hyperplasia (multiglandular)
-- Parathyroid carcinoma (rare, <1%)
-
-#### Clinical Features ("Stones, Bones, Groans, and Psychic Moans")
-
-**Renal manifestations:**
-- **Nephrolithiasis** (kidney stones)
-- **Nephrocalcinosis**
-
-**Skeletal manifestations:**
-- **Osteitis fibrosa cystica** — bone resorption
-- **Brown tumors**
-- **Osteoporosis**
-
-**Gastrointestinal:**
-- Constipation, nausea
-- Peptic ulcers
-- Pancreatitis
-- Gallstones
-
-**Neuromuscular:**
-- Weakness, hypotonia
-- Depression, lethargy
-- Seizures
-
-**Other:**
-- Polyuria, polydipsia
-
-#### Laboratory Findings
-
-- **Hypercalcemia**
-- **Hypophosphatemia**
-- **Elevated PTH** (inappropriately high for calcium level)
-- Increased urinary calcium and phosphate excretion
-
-### Secondary Hyperparathyroidism
-
-**Most commonly associated with chronic renal failure.**
-
-#### Pathogenesis
-
-1. Chronic renal failure → decreased phosphate excretion → **hyperphosphatemia**
-2. Hyperphosphatemia directly depresses serum calcium
-3. Loss of renal α1-hydroxylase activity → decreased active vitamin D → reduced intestinal calcium absorption
-4. Result: **Chronic hypocalcemia** → compensatory PTH elevation → parathyroid hyperplasia
-
-#### Morphology
-
-- Parathyroid gland hyperplasia
-- Increased chief cells or water-clear cells
-- Diffuse or multinodular distribution
-- Decreased fat cells
-- Bone changes similar to primary hyperparathyroidism
-- Metastatic calcification may be present
-
-#### Clinical Features
-
-- Dominated by **chronic renal failure** manifestations
-- Bone abnormalities (**renal osteodystrophy**)
-- Serum calcium remains near normal (sustained by elevated PTH)
-- **Calciphylaxis** — metastatic calcification of blood vessels causing ischemic skin/organ damage
-- **Tertiary hyperparathyroidism** — autonomous parathyroid hyperfunction with hypercalcemia
-
----
-
-## Summary: Hyperparathyroidism
-
-- **Primary:** Most common cause of asymptomatic hypercalcemia; usually sporadic adenoma; skeletal/renal manifestations
-- **Secondary:** Caused by hypercalcemia secondary to renal failure; parathyroid hyperplasia; less severe bone disease
-- **Malignancy:** Most important cause of symptomatic hypercalcemia
-
----
-
-## Hypoparathyroidism
-
-### Etiology
-
-| Cause | Mechanism |
-|-------|-----------|
-| **Surgical ablation** | Most common; inadvertent removal during thyroidectomy/neck dissection |
-| **Congenital absence** | Di George syndrome (22q11.2 deletion); thymic aplasia + cardiac defects |
-| **Autoimmune** | Hereditary polyglandular deficiency; antibodies to parathyroid, thyroid, adrenals, pancreas; AIRE gene mutations |
-
-### Clinical Manifestations
-
-**Acute hypoparathyroidism (post-surgical):**
-- Increased neuromuscular irritability
-- Tingling, muscle spasms, facial grimacing
-- **Carpopedal spasm / tetany**
-- Cardiac arrhythmias
-- Increased intracranial pressure, seizures
-
-**Chronic hypoparathyroidism:**
-- **Cataracts**
-- **Basal ganglia calcification**
-- **Dental abnormalities**
-
----
-
-## Endocrine Pancreas
-
-### Islets of Langerhans
-
-**Four major cell types:**
-
-| Cell Type | Hormone | Function |
-|-----------|---------|----------|
-| **Beta (β) cells** | Insulin | Reduces blood glucose; promotes glucose uptake in muscle/adipose tissue |
-| **Alpha (α) cells** | Glucagon | Raises blood glucose; hepatic glycogenolysis |
-| **Delta (δ) cells** | Somatostatin | Inhibits insulin and glucagon release |
-| **PP cells** | Pancreatic polypeptide | GI effects: stimulates gastric/intestinal enzyme secretion; inhibits intestinal motility |
+## 胰島與糖尿病
 
 ### Diabetes Mellitus
 
-**Group of metabolic disorders characterized by hyperglycemia.**
+**糖尿病**是一組以**胰島素分泌不足或胰島素作用缺陷**引起的慢性高血糖為特徵的疾病。
 
-#### Classification (Table 20.5)
+**分類**：
 
-| Type | Pathophysiology |
-|------|-----------------|
-| **Type 1 Diabetes** | Autoimmune β-cell destruction → absolute insulin deficiency |
-| **Type 2 Diabetes** | Insulin resistance + inadequate β-cell secretory response |
-| **MODY** | Genetic defects in β-cell function |
-| **Gestational Diabetes** | Hyperglycemia associated with pregnancy |
-| **Pancreatogenic Diabetes** | Exocrine pancreatic disease (chronic pancreatitis, CF, pancreatectomy, hemochromatosis) |
+| 類型 | 特徵 | 病因 |
+|---|---|---|
+| **第 1 型** | 自體免疫性 β 細胞破壞，胰島素絕對缺乏 | 兒童/青少年 |
+| **第 2 型** | 胰島素抵抗與胰島素分泌相對不足 | 成人，肥胖 |
+| **妊娠糖尿病** | 妊娠期間發生或發現的高血糖 | |
+| **其他特異性類型** | 單基因糖尿病、胰外分泌疾病、藥物誘發 | |
 
-### Diagnosis
+### 第 1 型糖尿病
 
-**Blood glucose normally maintained: 70-120 mg/dL.**
+**致病機制**：
+- 自體免疫性 T 細胞媒介的胰島 β 細胞破壞
+- 胰島炎
+- 抗glutamic acid decarboxylase（GAD）抗體
+- 兒童/青少年發病
+- **胰島素絕對缺乏**
 
-**Diagnostic criteria (ADA/WHO):**
-1. Fasting plasma glucose ≥126 mg/dL
-2. Random plasma glucose ≥200 mg/dL (with classic hyperglycemic symptoms)
-3. 2-hour plasma glucose ≥200 mg/dL (oral glucose tolerance test, 75gm load)
-4. **HbA1C ≥6.5%**
+### 第 2 型糖尿病
 
-**Impaired glucose tolerance (prediabetes):**
-- Fasting plasma glucose: 100-125 mg/dL
-- 2-hour glucose (OGTT): 140-199 mg/dL
-- HbA1C: 5.7-6.4%
+**致病機制**：
+- **胰島素抵抗**（肌肉、肝臟、脂肪組織）
+- **胰島 β 細胞功能進行性下降**
+- **胰島 β 細胞數量減少**
+- 與**肥胖**、久坐生活方式與遺傳傾向強烈相關
 
-### Type 1 vs Type 2 Diabetes
+**病理生理學**：
+- 初期：胰島素抵抗 → 胰島 β 細胞代償性增加胰島素分泌
+- 隨著時間：β 細胞功能下降，胰島素分泌不足以克服胰島素抵抗
+- **胰島澱粉樣蛋白沈積**（islet amyloid polypeptide，IAPP）
 
-| Feature | Type 1 | Type 2 |
-|---------|--------|--------|
-| **Frequency** | 5-10% | 90-95% |
-| **Age of onset** | Usually <20 years | Usually >40 years (increasing in children) |
-| **Pathogenesis** | Autoimmune β-cell destruction | Insulin resistance + β-cell dysfunction |
-| **Insulin deficiency** | Absolute | Relative |
-| **Autoimmunity** | Yes | No |
-| **Ketosis tendency** | High | Low |
-| **Obesity association** | Not typical | Most patients overweight |
+### 糖尿病的慢性併發症
 
-### Normal Insulin Physiology
+#### 微血管疾病
 
-**Insulin** increases glucose transport into:
-- **Striated muscle** (including myocardium) — ~2/3 of body weight
-- **Adipocytes** — to lesser extent
+**糖尿病性視網膜病變**：
+- 視網膜微血管疾病
+- 非增殖性 → 增殖性（新生血管）
+- 失明的主要原因
 
-**Brain glucose uptake is insulin-independent.**
+**糖尿病性腎病變**：
+- 腎絲球硬化
+-結節性腎小球硬化（Kimmelstiel-Wilson nodules）
+- 蛋白尿 → 腎功能衰竭
 
-**Insulin metabolic effects (anabolic):**
-- Promotes glucose uptake and glycogen synthesis in muscle/liver
-- Promotes lipogenesis, inhibits lipolysis in adipose tissue
-- Promotes amino acid uptake and protein synthesis
-- Inhibits protein degradation
+**糖尿病性神經病變**：
+- 遠端對稱性多發性神經病變（最常見）
+- 感覺異常、麻木
+- 足部潰瘤與壞死
 
-**Insulin reduces hepatic glucose production.**
+#### 大血管疾病
 
-### Counter-Regulation
+- **冠狀動脈疾病** — 心肌梗塞
+- **腦血管疾病** — 中風
+- **周邊血管疾病** — 間歇性跛行、壞疽
 
-| Hormone | Effect |
-|---------|--------|
-| **Glucagon** | Raises blood glucose; hepatic glycogenolysis, gluconeogenesis |
-| **Epinephrine** | Opposes insulin; glycogenolysis, lipolysis |
-| **Cortisol** | Opposes insulin; gluconeogenesis |
-| **Growth hormone** | Opposes insulin; lipolysis |
+### Summary: 胰島與糖尿病
 
-### Acute Metabolic Complications
-
-#### Initial Presentation (Type 1)
-
-Classic triad:
-- **Polyuria** — glycosmia → osmotic diuresis
-- **Polydipsia** — hyperosmolarity triggers thirst
-- **Polyphagia** — catabolic state → hunger despite weight loss
-
-**"Honeymoon period"** — residual insulin secretion after initial presentation; eventually exhausts.
-
-#### Diabetic Ketoacidosis (DKA)
-
-Occurs in Type 1 diabetes with:
-- Infection
-- Stress
-- Missed insulin
-- Unusual physical activity/dietary changes
-
-**Pathogenesis:**
-1. **Absolute insulin deficiency** + unopposed counterregulatory hormones
-2. **Severe hyperglycemia** (500-700 mg/dL) → osmotic diuresis → dehydration
-3. **Lipolysis** → increased free fatty acids (FFAs)
-4. **Hepatic ketogenesis** (FFAs → ketones) → ketonemia, ketonuria
-5. **Metabolic acidosis** (ketone accumulation)
-6. **Ketoacidotic coma**
-
-#### Hyperosmolar Nonketotic Coma
-
-Occurs in Type 2 diabetes:
-- Severe dehydration from sustained osmotic diuresis
-- Typically older adults unable to maintain water intake
-- **No ketoacidosis** (sufficient insulin to prevent ketosis)
-- Higher mortality than DKA
-
-### Chronic Complications of Diabetes
-
-#### Macrovascular Disease (Atherosclerosis)
-
-- Accelerated atherosclerosis
-- **Myocardial infarction** — most common cause of death in diabetics
-- Stroke
-- Lower extremity ischemia/gangrene
-
-#### Microvascular Disease
-
-**Diabetic microangiopathy** — diffuse basement membrane thickening:
-- Capillaries of skin, muscle, retina, renal glomeruli, renal medulla
-- **Type IV collagen** accumulation
-- Leakage of plasma proteins
-
-#### Diabetic Retinopathy
-
-- Microaneurysms, hemorrhages
-- **Proliferative retinopathy** — neovascularization
-- Blindness
-
-#### Diabetic Nephropathy
-
-- **Glomerulosclerosis**
-- **Kimmelstiel-Wilson nodules**
-- Proteinuria → nephrotic syndrome → ESRD
-
-#### Diabetic Neuropathy
-
-- **Peripheral neuropathy** — stocking-glove distribution
-- **Autonomic neuropathy** — GI, GU, cardiovascular effects
-- **Mononeuropathy multiplex**
-
-#### Other Complications
-
-- **Cataracts**
-- **Glaucoma**
-- **Infections** (more frequent/severe)
-- **Islet cell loss:**
-  - Type 1: Leukocytic infiltrates (insulitis)
-  - Type 2: Amyloid deposition
-
-### Pathogenesis of Chronic Complications
-
-**Persistent hyperglycemia (glucotoxicity)** is key mediator.
-
-**Three major pathways:**
-
-#### 1. Advanced Glycation End Products (AGEs)
-
-- Nonenzymatic glucose + amino groups → AGEs
-- **Accelerated by hyperglycemia**
-- AGEs bind RAGE receptor on inflammatory cells, endothelium, VSMC
-
-**Effects of AGE-RAGE signaling:**
-- Release of **TGF-β** → excess basement membrane deposition
-- **VEGF** release → diabetic retinopathy
-- **ROS** generation in endothelial cells
-- Procoagulant activity on endothelium/macrophages
-- VSMC proliferation, extracellular matrix synthesis
-
-**Direct effects:**
-- Cross-linking of extracellular matrix proteins
-- **LDL trapped** in AGE-modified vessel walls → accelerated atherosclerosis
-- **Albumin trapped** in capillary walls → basement membrane thickening
-
-#### 2. Protein Kinase C (PKC) Activation
-
-- Hyperglycemia → increased DAG → PKC activation
-- **Downstream effects:**
-  - VEGF production → neovascularization (retinopathy)
-  - TGF-β → increased extracellular matrix deposition
-
-#### 3. Polyol Pathway Disturbances
-
-- Tissues insulin-independent (nerve, lens, kidney, vessels): glucose enters without insulin
-- **Aldose reductase** converts glucose → sorbitol → fructose
-- **NADPH depletion** (cofactor for glutathione reductase)
-- **Reduced glutathione (GSH)** decreased → **oxidative stress**
-- **Glucose neurotoxicity** → diabetic neuropathy
-
----
-
-## Pancreatic Neuroendocrine Tumors
-
-Note: Robbins Basic Pathology covers Pancreatic Endocrine Tumors in Chapter 17 (Pancreas), not Chapter 20. For Robbins content, Chapter 17 includes Pancreatic neuroendocrine tumors (insulinoma, gastrinoma, etc.).
-
-## Adrenal Cortex
-
-### Structure and Function
-
-The adrenal cortex consists of three distinct layers:
-
-| Zone | Location | Primary Hormone |
-|------|----------|----------------|
-| **Zona glomerulosa** | Beneath capsule, narrow | **Mineralocorticoids** (aldosterone) |
-| **Zona fasciculata** | Middle, broadest (~75% of cortex) | **Glucocorticoids** (cortisol) |
-| **Zona reticularis** | Adjacent to medulla, narrow | **Sex steroids** (estrogens, androgens) |
-
-**Adrenal medulla** — chromaffin cells that synthesize and secrete **catecholamines** (mainly epinephrine).
-
----
-
-## Adrenocortical Hyperfunction
-
-### Hypercortisolism (Cushing Syndrome)
-
-**Etiology:**
-
-| Cause | Frequency | ACTH Level |
-|-------|-----------|------------|
-| **Exogenous glucocorticoids** | Most common (iatrogenic) | Low (suppressed) |
-| **Pituitary ACTH overproduction (Cushing disease)** | ~70% of endogenous cases | High |
-| **Ectopic ACTH secretion** (small-cell lung cancer, carcinoids, PanNETs) | ~10% | High |
-| **Primary adrenal neoplasms** (adenoma, carcinoma) | ~15-20% | Low |
-
-#### Cushing Disease vs. Cushing Syndrome
-
-- **Cushing disease** — specifically pituitary ACTH overproduction
-- **Cushing syndrome** — general term for hypercortisolism from any cause
-
-#### Pathogenesis
-
-1. **ACTH-dependent:** Pituitary microadenoma or ectopic ACTH → bilateral adrenal hyperplasia → cortisol excess
-2. **ACTH-independent:** Adrenal adenoma/carcinoma autonomously produces cortisol
-
-#### Morphology
-
-**Pituitary changes (Crooke hyaline change):**
-- Normal basophilic cytoplasm replaced by homogeneous, lightly basophilic material
-- Accumulation of intermediate keratin filaments
-
-**Adrenal changes depend on cause:**
-
-| Cause | Adrenal Morphology |
-|-------|-------------------|
-| Exogenous steroids | Bilateral cortical atrophy |
-| ACTH-dependent | Diffuse bilateral hyperplasia |
-| ACTH-independent | Adenoma or carcinoma (unilateral) |
-| Primary cortical hyperplasia | Macronodules or micronodules |
-
-**Diffuse hyperplasia features:**
-- Enlarged glands (up to 30g)
-- Thickened, yellow cortex (lipid-rich cells)
-- Variable nodularity
-
-**Primary pigmented nodular hyperplasia:**
-- Macronodules or 1-3mm pigmented micronodules
-- Pigment is lipofuscin
-
-#### Clinical Features
-
-**Classic features:**
-- **Centripetal obesity** (truncal), "moon facies", "buffalo hump"
-- **Hypertension**
-- **Hyperglycemia** (steroid-induced diabetes)
-- **Proximal muscle weakness** (type II fiber atrophy)
-- **Thin, fragile skin** with **striae** (collagen loss)
-- **Osteoporosis** with fractures
-- **Immunosuppression** (increased infection risk)
-- **Hirsutism**, menstrual abnormalities
-- **Psychiatric symptoms** (mood swings, depression, psychosis)
-- **Hyperpigmentation** (with ectopic ACTH — MSH activity)
-
----
-
-## Hyperaldosteronism
-
-### Primary vs. Secondary
-
-| Type | Renin | Aldosterone | Common Cause |
-|------|-------|-------------|--------------|
-| **Primary** | Low (suppressed) | High | Bilateral idiopathic hyperplasia, aldosterone-producing adenoma (Conn syndrome) |
-| **Secondary** | High | High | Renal artery stenosis, CHF, cirrhosis, nephrotic syndrome |
-
-### Primary Hyperaldosteronism
-
-**Causes:**
-1. **Bilateral idiopathic hyperaldosteronism** (~60%) — nodular hyperplasia; some with KCNJ5 mutations
-2. **Aldosterone-producing adenoma** (~35%) — Conn syndrome; KCNJ5 mutations common
-3. **Familial hyperaldosteronism** (rare) — CYP11B2 gene defects
-
-**Morphology of aldosterone-producing adenoma:**
-- Solitary, small (<2 cm)
-- Bright yellow cut surface
-- Lipid-laden cortical cells (fasciculata-like)
-- **Spironolactone bodies** — eosinophilic, laminated cytoplasmic inclusions
-
-### Clinical Features
-
-- **Hypertension** — most important consequence; may be most common cause of secondary hypertension (5-10% of unselected hypertensives)
-- **Hypokalemia** — renal potassium wasting
-  - Neuromuscular: weakness, paresthesias, tetany
-- **Normokalemic** cases increasingly recognized
-
-### Treatment
-
-| Cause | Treatment |
-|-------|----------|
-| Aldosterone-producing adenoma | Surgical excision |
-| Bilateral hyperplasia | Medical (spironolactone) |
-| Secondary | Treat underlying cause |
-
----
-
-## Summary: Adrenal Hyperfunction
-
-- **Cushing syndrome** — most commonly iatrogenic; endogenous: pituitary ACTH (Cushing disease), ectopic ACTH, or adrenal neoplasms
-- **Hyperaldosteronism** — primary (low renin) vs. secondary (high renin); hypertension, hypokalemia
-- **Adrenogenital syndromes** — androgen excess from adrenal neoplasms or CAH
-
----
-
-## Adrenogenital Syndromes
-
-### Etiology
-
-| Cause | Features |
-|-------|----------|
-| **Congenital adrenal hyperplasia (CAH)** | Most common; autosomal recessive; enzyme defects in steroid biosynthesis |
-| **Adrenocortical neoplasms** | Usually virilizing carcinomas |
-
-### Congenital Adrenal Hyperplasia (CAH)
-
-**Pathophysiology:**
-- Defect in adrenal steroidogenesis → ↓cortisol → ↑ACTH → adrenal hyperplasia → ↑androgens
-- **Most common defect: 21-hydroxylase deficiency** (>90% of CAH)
-
-**21-hydroxylase deficiency:**
-- Required for cortisol and aldosterone synthesis
-- Deficiency → shunts precursors to androgen pathway
-- Variable severity based on mutation
-
-**Morphology:**
-- Bilaterally hyperplastic adrenals (10-15x normal weight)
-- Brown, thickened cortex (lipid-depleted)
-- Compact eosinophilic cells mixed with lipid-laden clear cells
-
-**Clinical features:**
-- **Virilization:**
-  - Females: ambiguous genitalia, clitoral hypertrophy, pseudohermaphroditism; later: oligomenorrhea, hirsutism, acne
-  - Males: enlarged external genitalia, precocious puberty
-- **Salt-wasting** (if aldosterone deficiency) — life-threatening
-- **Adrenal crisis** risk with stress
-
-**Diagnosis:** Suspect in neonate with ambiguous genitalia
-
-**Treatment:** Glucocorticoids (suppress ACTH, reduce androgens); mineralocorticoids for salt-wasting variants
-
----
-
-## Adrenal Insufficiency
-
-### Acute Adrenal Insufficiency (Adrenal Crisis)
-
-**Causes:**
-- Waterhouse-Friderichsen syndrome (bilateral adrenal hemorrhage)
-- Rapid steroid withdrawal in chronic users
-- Stress in patient with chronic adrenal insufficiency
-
-**Waterhouse-Friderichsen syndrome:**
-- Associated with **Neisseria meningitidis** septicemia
-- Also other organisms, DIC, postoperative patients
-- Adrenal hemorrhage → acute cortical destruction
-- Catastrophic in children
-
-### Chronic Adrenal Insufficiency (Addison Disease)
-
-**Causes (Table 20.7):**
-
-| Category | Causes |
-|----------|--------|
-| **Autoimmune adrenalitis** | ~60-70% in developed countries; includes APS1 (AIRE mutations) and APS2 |
-| **Infections** | Tuberculosis, AIDS, fungal infections |
-| **Metastatic cancer** | Lung, breast carcinomas |
-| **Other** | Hemochromatosis, sarcoidosis, amyloidosis |
-
-**Autoimmune polyendocrine syndromes:**
-- **APS1** — AIRE gene mutations; mucocutaneous candidiasis, ectodermal dystrophy; anti-IL-17/IL-22 antibodies
-- **APS2** — Polygenic; adrenal + thyroid + other autoimmune diseases
-
-**Morphology:**
-
-| Type | Adrenal Appearance |
-|------|-------------------|
-| Secondary (ACTH deficiency) | Small, flattened, yellow; thin cortex; preserved medulla |
-| Primary autoimmune | Irregularly shrunken; residual cortical cells in connective tissue; lymphoid infiltrate |
-| Tuberculosis/fungal | Granulomatous inflammation; effaced architecture |
-| Metastatic carcinoma | Enlarged; replaced by tumor |
-
-**Clinical features (90% cortex destruction before symptoms):**
-- Progressive **weakness**, easy fatigability
-- **Gastrointestinal:** anorexia, nausea, vomiting, weight loss, diarrhea
-- **Hyperpigmentation** (↑ACTH/MSH — primary only)
-- **Hypotension** (mineralocorticoid deficiency)
-- **Salt craving**
-
-### Secondary Adrenocortical Insufficiency
-
-**Cause:** Hypothalamic/pituitary disorders → ↓ACTH
-
-**Features:**
-- Low ACTH
-- No hyperpigmentation (unlike primary)
-- Preserved aldosterone (regulated by RAAS, not ACTH)
-
-**ACTH stimulation test:**
-- Primary: No cortisol response to ACTH
-- Secondary: Prompt cortisol response
-
----
-
-## Summary: Adrenal Insufficiency
-
-- **Acute:** Waterhouse-Friderichsen syndrome, steroid withdrawal, stress in chronic insufficiency
-- **Chronic (Addison disease):** Autoimmune adrenalitis (most common in developed countries), infections (TB, AIDS), metastatic cancer
-- **Secondary:** ACTH deficiency from hypothalamic/pituitary disease
-
-## Adrenocortical Neoplasms
-
-### Adrenal Adenomas
-
-Most cortical adenomas are **nonfunctional** and found incidentally ("adrenal incidentaloma").
-
-**Features:**
-- Yellow to yellow-brown (lipid content)
-- Usually small (1-2 cm)
-- Composed of cells similar to normal adrenal cortex
-- Nuclear pleomorphism does not indicate malignancy
-
-### Adrenal Carcinomas
-
-**Rare** but aggressive tumors; may occur at any age.
-
-**Inherited causes:**
-- **Li-Fraumeni syndrome** (TP53 mutations)
-- **Beckwith-Wiedemann syndrome**
-
-**Morphology:**
-- Large, invasive lesions effacing adrenal gland
-- **Variegated cut surface** — necrosis, hemorrhage, cystic change
-- May show well-differentiated cells OR bizarre, pleomorphic cells
-- **Strong tendency to invade adrenal vein, vena cava, lymphatics**
-- Metastases: regional nodes, lung, viscera
-- **Median survival: ~2 years**
-
-> **Note:** Metastatic carcinomas to adrenal are significantly more common than primary adrenal carcinomas.
-
----
-
-## Summary: Adrenocortical Neoplasms
-
-- **Adenomas** — usually nonfunctional incidentalomas; yellow, small, composed of cortical-like cells
-- **Carcinomas** — rare, aggressive, large, invasive with necrosis; poor prognosis
-
----
-
-## Adrenal Medulla
-
-### Structure
-
-- **Chromaffin cells** — derived from neural crest
-- Synthesize and secrete **catecholamines** (mainly epinephrine)
-- Response to preganglionic sympathetic nerve fibers
-- **Sustentacular cells** — supporting cells
-
-### Tumors of Adrenal Medulla
-
-| Tumor | Cell Type | Features |
-|-------|-----------|----------|
-| **Pheochromocytoma** | Chromaffin cells | Catecholamine-secreting |
-| **Neuroblastoma** | Neuronal (sympathetic) | Most common extracranial solid tumor of childhood |
-| **Ganglion cell tumors** | Mature neurons | More differentiated |
-
----
-
-## Pheochromocytoma
-
-**Neoplasm of chromaffin cells** that synthesizes and releases catecholamines.
-
-### "Rule of 10s"
-
-| Feature | Percentage |
-|---------|-----------|
-| Extraadrenal | 10% |
-| Bilateral (adrenal) | 10% |
-| Malignant | 10% |
-| Non-hypertensive | 10% |
-| Familial | 25% (revised) |
-
-**Extraadrenal tumors** (paragangliomas): organ of Zuckerkandl, carotid body
-
-**Hypertension presentation:**
-- ~90% have hypertension
-- ~2/3 have **paroxysmal** episodes (sudden BP rise, palpitations, headache, sweating, tremor)
-- Can be fatal during paroxysms
-
-### Familial Syndromes (25% have germ line mutations)
-
-| Gene | Syndrome |
-|------|----------|
-| **RET** | MEN-2A, MEN-2B |
-| **NF1** | Neurofibromatosis type 1 |
-| **VHL** | von Hippel-Lindau disease |
-| **SDHB, SDHC, SDHD** | Succinate dehydrogenase complex mutations |
-
-**Pathogenesis:** Loss of function → HIF-1α stabilization → tumorigenesis
-
-### Morphology
-
-**Gross:**
-- Small: yellow-tan, well-defined, compresses adjacent adrenal
-- Large: hemorrhagic, necrotic, cystic; effaces adrenal
-
-**Microscopic:**
-- Polygonal to spindle-shaped chromaffin cells
-- Nested arrangement ("Zellballen") with rich vascular network
-- Finely granular cytoplasm (silver stains highlight catecholamine granules)
-- **EM:** membrane-bound electron-dense granules (catecholamines)
-- Nuclei often pleomorphic
-- **Vascular and capsular invasion** can occur in benign tumors
-- **Malignancy diagnosis based on metastases** (not histology)
-
-### Clinical Features
-
-**Dominant manifestation: Hypertension** (90%)
-
-**Paroxysmal symptoms:**
-- Abrupt BP elevation, tachycardia, palpitations
-- Headache, sweating, tremor, apprehension
-- Abdominal/chest pain, nausea, vomiting
-
-**Catecholamine cardiomyopathy:**
-- Congestive heart failure
-- Pulmonary edema
-- Myocardial infarction
-- Ventricular fibrillation
-- Cerebrovascular accidents
-
-**Other secretions:** ACTH, somatostatin (associated syndromes)
-
-**Diagnosis:**
-- Increased urinary free catecholamines
-- Increased urinary vanillylmandelic acid (VMA)
-- Increased urinary metanephrines
-
-**Treatment:** Surgical excision for benign; medical management for multifocal/malignant
-
----
-
-## Neuroblastoma
-
-**Most common extracranial solid tumor of childhood.**
-
-- Occurs in first 5 years of life
-- Arises in sympathetic nervous system
-- Most common in **adrenal medulla** or **retroperitoneal sympathetic ganglia**
-- Most sporadic; some familial cases
-- Discussed in Chapter 7 (Pediatric Neoplasms)
-
----
-
-## Multiple Endocrine Neoplasia (MEN) Syndromes
-
-### Features of Inherited Endocrine Tumors
-
-- Occur at **younger age** than sporadic
-- **Multiple organs** involved (synchronous or metachronous)
-- **Multifocal** within single organ
-- Preceded by **hyperplasia** (e.g., C cell hyperplasia before medullary thyroid carcinoma)
-- More **aggressive** with higher recurrence rates
-
----
-
-## MEN-1 Syndrome
-
-**Germ line mutations in MEN1 tumor suppressor gene** (encodes menin).
-
-**"3 Ps": Parathyroid, Pancreas, Pituitary**
-
-### Organ Involvement
-
-| Organ | Manifestation | Frequency |
-|-------|---------------|-----------|
-| **Parathyroid** | Primary hyperparathyroidism (hyperplasia/adenoma) | 80-95% |
-| **Pancreas** | Pancreatic endocrine tumors (gastrinomas, insulinomas) — leading cause of death | Variable |
-| **Pituitary** | Prolactin-secreting macroadenoma (most common); acromegaly (GH-secreting) | Variable |
-
----
-
-## MEN-2A Syndrome
-
-**Germ line RET proto-oncogene mutations** (10q11.2).
-
-### Organ Involvement
-
-| Organ | Manifestation | Frequency |
-|-------|---------------|-----------|
-| **Thyroid** | **Medullary thyroid carcinoma** — virtually all untreated cases; first 2 decades; multifocal; C cell hyperplasia adjacent | ~100% |
-| **Adrenal medulla** | Pheochromocytoma | 50% |
-| **Parathyroid** | Primary hyperparathyroidism (hyperplasia) | 10-20% |
-
----
-
-## MEN-2B Syndrome
-
-**Same RET mutations** (different from MEN-2A).
-
-### Organ Involvement
-
-| Organ | Manifestation |
-|-------|---------------|
-| **Thyroid** | **Medullary thyroid carcinoma** — multifocal, more aggressive than MEN-2A |
-| **Adrenal medulla** | Pheochromocytoma |
-| **Parathyroid** | **NO hyperparathyroidism** |
-
-### Distinctive Features (MEN-2B only)
-
-- **Ganglioneuromas** — mucosal sites (GI tract, lips, tongue)
-- **Marfanoid habitus** — long bones of axial skeleton
-
----
-
-## Summary: MEN Syndromes
-
-| Feature | MEN-1 | MEN-2A | MEN-2B |
-|---------|-------|--------|--------|
-| **Gene** | MEN1 (menin) | RET | RET |
-| **Thyroid** | — | Medullary carcinoma (100%) | Medullary carcinoma (aggressive) |
-| **Parathyroid** | Hyperparathyroidism (80-95%) | Hyperparathyroidism (10-20%) | None |
-| **Pancreas** | Pancreatic endocrine tumors | — | — |
-| **Adrenal** | — | Pheochromocytoma (50%) | Pheochromocytoma |
-| **Other** | Pituitary adenomas | — | Ganglioneuromas, marfanoid habitus |
-
----
-
-## Suggested Readings
-
-Chapter 20 of Robbins Basic Pathology covers extensive literature on endocrine pathology. Key references include:
-
-- Andersen DK, et al. Pancreatitis-diabetes-pancreatic cancer: summary of a NCI-NIDDK workshop. Pancreas 42:1227–1237, 2013.
-- Asa SL, Ezzat S. Genomic approaches to problems in pituitary neoplasia. Endocr Pathol 25:209–213, 2014.
-- Bancos I, et al. Diagnosis and management of adrenal insufficiency. Lancet Diabetes Endocrinol 3:216–226, 2015.
-- Bilezikian JP, et al. Primary hyperparathyroidism. Nat Rev Dis Primers 2:16033, 2016.
-- De Leo S, Lee SY, Braverman LE. Hyperthyroidism. Lancet 388:906–918, 2016.
-- Higham CE, et al. Hypopituitarism. Lancet 388:2403–2415, 2016.
-- Lacroix A, et al. Cushing's syndrome. Lancet 386:913–927, 2015.
-- Zheng S, et al. Comprehensive pan-genomic characterization of adrenocortical carcinoma. Cancer Cell 29:723–736, 2016.
+- **第 1 型糖尿病**是自體免疫性 β 細胞破壞，導致胰島素絕對缺乏
+- **第 2 型糖尿病**以胰島素抵抗與胰島素分泌相對不足為特徵
+- **慢性併發症**包括微血管疾病（視網膜病變、腎病變、神經病變）與大血管疾病（冠狀动脉、腦血管、周邊血管）

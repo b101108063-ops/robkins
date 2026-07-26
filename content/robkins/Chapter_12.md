@@ -3,1879 +3,434 @@ layout: single
 title: "Chapter 12: Diseases of the Hematopoietic and Lymphoid Systems"
 ---
 
-# Chapter 12: Diseases of the Hematopoietic and Lymphoid Systems
+## 章節導讀
+
+造血與淋巴系統疾病的病理學是臨床醫學的重要基礎。本章首先介紹紅血球疾病的分類與臨床表現，包括 anemia 的三大發病機制（失血、溶血、生成減少）與各類型的特徵及實驗室診斷。接著說明溶血性貧血（hereditary spherocytosis、sickle cell anemia、thalassemia、G6PD deficiency、PNH、免疫性溶血性貧血），以及紅血球生成減少導致的貧血（iron deficiency、anemia of chronic disease、megaloblastic anemia、aplastic anemia）。白細胞疾病的範疇包括 leukopenia、neutropenia，白血病（AML、ALL、CML）與骨髓分化不良症候群（MDS）。淋巴細胞疾病方面，重點說明淋巴結的反應性增生與腫瘤性增生的鑑別診斷，以及各種淋巴瘤（尤其是 diffuse large B cell lymphoma、follicular lymphoma、Burkitt lymphoma、mantle cell lymphoma 與 Hodgkin lymphoma）。漿細胞疾病（multiple myeloma、Waldenström macroglobulinemia）與止血失調疾病（platelet 缺乏、功能障礙、coagulation factor 缺乏、DIC）也是本章重點。
+
+---
 
 ## Red Cell Disorders
 
-### Anemia: Classification and Clinical Manifestations
+### Anemia：分類與臨床表現
 
-**Anemia** is defined as a reduction in the oxygen-transporting capacity of blood, resulting from a decrease in the red cell mass to subnormal levels.
+**貧血（Anemia）**是指血液攜氧能力降低，以血紅蛋白濃度、紅血球計數或紅血球比容（hematocrit）低於正常為定義。臨床症狀取決於貧血發生的速度與嚴重程度：急性大量失血以低血容量休克為主，慢性貧血則以組織缺氧症狀（疲乏、呼吸困難、心搏過速）為主。
 
-#### Classification of Anemia
+**分類（按發病機制）**：
 
-Anemia can stem from:
+| 機制 | 代表性疾病 |
+|------|---------|
+| **失血（Blood loss）** | 急性創傷、潰瘒、月經過多、子宮外孕破裂 |
+| **溶血（Hemolysis）** | Sickle cell anemia、hereditary spherocytosis、自體免疫性溶血性貧血、PNH |
+| **紅血球生成減少（Decreased production）** | Iron deficiency、megaloblastic anemia、aplastic anemia、anemia of chronic disease |
 
-- **Bleeding** (hemorrhage)
-- **Increased red cell destruction** (hemolysis)
-- **Decreased red cell production**
+**紅血球指標對鑑別診斷的意義：**
+- **MCV（Mean Corpuscular Volume）**：每個紅血球的平均體積
+  - **小球的（Microcytic，MCV <80 fL）**：Iron deficiency anemia、thalassemia、anemia of chronic disease（晚期）
+  - **正常球性的（Normocytic，MCV 80-100 fL）**：急性失血、溶血、anemia of chronic disease（早期）、megaloblastic anemia（早期）
+  - **巨球的（Macrocytic，MCV >100 fL）**：Megaloblastic anemia（維生素 B12、folate 缺乏）、骨髓發育不良症候群（MDS）、酒精性肝病、甲狀腺機能減退
+- **MCH（Mean Corpuscular Hemoglobin）** 與 **MCHC（Mean Corpuscular Hemoglobin Concentration）**：協助區分小球性低色素性與其他小球性貧血
 
-These mechanisms serve as one basis for classifying anemia (**Table 12.1**).
+### 溶血性貧血（Hemolytic Anemia）
 
-#### Red Cell Indices
+溶血是紅血球在網狀內皮系統（主要是脾臟）或血管內被提前破壞的過程。
 
-Red cell morphology provides etiologic clues. Features that help identify causes include:
+**分類：**
 
-- **Size** (MCV - Mean Cell Volume)
-- **Color** (MCH - Mean Cell Hemoglobin, MCHC - Mean Cell Hemoglobin Concentration)
-- **Shape** (RDW - Red Cell Distribution Width)
+| 類型 | 位置 | 機制 | 臨床特點 |
+|------|------|------|---------|
+| **血管外溶血（Extravascular hemolysis）** | 脾臟（網狀內皮系統）| 缺陷紅血球被巨噬細胞識別並吞噬 | 黃疸（ indirect bilirubin↑）、脾腫大、膽結石（膽紅素鈣結石）、網狀紅血球增多 |
+| **血管內溶血（Intravascular hemolysis）** | 循環血液中 | 紅血球在血管內直接破裂 | 血紅蛋白血症（hemoglobinemia）、血紅蛋白尿（hemoglobinuria）、含鐵血黃素尿（hemosiderinuria）、血漿 free hemoglobin↑、lactate dehydrogenase↑ |
 
-**Table 12.2** Adult Reference Ranges for Red Blood Cell Indices:
+**Hereditary Spherocytosis（遺傳性球形紅血球增多症）：**
+- 自體顯性遺傳（少數為隱性）
+- **分子缺陷**：紅血球膜骨架蛋白突變——**spectrin**、**ankyrin**、**band 3**、**protein 4.2**
+- 這些蛋白負責將細胞膜與細胞骨架的 **ankyrin-spectrin-actin 複合體** 連接；突變導致膜與骨架間的垂直連接減弱
+- 膜流失→紅血球失去表面積與體積比（變得更圓）→形成 **spherocytes（球形紅血球）**
+- Spherocytes 無法變形通過脾竇（splenic sinusoids）→在脾臟被吞噬→溶血
+- **臨床三聯症**：黃疸（chronic hemolysis）、脾腫大、膽結石（兒童期即可出現）；網狀紅血球增多、MCV 輕度降低
+- **確診**：Eosin-5-maleimide（EMA） binding test（流式細胞儀）或滲透脆性試驗（spherocytes 在較高滲溶液中即溶解）
 
-| Index | Units | Men | Women |
-|---|---|---|---|
-| Hemoglobin (Hb) | g/dL | 13.2–16.7 | 11.9–15.0 |
-| Hematocrit (Hct) | % | 38–48 | 35–44 |
-| Red cell count | ×10⁶/µL | 4.2–5.6 | 3.8–5.0 |
-| Reticulocyte count | % | 0.5–1.5 | 0.5–1.5 |
-| Mean cell volume (MCV) | fL | 81–97 | 81–97 |
-| Mean cell Hb (MCH) | pg | 28–34 | 28–34 |
-| Mean cell Hb concentration (MCHC) | g/dL | 33–35 | 33–35 |
-| Red cell distribution width (RDW) | % | 11.5–14.8 | 11.5–14.8 |
+**Sickle Cell Anemia（SCA，鐮刀型紅血球貧血）：**
+- **分子基礎**：β-globin 基因第 6 密碼子突變——glutamate → valine（HbS）
+- **病理生理學**：
+  - 正常血紅蛋白（HbA）：α₂β₂
+  - 鐮刀型血紅蛋白（HbS）：α₂β²ˢ
+  - **去氧時**：HbS 分子脫水並自我聚合（polymerization）→紅血球變成鐮刀狀（sickling）
+  - 缺氧、酸中毒、脫水可誘發或加重 sickling
+  - 反覆 sickling→紅血球膜受損→最終被脾臟清除（血管外溶血）與在微血管中破碎（血管內溶血）
+- **基因型與臨床關係**：
+  - **雜合子（HbS trait，HbAS）**：約 40% 的紅血球含 HbS；通常無症狀，於缺氧情境下（如高空飛行）可能發生 sickling
+  - **同合子（HbS disease，HbSS）**：Sickle cell anemia——慢性溶血性貧血 + 反覆 **vaso-occlusive crises（血管阻塞危機）**
+- **Vaso-occlusive crises 的臨床表現：**
+  - **Hand-foot syndrome（手足徵候）**：嬰兒/幼童的手足小血管阻塞→對稱性手腳腫脹、骨膜疼痛
+  - **急性胸腔症候群（Acute chest syndrome）**：肺血管阻塞→胸痛、發燒、呼吸困難；是死亡的主要原因之一
+  - **Stroke（中風）**：腦血管阻塞；兒童缺血性中風最常見的原因
+  - **脾臟自體切除（Autosplenectomy）**：反覆脾臟梗塞→纖維化→功能性無脾（免疫功能減退→感染風險增加，特別是 encapsulated bacteria：*S. pneumoniae*、*H. influenzae*、*N. meningitidis*）
+  - **勃起功能障礙（Priapism）**：陰莖血管阻塞
+- **慢性併發症**：腿部潰瘍（stasis + sickling →組織缺血）、膽結石（慢性 hemolysis）、視網膜病變、骨頭缺血性壞死（femoral head）、腎功能減退（hyposthenuria——腎髓質缺氧導致濃縮功能障礙）
+- **確診**：Hemoglobin electrophoresis（血紅蛋白電泳）——HbS 檢出；Sickle cell test（ metabisulfite 或 sodium metabisulfite 誘導 sickling）
 
-#### Clinical Manifestations of Anemia
+**Thalassemia（地中海貧血）：**
+- **分子基礎**：α 或 β-globin 基因的突變或缺失→對應 globin 鏈合成減少（thalassemia = 「肽鏈合成障礙」）
+- **分類**：
+  - **α-thalassemia**：α-globin 鏈合成減少
+    - 正常：4 個 α-globin 基因（2 on each chromosome 16）
+    - 1 gene deletion（-α/αα）：無症狀攜帶者
+    - 2 gene deletion（--/αα 或 -α/-α）：α-thalassemia trait（小球性貧血）
+    - 3 gene deletion（--/-α）：HbH disease（慢性溶血性貧血）
+    - 4 gene deletion（--/--）：**Hb Bart's hydrops fetalis**（γ-globin 鏈聚合→無功能性 HbF→胎兒嚴重缺氧→胎兒水腫，通常死產）
+  - **β-thalassemia**：β-globin 鏈合成減少
+    - 正常：2 個 β-globin 基因
+    - 1 gene 突變（β⁺/β）：β-thalassemia minor/trait（輕度小球性貧血）
+    - 2 gene 突變（β⁰/β⁰ 或 β⁺/β⁺）：**β-thalassemia major（Cooley anemia）**（嚴重貧血，需要規則輸血；不治療：嚴重組織缺氧、骨骼改變「chipmunk facies」、生長遲緩；治療：輸血依賴→繼發性 hemochromatosis→心臟/肝臟/內分泌损伤）
+- **病理生理學**：β-globin 鏈減少→α-globin 鏈相對過剩→形成不穩定的 α₄ tetramers（HbH）或 γ₄ tetramers（Hb Bart's）→沉積於紅血球→溶血 + 無效造血（ineffective erythropoiesis）→骨髓 expansion→骨骼改變
+- **確診**：Hemoglobin electrophoresis；genetic testing
 
-- **Acute**: shortness of breath, organ failure, shock
-- **Chronic**:
-  - Pallor, fatigue, lassitude
-  - With hemolysis: jaundice and gallstones
-  - With ineffective erythropoiesis: iron overload, heart and endocrine failure
-  - If severe and congenital: growth retardation, bone deformities due to reactive marrow hyperplasia
+**G6PD Deficiency（葡萄糖-6-磷酸脫氫酶缺乏症）：**
+- X 連鎖隱性遺傳
+- **分子缺陷**：G6PD——pentose phosphate pathway 的第一個酶，負責產生 NADPH
+- NADPH 維持 glutathione 的還原狀態（GSH）→保護紅血球免於氧化損傷
+- 暴露於氧化壓力時（如蠶豆症[favism]中的蠶豆、某些藥物：primaquine、sulfamethoxazole、dapsone；或嚴重感染）→紅血球無法對抗氧化壓力→Heinz bodies（氧化變性血紅蛋白沉淀）形成→Bite cells（脾臟巨噬細胞將 Heinz bodies「咬出」後的殘餘）→溶血
+- **確診**：G6PD 酶活性測定（在溶血急性期後測量，因年輕紅血球酶活性較高）
+
+**Paroxysmal Nocturnal Hemoglobinuria（陣發性夜間血紅蛋白尿，PNH）：**
+- 罕見的後天（acquired）克隆性造血幹細胞疾病
+- **分子缺陷**：**PIGA 基因**突變（X-linked gene，位於造血幹細胞）→ GPI（glycosylphosphatidylinositol）anchors 合成障礙→補體调节蛋白（CD55、CD59）無法錨定於紅血球表面→紅血球對補體介導的溶血高度敏感
+- 臨床上以**血管內溶血**為主（血紅蛋白尿——尤其夜間或晨起時，因尿液濃縮）；也可有骨髓衰竭（全血球減少）
+- **確診**：Flow cytometry（流式細胞儀）——測量 CD55、CD59 在紅血球與白血球表面的表現
+
+**自體免疫性溶血性貧血（Autoimmune Hemolytic Anemia，AIHA）：**
+- 溫反應性 IgG 自體抗體（溫型 AIHA，最常見）結合紅血球表面→紅血球被脾臟巨噬細胞識別並破壞（**extravascular hemolysis**）
+- 冷反應性 IgM 自體抗體（冷型 AIHA）結合紅血球→補體激活→可在低温下引發**血管內溶血**
+- **確診**：Direct Coombs test（DAT，direct antiglobulin test）——檢測紅血球表面的抗體或補體
+
+### 紅血球生成減少性貧血
+
+#### Iron Deficiency Anemia（缺鐵性貧血）
+
+- 全球最常見的營養缺乏病
+- **原因**：慢性失血（胃腸道腫瘤、潰瘒、痔瘡、女性月經過多、子宮內膜異位）是最常見原因；攝取不足（營養不良）；吸收不良（胃切除、Celiac disease）
+- **發病機制**：鐵是血紅蛋白、肌紅蛋白與多種酶（cytochrome、catalase）的必需成分；缺鐵→血紅蛋白合成減少→小球性低色素性貧血
+- **實驗室特點**：MCV↓、MCH↓、MCHC↓；血清**鐵（Serum iron）↓**、**Ferritin↓**（反映鐵儲備，最敏感指標）、**TIBC↑**（transferrin 代償性增加）；骨髓 iron stain（普魯士藍）陰性（無可染鐵）
+- **臨床特點**：匙狀甲（koilonychia）、口腔黏膜改變（口角炎、舌乳頭萎縮）、 pica（異食癖——想吃冰、泥土等非食物）
+
+#### Anemia of Chronic Disease（慢性病貧血）
+
+- 見於慢性炎症（類風濕性關節炎、結核病、慢性腎病、惡性腫瘤）
+- **發病機制**：慢性炎症→hepcidin（肝臟產生的激素）↑→抑制 ferroportin→鐵被困在腸道細胞與巨噬細胞中→可供紅血球生成的鐵減少（**functional iron deficiency**）；同時紅血球壽命縮短、EPO 產生減少
+- **特點**：正常球性或小球性貧血；血清鐵↓、ferritin 正常或↑（急性期蛋白）、TIBC 正常或↓
+
+#### Megaloblastic Anemia（巨幼紅血球性貧血）
+
+- **發病機制**：**維生素 B12（cobalamin）或 folate 缺乏**→**thymidine** 合成障礙→DNA 合成受阻→**核質發育不平衡（nuclear-cytoplasmic asynchrony）**→巨幼紅血球前驅細胞
+- 核質發育落後於細胞質——細胞核停留在幼稚狀態而細胞質已分化成熟
+
+**形態學：**
+- **骨髓**：巨幼紅血球前驅細胞（megaloblastic erythroid progenitors）——細胞大、核染色質疏鬆（網狀）
+- **血液**：巨紅血球（macrocytosis，MCV↑>110 fL）、巨卵形紅血球（**macroovalocytes**）、**分葉過多的嗜中性球（hypersegmented neutrophils）**——嗜中性球核分葉 >5 葉（正常為 3 葉）
+
+**Folate 缺乏：**
+- 原因：營養不良、酗酒（干擾吸收與代謝）、某些藥物（methotrexate、trimethoprim）
+- **神經管缺陷（Neural tube defects）風險**：妊娠早期孕婦缺乏 folate→胎兒神經管閉合不全（無腦畸形、脊柱裂）——這是為何建議孕前補充 folic acid 的原因
+
+**Vitamin B12 缺乏：**
+- **吸收需要內因子（Intrinsic factor，IF）**——由胃底壁細胞分泌；B12-IF 複合體在迴腸遠端被吸收
+- **原因**：**惡性貧血（Pernicious anemia）**——自體免疫攻擊胃底壁細胞→IF 缺乏（最常見原因）；胃切除術；迴腸切除或疾病（如 Crohn disease）
+- **臨床特點**：
+  - 巨球性貧血（牛肉過敏——Loss of appetite）
+  - **神經學表現（Subacute combined degeneration of the spinal cord）**：脊髓**後索**（dorsal columns）與**側索**（lateral corticospinal tracts）脫髓鞘——感覺性共濟失調、的本體感覺障礙、痙攣性癱瘓；周邊神經病變；認知功能減退
+  - **Glossitis（牛肉紅舌）**：舌乳頭萎縮、光滑紅舌
+
+#### Aplastic Anemia（再生不良性貧血）
+
+- 骨髓衰竭症候群——骨髓造血細胞不足→全血球減少（pancytopenia）
+- **原因**：先天性（Fanconi anemia——DNA 修復缺陷）；後天：藥物（chloramphenicol、gold、phenytoin、化療藥）、輻射、病毒感染（EBV、CMV、HIV）、特發性（50%）
+- **發病機制**：造血幹細胞损伤或幹細胞微環境缺陷
+- **特點**：Pancytopenia（紅血球、白血球、血小板均減少）；網狀紅血球減少；骨髓脂肪化（hypocellular marrow）；無脾腫大
 
 ---
 
-## Hemorrhagic Anemia
+## White Cell Disorders
 
-### Acute Blood Loss
+### Leukopenia 與 Neutropenia
 
-The effects of acute bleeding are mainly due to the loss of intravascular volume, which if massive can lead to **hypovolemic shock** and death.
+**Neutropenia（嗜中性球減少症）**：絕對嗜中性球計數（ANC）<1500/μL；<500/μL 為嚴重 neutropenia，感染風險大幅增加。
 
-- If blood loss exceeds 20% of blood volume → hypovolemic shock rather than anemia
-- **Hemodilution** begins at once and achieves full effect within 2–3 days
-- The anemia is **normocytic and normochromic**
-- Recovery is enhanced by compensatory rise in **erythropoietin**
-- **Reticulocytosis** appears within 5–7 days
+**原因分類**：
+- **生成減少**：化療、骨髓發育不良、骨髓轉移癌、維生素 B12/folate 缺乏、先天性（Kostmann syndrome）
+- **破壞增加**：自體免疫性（autoimmune neutropenia）、藥物誘導（propylthiouracil）
+- **分隔增加**：脾腫大
 
-### Chronic Blood Loss
+### 白血病（Leukemias）
 
-- Gradual depletion of **iron stores**
-- Leads to **iron deficiency anemia** (chronic anemia of underproduction)
+白血病是骨髓與造血組織中白細胞前驅細胞的惡性克隆性增生病，依病程分為急性與慢性，依細胞來源分為 myeloid 與 lymphoid。
+
+**Acute Myeloid Leukemia（AML，急性骨髓性白血病）：**
+- 骨髓中 **myeloblasts** 異常增殖（>20% bone marrow blasts）
+- **流行病學**：成人最常見的急性白血病；中位發病年齡 65-70 歲
+- **染色體易位（具有預後與治療意義）**：
+  - **t(15;17)**：急性前骨髓白血病（APL，AML-M3）——PML-RARA fusion；對 **ATRA（all-trans retinoic acid）** + arsenic trioxide 反應極佳，是第一個被「標靶治療」的白血病
+  - **t(8;21)**：AML-M2（AML with RUNX1::ETO）——預後較好
+  - **inv(16)** 或 **t(16;16)**：AML-M4eo（AML with CBFB::MYH11）——預後較好
+  - **-5/del(5q)、-7/del(7q)**：預後不良，常見於治療相關性 AML（t-AML）
+- **臨床表現**：骨髓衰竭（anemia→疲乏、thrombocytopenia→出血、neutropenia→感染）、齒齦浸潤（gingival hypertrophy）、皮膚浸潤（leukemia cutis）、CNS 侵犯
+- **DIC（瀰漫性血管內凝血）**：特別見於 APL——壞死性 myeloblasts 釋放 tissue factor
+
+**Acute Lymphoblastic Leukemia（ALL，急性淋巴球性白血病）：**
+- 兒童（2-5 歲高峰）**最常見的癌症**；成人亦可發生但預後較差
+- **分類**：B-ALL（85%，來自 B-cell precursors）與 T-ALL（15%，來自 T-cell precursors）
+- **臨床表現**：骨髓衰竭（與 AML 相同）；淋巴結/脾臟/肝臟腫大；骨痛（骨髓腔擴張）；CNS 侵犯（headache、嘔吐、cranial nerve palsies）
+- **染色體異常**：
+  - **t(9;22)（Philadelphia chromosome）**：BCR-ABL1——預後不良（成人 ALL）
+  - **t(12;21)**：ETV6::RUNX1——預後良好（兒童 ALL）
+  - Hyperdiploidy（染色體過多）——預後較好
+- **治療與預後**：兒童化療後完全緩解率 >95%；兒童 ALL 的 5 年生存率達 85-90%
+
+**Chronic Myeloid Leukemia（CML，慢性骨髓性白血病）：**
+- 骨髓粒細胞系統的克隆性增生病（各成熟階段的粒細胞均增加）
+- **分子基礎**：**費城染色體——t(9;22)(q34;q11)**——BCR-ABL1 fusion gene；編碼組成性活化的 tyrosine kinase
+- **臨床表現**：顯著嗜中性球增加（>100,000/μL）、嗜鹼性球與嗜酸性球增多、脾腫大（可能很大）
+- **病程分期**：
+  - **慢性期（Chronic phase）**：確診時通常為此期；對 **imatinib（Gleevec）** 等 tyrosine kinase inhibitors（TKIs）反應良好
+  - **加速期（Accelerated phase）**：對 imatinib 失去反應、嗜鹼性球↑、原始細胞 10-19%
+  - **原始細胞危機（Blast crisis）**：原始細胞（myeloid 或 lymphoid）>20%——預後惡劣
+- **TKI 治療的革命性影響**：Imatinib 使 CML 慢性期患者的 10 年生存率從 <20% 提升至 >80%
+
+**Chronic Lymphocytic Leukemia（CLL，慢性淋巴球性白血病）：**
+- 成人最常見的白血病；通常為老年發病
+- 成熟 B-cell 來源的惰性（indolent）白血病
+- **免疫表型**：CD5+、CD19+、CD20 dim、CD23+；表面免疫球蛋LIGHT chain（κ或λ）——單克隆
+- **臨床特點**：無痛性淋巴結腫大、脾腫大；許多患者多年無症狀；化療合併 anti-CD20（rituximab）治療
+
+### 骨髓分化不良症候群（Myelodysplastic Syndromes，MDS）
+
+- 克隆性造血幹細胞疾病——無效造血（ineffective hematopoiesis）導致血球減少與發育異常
+- **特徵**：骨髓中有一或多系細胞的**發育異常（dysplasia）**——巨核球異常（小巨核球）、紅血球系異常（巨幼紅血球、核碎裂）、粒細胞系異常（偽 Pelger-Huët 核）
+- **臨床**：全血球減少（cytopenias）；骨髓細胞過多（hypercellular）但外周血 cytopenias（無效造血）；10-40% 進展為 AML
+- **預後因子**：IPSS-R（基於染色體核型、血球減少程度、骨芽細胞%）
 
 ---
 
-## Hemolytic Anemia
-
-**Hemolytic anemias** are a diverse group of disorders sharing accelerated red cell destruction (hemolysis).
-
-- Red cell life span shortened to <120 days
-- **Erythroid hyperplasia** and **reticulocytosis** are hallmarks
-- **Extramedullary hematopoiesis** may appear in liver, spleen, and lymph nodes
-
-### Classification of Hemolytic Anemias
-
-#### By Location
-
-- **Extravascular hemolysis**: Defects that increase destruction of red cells by phagocytes in the spleen
-  - Findings:
-    - Hyperbilirubinemia and jaundice
-    - Varying degrees of **splenomegaly**
-    - Pigment gallstones (if chronic)
-- **Intravascular hemolysis**: Red cells burst within the circulation
-  - Findings:
-    - Hemoglobinemia, hemoglobinuria, and hemosiderinuria
-    - Loss of iron → potential iron deficiency
-
-#### By Mechanism
-
-**Table 12.1** Classification of Anemia According to Underlying Mechanism:
-
-**Blood Loss:**
-- Acute: trauma
-- Chronic: gastrointestinal tract lesions, gynecologic disturbances
-
-**Increased Destruction (Hemolytic Anemias):**
-
-*Intrinsic (Intracorpuscular) Abnormalities:*
-
-- **Hereditary**:
-  - *Membrane abnormalities*: spherocytosis, elliptocytosis
-  - *Enzyme deficiencies*: G6PD, pyruvate kinase
-  - *Hemoglobinopathies*: sickle cell anemia, thalassemia
-
-- **Acquired**:
-  - Paroxysmal nocturnal hemoglobinuria (PNH)
-
-*Extrinsic (Extracorpuscular) Abnormalities:*
-
-- **Antibody-mediated**: transfusion reactions, autoimmune hemolytic anemia
-- **Mechanical trauma**: thrombotic microangiopathic hemolytic anemia, defective cardiac valves
-- **Infections**: malaria
-
-**Impaired Red Cell Production:**
-
-- Bone marrow failure: aplastic anemia, pure red cell aplasia
-- Defective DNA synthesis: megaloblastic anemia (B12/folate deficiency)
-- Anemia of renal failure (erythropoietin deficiency)
-- Anemia of chronic disease
-- Iron deficiency anemia
-- Marrow replacement/infiltration
-
-### Hereditary Spherocytosis
-
-**Hereditary spherocytosis** is an autosomal dominant disorder caused by mutations affecting the red cell membrane skeleton (spectrin, ankyrin, band 3, band 4.2).
-
-#### Pathogenesis
-
-- Mutations weaken vertical interactions between the membrane skeleton and intrinsic red cell membrane proteins
-- Red cells shed membrane vesicles as they age
-- Surface area-to-volume ratio decreases → cells become **spherocytes**
-- Spherocytes are nondeformable and trapped in splenic cords → phagocytosed by macrophages
-
-#### Morphology
-
-- Peripheral blood smear: **dark red spherocytes lacking central pallor**
-- Splenomegaly (500–1000 g)
-- **Congestion of splenic cords** with increased macrophages
-- Pigment gallstones in 40–50% of patients
-
-#### Clinical Features
-
-- Anemia (variable severity), splenomegaly, jaundice
-- **Increased osmotic fragility** on hypotonic salt solutions
-- Aplastic crises triggered by **parvovirus B19** infection
-- **Splenectomy** improves anemia (removes major site of red cell destruction)
-
-### Sickle Cell Anemia
-
-**Sickle cell anemia** is caused by a mutation in β-globin creating **sickle hemoglobin (HbS)**.
-
-- Most common familial hemolytic anemia
-- In parts of Africa where malaria is endemic, HbS gene frequency approaches 30%
-- ~8% of blacks in the US are heterozygous HbS carriers; ~1 in 600 have sickle cell anemia
-
-#### Pathogenesis
-
-- Single amino acid substitution: **valine** instead of **glutamate** at position 6 of β-globin
-- On deoxygenation, HbS molecules undergo conformational change → self-associate into **polymers** → distort red cells into sickled shape
-
-#### Factors Affecting Sickling
-
-1. **Intracellular levels of other hemoglobins**:
-   - In heterozygotes (~40% HbS), HbA greatly retards HbS polymerization → **sickle cell trait**
-   - **HbF** (fetal hemoglobin) interacts weakly with HbS
-   - **HbC** has greater tendency to aggregate with HbS → HbSC disease
-
-2. **Intracellular concentration of HbS**:
-   - Red cell dehydration increases Hb concentration → facilitates sickling
-   - **α-thalassemia** decreases Hb concentration → reduces sickling
-
-3. **Transit time through microvasculature**:
-   - Tissues with sluggish blood flow (spleen, bone marrow) are most susceptible
-   - Inflammation, dehydration, acidosis enhance sickling
-
-#### Pathophysiology
-
-Two major consequences:
-
-1. **Chronic moderately severe hemolytic anemia**:
-   - Mean red cell life span ~20 days (1/6 of normal)
-   - Severity correlates with fraction of **irreversibly sickled cells**
-
-2. **Vascular obstructions** → ischemic tissue damage and **pain crises**
-
-#### Morphology
-
-- Peripheral blood smear: elongated, spindled, or boat-shaped **irreversibly sickled cells**
-- **Hypoxia-induced fatty changes** in heart, liver, renal tubules
-- Compensatory **marrow erythroid hyperplasia**
-- Bone changes: prominent cheekbones, "crewcut" skull radiograph appearance
-- **Autosplenectomy** (functional asplenia) by adulthood due to repeated infarcts
-- Pigment gallstones common
-
-#### Clinical Features
-
-- Disease usually asymptomatic until 6 months of age (when HbF falls)
-- Hematocrit 18–30%
-- **Vasoocclusive crises**:
-  - **Hand-foot syndrome** (infarction of bones in hands/feet) — most common presenting symptom in young children
-  - **Acute chest syndrome** — sickling in inflamed lung → vicious circle of pulmonary dysfunction
-  - **Stroke** — major cause of ischemia-related death
-  - Proliferative retinopathy → potential blindness
-- **Aplastic crisis** triggered by parvovirus B19
-- **Functional asplenia** → susceptibility to infections by encapsulated bacteria (e.g., pneumococci)
-- **Salmonella osteomyelitis** predisposition
-
-#### Treatment
-
-- **Hydroxyurea**: increases HbF levels, anti-inflammatory effect, increases red cell size, metabolized to NO
-- **Allogeneic bone marrow transplantation** (potentially curative)
-- Prophylactic penicillin in children <5 years
-
-### Thalassemia
-
-**Thalassemias** are inherited disorders caused by mutations in globin genes that **decrease synthesis of α- or β-globin**.
-
-- Common in Mediterranean, African, and Asian regions (where malaria is endemic)
-- Both **α-thalassemia** and **β-thalassemia** exist
-
-#### β-Thalassemia
-
-- **β⁰**: no β-globin chains produced
-- **β⁺**: reduced (but detectable) β-globin synthesis
-- >100 different causative mutations (mostly point mutations)
-
-#### α-Thalassemia
-
-- Caused mainly by **deletions** involving one or more of the four α-globin genes
-- Severity proportional to number of α-globin genes deleted
-
-**Table 12.3** Clinical and Genetic Classification of Thalassemias:
-
-| Clinical Syndrome | Genotype | Clinical Features |
-|---|---|---|
-| β-Thalassemia major | Homozygous β-thalassemia (β⁰/β⁰, β⁺/β⁺, β⁰/β⁺) | Severe anemia; regular blood transfusions required |
-| β-Thalassemia intermedia | Variable (β⁰/β⁺, β⁺/β⁺, β⁰/β, β⁺/β) | Moderately severe anemia; transfusions not required |
-| β-Thalassemia minor | Heterozygous β-thalassemia (β⁰/β, β⁺/β) | Asymptomatic with mild or absent anemia |
-| Silent carrier | −/α, α/α | Asymptomatic |
-| α-Thalassemia trait | −/α, −/α | Asymptomatic |
-| HbH disease | −/−, −/α | Severe; resembles β-thalassemia intermedia |
-| Hydrops fetalis | −/−, −/− | Lethal in utero without transfusions |
-
-#### Pathogenesis of β-Thalassemia
-
-Two mechanisms contribute to anemia:
-
-1. **Inadequate HbA formation** → small (microcytic), poorly hemoglobinized (hypochromic) red cells
-2. **Accumulation of unpaired α-globin chains** → form toxic precipitates → damage membranes of red cells and erythroid precursors
-
-Key consequences:
-- Many erythroid precursors die by **apoptosis** → **ineffective erythropoiesis**
-- Few red cells produced → shortened life span
-- **Inappropriate increase in dietary iron absorption** → secondary **hemochromatosis**
-
-#### α-Thalassemia
-
-- Loss of 3 α-globin genes → relative excess of β- or γ-globin chains
-- Excess β-globin forms **HbH** (β₄)
-- Excess γ-globin forms **Hb Bart** (γ₄)
-- Both have abnormally high affinity for oxygen → ineffective oxygen delivery
-
-#### Morphology
-
-- **β-Thalassemia minor** and **α-thalassemia trait**: microcytic, hypochromic red cells; target cells
-- **β-Thalassemia major**: marked microcytosis, hypochromia, poikilocytosis, anisocytosis; **nucleated red cells** (normoblasts)
-- Splenomegaly, hepatomegaly, lymphadenopathy from extramedullary hematopoiesis
-
-#### Clinical Features
-
-- **β-Thalassemia trait and α-thalassemia trait**: typically asymptomatic; mild microcytic hypochromic anemia
-- **β-Thalassemia major**:
-  - Growth retardation commencing in infancy
-  - Blood transfusions improve anemia and reduce skeletal deformities
-  - Without iron chelation → **cardiac dysfunction from secondary hemochromatosis** (fatal by 2nd–3rd decade)
-  - **Hematopoietic stem cell transplantation** at early age is treatment of choice
-- **HbH disease and β-thalassemia intermedia**: moderate severity; transfusions not usually required
-
-#### Diagnosis
-
-- **Hb electrophoresis**: shows reduced/absent HbA, increased HbF
-- In β-thalassemia minor: reduced HbA, increased HbA₂
-- In HbH disease: detection of β₄ tetramers by electrophoresis
-
-### Glucose-6-Phosphate Dehydrogenase (G6PD) Deficiency
-
-**G6PD deficiency** is an X-linked disorder causing vulnerability to oxidative injury and hemolysis.
-
-- G6PD gene is on X chromosome
-- >400 variants identified; only a few associated with disease
-- **G6PD A−**: carried by ~10% of black males in the US; decreased half-life of enzyme
-
-#### Pathogenesis
-
-- Red cells exposed to oxidant stress (drugs, infections)
-- Incriminated drugs: primaquine, sulfonamides, nitrofurantoin, phenacetin, aspirin (high doses), vitamin K derivatives
-- **Heinz bodies** (precipitates of denatured globin) form inside red cells
-- **Bite cells** result when splenic macrophages "pluck out" Heinz bodies
-- Hemolysis is predominantly **intravascular**
-
-#### Clinical Features
-
-- Hemolysis develops 2–3 days after drug exposure
-- In males (uniformly deficient): all red cells vulnerable
-- In heterozygous females: two populations of red cells (mosaicism from X-inactivation)
-- Hemolysis abates even if drug exposure continues (new red cells with adequate G6PD)
-- **G6PD Mediterranean**: more severe enzyme deficiency and hemolysis
-
-### Paroxysmal Nocturnal Hemoglobinuria (PNH)
-
-**PNH** is caused by acquired mutations in **PIGA** gene → deficiency of phosphatidylinositol glycan (PIG) membrane anchor.
-
-- PIGA is X-linked
-- Mutation occurs in early hematopoietic progenitor
-- Progeny lack **PIG-tailed proteins** (including complement regulatory proteins)
-- Red cells derived from PIGA-deficient precursors are **hypersensitive to complement** lysis
-
-#### Clinical Features
-
-- **Nocturnal hemolysis** (enhanced by decreased blood pH during sleep from CO₂ retention)
-- Hemoglobinuria (usually presents less dramatically)
-- **Iron deficiency** from chronic intravascular hemolysis
-- **Thrombosis** (especially portal vein, hepatic vein) — most feared complication
-
-#### Treatment
-
-- **Eculizumab**: antibody that binds C5 → inhibits C5b-C9 membrane attack complex
-- Greatly lessens thrombosis and intravascular hemolysis
-- Risk for **Neisseria infections**; vaccination required
-
-### Immunohemolytic Anemia
-
-**Immunohemolytic anemia** is caused by antibodies that bind to red cell membrane determinants.
-
-#### Classification
-
-**Table 12.4** Classification of Immunohemolytic Anemias:
-
-| Type | Causes |
-|---|---|
-| **Warm Antibody Type** | Primary (idiopathic); Secondary: B cell neoplasms (CLL), autoimmune disorders (SLE), drugs (α-methyldopa, penicillin, quinidine) |
-| **Cold Antibody Type** | Acute: Mycoplasma infection, infectious mononucleosis; Chronic: idiopathic, B cell lymphoid neoplasms |
-
-#### Warm Antibody Immunohemolytic Anemia
-
-- Caused by **IgG antibodies** (active at 37°C)
-- Hemolysis: extravascular (phagocytosis by splenic macrophages)
-- Incomplete consumption of antibody-coated red cells → **spherocytes**
-- >60% idiopathic; ~25% secondary to immunologic disorders or drugs
-
-#### Cold Antibody Immunohemolytic Anemia
-
-- Caused by **IgM antibodies** (bind at temperatures <30°C)
-- **Extravascular hemolysis** (mainly in spleen and liver)
-- **Raynaud phenomenon** from blood sludging in capillaries
-- Transient forms: Mycoplasma infection, infectious mononucleosis
-- Chronic forms: associated with B cell neoplasms or idiopathic
-
-#### Diagnosis
-
-- **Direct Coombs test**: detects antibodies/complement on patient's red cells
-- **Indirect Coombs test**: detects antibodies in patient's serum
-
-### Hemolytic Anemia from Mechanical Trauma
-
-#### Microangiopathic Hemolytic Anemia (MAHA)
-
-- Red cells damaged when passing through vessels narrowed by:
-  - **Disseminated intravascular coagulation (DIC)**
-  - Malignant hypertension
-  - Systemic lupus erythematosus
-  - **Thrombotic thrombocytopenic purpura (TTP)**
-  - **Hemolytic uremic syndrome (HUS)**
-  - Disseminated cancer
-
-- **Schistocytes** (fragmented red cells): "burr cells," "helmet cells," "triangle cells"
-- Mechanical fragmentation of red cells
-
-#### Cardiac Valve Prostheses
-
-- Turbulent blood flow from defective valves → shears red cells ("blender effect")
-
-### Malaria
-
-**Malaria** affects ~500 million people and kills >1 million per year.
-
-- Caused by one of five *Plasmodium* species: **P. falciparum**, **P. malariae**, **P. vivax**, **P. knowlesi**, **P. ovale**
-- Transmitted by bite of female *Anopheles* mosquitoes
-- Most dangerous: **P. falciparum** (falciparum malaria/tertian malaria)
-
-#### Life Cycle
-
-1. **Mosquito bite**: sporozoites enter bloodstream → infect liver cells
-2. **Liver stage**: parasites multiply → form schizont containing thousands of merozoites
-3. **Blood stage**: merozoites released → infect red cells
-4. Intraerythrocytic parasites:
-   - Continue asexual reproduction → more merozoites → lyse red cells
-   - Or give rise to **gametocytes** (infect next mosquito)
-
-#### Pathogenesis of Falciparum Malaria
-
-- P. falciparum-infected red cells develop **positively charged surface knobs** containing parasite-encoded proteins
-- Knobs bind to adhesion molecules on activated endothelium (e.g., **ICAM-1**)
-- Red cells **trap in postcapillary venules**
-- In cerebral vessels → **cerebral malaria** (engorgement and occlusion)
-
-#### Morphology
-
-- Red cell trophozoites visible on peripheral blood smears
-- Brown **hematin** pigment (from hemoglobin) released from ruptured red cells
-- Discoloration of spleen, liver, lymph nodes, bone marrow
-- **Massive splenomegaly** from mononuclear phagocyte hyperplasia
-
-#### Clinical Features
-
-- Episodic shaking, chills, fever (coincide with merozoite release)
-  - P. knowlesi: ~24-hour cycle
-  - P. vivax, P. ovale, P. falciparum: ~48-hour cycle
-  - P. malariae: ~72-hour cycle
-- Hemolytic anemia (variable severity)
-- **Cerebral malaria** (P. falciparum): rapidly progressive; convulsions, coma, death within days to weeks
-- **Blackwater fever**: massive intravascular hemolysis, hemoglobinemia, hemoglobinuria, jaundice
-
-#### Treatment
-
-- Appropriate chemotherapy (but drug-resistant strains emerging)
-- No effective vaccine yet
+## Lymphoid Neoplasms
+
+### 總論：WHO 分類原則
+
+淋巴球腫瘤的分類基於三個層面：
+- **細胞來源**：B-cell、T-cell 與 NK-cell
+- **分化階段**：precursor（淋巴母細胞性，如 ALL）vs. peripheral/ mature（成熟淋巴球性）
+- **臨床表現**：leukemia（循環中腫瘤細胞為主）vs. lymphoma（淋巴結/組織腫塊為主）——兩者可能重疊
+
+**關鍵原則：**
+1. 淋巴球腫瘤反映正常淋巴球分化階段的形態學、免疫表型與基因特徵
+2. 所有淋巴球腫瘤都是**克隆性（clonal）**——起源於單一轉化細胞（同一 IgH 或 TCR gene rearrangement）
+3. **克隆性是鑑別反應性增生與腫瘤性增生的關鍵**：反應性增生的淋巴球是多克隆性（polyclonal）
+
+### Reactive vs. Neoplastic Lymphoid Proliferations
+
+| 特徵 | 反應性增生 | 腫瘤性增生 |
+|------|---------|---------|
+| **架構保留** | 淋巴結整體架構保留 | 通常模糊或破壞 |
+| **細胞群體** | 多樣（polyclonal）——T、B、漿細胞、巨噬細胞混合 | 單一（clonal）——腫瘤細胞為主 |
+| **生長模式** | 可變 | 單一/瀰漫（diffuse）或結節（nodular）|
+| **有絲分裂** | 可變，取決於刺激強度 | 常見且活躍（高生長分數）|
+| **免疫表型** | 多種細胞類型混合 | 單一細胞類型表達相同標記 |
+
+### 彌漫性大型 B 細胞淋巴瘤（Diffuse Large B-Cell Lymphoma，DLBCL）
+
+- **最常見的成人非何杰金淋巴瘤（NHL）**（30-35%）
+- **分類**：Mature B-cell lymphoma——屬侵襲性（aggressive）但可治療
+- **分子特徵**：約 30-40% 有 BCL2 overexpression（通過 gene duplication 或 translocation t(14;18)）；10-20% 有 BCL6 rearrangements；MYC rearrangements（預後較差）
+- **臨床表現**：快速增大的無痛性淋巴結或**結外腫塊**（胃腸道、中樞神經、骨骼、睪丸）；30% 確診時已有結外侵犯
+- **治療**：R-CHOP（rituximab + cyclophosphamide、doxorubicin、vincristine、prednisone）——rituximab 是 anti-CD20 單株抗體，顯著改善存活
+- **預後**：5 年生存率 50-70%；國際預後指數（IPI）用於分層
+
+### 濾泡性淋巴瘤（Follicular Lymphoma，FL）
+
+- **第二常見的 NHL**（20-30%）；屬**惰性（indolent）**但**不可根治**
+- **分子基礎**：>85% 有 **t(14;18)(q32;q21)**——IgH gene 與 **BCL2 gene** 融合→**BCL2 過度表達**→抑制凋亡（Bcl-2 為抗凋亡蛋白，正常時只在生發中心 B cells 有短暫表現）
+- **形態學**：淋巴結中 **follicular pattern**（腫瘤性濾泡替代正常濾泡）；由中心細胞（cleaved follicular center cells）與中心母細胞混合組成
+- **臨床表現**：無痛性全身淋巴結腫大；確診時通常已廣泛分布（晚期）；自然病程長但不可根治
+- **轉化（Transformation）**：10-15% 會進展為 **DLBCL（transformed lymphoma）**——預後大幅下降
+
+### Burkitt Lymphoma（伯基特淋巴瘤）
+
+- **生長最快的哺乳類人類腫瘤**（Ki-67 >95%——幾乎所有細胞都在分裂中）
+- **分子基礎**：**t(8;14)(q24;q32)**——**MYC**（c-myc oncogene）與 **IgH** 融合；也可有 t(2;8) 或 t(8;22)（MYC 與 κ或 λ light chain）
+- **形態學**：中等大小的淋巴細胞，胞質嗜鹼性、有空泡；大量散在的**tingible body macrophages（含吞噬碎屑的巨噬細胞）**——形成「**星空現象（starry sky pattern）**」（暗的 macrophage 散在於亮的腫瘤細胞海洋中）
+- **臨床表現（依地區分型）：**
+  - **Endemic（非洲型）**：與 EBV 感染高度相關（>95%）；典型侵犯**顏面骨**（jaw）——上頜骨與下頜骨腫塊
+  - **Sporadic（散發型）**：EBV 相關性較低（15-30%）；典型侵犯**腹部**（ileocecal region、retroperitoneum、ovaries、kidneys）
+  - **Immunodeficiency-associated**：愛滋病相關（見於較晚期免疫抑制者）
+- **高度侵襲性但高度可根治**：Intensive multi-agent chemotherapy（如 CODOX-M/IVAC）；兒童/青年的 Burkitt lymphoma 化療後完全緩解率 >90%
+
+### 套細胞淋巴瘤（Mantle Cell Lymphoma，MCL）
+
+- 由**套區（mantle zone）B cells** 來源的 NHL——套區 B cells 是圍繞生發中心的正常 B-cell 亞群
+- **分子基礎**：幾乎都有 **t(11;14)(q13;q32)**——**CCND1（cyclin D1）** 與 **IgH** 融合→**Cyclin D1 過度表達**→細胞越過 G1/S checkpoint→不受控制的增殖
+- **特點**：惰性但**不可根治**；老年男性；確診時通常已有骨髓、CNS、結外侵犯
+- **預後差**：中位生存 4-6 年（即使化療+rituximab）
+
+### Hodgkin Lymphoma（何杰金淋巴瘤）
+
+**Reed-Sternberg（RS）cells** 是診斷的病理學依據：
+- 大型（40-60 μm）細胞；**雙葉核（bilobed nuclei）——「梟眼（owl-eye）外觀」**；每葉有一個嗜酸性核仁；豐富的嗜酸性或嗜鹼性細胞質
+- 免疫表型：**CD15+**、**CD30+**、**CD45−**（不表達 common leukocyte antigen）；約 30-40% 病例的 RS cells 為 **CD20+**
+- RS cells 周圍有豐富的炎症細胞浸潤（反應性 background）
+
+**分型（REAL/WHO 分類）：**
+
+| 類型 | 特點 | 預後 |
+|------|------|------|
+| **Nodular sclerosis（結節性硬化型）**（最常見，60-80%）| 膠原蛋白 bands 分隔結節；存在 **lacunar cells**（變異的 RS cells，核分葉但胞質收縮）| 良好 |
+| **Mixed cellularity（混合細胞型）** | 經典型 RS cells，混合炎症細胞浸潤（lymphocytes、eosinophils、plasma cells）| 良好 |
+| **Lymphocyte-rich（淋巴球豐富型）** | 大量小淋巴球浸潤，少量 RS cells | 良好 |
+| **Lymphocyte-depleted（淋巴球缺失型）** | RS cells 豐富，淋巴球稀少；與 HIV 相關 | 不良 |
+| **Nodular lymphocyte-predominant（結節性淋巴球優勢型，NLPHL）** | **LP cells（popcorn cells）**——多葉核、嗜鹼性核仁（表達 CD20+，不表達 CD15/CD30）| 預後極佳（即使不治療） |
 
 ---
 
-## Anemia of Diminished Erythropoiesis
+## 漿細胞疾病（Plasma Cell Neoplasms）
 
-### Iron Deficiency Anemia
+### Multiple Myeloma（多發性骨髓瘤）
 
-**Iron deficiency** is the most common nutritional deficiency worldwide.
+- 漿細胞的惡性增生病；**漿細胞骨髓瘤（plasma cell myeloma）**是漿細胞疾病中最常見的惡性實體
+- **流行病學**：第二位常見的血液系統惡性腫瘤（僅次於 NHL）；老年人（中位年齡 65-70 歲）
 
-#### Normal Iron Metabolism
+**分子發病機制：**
+- **IL-6** 是促進漿細胞增殖的關鍵細胞激素（由骨髓間質細胞與 osteoblasts 分泌）
+- 染色體異常常見：
+  - **Hyperdiploidy**（染色體過多）——預後較好
+  - **非超二倍體**（IgH translocations：t(4;14)、t(14;16)、t(14;20)）——預後不良
+  - **del(17p）**——預後最差（失去 p53）
 
-- Normal total body iron: ~2.5 g (women), ~3.5 g (men)
-- ~80% in hemoglobin; remainder in myoglobin and iron-containing enzymes
-- Iron storage pool: hemosiderin and ferritin in liver, spleen, bone marrow, skeletal muscle
-- Transport: **transferrin** (normally ~33% saturated)
-- Normal daily Western diet: 10–20 mg iron; only ~1–2 mg absorbed
+**骨病變機制：**
+- Myeloma cells 分泌 **RANKL（receptor activator of NF-κB ligand）**→ osteoclast 活化→骨破壞
+- Myeloma cells 也分泌 **Dkk1（Wnt pathway inhibitor）**→抑制 osteoblast→新骨形成停止
+- 結果：**lytic bone lesions**（溶解性骨病變）——無骨質增強反應（不像轉移性前列腺癌的成骨性病變）
 
-#### Regulation of Iron Absorption
+**腎功能障礙的機制：**
+- **Bence Jones proteins**（單株 **free light chains**，κ 或 λ）可在腎小管內形成 **casts（鑄型）**→管腔阻塞與腎小管細胞毒性→**骨髓瘤腎病（myeloma kidney）**
+- Light chains 也可沉積於腎小球→澱粉樣變性（AL amyloidosis）
 
-Occurs in the duodenum:
+**臨床特徵（CRAB criteria / CRAB-LiPS criteria）：**
 
-1. **Ferrous iron (Fe²⁺)** transported across apical membrane by **DMT1** (divalent metal transporter-1)
-2. **Ferroportin** moves iron from cytoplasm to plasma across basolateral membrane
-3. Iron oxidized by **hephaestin** and **ceruloplasmin** to **ferric iron (Fe³⁺)** → binds transferrin
+| 表現 | 機制 |
+|------|------|
+| **C：Hypercalcemia（高血鈣）** | 骨溶解釋放 Ca²⁺ |
+| **R：Renal insufficiency（腎功能障礙）**（30-50%）| Bence Jones proteins 形成鑄型；高血鈣；脫水 |
+| **A：Anemia（貧血）** | 骨髓浸潤（置換正常造血）；紅血球生成被抑制 |
+| **B：Bone lesions（骨病變）** | RANKL↑→骨破壞；病理性骨折 |
+| **Li：Lambda free light chains (≥500 mg/24h)** | — |
+| **S：Secondary amyloidosis（續發性澱粉樣變性）** | AL type（免疫球蛋白 light chains 摺疊錯誤形成 amyloid） |
 
-**Hepcidin** (from liver) regulates iron absorption:
-- **High iron levels** → increased hepcidin → ferroportin degraded → decreased iron absorption
-- **Low iron levels** → decreased hepcidin → increased iron absorption
-- **Systemic inflammation** → increased hepcidin → sequesters iron in macrophages
-- **Ineffective hematopoiesis** → decreased hepcidin → increased iron absorption
+其他表現：反覆感染（正常免疫球蛋白被抑制，感染 encapsulated bacteria）、高黏滯症候群（hyperviscosity syndrome——IgM 更常見，但 IgG3 也可造成）
 
-#### Pathogenesis of Iron Deficiency
+### Waldenström Macroglobulinemia（巨球蛋白血症）
 
-- **Chronic blood loss**: most important cause in Western world (GI tract lesions, gynecologic disturbances)
-- **Inadequate dietary intake**: predominantly vegetarian diets, infants fed exclusively milk
-- **Increased demands**: pregnancy, infancy
-- **Malabsorption**: celiac disease, gastrectomy
-
-#### Clinical Features
-
-- Weakness, listlessness, pallor
-- **Spooning of fingernails** (koilonychia)
-- **Pica** (compulsion to consume nonfoodstuffs)
-- Peripheral blood smear: **microcytic, hypochromic** red cells
-- Diagnostic criteria: microcytic hypochromic indices, low serum ferritin and iron, low transferrin saturation, increased TIBC
-
-### Anemia of Chronic Inflammation
-
-**Anemia of chronic disease** is the most common form of anemia in hospitalized patients.
-
-#### Conditions Associated
-
-- Chronic microbial infections (osteomyelitis, bacterial endocarditis, lung abscess)
-- Chronic immune disorders (rheumatoid arthritis, regional enteritis)
-- Neoplasms (Hodgkin lymphoma, carcinomas of lung and breast)
-
-#### Pathogenesis
-
-- **High plasma hepcidin** → blocks transfer of iron to erythroid precursors (downregulates ferroportin in macrophages)
-- Elevated hepcidin from **proinflammatory cytokines** (especially **IL-6**)
-- Chronic inflammation **blunts erythropoietin synthesis** by kidney
-
-#### Clinical Features
-
-- Serum iron levels usually low; red cells may be slightly hypochromic and microcytic
-- Unlike iron deficiency: **increased** storage iron in bone marrow and serum ferritin; **reduced** TIBC
-- Treatment: erythropoietin and iron (temporizing); effective treatment of underlying condition is curative
-
-### Megaloblastic Anemias
-
-**Megaloblastic anemia** stems from inadequate biosynthesis of **thymidine** → defective DNA synthesis.
-
-#### Pathogenesis
-
-- Folate and vitamin B12 required for synthesis of **thymidylate (dTMP)**
-- Deficiency → abnormal DNA replication → nuclear-cytoplasmic asynchrony
-- Erythroid precursors undergo **apoptosis** (ineffective hematopoiesis)
-- Granulocyte and platelet precursors also affected → **pancytopenia**
-
-#### Morphology
-
-**Bone marrow:**
-- Markedly hypercellular
-- Numerous **megaloblastic erythroid progenitors** (larger than normoblasts)
-- **Fine, reticulated nuclear chromatin** (nuclear immaturity)
-- **Nuclear-cytoplasmic asynchrony**
-- Giant metamyelocytes
-- Large, bizarre multinucleated megakaryocytes
-
-**Peripheral blood:**
-- **Hypersegmented neutrophils** (5+ nuclear lobes) — earliest change
-- **Macroovalocytes** (large, egg-shaped); MCV often >110 fL
-- Large, misshapen platelets
-
-#### Folate (Folic Acid) Deficiency
-
-**Causes:**
-- Inadequate dietary intake (folate destroyed by 10–15 minutes of cooking)
-- Increased metabolic demands (pregnancy, chronic hemolytic anemias)
-- Malabsorption (celiac disease, tropical sprue)
-- Drugs (phenytoin, methotrexate)
-
-**Clinical Features:**
-- Insidious onset: weakness, easy fatigability
-- Sore tongue (gastrointestinal symptoms common)
-- **No neurologic abnormalities** (unlike B12 deficiency)
-
-#### Vitamin B12 (Cobalamin) Deficiency
-
-**Causes:**
-- **Pernicious anemia**: autoimmune attack on gastric mucosa → loss of intrinsic factor
-- Gastrectomy (loss of intrinsic factor-producing cells)
-- Ileal resection (loss of intrinsic factor-B12 absorbing cells)
-- Disorders of distal ileum (Crohn disease, tropical sprue, Whipple disease)
-- Gastric atrophy and achlorhydria in older persons
-
-**Pathogenesis of Pernicious Anemia:**
-- Autoantibodies against parietal cells and intrinsic factor
-- Chronic atrophic gastritis with loss of parietal cells
-- When intrinsic factor-secreting cells fall below threshold + vitamin B12 stores depleted → anemia develops
-
-**Neurologic Manifestations (specific to B12 deficiency):**
-- Demyelination of posterior and lateral columns of spinal cord (sometimes peripheral nerves)
-- Symmetric numbness, tingling, burning in feet/hands → unsteadiness of gait → loss of position sense
-- Severity NOT related to degree of anemia
-- Neurologic manifestations may occur without overt megaloblastic anemia
-
-**Clinical Features:**
-- Pallor, easy fatigability, dyspnea (severe cases)
-- Mild jaundice (ineffective erythropoiesis)
-- Beefy red tongue (megaloblastic oropharyngeal changes)
-- Spinal cord disease: neurologic symptoms
-
-**Diagnosis:**
-- Low serum vitamin B12 levels
-- Normal or elevated serum folate
-- Moderate to severe macrocytic anemia
-- Leukopenia with hypersegmented granulocytes
-- Reticulocytic response to parenteral B12 within 2–3 days
-
-### Aplastic Anemia
-
-**Aplastic anemia** is a disorder of multipotent myeloid stem cells → bone marrow failure → **pancytopenia**.
-
-#### Pathogenesis
-
-- **Immune-mediated suppression** of marrow progenitors (activated T cells suppress hematopoietic stem cells)
-- **Intrinsic stem cell abnormality** (defects in telomerase)
-- Immunosuppressive therapy restores hematopoiesis in 60–70% of patients
-
-#### Clinical Features
-
-- Insidious development: weakness, pallor, dyspnea
-- Thrombocytopenia → **petechiae and ecchymoses**
-- Neutropenia → serious infections
-- **No splenomegaly** (if present, consider another diagnosis)
-
-#### Treatment
-
-- Withdrawal of inciting drug (sometimes leads to remission)
-- **Hematopoietic stem cell transplantation** (curative, especially in nontransfused patients <40 years)
-- Immunosuppressive therapy for poor transplantation candidates
-
-### Myelophthisic Anemia
-
-**Myelophthisic anemia** is caused by extensive **marrow infiltration** by tumors or other lesions.
-
-- Most commonly: metastatic breast, lung, or prostate cancer
-- Also: advanced tuberculosis, lipid storage disorders, osteosclerosis
-
-#### Clinical Features
-
-- Anemia and thrombocytopenia
-- **Teardrop-shaped red cells** (dacrocytes) on peripheral smear
-- **Leukoerythroblastosis** (immature granulocytic and erythroid precursors)
-- Mild leukocytosis
-- Treatment: directed at underlying condition
+- 由 **lymphoplasmacytic lymphoma** 細胞分泌 **IgM** 的疾病
+- **分子特徵**：>90% 有 **MYD88 L265P 突變**
+- **IgM 是大分子（五聚體）**→容易造成**高黏滯症候群（hyperviscosity syndrome）**——視覺障礙（視網膜靜脈曲張、「sausage-link」）、神經症狀（眩暈、意識障礙）、出血傾向（黏膜）
+- 與 Multiple myeloma 不同：通常**無溶骨性病變**；骨髓侵犯（lymphoplasmacytic infiltration）
 
 ---
 
-## Polycythemia
+## Hemostasis 與 Bleeding Disorders
 
-**Polycythemia** (erythrocytosis) denotes an increase in red cells per unit volume of peripheral blood.
+### 止血系統概述
 
-**Table 12.5** Pathophysiologic Classification of Polycythemia:
+止血是防止血液從受損血管流失的精密協調過程，依序分為：
 
-| Type | Mechanism |
-|---|---|
-| **Relative** | Reduced plasma volume (hemoconcentration) |
-| **Primary (Polycythemia vera)** | Abnormal proliferation of myeloid stem cells; normal or low erythropoietin |
-| **Secondary** | Increased erythropoietin levels |
-| - Adaptive | Lung disease, high-altitude living, cyanotic heart disease |
-| - Paraneoplastic | Erythropoietin-secreting tumors (renal cell carcinoma, hepatoma, cerebellar hemangioblastoma) |
-| - Surreptitious | Endurance athletes |
+**1. Primary hemostasis（第一階段止血）——血小板栓塞形成：**
+- 血管受損→內皮細胞下膠原與 vWF 暴露→血小板黏附（通過 GP Ib/IX/V receptor 結合 vWF）→血小板活化（ADP、thromboxane A₂）→血小板聚集（GP IIb/IIIa 結合 fibrinogen）→**白色血小板栓塞（white thrombus）**
 
----
+**2. Secondary hemostasis（第二階段止血）——纖維蛋白形成：**
+- Tissue factor（受損內皮/外膜細胞）暴露→**extrinsic pathway** 啟動→Factor VII 活化→啟動 **common pathway**
+- **Intrinsic pathway**（接觸激活）：Factor XII → Factor XI → Factor IX→ Factor VIIIa（cofactor）→Factor Xa→**Common pathway**：Factor Xa + Factor Va（prothrombinase）→Prothrombin→Thrombin→Fibrinogen→Fibrin
+- Thrombin 也活化 Factor XIII（穩定纖維蛋白）與 platelets
 
-## Nonneoplastic Disorders of White Cells
+**3. 抗凝與纖溶（Regulation）：**
+- Antithrombin III（AT-III）抑制 thrombin、Factor Xa 與 IXa
+- Protein C / Protein S 系統（維生素 K 依賴）——在 endothelial thrombomodulin 存在下，thrombin 轉化為活化 Protein C（APC）→抑制 Factor Va 與 VIIIa
+- **Tissue factor pathway inhibitor（TFPI）**——抑制 extrinsic pathway initiation
+- **Fibrinolysis（纖溶）**：t-PA 與 urokinase→將 plasminogen 轉化為 plasmin→降解纖維蛋白→Fibrin degradation products（FDPs / D-dimer）
 
-### Leukopenia
+### 實驗室評估
 
-**Leukopenia** results most commonly from a decrease in **granulocytes** (neutrophils).
+| 測試 | 評估 |
+|------|------|
+| **PT（Prothrombin Time）** | Extrinsic pathway 與 common pathway（Factor VII、X、V、II[I prothrombin]、fibrinogen）|
+| **PTT（Partial Thromboplastin Time）** | Intrinsic pathway 與 common pathway（Factors XII、XI、IX、V、VIII、X、II、fibrinogen）|
+| **Platelet count** | 血小板數量 |
+| **Bleeding time** | Platelet function 與血管完整性（受血小板數量與功能、血管收縮能力影響）|
+| **Thrombin time（TT）** | Fibrinogen → fibrin conversion；延長見於低/異常 fibrinogen、DIC、paraprotein 干擾 |
 
-**Lymphopenia** is associated with:
-- Rare congenital immunodeficiency diseases
-- Advanced HIV infection
-- High-dose corticosteroid treatment
+### 血小板減少（Thrombocytopenia）
 
-### Neutropenia/Agranulocytosis
+**原因（三大機制）：**
+- **生成減少**：化療、骨髓衰竭、營養缺乏（B12/folate）、先天性（MARCH 症候群）
+- **破壞增加**：自體免疫（ITP）、藥物誘導（HIT——heparin-induced thrombocytopenia）、TTP、HUS、DIC
+- **分隔增加（Sequestration）**：脾腫大（hypersplenism）——脾臟滯留約 1/3 的血小板
 
-**Neutropenia**: reduction in granulocytes in blood
-**Agranulocytosis**: severe neutropenia
+**Immune Thrombocytopenia（ITP，免疫性血小板減少性紫斑）：**
+- 自體免疫性血小板減少——抗血小板自體抗體（IgG）結合血小板→被脾臟巨噬細胞清除
+- 臨床：**孤立性血小板減少**（無脾腫大、無其他病因）；輕度 ITP 可無症狀；嚴重時皮膚瘀點、紫斑、黏膜出血
+- 治療：皮質類固醇、IVIG、抗-D（RhoGAM——用於 Rh+ 有脾患者）、脾切除術、rituximab、TPO receptor agonists（eltrombopag、romiplostim）
 
-- Risk of serious bacterial and fungal infections rises sharply when neutrophil count <500 cells/µL
+**Heparin-Induced Thrombocytopenia（HIT）：**
+- 藥物誘導的自體免疫——heparin + PF4（platelet factor 4）複合物形成→自體抗體結合此複合物→血小板活化→血栓形成 + 血小板減少
+- 臨床：**血栓形成（靜脈或动脉）>> 出血**；血小板通常 5000-20,000/μL（減少>50%）
+- **診斷**：4Ts scoring system + HIT antibody testing（ELISA 或 serotonin release assay）
+- 治療：**立即停用所有 heparin**；改用 direct thrombin inhibitor（argatroban）或 fondaparinux
 
-#### Pathogenesis
+**Thrombotic Thrombocytopenic Purpura（TTP，血栓性血小板減少性紫斑）：**
+- ADAMTS13 缺乏（基因或自體免疫）→**Ultra-large vWF multimers（超大 von Willebrand factor 多聚體）**累積→血小板廣泛聚集→微血栓沉積於小血管
+- **臨床五聯症**（經典）：血小板減少（schistocytes/Helmet cells + 溶血）；微血管病性溶血性貧血（MAHA）；神經系統症狀（headache、意識障礙、stroke）；腎功能障礙；發燒
+- **治療**：血漿置換（plasma exchange）——去除自體免疫抗體 + 補充 ADAMTS13
 
-- **Decreased granulocyte production**:
-  - Marrow hypoplasia (cancer chemotherapy, aplastic anemia)
-  - Marrow replacement by tumor
-  - Drugs, neoplastic proliferations of cytotoxic T cells
+### 凝血因子缺乏
 
-- **Increased granulocyte destruction**:
-  - Immune-mediated injury (drugs)
-  - Overwhelming bacterial/fungal/rickettsial infections
-  - Splenomegaly (sequestration)
+**Hemophilia A**：Factor VIII 缺乏（X 連鎖隱性——影響男性）
+**Hemophilia B**：Factor IX 缺乏（Christmas disease——X 連鎖隱性）
 
-#### Clinical Features
+- 臨床：創傷/手術後過度出血；關節內出血（hemarthrosis）→慢性關節病（arthropathy）；肌肉內出血；延遲性出血（手術後數小時才出現）
+- 確診：PTT 延長（intrinsic pathway）而 PT 正常；Factor VIII 或 IX 活性測定
+- 治療：Factor VIII 或 IX 濃縮製劑（recombinant 或血漿來源）；DDAVP（desmopressin——可用於輕度 Hemophilia A）
 
-- **Infections**: ulcerating, necrotizing lesions of oral cavity (agranulocytic angina)
-- Large masses of microorganisms in lesions
-- Malaise, chills, fever
-- Broad-spectrum antibiotics at first sign of infection
-- **G-CSF** (granulocyte colony-stimulating factor) may be used
+**von Willebrand Disease（vWD）：**
+- 最常見的**遺傳性出血疾病**
+- **vWF 缺陷**：兩個功能受影響
+  - **Platelet adhesion 受損**（vWF 作為血小板與受損內皮/膠原間的橋樑）→黏膜出血（鼻出血、牙齦出血、月經過多）、皮膚瘀點
+  - **Factor VIII 減少**（vWF 穩定循環中的 Factor VIII）→PTT 可能輕度延長
+- **類型**：Type 1（ quantitative deficiency，最常見，75%）| Type 2（qualitative defects，4 個亞型）| Type 3（severe quantitative deficiency）
+- 確診：vWF antigen、ristocetin cofactor activity（vWF function）、Factor VIII 活性
+- 治療：DDAVP（Type 1 與 2A）；Factor VIII/vWF 濃縮製劑（Type 3）
 
-### Reactive Leukocytosis
+### 瀰漫性血管內凝血（Disseminated Intravascular Coagulation，DIC）
 
-**Leukocytosis** is common in inflammatory states (microbial and nonmicrobial stimuli).
-
-**Table 12.6** Causes of Leukocytosis:
-
-| Type | Causes |
-|---|---|
-| **Neutrophilic** | Acute bacterial infections (pyogenic organisms); tissue necrosis (MI, burns) |
-| **Eosinophilic** | Allergic disorders (asthma, hay fever); parasitic infestations; drug reactions; malignancies; collagen-vascular disorders |
-| **Basophilic** | Myeloproliferative neoplasms (e.g., CML) |
-| **Monocytic** | Chronic infections (tuberculosis, bacterial endocarditis); collagen vascular diseases; inflammatory bowel diseases |
-| **Lymphocytic** | Chronic immunologic stimulation (tuberculosis, brucellosis); viral infections (hepatitis A, CMV, EBV); pertussis |
-
-### Infectious Mononucleosis
-
-**Infectious mononucleosis** is caused by **Epstein-Barr virus (EBV)**; affects adolescents and young adults.
-
-#### Clinical Features
-
-- Fever, sore throat, generalized **lymphadenitis**
-- **Lymphocytosis** of activated **CD8+ T cells**
-- **Atypical lymphocytes** on peripheral smear (large cells with oval/indented nucleus, abundant cytoplasm)
-
-#### Pathogenesis
-
-- Virus infects oropharyngeal epithelial cells → spreads to lymphoid tissue (tonsils, adenoids)
-- Mature B cells infected
-- **Lytic infection** (minority) → viral replication
-- **Latent infection** (majority) → persists as extrachromosomal episome
-- EBV-infected B cells proliferate (viral proteins)
-- **CD8+ T cells** control proliferation → atypical lymphocytes
-
-#### Morphology
-
-- Peripheral blood: **leukocytosis** (12,000–18,000 cells/µL); >50% atypical lymphocytes
-- Lymph nodes: atypical lymphocytes in **paracortical (T cell) areas**
-- Reed-Sternberg-like cells may be seen
-- Spleen enlarged (300–500 g); fragile → **risk of rupture**
-- Liver: portal and sinusoidal infiltration by atypical lymphocytes
-
-#### Clinical Features
-
-- Classic: fever, sore throat, lymphadenitis
-- Atypical presentations: isolated fatigue, hepatitis, febrile rash
-- Diagnosis:
-  1. Atypical lymphocytes in peripheral blood
-  2. Positive heterophil reaction (Monospot test)
-  3. Rising titer of antibodies specific for EBV antigens
-- Usually resolves in 4–6 weeks; fatigue may last longer
-- Complications: hepatic dysfunction, nervous system involvement, **splenic rupture**, EBV-driven B cell lymphoma (in immunocompromised)
-
-### Reactive Lymphadenitis
-
-#### Acute Nonspecific Lymphadenitis
-
-- Swollen, gray-red, engorged nodes
-- Large germinal centers with numerous mitotic figures
-- Neutrophilic infiltrate around follicles (pyogenic organisms)
-- Follicular necrosis → abscess formation
-- Tender nodes; may become fluctuant
-
-#### Chronic Nonspecific Lymphadenitis
-
-**Three patterns:**
-
-1. **Follicular hyperplasia**: B cell activation → germinal center reaction
-   - Causes: rheumatoid arthritis, toxoplasmosis, early HIV infection
-   - Must be distinguished from follicular lymphoma:
-     - Preservation of node architecture
-     - Variation in germinal center shape and size
-     - Mixed lymphocyte populations
-     - Prominent mitotic and phagocytic activity
-
-2. **Paracortical hyperplasia**: T cell region activation
-   - Viral infections (EBV), vaccinations, drug reactions
-   - Parafollicular T cells → immunoblasts
-
-3. **Sinus histiocytosis**: distention of lymphatic sinusoids by macrophages
-   - Often in nodes draining cancers
-
-### Cat-Scratch Disease
-
-**Cat-scratch disease** is caused by *Bartonella henselae*; primarily affects children (<18 years).
-
-- Regional lymphadenopathy (axilla, neck) 2 weeks after cat scratch/splinter injury
-- Inflammatory nodule/vesicle/eschar at site of skin injury
-- Lymph node enlargement regresses in 2–4 months
-- Rare complications: encephalitis, osteomyelitis, thrombocytopenia
-
-#### Morphology
-
-- Initial: sarcoidlike granulomas
-- Then: central necrosis with neutrophilic infiltrate → **stellate necrotizing granulomas**
-- Organisms visualized with silver stains
-
-### Hemophagocytic Lymphohistiocytosis (HLH)
-
-**HLH** is triggered by viral infection or proinflammatory exposures → activation of macrophages throughout body → phagocytosis of blood cells → **cytopenias** and systemic inflammation.
-
-#### Pathogenesis
-
-- Inherited defects in genes regulating cytotoxic lymphocyte function (e.g., **PRF1** encoding **perforin**)
-- Defective CD8+ T cells and NK cells → unable to kill virus-infected cells
-- Prolonged lymphocyte engagement → excessive cytokine release (IFN-γ) → macrophage activation
-- Unbridled macrophage activation → toxic cytokine levels (TNF, IL-6)
-
-#### Settings
-
-- Infants/young children with homozygous defects in cytotoxic lymphocyte genes
-- Older males with X-linked lymphoproliferative disorder (triggered by EBV)
-- Secondary to rheumatologic conditions
-- Associated with peripheral T cell lymphomas
-
-#### Clinical Features
-
-- Fever, splenomegaly, pancytopenia
-- DIC and organ failure (severe cases)
-- Bone marrow: macrophages phagocytosing red cells, platelets, nucleated marrow cells
-- Laboratory: very high ferritin (>10,000 µg/L), hypertriglyceridemia, high soluble IL-2 receptor, low NK cells and cytotoxic T lymphocytes
+- **全身性凝血系統激活**→微血栓沉積於小血管（組織缺血、器官功能障礙）→**凝血因子與血小板耗竭**→**出血**
+- **臨床**：出血（瘀斑、紫斑、靜脈穿刺部位滲血、臟器出血）與**血栓栓塞**同時出現
+- **實驗室**：PT↑、PTT↑、fibrinogen↓（被消耗）、D-dimer↑（纖溶標記）、血小板↓、schistocytes（裂紅血球——血流的機械力將紅血球切斷）
+- **觸發因素**：敗血症（最常見——endotoxin 激活凝血）、產科併發症（羊水栓塞、胎盤早期剝離、子癲前症——組織因子釋放）、廣泛性癌症（ mucin-producing adenocarcinomas——組織因子）、嚴重創傷/燒傷
+- **治療**：**根本病因的治療**（最關鍵）——移除觸發因素；支持性治療（輸血[Fresh frozen plasma、platelet concentrate、cryoprecipitate 提供 fibrinogen]）
 
 ---
 
-## Neoplastic Proliferations of White Cells
-
-### WHO Classification of Lymphoid Neoplasms
-
-**Table 12.7** WHO Classification of Lymphoid Neoplasms:
-
-**Precursor B Cell Neoplasms:**
-- Precursor B cell leukemia/lymphoma (B-ALL)
-
-**Peripheral B Cell Neoplasms:**
-- B cell chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL)
-- B cell prolymphocytic leukemia
-- Lymphoplasmacytic lymphoma
-- **Mantle cell lymphoma**
-- **Follicular lymphoma**
-- Extranodal marginal zone lymphoma
-- Splenic and nodal marginal zone lymphoma
-- **Hairy cell leukemia**
-- Plasmacytoma/plasma cell myeloma
-- **Diffuse large B cell lymphoma**
-- **Burkitt lymphoma**
-
-**Precursor T Cell Neoplasms:**
-- Precursor T cell leukemia/lymphoma (T-ALL)
-
-**Peripheral T/NK Cell Neoplasms:**
-- T cell prolymphocytic leukemia
-- T cell granular lymphocytic leukemia
-- Mycosis fungoides/Sézary syndrome
-- Peripheral T cell lymphoma, unspecified
-- Angioimmunoblastic T cell lymphoma
-- Anaplastic large cell lymphoma
-- Enteropathy-type T cell lymphoma
-- Panniculitis-like T cell lymphoma
-- Hepatosplenic γδ T cell lymphoma
-- Adult T cell lymphoma/leukemia
-- Extranodal NK/T cell lymphoma
-- Aggressive NK cell leukemia
-
-**Hodgkin Lymphoma:**
-- Nodular sclerosis
-- Mixed cellularity
-- Lymphocyte-rich
-- Lymphocyte-depleted
-- Lymphocyte predominant
-
-### Lymphoid Neoplasms: Key Principles
-
-- **B and T cell tumors** often resemble cells at specific stages of normal lymphocyte differentiation
-- Diagnosis relies on **lineage-specific antigens** (CD markers)
-- Most common lymphomas derive from **germinal center B cells**
-- Lymphoid neoplasms are **clonal** (derived from single transformed cell)
-- Both **immunodeficiency** and **autoimmunity** may occur
-- NHLs often widely disseminated at diagnosis (only systemic therapies curative)
-
-### Precursor B and T Cell Neoplasms: Acute Lymphoblastic Leukemia/Lymphoma (ALL)
-
-**ALL** is a neoplasm of immature B (pre-B) or T (pre-T) cells (**lymphoblasts**).
-
-- ~85% are B-ALLs (typically childhood leukemias)
-- ~15% are T-ALLs (typically adolescent males with thymic "lymphomas")
-- Most common cancer of children (~2500 new cases/year in US)
-- Peak incidence: B-ALL at ~3 years; T-ALL in adolescence
-- More common in whites than blacks; Hispanics have highest incidence
-
-#### Pathogenesis
-
-- Chromosomal aberrations dysregulate transcription factors required for B and T cell differentiation
-- Up to 70% of T-ALLs have **gain-of-function mutations in NOTCH1**
-- Many B-ALLs have **loss-of-function mutations in PAX5** (required for B cell differentiation)
-- Additional driver mutations: increased tyrosine kinase activity, **RAS signaling**
-- ALL genomes relatively simple (<10 mutations sufficient)
-
-#### Morphology
-
-- Marrow: hypercellular, packed with lymphoblasts
-- Mediastinal masses in 50–70% of T-ALLs
-- Lymphoblasts: scant basophilic cytoplasm, delicate finely stippled nuclear chromatin, small nucleoli
-- High mitotic rate
-- Peripheral blood: variable; may have >100,000 or <10,000 cells/µL
-- Anemia, thrombocytopenia, neutropenia common
-
-#### Genetics
-
-- ~90% have nonrandom karyotypic abnormalities
-- Childhood pre-B cell: **hyperdiploidy** (>50 chromosomes), **t(12;21)** (ETV6-RUNX1)
-- Adult pre-B cell: **t(9;22)** (BCR-ABL)
-- Pre-T cell: diverse chromosomal aberrations, translocations involving T cell receptor loci
-
-#### Immunophenotype
-
-- **TdT** (terminal deoxynucleotidyl transferase): present in >95% of cases
-- B-ALL: CD19+, CD22+
-- T-ALL: CD3+
-
-#### Clinical Features
-
-- Symptoms from marrow depression: fatigue (anemia), fever (infections), bleeding (thrombocytopenia)
-- Mass effects: bone pain (marrow expansion), lymphadenopathy, splenomegaly, hepatomegaly
-- T-ALL: compression of vessels and airways in mediastinum
-- CNS manifestations from meningeal spread
-
-#### Prognosis
-
-- Pediatric ALL: ~95% obtain remission; 75–85% cured
-- Adults: only 35–40% cured
-- Poor prognostic factors: age <2 years, adolescence/adulthood, blast count >100,000
-- Favorable: age 2–10 years, low white cell count, hyperdiploidy
-- **BCR-ABL kinase inhibitors** effective in t(9;22)+ ALL
-
-### Small Lymphocytic Lymphoma/Chronic Lymphocytic Leukemia (SLL/CLL)
-
-**CLL** and **SLL** are essentially identical; differ only in extent of peripheral blood involvement.
-
-- Most common leukemia of adults in Western world
-- Much less common in Asia
-- If peripheral blood lymphocyte count >5000 cells/µL → CLL
-
-#### Pathogenesis
-
-- Indolent, slowly growing tumor
-- **Increased tumor cell survival** (more important than proliferation)
-- High levels of **BCL2** (inhibits apoptosis)
-- BCR signals through **Bruton tyrosine kinase (BTK)** → promotes survival
-- Immune dysregulation: hypogammaglobulinemia; ~15% develop autoantibodies against red cells or platelets
-
-#### Morphology
-
-- Lymph nodes: sheets of small lymphocytes + scattered proliferation centers (larger, actively dividing cells)
-- Small, resting lymphocytes: dark, round nuclei, scanty cytoplasm
-- **Proliferation centers**: pathognomonic for CLL/SLL
-- Bone marrow, spleen, liver involved in almost all cases
-- Peripheral blood: absolute lymphocytosis; **smudge cells** (fragile lymphocytes disrupted during smear preparation)
-
-#### Immunophenotype and Genetics
-
-- Mature B cells: **CD20+**, surface immunoglobulin+
-- **CD5+** (also expressed by mantle cell lymphoma)
-- ~50% have karyotypic abnormalities: trisomy 12, deletions of chromosomes 11, 13, 17
-- **Deletion 17p** (TP53): very poor prognosis (<30% 10-year survival)
-- **Deletion 13q**: relatively favorable prognosis
-
-#### Clinical Features
-
-- Often asymptomatic initially
-- Easy fatigability, weight loss, anorexia
-- Generalized lymphadenopathy, hepatosplenomegaly (50–60%)
-- Hypogammaglobulinemia → bacterial infections
-- Autoimmune hemolytic anemia and thrombocytopenia (15%)
-- **Richter transformation**: ~5% transform to aggressive diffuse large B cell lymphoma → median survival <1 year
-
-### Follicular Lymphoma
-
-- Constitutes 40% of adult NHLs in the US
-- Much less frequent in Asian populations
-
-#### Pathogenesis
-
-- >85% have **t(14;18)** translocation → **BCL2 overexpression** → inhibits apoptosis
-- Additional mutations in histone-modifying proteins (~1/3 of cases)
-
-#### Morphology
-
-- **Nodular (follicular) proliferation** in lymph nodes
-- Predominant cells: **centrocytes** (slightly larger than resting lymphocytes; angular "cleaved" nuclei)
-- Mixed with **centroblasts** (larger cells; vesicular chromatin, several nucleoli)
-- Single necrotic cells (apoptosis) not prominent
-- Must be distinguished from follicular hyperplasia (mitoses and apoptosis prominent in reactive conditions)
-
-#### Immunophenotype
-
-- CD20+, **CD10+**, **BCL6+** (germinal center B cell markers)
-- BCL2+ (from translocation)
-
-#### Clinical Features
-
-- Adults >50 years; equal sex distribution
-- Painless, generalized lymphadenopathy
-- Bone marrow involved at diagnosis (~80%)
-- Indolent course (median survival ~10 years)
-- **Not curable** with conventional therapy
-- ~30–40% progress to diffuse large B cell lymphoma
-
-### Mantle Cell Lymphoma
-
-- Composed of cells resembling **naive B cells** in mantle zones
-- Constitutes ~6% of NHLs; mainly men >50 years
-
-#### Pathogenesis
-
-- Almost all have **t(11;14)** translocation → **cyclin D1 overexpression** → promotes G1→S cell cycle progression
-
-#### Morphology
-
-- Diffuse or vaguely nodular pattern
-- **No proliferation centers** (distinguishes from CLL/SLL)
-- Cells slightly larger than normal lymphocytes; irregular nucleus, inconspicuous nucleoli, scant cytoplasm
-- Bone marrow involved in most; peripheral blood in ~20%
-- May arise in GI tract as multifocal submucosal nodules (**lymphomatoid polyposis**)
-
-#### Immunophenotype
-
-- Surface IgM+, IgD+, CD20+, **CD5+**, **cyclin D1+**
-
-#### Clinical Features
-
-- Fatigue, lymphadenopathy; generalized disease (bone marrow, spleen, liver, gut)
-- Moderately aggressive; **incurable**
-- Median survival: 4–6 years
-
-### Extranodal Marginal Zone Lymphoma
-
-- Indolent B cell tumor arising in epithelial tissues (stomach, salivary glands, lung, orbit, breast, bowel)
-
-#### Pathogenesis
-
-- Cancer sustained by **chronic inflammation**
-- Associated with autoimmune disorders (Sjögren syndrome, Hashimoto thyroiditis) or chronic infection (H. pylori gastritis)
-- H. pylori-associated gastric marginal zone lymphoma: **antibiotic therapy** → tumor regression
-- Polyclonal → monoclonal transition during lymphomagenesis
-
-#### Morphology
-
-- Clonal B cells infiltrate epithelium → **lymphoepithelial lesions**
-- Cells with abundant pale cytoplasm; plasma cell differentiation possible
-
-#### Immunophenotype
-
-- Mature B cells: CD20+, surface immunoglobulin (usually IgM)
-
-#### Clinical Features
-
-- Swelling of salivary gland, thyroid, orbit; or incidental finding
-- Localized disease: often cured by simple excision + radiotherapy
-
-### Diffuse Large B Cell Lymphoma
-
-- **Most common type of lymphoma in adults** (~35% of adult NHLs)
-- Includes several aggressive subtypes
-
-#### Pathogenesis
-
-- ~1/3 have **BCL6 rearrangements** (3q27)
-- ~30% have **t(14;18)** involving **BCL2**
-- Others: translocations involving **MYC**
-
-#### Morphology
-
-- Large neoplastic B cells (3–4× size of resting lymphocytes)
-- Round/oval nuclei, dispersed chromatin, several distinct nucleoli, modest pale cytoplasm
-- Variable appearance; some with multilobate nuclei, prominent nucleoli
-- May include RS-like giant cells
-
-#### Immunophenotype
-
-- CD20+; surface IgM and/or IgG+
-- CD10, BCL2 variably expressed
-
-#### Clinical Subtypes
-
-- **EBV-associated**: in AIDS, iatrogenic immunosuppression, elderly
-- **KSHV/HHV-8-associated**: primary effusion lymphomas (body cavity)
-- **Mediastinal large B cell lymphoma**: young women; spreads to abdominal viscera and CNS
-
-#### Clinical Features
-
-- Median age ~60 years; ~15% of childhood lymphomas
-- **Rapidly enlarging, symptomatic mass**
-- GI tract most common extranodal site
-- Without treatment: aggressive, rapidly fatal
-- With intensive chemotherapy + rituximab (anti-CD20): 60–80% complete remissions; ~50% cured
-
-### Burkitt Lymphoma
-
-- **Endemic** (Africa) and **sporadic** (US and other) forms
-- **Fastest growing human tumor**
-
-#### Pathogenesis
-
-- Translocations involving **MYC** gene (chromosome 8)
-  - Most: t(8;14) → MYC-IgH
-  - Variant: κ or λ light chain loci
-- **MYC overexpression** → Warburg metabolism (aerobic glycolysis) → rapid cell growth
-- Endemic: ~100% EBV-associated
-- Sporadic: ~20% EBV-associated
-
-#### Morphology
-
-- Intermediate-sized cells; round/oval nuclei, 2–5 distinct nucleoli
-- Moderate basophilic/amphophilic cytoplasm with lipid-filled vacuoles
-- **Very high proliferation and apoptosis rates**
-- **"Starry sky" pattern**: numerous tingible body macrophages containing apoptotic nuclear debris
-
-#### Immunophenotype
-
-- Surface IgM+, CD20+, **CD10+**, **BCL6+** (germinal center B cell markers)
-
-#### Clinical Features
-
-- Children and young adults
-- **Extranodal presentations**:
-  - Endemic: maxillary/mandibular masses
-  - Sporadic: abdominal (bowel, retroperitoneum, ovaries)
-- Leukemic presentations possible (must distinguish from ALL)
-- Highly aggressive but **highly curable** with intensive chemotherapy
-
-### Plasma Cell Neoplasms and Related Entities
-
-#### Multiple Myeloma
-
-- ~20,000 new cases/year in US; median age 70 years
-- Predominantly involves **bone marrow** with lytic lesions throughout skeletal system
-- Most common M protein: **IgG** (60%); **IgA** (20–25%)
-
-#### Pathogenesis
-
-- Chromosomal translocations involving IgH locus → oncogenes (cyclin D1, cyclin D3)
-- **IL-6** from bone marrow stromal cells supports proliferation
-- **Bone destruction**: myeloma factors upregulate **RANKL** → osteoclast activation; inhibitors of osteoblast function
-- **Immune defects**: suppressed normal B cell function → hypogammaglobulinemia → bacterial infections
-- **Renal dysfunction**:
-  - Proteinaceous casts (Bence Jones proteins) in tubules
-  - Light chain deposition (amyloid or linear deposits)
-  - Hypercalcemia
-
-#### Morphology
-
-- Multifocal **destructive skeletal lesions**: vertebral column, ribs, skull, pelvis, femur, clavicle, scapula
-- "Punched-out" bone defects 1–4 cm
-- Marrow: increased plasma cells (>30% cellularity)
-- Myeloma cells: may resemble normal plasma cells or have prominent nucleoli, cytoplasmic inclusions
-- **Myeloma nephrosis**: proteinaceous casts with multinucleate giant cells; tubular necrosis from toxic Bence Jones proteins
-
-#### Clinical Features
-
-**CRAB criteria:**
-- **Hypercalcemia**: neurologic manifestations, renal dysfunction
-- **Renal failure**: occurs in ~50%; 2nd leading cause of death after infections
-- **Anemia**: normocytic normochromic; from marrow infiltration
-- **Bone fractures**: pathologic fractures, chronic pain
-
-**Additional:**
-- Decreased normal immunoglobulin production → recurrent bacterial infections
-- Bence Jones proteinuria (free light chains in urine)
-
-**Laboratory:**
-- Increased immunoglobulins in blood; Bence Jones proteins in urine
-- ~1% nonsecretory myeloma
-
-**Prognosis:**
-- Multiple bony lesions without treatment: rarely survive >6–12 months
-- "Smoldering myeloma": asymptomatic for years
-- Median survival: 4–7 years
-- New therapies: **proteasome inhibitors** (bortezomib), **lenalidomide**, **bisphosphonates**
-
-#### Lymphoplasmacytic Lymphoma
-
-- B cell neoplasm of older adults; plasma cell differentiation
-- Most secrete **IgM** → **Waldenström macroglobulinemia**
-
-#### Pathogenesis
-
-- ~100% have acquired **MYD88 mutations**
-- MYD88 adaptor protein → activates NF-κB and augments BCR signaling
-
-#### Morphology
-
-- Marrow: lymphocytes, plasma cells, plasmacytoid lymphocytes in varying proportions
-- Mast cell hyperplasia
-- **Russell bodies** (cytoplasmic immunoglobulin inclusions)
-- **Dutcher bodies** (nuclear immunoglobulin inclusions)
-
-#### Clinical Features: Hyperviscosity Syndrome
-
-- **Visual impairment**: venous congestion, retinal hemorrhages
-- **Neurologic problems**: headaches, dizziness, deafness, stupor
-- **Bleeding**: complexes with clotting factors; platelet dysfunction
-- **Cryoglobulinemia**: precipitation at low temperatures → Raynaud phenomenon
-
-#### Treatment
-
-- **Plasmapheresis**: for hyperviscosity symptoms
-- Low-dose chemotherapy + anti-CD20 (rituximab)
-- **BTK inhibitors** effective
-- Transformation to large-cell lymphoma uncommon
-- Median survival ~4 years
-
-### Hodgkin Lymphoma
-
-**Hodgkin lymphoma** is characterized by the presence of **Reed-Sternberg (RS) cells**.
-
-- Arises in single lymph node or chain; spreads **contiguously**
-- Unusual tumors of **germinal center B cell origin**
-
-#### Classification
-
-Five subtypes:
-1. **Nodular sclerosis** (most common)
-2. **Mixed cellularity**
-3. **Lymphocyte-rich**
-4. **Lymphocyte-depleted**
-5. **Lymphocyte predominant**
-
-First four subtypes = **Classical Hodgkin lymphoma** (RS cells express CD15+, CD30+, CD45−)
-
-#### Reed-Sternberg (RS) Cells
-
-- Very large cells (15–45 µm diameter)
-- **Bilobed nuclei** ("owl-eye" appearance); large eosinophilic nucleoli
-- Abundant, slightly eosinophilic cytoplasm
-- **CD15+**, **CD30+**, **CD45−**
-
-#### Nodular Sclerosis Hodgkin Lymphoma
-
-- Most common form; adolescents/young adults; excellent prognosis
-- **Lacunar cells**: RS variant with multilobate nucleus, abundant pale cytoplasm
-- **Collagen bands** dividing lymphoid tissue into nodules
-
-#### Mixed Cellularity Hodgkin Lymphoma
-
-- Most common in patients >50 years; ~25% of cases
-- Male predominance
-- Classic RS cells plentiful
-- Mixed inflammatory infiltrate: lymphocytes, eosinophils, plasma cells, macrophages
-
-#### Lymphocyte-Predominant Hodgkin Lymphoma
-
-- ~5% of cases
-- **L&H variant RS cells** ("popcorn cells"): multilobed, puffy nuclei
-- **CD20+**, usually CD15−, CD30−
-- Excellent prognosis
-
-#### Pathogenesis
-
-- RS cells derived from **germinal center B cells** (confirmed by immunoglobulin gene rearrangements and somatic hypermutation)
-- **EBV** present in RS cells in up to 70% of mixed-cellularity cases
-- RS cells express **PD ligands** (PD-L1, PD-L2) → inhibit T cell responses
-- **Anti-PD-1 antibodies**: excellent responses in relapsed/refractory disease
-
-**Table 12.9** Clinical Differences Between Hodgkin and Non-Hodgkin Lymphomas:
-
-| Feature | Hodgkin Lymphoma | Non-Hodgkin Lymphoma |
-|---|---|---|
-| Nodal involvement | Often localized to single axial group | Multiple peripheral nodes common |
-| Spread | Orderly, by contiguity | Noncontiguous |
-| Mesenteric/Waldeyer involvement | Rare | Common |
-| Extranodal involvement | Uncommon | Common |
-
-**Table 12.10** Ann Arbor Staging:
-
-| Stage | Distribution |
-|---|---|
-| I | Single lymph node region (I) or single extralymphatic organ/site (IE) |
-| II | ≥2 lymph node regions on same side of diaphragm (II) or with limited contiguous extralymphatic site (IIE) |
-| III | Lymph node regions on both sides of diaphragm (III), ± spleen (IIIS), ± limited extralymphatic site (IIIE) |
-| IV | Multiple/diffused foci of ≥1 extralymphatic organ |
-
-**B symptoms**: fever, night sweats, >10% weight loss
-
-#### Clinical Features
-
-- Painless lymphadenopathy (cervical most common)
-- **B symptoms** in advanced disease
-- Staging guides therapy and prognosis
-- Treatment: chemotherapy (± radiotherapy)
-- 5-year survival >90% (stage I–II); ~50% (stage IV)
-- Long-term survivors: increased risk of lung cancer, breast cancer, cardiovascular disease
-
----
-
-## Myeloid Neoplasms
-
-### Acute Myeloid Leukemia (AML)
-
-- Primarily affects older adults (median age 50 years)
-- Very heterogeneous
-- Signs/symptoms: similar to ALL; related to replacement of marrow by blasts
-- **Granulocytic sarcoma**: AML manifesting as discrete tissue mass
-
-#### Pathogenesis
-
-- Mutations in transcription factors required for myeloid differentiation → blocks differentiation → accumulation of blasts
-- **t(15;17) in acute promyelocytic leukemia**: PML-RARA fusion → blocks differentiation at promyelocyte stage
-  - **All-trans retinoic acid (ATRA)** overcomes block → induces differentiation to neutrophils
-  - **Arsenic trioxide** degrades PML-RARA → even more effective; >80% cure rate
-
-- **IDH mutations** (~15–20%): produce "oncometabolite" → blocks epigenetic regulation → differentiation inhibition
-  - **IDH inhibitors** produce remissions
-
-#### Morphology
-
-- **Myeloblasts**: delicate nuclear chromatin, 3–5 nucleoli, fine azurophilic cytoplasmic granules
-- **Auer rods**: red-staining rodlike structures (specific for neoplastic myeloblasts); numerous in acute promyelocytic leukemia
-- >20% myeloid blasts/promyelocytes in bone marrow
-
-#### WHO Classification of AML
-
-**Table 12.11** WHO Classification of AML:
-
-| Class | Subtype | Prognosis |
-|---|---|---|
-| **I. AML With Recurrent Chromosomal Translocations** | t(8;21) RUNX1-RUNX1T1 | Favorable |
-| | inv(16) CBFB-MYH11 | Favorable |
-| | t(15;17) PML-RARA | Favorable |
-| | t(11q23;variant) MLL fusion | Poor |
-| | mutated NPM1 | Intermediate |
-| **II. AML With Multilineage Dysplasia** | With previous MDS / Without previous MDS | Variable |
-| **III. AML, Therapy-Related** | Alkylating agent-related / Epipodophyllotoxin-related | Very poor |
-| **IV. AML, Not Otherwise Classified** | Defined by extent/type of differentiation | Intermediate |
-
-#### Immunophenotype
-
-- Myeloid antigens: CD13, CD14, CD15, CD64, CD117 (KIT)
-- CD34+ (stem cell marker often present on myeloblasts)
-- Helpful in distinguishing AML from ALL
-
-#### Clinical Features
-
-- Fatigue, fever, spontaneous mucosal and cutaneous bleeding
-- Thrombocytopenia → bleeding diathesis
-- Petechiae, ecchymoses, serosal hemorrhages
-- **DIC** (especially acute promyelocytic leukemia with t(15;17))
-- Infections from neutropenia
-- Skin infiltration (leukemia cutis) and gingival infiltration (monocytic differentiation)
-- CNS spread less common than in ALL
-
-**Prognosis:**
-- Good-risk karyotypes: ~50% long-term disease-free survival
-- Overall survival: only 15–30%
-- **TP53 mutations**: particularly poor prognosis
-- Bright spot: improved outcomes in acute promyelocytic leukemia with ATRA + arsenic
-
-### Myelodysplastic Syndromes (MDS)
-
-**MDS** are clonal stem cell disorders characterized by:
-- Maturation defects
-- **Ineffective hematopoiesis**
-- High risk of transformation to AML
-
-#### Pathogenesis
-
-Recurrently mutated genes in three categories:
-
-1. **Epigenetic factors**: DNA methylation, histone modifications
-2. **RNA splicing factors**: altered RNA processing; associated with **ring sideroblasts**
-3. **Transcription factors**: required for normal myelopoiesis
-
-- ~10% have **TP53 mutations** → complex karyotype, poor prognosis
-- Idiopathic or after alkylating agent chemotherapy/ionizing radiation
-
-#### Morphology
-
-- Marrow populated by abnormal hematopoietic precursors:
-  - Megaloblastoid erythroid precursors
-  - **Ring sideroblasts** (iron deposits in mitochondrial RNA)
-  - Granulocyte precursors with abnormal granules/nuclear maturation
-  - Small megakaryocytes with single small nuclei or multiple separate nuclei
-
-#### Clinical Features
-
-- ~15,000 patients/year in US; ages 50–70
-- Infections, anemia-related symptoms, hemorrhages
-- **10–40% transform to AML**
-- Poor response to conventional chemotherapy
-- Variable prognosis (median survival 9–29 months); worst with increased marrow blasts, cytogenetic abnormalities, TP53 mutations
-
-### Myeloproliferative Neoplasms
-
-**Common feature**: mutated, constitutively activated tyrosine kinases → growth factor independence
-
-**Four major entities:**
-
-| Entity | Distinguishing Feature |
-|---|---|
-| **CML** | **BCR-ABL fusion gene** (t(9;22)) |
-| **Polycythemia vera** | JAK2 mutations (virtually all cases) |
-| **Primary myelofibrosis** | JAK2 mutations (50–60%); MPL mutations (1–5%) |
-| **Essential thrombocethemia** | JAK2 mutations (~50%) |
-
-All can transform to "spent phase" (marrow fibrosis) or "blast crisis" (acute leukemia)
-
-### Chronic Myeloid Leukemia (CML)
-
-- Adults 25–60 years; peak 4th–5th decade
-- ~4500 new cases/year in US
-
-#### Pathogenesis
-
-- **BCR-ABL fusion gene** from t(9;22) (Philadelphia chromosome) in ~95%
-- BCR-ABL: **constitutively active tyrosine kinase** → growth factor independence
-- Present in granulocytic, erythroid, megakaryocytic, B cell precursors (and some T cell)
-- Originates from transformed **hematopoietic stem cell**
-
-#### Morphology
-
-- **Peripheral blood**: markedly elevated WBC (>100,000 cells/µL)
-- Predominant cells: neutrophils, metamyelocytes, myelocytes
-- Basophils and eosinophils prominent; platelets increased
-- **Bone marrow**: hypercellular; increased granulocytic and megakaryocytic precursors
-- **Spleen**: enlarged; red pulp resembles bone marrow (extramedullary hematopoiesis)
-
-#### Clinical Features
-
-- Insidious onset: easy fatigability, weakness, weight loss
-- Splenomegaly (dragging sensation in abdomen)
-- Must distinguish from **leukemoid reaction** (reactive neutrophilia)
-  - Test for **BCR-ABL fusion gene**
-
-**Natural history:**
-- Median survival ~3 years without treatment
-- **Accelerated phase**: increasing anemia, new thrombocytopenia, additional cytogenetic abnormalities
-- **Blast crisis**: ~50% gradual; ~50% abrupt
-  - 30%: precursor-B cell ALL-like
-  - 70%: AML-like
-- Transformation to myelofibrosis ("spent phase") possible
-
-**Treatment:**
-- **Tyrosine kinase inhibitors** (imatinib, dasatinib, nilotinib): dramatically improved outcomes
-- Prevents progression to blast crisis
-- Resistant tumors: may have mutations in BCR-ABL kinase domain
-- **Hematopoietic stem cell transplantation**: potential cure, substantial risks
-
-### Polycythemia Vera
-
-- Strongly associated with **activating JAK2 mutations**
-- JAK2 mutation lowers growth factor dependence → **panmyelosis** (excessive erythroid, granulocytic, megakaryocytic proliferation)
-- Clinical signs mainly from increased red cell mass
-- **Low serum erythropoietin** (unlike reactive polycythemia)
-
-#### Morphology
-
-- Tissue congestion from increased blood volume and viscosity
-- Liver enlarged; small foci of extramedullary hematopoiesis
-- Spleen slightly enlarged (250–300 g) from vascular congestion
-- **Thromboses and infarctions** common (heart, spleen, kidneys)
-- Hemorrhages (~1/3 of patients)
-- Marrow: hypercellular; increased erythroid, myeloid, megakaryocytic elements
-- Some degree of marrow fibrosis in 10% at diagnosis
-
-#### Clinical Features
-
-- Insidious onset in late middle age
-- Plethoric, sometimes cyanotic appearance
-- **Pruritus** (from histamine released by basophils)
-- Peptic ulcers (histamine)
-- Headaches, dizziness, gastrointestinal symptoms, hematemesis, melena
-- Thromboses: ~30%; brain or heart; hepatic vein thrombosis (Budd-Chiari syndrome)
-- Minor hemorrhages common; major hemorrhages ~5–10%
-- Symptomatic gout (~5–10%) from high cell turnover
-
-**Laboratory:**
-- Red cell counts 6–10 million/µL; hematocrit often ≥60%
-- Granulocytes up to 50,000 cells/µL; platelets >400,000/µL
-- Basophilia common; platelets dysfunctional
-
-**Prognosis:**
-- Without treatment: death from vascular complications within months
-- Median survival ~10 years with phlebotomy
-- **"Spent phase"** (resembling primary myelofibrosis): 15–20% after ~10 years
-- Transformation to blast crisis less frequent than in CML
-- **JAK2 inhibitors** approved for spent phase
-
-### Primary Myelofibrosis
-
-**Hallmark**: obliterative marrow fibrosis → reduced marrow hematopoiesis → **cytopenas** + **extramedullary hematopoiesis**
-
-#### Pathogenesis
-
-- **JAK2 mutations** (50–60%); **MPL mutations** (1–5%)
-- Other mutations hypothesized to stimulate JAK-STAT signaling
-- Marrow fibrosis from inappropriate release of fibrogenic factors from neoplastic megakaryocytes:
-  - **Platelet-derived growth factor (PDGF)**
-  - **TGF-β** (fibroblast mitogen; promotes collagen deposition and angiogenesis)
-- Extramedullary hematopoiesis in spleen, liver, lymph nodes
-- Disordered extramedullary red cell production → moderate to severe anemia
-
-#### Morphology
-
-- **Peripheral blood**: bizarre red cell shapes (**teardrop cells/dacrocytes**)
-- **Leukoerythroblastosis**: nucleated erythroid precursors + immature white cells
-- Large platelets
-- **Bone marrow**: hypocellular and diffusely fibrotic (advanced); hypercellular with focal fibrosis (early)
-- Megakaryocytes in clusters; hyperchromatic nuclei with "cloudlike" outlines
-- Massive splenomegaly (up to 4000 g)
-- Moderate hepatomegaly
-
-#### Clinical Features
-
-- Individuals >60 years
-- Progressive anemia and splenomegaly
-- Fatigue, weight loss, night sweats
-- Hyperuricemia and gout from high cell turnover
-
-**Laboratory:**
-- Moderate to severe normochromic normocytic anemia
-- Normal/mildly reduced WBC; may be elevated early
-- Normal/elevated platelets at diagnosis → thrombocytopenia later
-
-**Prognosis:**
-- Median survival 4–5 years
-- Threats: infection, thrombosis/bleeding, transformation to AML (5–20%)
-- **JAK2 inhibitors**: decrease splenomegaly and constitutional symptoms
-- **Hematopoietic stem cell transplantation**: potential cure
-
----
-
-## Histiocytic Neoplasms
-
-### Langerhans Cell Histiocytoses
-
-**Langerhans cell histiocytoses** are proliferations of **Langerhans cells** (immature dendritic cells).
-
-- Express: MHC class II, **CD1a**, **langerin**
-- Birbeck granules: pentalaminar rodlike structures ("tennis racket" appearance)
-
-#### Clinical Forms
-
-**Multisystem Langerhans Cell Histiocytosis (Letterer-Siwe Disease):**
-- Usually children <2 years
-- Multifocal cutaneous lesions (resembling seborrheic eruptions)
-- Hepatosplenomegaly, lymphadenopathy, pulmonary lesions, osteolytic bone lesions
-- Pancytopenia from marrow infiltration → recurrent bacterial infections
-- **Rapidly fatal if untreated**; 50% 5-year survival with chemotherapy
-
-**Unisystem Langerhans Cell Histiocytosis (Eosinophilic Granuloma):**
-- Unifocal or multifocal
-- Expanding Langerhans cell accumulations within bone medullary cavities
-- May also involve skin, lungs, stomach
-- Langerhans cells admixed with lymphocytes, plasma cells, neutrophils, **eosinophils**
-- Any bone; calvaria, ribs, femur most common
-- **Unifocal**: indolent; may heal spontaneously or be cured by excision/radiotherapy
-- **Multifocal**: children; multiple erosive bony masses
-  - ~50%: diabetes insipidus (posterior pituitary/hypothalamus involvement)
-  - **Hand-Schüller-Christian triad**: calvarial bone defects + diabetes insipidus + exophthalmos
-  - Many spontaneous regressions; others respond to chemotherapy
-
-#### Pathogenesis
-
-- Acquired **BRAF mutations** (serine/threonine kinase) → hyperactivity
-- Same mutation found in hairy cell leukemia, benign nevi, melanoma, papillary thyroid carcinoma, some colon cancers
-
----
-
-## Bleeding Disorders
-
-### Laboratory Evaluation of Bleeding
-
-**Key tests:**
-
-| Test | Measures | Prolonged By |
-|---|---|---|
-| **PT** (Prothrombin Time) | Extrinsic + common pathways | Deficiency of factors V, VII, X, prothrombin, fibrinogen; inhibitors |
-| **PTT** (Partial Thromboplastin Time) | Intrinsic + common pathways | Deficiency of factors V, VIII, IX, X, XI, XII, prothrombin, fibrinogen; inhibitors |
-| **Platelet count** | Number of platelets | — |
-| **Platelet aggregation tests** | Function | vWF deficiency, uremia, myeloproliferative disorders, aspirin |
-
-### Causes of Bleeding Disorders
-
-1. **Vascular fragility**: vitamin C deficiency (scurvy), amyloidosis, glucocorticoid use, inherited connective tissue disorders, vasculitides
-2. **Platelet deficiencies**: thrombocytopenia, qualitative defects
-3. **Coagulation factor deficiencies**: inherited (hemophilias) or acquired (vitamin K deficiency, liver disease, DIC)
-4. **Combined defects**: DIC, von Willebrand disease
-
-### Disseminated Intravascular Coagulation (DIC)
-
-**DIC** is systemic activation of coagulation → thrombi throughout microcirculation → consumption of platelets and coagulation factors → bleeding or tissue hypoxia.
-
-#### Pathogenesis
-
-**Triggers:**
-
-1. **Release of tissue factor** into circulation:
-   - Obstetric complications (abruptio placentae, retained dead fetus, septic abortion, amniotic fluid embolism)
-   - Certain cancers (especially acute promyelocytic leukemia, adenocarcinomas)
-   - Sepsis (endotoxins/exotoxins → monocyte tissue factor release)
-
-2. **Widespread endothelial cell damage**:
-   - Deposition of antigen-antibody complexes (SLE)
-   - Temperature extremes (burns, heat stroke)
-   - Infections (meningococci, rickettsiae)
-
-**Consequences:**
-
-1. **Widespread fibrin deposition** in microcirculation:
-   - Ischemia in affected organs
-   - **Microangiopathic hemolytic anemia** (red cells traumatized by fibrin thrombi)
-
-2. **Consumption of platelets and clotting factors**:
-   - Secondary fibrinolysis activated
-   - Bleeding tendency
-   - **Fibrin degradation products** inhibit platelet aggregation, thrombin activity, fibrin polymerization
-
-**Table 12.12** Major Disorders Associated With DIC:
-
-| Category | Examples |
-|---|---|
-| **Obstetric Complications** | Abruptio placentae, retained dead fetus, septic abortion, amniotic fluid embolism, toxemia |
-| **Infections** | Sepsis (gram-negative, gram-positive), meningococcemia, Rocky Mountain spotted fever, histoplasmosis, aspergillosis, malaria |
-| **Neoplasms** | Pancreatic, prostate, lung, stomach carcinomas; acute promyelocytic leukemia |
-| **Massive Tissue Injury** | Trauma, burns, extensive surgery |
-| **Miscellaneous** | Acute intravascular hemolysis, snakebite, giant hemangioma, shock, heat stroke, vasculitis, aortic aneurysm, liver disease |
-
-#### Morphology
-
-- **Microthrombi** in arterioles and capillaries: kidneys, adrenals, brain, heart (no organ spared)
-- Glomeruli: small fibrin thrombi
-- Renal cortical necrosis (severe cases)
-- **Waterhouse-Friderichsen syndrome** (adrenal involvement)
-- Petechiae, ecchymoses on skin; hemorrhages in serosal linings, epicardium, endocardium, lungs, urinary tract
-
-#### Clinical Features
-
-- **Acute DIC** (obstetric complications): dominated by **bleeding**
-- **Chronic DIC** (cancer): dominated by **thrombosis**
-- manifestations: shock, acute renal failure, dyspnea, cyanosis, convulsions, coma
-- Postpartum bleeding, petechiae, ecchymoses
-- Laboratory: thrombocytopenia, prolonged PT and PTT, increased fibrin split products
-
-**Prognosis:**
-- Variable depending on underlying disorder
-- Acute DIC: life-threatening; treat with anticoagulants (heparin), fresh frozen plasma
-- **Definitive treatment**: must address underlying cause
-
----
-
-## Thrombocytopenia
-
-**Thrombocytopenia**: platelet count <150,000/µL
-
-- Increased bleeding risk: 20,000–50,000/µL (post-traumatic); <5000/µL (spontaneous bleeding)
-- Manifestations: **petechiae**, large ecchymoses; mucosal bleeding; CNS hemorrhage (major hazard)
-
-**Table 12.13** Causes of Thrombocytopenia:
-
-| Mechanism | Causes |
-|---|---|
-| **Decreased Production** | Marrow dysfunction (aplastic anemia, leukemia, disseminated cancer); selective impairment (alcohol, thiazides, cytotoxic drugs, infections); ineffective megakaryopoiesis (megaloblastic anemia, PNH) |
-| **Increased Destruction** | Immunologic: ITP, SLE, posttransfusion, drugs, infections; Nonimmunologic: DIC, TTP, HUS, giant hemangiomas |
-| **Sequestration** | Hypersplenism |
-| **Dilutional** | Massive blood transfusions |
-
-### Immune Thrombocytopenic Purpura (ITP)
-
-**Chronic ITP**: relatively common; women 20–40 years
-**Acute ITP**: self-limited; children after viral infections
-
-#### Pathogenesis
-
-- **Antibodies against platelet membrane glycoproteins IIb/IIIa or Ib/IX** (detectable in ~80% of chronic ITP)
-- Spleen: site of anti-platelet antibody production and platelet destruction
-- **Splenectomy**: normalizes platelet count in >2/3 of patients
-
-#### Clinical Features
-
-- Insidious onset
-- **Petechiae**, easy bruising, epistaxis, gum bleeding, post-traumatic hemorrhage
-- **No splenomegaly**
-- Diagnosis: clinical features + thrombocytopenia + marrow examination + exclusion of secondary causes
-- Treatment: immunosuppressive agents; splenectomy
-
-### Heparin-Induced Thrombocytopenia (HIT)
-
-- 3–5% of patients after 1–2 weeks of unfractionated heparin
-- **IgG antibodies** against platelet factor 4-heparin complex
-- Paradoxical **thrombosis** (not bleeding) despite low platelet count
-- Both venous and arterial thrombosis; severe morbidity (amputation) and death
-- **Stop heparin**; risk lowered (but not eliminated) by low-molecular-weight heparin
-
-### Thrombotic Microangiopathies: TTP and HUS
-
-**Thrombotic microangiopathies**: spectrum including **TTP** and **HUS**
-
-**Shared features:**
-- Widespread platelet-rich thrombi in microcirculation
-- **Thrombocytopenia**
-- **Microangiopathic hemolytic anemia**
-
-| Feature | TTP | HUS |
-|---|---|---|
-| Neurologic symptoms | Prominent | Absent |
-| Renal failure | Variable | Dominant |
-| Age | Adults | Children |
-| Causes | Acquired/inherited ADAMTS13 deficiency | Complement dysregulation; Shiga-like toxin (E. coli O157:H7) |
-
-#### Pathogenesis
-
-**TTP:**
-- Deficiency of **ADAMTS13** (plasma metalloprotease that cleaves very-high-molecular-weight vWF multimers)
-- Acquired (autoantibodies) or inherited
-- Deficiency → abnormally large vWF multimers → spontaneous platelet aggregation
-
-**HUS:**
-- Deficiency of **complement regulatory proteins** (atypical HUS)
-- Shiga-like toxin from E. coli O157:H7 → damages endothelial cells → platelet activation and thrombosis
-
-#### Clinical Features
-
-**TTP (classical pentad):**
-1. Fever
-2. Thrombocytopenia
-3. Microangiopathic hemolytic anemia
-4. Transient neurologic deficits
-5. Renal failure
-
-**HUS:**
-- Primarily renal; often follows bloody diarrhea (E. coli O157:H7)
-- Usually self-limited
-
-**Note:** Unlike DIC, coagulation test results (PT, PTT) usually **normal** in TTP and HUS
-
----
-
-## Coagulation Disorders
-
-### Inherited Coagulation Disorders
-
-#### von Willebrand Disease (vWD)
-
-- **Most common inherited bleeding disorder** (~1% of US population)
-- Autosomal dominant (most forms)
-- **vWF functions**:
-  - **Platelet adhesion** to subendothelial collagen (via glycoprotein Ib)
-  - **Stabilizes factor VIII**
-
-**Types:**
-- **Type 1**: reduced quantity of vWF; autosomal dominant
-- **Type 2**: qualitative defects; several subtypes (2A, 2B)
-  - 2A: loss of high-molecular-weight multimers (not synthesized)
-  - 2B: hyperfunctional multimers (rapidly removed) → spontaneous platelet aggregation
-- **Type 3**: severe deficiency; homozygous; factor VIII deficiency resembles hemophilia
-
-**Clinical features:**
-- Spontaneous mucous membrane bleeding
-- Excessive bleeding from wounds
-- Menorrhagia
-- **Ristocetin aggregation test**: abnormal (diagnostic)
-
-#### Hemophilia A (Factor VIII Deficiency)
-
-- **X-linked recessive**; affects males
-- ~30% new mutations; remainder positive family history
-- Severe deficiency: <1% factor VIII activity
-- Mild deficiency: only apparent with trauma/stress
-
-**Clinical features:**
-- Easy bruising
-- Massive hemorrhage after trauma/surgery
-- **"Spontaneous" hemorrhages** in tissues subject to mechanical stress
-- **Hemarthroses** (joint hemorrhages) → progressive deformities
-- **No petechiae**
-- Diagnosis: prolonged PTT; corrected by mixing studies; specific factor VIII assay
-- ~15%: develop **neutralizing antibodies** against factor VIII
-
-**Treatment:** Factor VIII infusions; **recombinant factor VIII** eliminates viral transmission risk
-
-#### Hemophilia B (Christmas Disease, Factor IX Deficiency)
-
-- X-linked recessive
-- Clinically indistinguishable from hemophilia A
-- Prolonged PTT
-- Treated with **recombinant factor IX**
-
-### Acquired Coagulation Disorders
-
-- **Vitamin K deficiency**: impaired synthesis of factors II, VII, IX, X
-- **Liver disease**: decreased synthesis of multiple factors; complex hemorrhagic diathesis
-- **DIC**: multiple concomitant factor deficiencies
-
----
-
-## Complications of Blood Transfusion
-
-### Febrile Nonhemolytic Reaction
-
-- Most common transfusion complication
-- Fever, chills, mild dyspnea within 6 hours
-- Caused by inflammatory mediators from donor leukocytes
-- More frequent with longer storage; decreased by limiting leukocyte contamination
-- Treated with antipyretics; self-limited
-
-### Allergic Reactions
-
-**Severe (IgA deficiency):**
-- IgG antibodies against IgA in transfused product
-- 1:20,000–1:50,000 transfusions
-- Potentially fatal anaphylaxis
-
-**Urticarial (mild):**
-- Allergen in donated blood recognized by recipient IgE
-- 1–3% of transfusions
-- Generally mild
-
-### Hemolytic Reactions
-
-**Acute (ABO incompatibility):**
-- Preformed IgM antibodies against donor red cells → complement-mediated lysis
-- Hemoglobinemia, hemoglobinuria
-- Fever, shaking chills, flank pain
-- May progress to DIC, shock, renal failure, death
-- Direct Coombs test positive
-
-**Delayed (antibodies to Rh, Kell, Kidd):**
-- IgG antibodies; previously sensitized recipients
-- Extravascular hemolysis (usually)
-- Positive direct Coombs test; laboratory features of hemolysis
-
-### Transfusion-Related Acute Lung Injury (TRALI)
-
-- Severe, frequently fatal
-- **Two-hit hypothesis**:
-  - First hit: activated pulmonary endothelium (smoking, sepsis, shock)
-  - Second hit: antibody in transfused blood against recipient HLA antigens
-- Multiparity: source of anti-MHC antibodies
-- Sudden respiratory failure; diffuse bilateral pulmonary infiltrates
-- Treatment: supportive; mortality 5–67%
-
-### Infectious Complications
-
-- **Bacterial contamination**: platelets (room temperature storage) more risk than red cells; up to 1:5000 platelet transfusions
-- **Viral transmission** (dramatically decreased with donor screening):
-  - HIV: ~1:2,000,000
-  - Hepatitis C: ~1:1,000,000
-  - Hepatitis B: ~1:500,000
-- "Exotic" agents: West Nile virus, trypanosomiasis, babesiosis
-
----
-
-## Disorders of the Spleen
-
-### Splenomegaly
-
-**Splenomegaly** accompanies many systemic diseases.
-
-**By degree of enlargement:**
-
-| Degree | Weight | Causes |
-|---|---|---|
-| **Massive** | >1000 g | CML, primary myelofibrosis; indolent leukemias (CLL, hairy cell leukemia); lymphomas; malaria; Gaucher disease |
-| **Moderate** | 500–1000 g | Chronic congestive splenomegaly; acute leukemias; chronic hemolytic anemias; amyloidosis; infections (endocarditis, TB, typhoid); sarcoidosis; metastatic carcinoma |
-| **Mild** | <500 g | Acute splenitis; acute congestion; infectious mononucleosis; SLE; intraabdominal infections |
-
-### Hypersplenism
-
-- Chronically enlarged spleen removes excessive blood cells
-- Results in: anemia, leukopenia, thrombocytopenia (or combinations)
-- Platelets particularly susceptible to sequestration in red pulp
-- Associated with many of the diseases causing splenomegaly
-
----
-
-## Disorders of the Thymus
-
-### Thymic Hyperplasia
-
-- Enlargement with **lymphoid follicles** (germinal centers) in medulla
-- Germinal centers contain reactive B cells
-- Found in most patients with **myasthenia gravis**; also in SLE, rheumatoid arthritis
-- **Thymectomy** often beneficial early in disease
-
-### Thymoma
-
-**Thymomas** are tumors of thymic epithelial cells.
-
-**Classification:**
-
-| Type | Description |
-|---|---|
-| **Benign/Encapsulated** | Cytologically and biologically benign |
-| **Malignant Thymoma Type I** | Cytologically benign but locally invasive |
-| **Malignant Thymoma Type II (Thymic carcinoma)** | Cytologically and biologically malignant |
-
-#### Morphology
-
-- Lobulated, firm, gray-white masses
-- ~75% encapsulated; 25% penetrate capsule and infiltrate perithymic tissues
-- Mixed population: neoplastic epithelial cells + nonneoplastic thymocytes (immature T cells)
-- **Medullary thymomas**: spindled/elongated epithelial cells
-- **Mixed thymomas**: admixture of plump round cortical-type epithelial cells
-
-#### Clinical Features
-
-- Rare; middle-aged adults
-- ~30% asymptomatic
-- ~30–40% local manifestations: cough, dyspnea, superior vena cava syndrome
-- ~30% associated with **myasthenia gravis** (15–20% of myasthenia gravis patients have thymoma)
-- Other paraneoplastic syndromes: pure red cell aplasia, hypogammaglobulinemia, multi-organ autoimmunity
-- Removal of tumor often improves neuromuscular disorder
+## Summary
+
+- 貧血分為失血性、溶血性與紅血球生成減少性三大類；MCV 是鑑別診斷的首要工具
+- 溶血分為血管外（脾臟破壞，間接膽紅素↑、脾腫大）與血管內（血紅蛋白血症/尿，schistocytes）兩型
+- Hereditary spherocytosis 源於紅血球膜骨架蛋白突變（spectrin/ankyrin/band 3），形成 spherocytes；SMA 測試確診
+- Sickle cell anemia 由 HbS 突變引起，雜合子無症狀，同合子導致慢性溶血與 vaso-occlusive crises（手足徵候、急性胸腔症候群、stroke、autosplenectomy）
+- Thalassemia 源於 globin 鏈合成減少；β-thalassemia major 需要規則輸血→繼發性 hemochromatosis
+- Megaloblastic anemia 由 B12/folate 缺乏引起，表現為巨紅血球、hypersegmented neutrophils；B12 缺乏還導致脊髓後側索脫髓鞘
+- Iron deficiency anemia 是小球性低色素性貧血；ferritin↓是最敏感的指標
+- AML 是成人急性白血病，染色體易位（t(15;17)→APL 對 ATRA 有反應）是預後關鍵；ALL 是兒童最常見的癌症
+- CML 由費城染色體 BCR-ABL 引起；Imatinib 等 TKIs 使慢性期預後大幅改善
+- 淋巴瘤的鑑別需確認克隆性（IgH/TCR gene rearrangement）；反應性增生保留架構、為多克隆性
+- DLBCL 是最常見的 NHL；FL 由 t(14;18)→BCL2 過度表達引起，是不可根治的惰性淋巴瘤
+- Burkitt lymphoma 是生長最快的腫瘤，t(8;14)(MYC-IgH)；星空現象是形態學特徵
+- Hodgkin lymphoma 的診斷基於 Reed-Sternberg cells（CD15+、CD30+、CD45−）
+- Multiple myeloma 的臨床特徵為 CRAB（高血鈣、腎功能障礙、貧血、骨病變）；骨髓瘤腎病由 Bence Jones proteins 引起
+- HIT 是 thrombosis > bleeding 的自體免疫疾病；TTP 由 ADAMTS13 缺乏引起（五聯症）
+- Hemophilia A/B 是 X 連鎖隱性因子 VIII/IX 缺乏；Hemarthrosis 是特徵性表現
+- DIC 是全身性凝血激活→微血栓+出血；根本病因治療是最關鍵的干預

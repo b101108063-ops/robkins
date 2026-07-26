@@ -5,1213 +5,476 @@ title: "Chapter 16: Liver and Gallbladder"
 
 # Chapter 16: Liver and Gallbladder
 
-## General Features of Liver Disease
+## 章節導讀
 
-The major primary diseases of the liver are **viral hepatitis**, **alcoholic liver disease**, **nonalcoholic fatty liver disease (NAFLD)**, and **hepatocellular carcinoma (HCC)**. The liver also is frequently damaged secondarily in a variety of common disorders, such as cardiac disease, disseminated cancer, and extrahepatic infections.
+本章節系統介紹肝臟與膽囊疾病的病理學。肝臟疾病首先說明 liver failure（急性、慢性與 acute-on-chronic）的臨床與病理表現，接著重點闡述 infectious disorders——包括各型肝炎病毒（HAV、HBV、HCV、HDV、HEV）的 virology、傳染途徑與臨床後果。
 
-With the rare exception of fulminant hepatic failure, liver disease is an insidious process in which the signs and symptoms of hepatic decompensation appear weeks, months, or even years after the onset of injury.
+自體免疫肝炎、藥物與毒素引起的肝損傷章節涵蓋常見藥物性肝損傷的模式與 Acetaminophen overdose 的毒性機制。脂肪肝疾病（alcoholic liver disease 與 NAFLD/NASH）說明從 steatosis 到 steatohepatitis 到 fibrosis/cirrhosis 的疾病進程與分子機制。
 
-### Mechanisms of Injury and Repair
+遺傳性代謝肝疾病包括 hemochromatosis（鐵質過度累積）、Wilson disease（銅代謝障礙）與 α1-antitrypsin deficiency 的發病機制與病理形態。膽汁淤積章節（cholestatic syndromes）詳細說明 bilirubin 代謝與膽道疾病的病理。結節與腫瘤章節涵蓋 hepatocellular adenoma、HCC 與 cholangiocarcinoma 的致病因子與形態學。最後介紹膽囊疾病（gallstone disease、cholecystitis、gallbladder carcinoma）。
 
-Injured hepatocytes may show several potentially reversible changes, such as accumulation of fat and bilirubin (cholestasis). When injury is not reversible, hepatocytes die by **necrosis** or **apoptosis**.
+## 肝臟疾病總論
 
-- **Necrosis** is commonly seen following hepatic injury caused by hypoxia and ischemia.
-- **Apoptotic cell death** predominates in viral, autoimmune, and drug-and toxin-induced hepatitides.
+### 肝細胞損傷與修復機制
 
-### Laboratory Evaluation of Liver Disease
+受損的肝細胞可表現多種潛在可逆性變化，如脂肪堆積（steatosis）與膽紅素堆積（cholestasis）。當損傷不可逆時，肝細胞通過 **necrosis** 或 **apoptosis** 死亡。
 
-**Table 16.1** Laboratory Evaluation of Liver Disease
+- **Necrosis** 常見於缺氧與缺血引起的肝損傷。
+- **Apoptotic cell death** 在病毒性、自體免疫性與藥物/毒素引起的肝炎中占主導。
 
-| Test Category | Blood Measurement | Clinical Significance |
+### 實驗室評估
+
+**Table 16.1** 肝臟疾病的實驗室評估
+
+| 檢驗類別 | 血液測量 | 臨床意義 |
 |---|---|---|
-| **Hepatocyte integrity** | Serum aspartate aminotransferase (AST), Serum alanine aminotransferase (ALT), Serum lactate dehydrogenase (LDH) | Elevation suggests hepatocyte damage |
-| **Biliary excretory function** | Serum bilirubin (total, direct), Urine bilirubin, Serum bile acids, Serum alkaline phosphatase, Serum γ-glutamyl transpeptidase (GGT) | Elevation suggests cholestasis |
-| **Hepatocyte function** | Serum albumin, Prothrombin time (PT), Partial thromboplastin time (PTT) | Decrease suggests impaired synthetic function |
-| **Hepatocyte metabolism** | Serum ammonia, Aminopyrine breath test | Elevation suggests impaired metabolism |
+| **肝細胞完整性** | AST、ALT、LDH | 升高提示肝細胞損傷 |
+| **膽汁排泄功能** | 膽紅素（總/直接）、尿液膽紅素、鹼性磷酸酶、GGT | 升高提示膽汁淤積 |
+| **肝細胞功能** | 白蛋白、凝血酶原時間（PT）、PTT | 下降提示合成功能受損 |
+| **肝細胞代謝** | 血氨、氨基比林呼吸測試 | 升高提示代謝功能受損 |
 
----
+## 肝臟衰竭
 
-## Liver Failure
-
-The most severe clinical consequence of liver disease is liver failure. It primarily occurs in three clinical scenarios: **acute**, **chronic**, and **acute-on-chronic liver failure**.
+肝臟疾病最嚴重的臨床後果是肝臟衰竭，主要發生在三種臨床情境：**急性**、**慢性**與**急性-慢性肝臟衰竭**。
 
 ### Acute Liver Failure
 
-**Acute liver failure** is defined as liver disease that produces **hepatic encephalopathy** within 6 months of the initial diagnosis.
+**急性肝臟衰竭**定義為在初次診斷後 6 個月內出現**肝性腦病變**。
 
-- **Fulminant liver failure**: Encephalopathy develops within 2 weeks of the onset of jaundice
-- **Subfulminant liver failure**: Encephalopathy develops within 3 months
+- **猛爆性肝衰竭（fulminant hepatic failure）**：黃疸發病後 2 週內出現腦病變
+- **亞猛爆性肝衰竭（subfulminant hepatic failure）**：3 個月內出現腦病變
 
-In the United States, accidental or deliberate ingestion of **acetaminophen** accounts for almost 50% of cases of acute liver failure. Other causes include:
-- Autoimmune hepatitis
-- Other drugs and toxins
-- Acute hepatitis A and B infections
+在美國，意外或故意服用 **acetaminophen** 佔急性肝衰竭病例的近 50%。其他原因包括自體免疫肝炎、其他藥物與毒素、急性 A 型與 B 型肝炎。
 
-In Asia, **acute hepatitis B and E** predominate as causes.
+**形態學**：急性肝衰竭在解剖與組織學上表現為**大片狀肝細胞壞死（massive hepatic necrosis）**——肝臟縮小，因實質丟失而皺縮；顯微鏡下可見大範圍破壞區域圍繞少數再生肝細胞島。由於疾病急性特徵，疤痕組織幾乎缺如。
 
-#### Morphology
-
-The clinical syndrome of acute liver failure is reflected anatomically and histologically as **massive hepatic necrosis**.
-
-- The liver is small and shrunken due to loss of parenchyma
-- Microscopically, there are large zones of destruction surrounding occasional islands of regenerating hepatocytes
-- Scar is mostly absent given the acute nature of the process
-
-#### Clinical Features
-
-Acute liver failure manifests with:
-- Nausea, vomiting, jaundice, and fatigue
-- Life-threatening **encephalopathy**, **coagulation defects**, and **portal hypertension** associated with ascites
-- Serum transaminase levels elevated into the thousands
+**臨床特徵**：急性肝衰竭表現為噁心、嘔吐、黃疸、疲勞，以及危及生命的**腦病變**、**凝血障礙**與**門脈高壓**（伴腹水）。血清轉氨酶升高至數千。
 
 ### Chronic Liver Failure and Cirrhosis
 
-**Cirrhosis** is the morphologic change most often associated with chronic liver disease. It refers to the diffuse transformation of the liver into regenerative parenchymal nodules surrounded by fibrous bands.
+**Cirrhosis** 是慢性肝臟疾病最常見的形態學關聯，指整個肝臟轉化為被纖維帶包圍的再生肝細胞結節。
 
-The leading causes of chronic liver failure worldwide include:
-- Chronic hepatitis B
-- Chronic hepatitis C
-- Non-alcoholic fatty liver disease (NAFLD)
-- Alcoholic liver disease
-
-#### Morphology
-
-Liver failure in chronic liver disease is most often associated with cirrhosis:
-- Diffuse transformation of the entire liver into regenerative parenchymal nodules
-- Nodules surrounded by fibrous bands
-- Size of nodules, pattern of scarring, degree of parenchymal loss vary between diseases
-
-#### Clinical Features
-
-About 40% of individuals with cirrhosis are asymptomatic until the most advanced stages. Signs and symptoms include:
-
-- **Jaundice and pruritus**: Severe chronic jaundice can lead to intense itching
-- **Portal hypertension**: More frequent and complex in chronic than acute liver failure
-  - Portosystemic shunts develop when blood flow is reversed from portal to systemic circulation
-  - **Esophagogastric varices** appear in about 40% of individuals with advanced-stage liver disease
-  - **Congestive splenomegaly** can lower platelet count
-- **Hyperestrogenemia** in males: Palmar erythema, spider angiomas, hypogonadism, gynecomastia
+主要病因包括：慢性 B 型肝炎、慢性 C 型肝炎、非酒精性脂肪肝疾病（NAFLD）與酒精性肝病。
 
 ### Acute-on-Chronic Liver Failure
 
-Some individuals after years of stable, well-compensated chronic disease suddenly develop signs of acute liver failure. The short-term mortality is around 50%.
+一些個體在多年穩定的代償性慢性疾病後突然出現急性肝衰竭表現。短期死亡率約 50%。
 
-### Summary: Liver Failure
+### Summary: 肝臟衰竭
 
-- Liver failure may follow acute injury, chronic injury, or acute insult superimposed on chronic liver disease
-- ** mnemonic for causes of acute liver failure (A through F)**:
-  - **A**: Acetaminophen, hepatitis A, autoimmune hepatitis
-  - **B**: Hepatitis B
-  - **C**: Cryptogenic, hepatitis C
-  - **D**: Drugs/toxins, hepatitis D
-  - **E**: Hepatitis E, esoteric causes (Wilson disease, Budd-Chiari syndrome)
-  - **F**: Fatty change of microvesicular type (fatty liver of pregnancy, valproate, tetracycline, Reye syndrome)
-- Potentially fatal sequelae include: coagulopathy, encephalopathy, portal hypertension, ascites, hepatorenal syndrome, portopulmonary hypertension
+- 肝臟衰竭可繼發於急性損傷、慢性損傷或慢性疾病基礎上的急性打擊。
+- **猛爆性肝衰竭常見原因**：Acetaminophen（A）、肝炎（A、B、E）、自體免疫肝炎、藥物/毒素、Halothane 等。
+- **可能致命的後遺症**：凝血障礙、腦病變、門脈高壓、腹水、hepatorenal syndrome。
 
----
+## 傳染性疾病
 
-## Infectious Disorders
+### 病毒性肝炎
 
-### Viral Hepatitis
+#### 各型肝炎病毒
 
-The terminology for acute and chronic viral hepatitis can be confusing. The same word, hepatitis, can describe:
-1. Viruses (hepatitis A, B, C, D, and E) that are hepatotropic
-2. Patterns of acute and chronic hepatic injuries produced by other viruses (EBV, CMV, yellow fever), autoimmune reactions, drugs, and toxins
+**Table 16.2** 各型肝炎病毒
 
-### The Hepatitis Viruses
-
-**Table 16.2** The Hepatitis Viruses
-
-| Virus | Viral Genome | Viral Family | Route of Transmission | Incubation Period | Frequency of Chronic Liver Disease | Diagnosis |
+| 病毒 | 基因組 | 病毒家族 | 傳染途徑 | 潛伏期 | 慢性肝病頻率 | 診斷 |
 |---|---|---|---|---|---|---|
-| **Hepatitis A (HAV)** | ssRNA | Hepatovirus; related to picornavirus | Fecal-oral (contaminated food or water) | 2–6 weeks | Never | Detection of serum IgM antibodies |
-| **Hepatitis B (HBV)** | Partially dsDNA | Hepadnavirus | Parenteral, sexual contact, perinatal | 2–26 weeks (mean 8) | 5%–10% | Detection of HBsAg or antibody to HBcAg; PCR for HBV DNA |
-| **Hepatitis C (HCV)** | ssRNA | Flaviviridae | Parenteral; intranasal cocaine use | 4–26 weeks (mean 9) | >80% | ELISA for antibody; Detection of IgM and IgG antibodies, HCV RNA by PCR |
-| **Hepatitis D (HDV)** | Circular defective ssRNA | Deltaviridae family | Parenteral | Same as HBV | 10% (coinfection); 90%–100% (superinfection) | Detection of IgM and IgG antibodies, HDV RNA in serum, or HDAg in liver biopsy |
-| **Hepatitis E (HEV)** | ssRNA | Calicivirus | Fecal-oral | 4–5 weeks | In immunocompromised hosts only | Detection of serum IgM and IgG antibodies; PCR for HEV RNA |
+| **HAV** | ssRNA | Hepatovirus | 糞口（受污染食物或水） | 2-6 週 | 無 | IgM 抗體檢測 |
+| **HBV** | 部分 dsDNA | Hepadnavirus | 腸胃道外、性接觸、圍產期 | 2-26 週（平均 8） | 5-10% | HBsAg 或 anti-HBc 抗體檢測；HBV DNA PCR |
+| **HCV** | ssRNA | Flaviviridae | 腸胃道外；鼻內使用古柯鹼 | 4-26 週（平均 9） | >80% | ELISA 測抗體；HCV RNA PCR |
+| **HDV** | 環狀缺陷 ssRNA | Deltaviridae | 腸胃道外 | 與 HBV 相同 | 10%（共同感染）；90-100%（重複感染） | IgM/IgG 抗體；HDV RNA |
+| **HEV** | ssRNA | Calicivirus | 糞口 | 4-5 週 | 僅免疫抑制者 | IgM/IgG 抗體；HEV RNA PCR |
 
-### Hepatitis A Virus (HAV)
+#### Hepatitis A Virus (HAV)
 
-HAV is usually a benign self-limited infection that:
-- Does not cause chronic hepatitis
-- Rarely (about 0.1% of cases) produces fulminant hepatitis
-- Has an incubation period of 3-6 weeks
-- Is typically cleared by the host immune response
+HAV 通常是良性的自限性感染，不引起慢性肝炎，約 0.1% 產生猛爆性肝炎。IgM anti-HAV 在發病時出現（急性感染的標誌），IgG anti-HAV 持續終生（終身免疫）。
 
-**Virology**:
-- Small, nonenveloped, positive-strand RNA picornavirus
-- Icosahedral capsid 27 nm in diameter
-- Receptor: HAVCr-1 (membrane glycoprotein)
+#### Hepatitis B Virus (HBV)
 
-**Transmission**:
-- Ingestion of contaminated water and food
-- Shedding in stool for 2-3 weeks before and 1 week after onset of jaundice
-- Close personal contact or fecal-oral contamination
-- Raw or steamed shellfish concentrated from contaminated seawater
-- Blood-borne transmission is very rare
+HBV 感染的後果差異很大：急性肝炎康復、慢性非進行性肝炎、進展性慢性疾病導致肝硬化、猛爆性肝炎並大片狀壞死、「健康」攜帶者狀態。
 
-**Immune Response**:
-- IgM antibody against HAV appears at onset of symptoms (marker of acute infection)
-- IgG anti-HAV persists for years (lifelong immunity)
+**病毒學**：Hepadnaviridae 家族成員，部分雙股 DNA，編碼 HBsAg（表面抗原）、HBcAg（核心抗原）、HBeAg、聚合物酶與 HBx 蛋白。
 
-### Hepatitis B Virus (HBV)
+**血清學標誌**：
+- **HBsAg**：症狀前出現，高峰後通常 12 週內降至檢測不到
+- **Anti-HBs**：急性病後出現，赋予保護（疫苗基礎）
+- **IgM anti-HBc**：症狀前不久可檢測
+- **IgG anti-HBc**：數月後取代 IgM
 
-The outcome of HBV infection varies widely:
-1. Acute hepatitis with recovery and clearance of the virus
-2. Nonprogressive chronic hepatitis
-3. Progressive chronic disease ending in cirrhosis
-4. Fulminant hepatitis with massive liver necrosis
-5. "Healthy" carrier state
+感染時年齡是慢性化最好的預測因子——HBV 感染時年齡越小，慢性感染的機會越高。
 
-**Epidemiology**:
-- One-third of the world's population (2 billion individuals) has been infected with HBV
-- 400 million individuals have chronic infections
-- 75% of chronic carriers live in Asia and the Western Pacific rim
+#### Hepatitis C Virus (HCV)
 
-**Transmission**:
-- Perinatal transmission (90% of cases in high-prevalence regions)
-- Horizontal transmission in early childhood
-- Unprotected sex and intravenous drug abuse (low-prevalence areas)
-- Blood transfusion (greatly reduced by screening)
+全球約 1.7 億人受影響。80-90% 發生慢性疾病。傳染途徑主要是靜脈藥物使用。與 HBV 不同，HCV **不母嬰垂直傳染**。
 
-**Virology**:
-- Member of Hepadnaviridae family
-- Partially double-stranded, 3200-nucleotide circular DNA
-- Four open reading frames encoding:
-  - **Nucleocapsid "core" protein**: HBcAg and HBeAg
-  - **Envelope glycoproteins**: HBsAg (hepatitis B surface antigen)
-  - **Polymerase**: Both DNA polymerase and reverse transcriptase activity
-  - **HBx protein**: Required for virus replication; transcriptional transactivator
+#### Hepatitis D Virus (HDV)
 
-**Serologic Markers**:
-- **HBsAg**: Appears before symptoms, peaks during disease, usually declines to undetectable by 12 weeks
-- **Anti-HBs antibody**: Appears after acute disease is over; confers protection (basis for vaccines)
-- **HBeAg and HBV DNA**: Signify ongoing viral replication
-- **IgM anti-HBc**: Detectable shortly before onset of symptoms
-- **IgG anti-HBc**: Replaces IgM over months
+又稱 delta agent，是依賴 HBV 完成生命週期的獨特缺陷 RNA 病毒。共同感染比重複感染的急性肝炎更嚴重。
 
-**Host Immune Response**:
-- Innate immune mechanisms protect during initial phases
-- Strong CD4+ and CD8+ interferon γ–producing cells associated with resolution of acute infection
-- **HBV is generally not directly hepatotoxic**; most hepatocyte injury is caused by CD8+ cytotoxic T cells
+#### Hepatitis E Virus (HEV)
 
-**Patient age at infection** is the best predictor of chronicity. The younger the age at the time of HBV infection, the higher the chance of chronic infection.
+糞口傳播的水源性感染，通常自限。**孕婦死亡率可達 20%**。
 
-### Hepatitis C Virus (HCC)
+### Summary: 病毒性肝炎
 
-- Approximately 170 million individuals affected worldwide
-- Approximately 4.1 million Americans (1.6% of the population) have chronic HCV infection
+- **母音（A 和 E）**：從不引起慢性肝炎
+- **子音（B、C、D）**：有潛力引起慢性疾病
+- HAV 與 HBV 感染（尤其在孩童期）常是亞臨床的
+- 長期 HBV 或 HCV 感染增加 HCC 風險
 
-**Risk Factors**:
-- Intravenous drug abuse
-- Multiple sex partners
-- Surgery within the last 6 months
-- Needle stick injury
-- Multiple contacts with an HCV-infected individual
-- Employment in the medical or dental field
+## 自體免疫肝炎
 
-**Transmission by blood transfusion** is close to zero in the United States. Risk for acquiring HCV by needle stick is about 6 times higher than for HIV.
+**自體免疫肝炎**是一種慢性進行性肝炎，具有自體免疫疾病的特徵：
+- 遺傳傾向
+- 與其他自體免疫疾病相關
+- 自體抗體存在
+- 對免疫抑制治療有反應
 
-**Virology**:
-- Member of Flaviviridae family
-- Small, enveloped, single-stranded RNA virus
-- 9600-base genome encoding a single polyprotein
-- Six major HCV genotypes worldwide
-- Each patient usually infected with quasispecies (divergent but closely related HCV variants)
+**Type 1**（更常見）：抗核抗體（ANA）、抗平滑肌抗體（SMA）
+**Type 2**（通常在兒童與青少年）：抗肝腎微粒體-1 抗體（抗 LKM-1）、抗肝細胞質-1 抗體
 
-**Incubation period**: 4-26 weeks (mean 9 weeks). About 85% of individuals have asymptomatic acute infection.
+### Summary: 自體免疫肝炎
 
-**Chronic disease** occurs in 80%-90% of HCV-infected individuals. Cirrhosis eventually occurs in as many as one-third.
+- **Type 1**：多見於中年女性；與 ANA 和抗平滑肌抗體相關
+- **Type 2**：多見於兒童或青少年；與抗 LKM 自體抗體相關
+- 血漿細胞是炎症浸潤中的顯著特徵
 
-### Hepatitis D Virus (HDV)
+## 藥物與毒素引起的肝臟損傷
 
-Also called the **delta agent**, HDV is a unique RNA virus that is dependent on HBV for its life cycle.
+肝臟是主要的藥物代謝與解毒器官。損傷可來自直接毒性、肝臟將異生化合物轉化為活性毒素、或免疫機制（藥物或其代謝產物作為 haptens）。
 
-**Two settings of infection**:
-1. **Coinfection** by HDV and HBV: Higher rates of severe acute hepatitis and fulminant liver failure; higher rates of progression to chronic infection
-2. **Superinfection** of a chronic HBV carrier by HDV: Presents 30-50 days later as severe acute hepatitis or exacerbation of preexisting chronic hepatitis B
+**Table 16.3** 藥物與毒素引起肝損傷的模式
 
-**Epidemiology**: Estimated 15 million individuals affected worldwide (about 5% of HBV-infected individuals). Highest in Amazon basin, Africa, Middle East, and Southern Italy.
-
-### Hepatitis E Virus (HEV)
-
-- Enterically transmitted, water-borne infection
-- Usually produces a self-limiting disease
-- Zoonotic disease with animal reservoirs (monkeys, cats, pigs, dogs)
-- Epidemics in Asia, Indian subcontinent, sub-Saharan Africa, and Mexico
-- Accounts for 30%-60% of sporadic acute hepatitis in India
-- **High mortality rate among pregnant women** (approaching 20%)
-- Incubation period: 4-5 weeks
-
-### Clinicopathologic Syndromes of Viral Hepatitis
-
-#### Acute Asymptomatic Infection With Recovery
-- Identified incidentally on the basis of elevated serum transaminases or presence of anti-viral antibodies
-- HAV and HBV infections, particularly in childhood, are frequently subclinical
-
-#### Acute Symptomatic Infection With Recovery
-- Incubation period (variable length)
-- Symptomatic preicteric phase
-- Symptomatic icteric phase
-- Convalescence
-
-#### Fulminant Hepatic Failure
-- Viral hepatitis is responsible for about 12% of cases
-- Two-thirds caused by HBV infection; rest by HAV
-- Liver transplantation is the only option for patients whose disease does not resolve
-
-#### Chronic Hepatitis
-Defined as persistent or relapsing hepatic disease for more than 6 months.
-
-**Laboratory findings**:
-- Elevations of serum transaminases
-- Prolongation of prothrombin time
-- Hyperglobulinemia, hyperbilirubinemia
-- Mild elevations in alkaline phosphatase levels
-
-**Physical findings**:
-- Spider angiomas, palmar erythema
-- Mild hepatomegaly, hepatic tenderness, mild splenomegaly
-- Immune complex disease (vasculitis, glomerulonephritis)
-- Cryoglobulinemia in about 35% of chronic hepatitis C patients
-
-#### The Carrier State
-- **HBV "healthy carriers"**: HBeAg absent, anti-HBe present, normal aminotransferases, low or undetectable HBV DNA
-- HCV carrier state in 10%-40% of cases in the United States
-
-#### HIV and Chronic Viral Hepatitis
-- 10% of HIV-infected individuals coinfected with HBV
-- 25% of HIV-infected individuals coinfected with HCV
-- Liver disease is the second most common cause of death in AIDS patients
-
-#### Morphology
-
-**Acute viral hepatitis**:
-- Grossly: Normal or slightly mottled (mild cases) to greatly shrunken (massive necrosis)
-- Microscopically:
-  - Mononuclear cells predominate in all phases
-  - "Spotty necrosis" or lobular hepatitis
-  - Portal inflammation minimal or absent
-  - In severe cases: Confluent necrosis around central veins, bridging necrosis
-
-**Chronic viral hepatitis**:
-- **Defining feature**: Mononuclear portal infiltration
-- Interface hepatitis at the interface between hepatocellular parenchyma and portal tract stroma
-- In chronic hepatitis B: "**Ground-glass hepatocytes**" (cells with endoplasmic reticulum swollen by HBsAg)
-- In chronic hepatitis C: Large lymphoid aggregates, fatty change (particularly genotype 3)
-
-### Summary: Viral Hepatitis
-
-- **Vowels (A and E)**: Never cause chronic hepatitis
-- **Consonants (B, C, D)**: Have potential to cause chronic disease
-- **Hepatitis B**: Transmitted by blood, birthing, and sexual contact
-- **Hepatitis C**: More often chronic than not (>80% develop chronic hepatitis)
-- **Hepatitis D**: Defective virus requiring HBV coinfection
-- **Hepatitis E**: Endemic in equatorial regions; frequently epidemic
-- The inflammatory cells in both acute and chronic viral hepatitis are mainly T cells
-- Patients with long-standing HBV or HCV infections are at increased risk for HCC
-
-### Bacterial, Parasitic, and Helminthic Infections
-
-Organisms reach the liver through:
-- **Ascending infection**: Via gut and biliary tract (ascending cholangitis)
-- **Vascular seeding**: Most often through portal system
-- **Direct invasion**: From an adjacent source
-- **Penetrating injury**
-
-**Specific organisms**:
-- **Schistosomiasis**: Most common cause of noncirrhotic portal hypertension worldwide; adult worms produce eggs that lodge in portal circulation and induce granulomatous reaction with marked fibrosis
-- **Entamoeba histolytica**: Causes amebic liver abscesses; more common in right lobe; abscess cavity contains necrotic liver cells but no neutrophils
-- **Liver fluke infection** (Fasciola hepatica, Opisthorchis species, Clonorchis sinensis): Associated with high rate of cholangiocarcinoma; common in Southeast Asia
-- **Echinococcal infections**: Cause intrahepatic hydatid cysts
-
----
-
-## Autoimmune Hepatitis
-
-**Autoimmune hepatitis** is a chronic, progressive hepatitis with features of autoimmune diseases:
-- Genetic predisposition
-- Association with other autoimmune diseases
-- Presence of autoantibodies
-- Therapeutic response to immunosuppression
-
-### Classification
-
-**Type 1** (more common in middle-age and older individuals):
-- Anti-nuclear antibodies (ANA)
-- Anti–smooth muscle actin (SMA)
-- Anti-mitochondrial antibodies (AMA)
-- Anti–soluble liver antigen/liver-pancreas antigen (anti-SLA/LP)
-
-**Type 2** (usually in children and teenagers):
-- Anti–liver kidney microsome-1 antibodies
-- Anti–liver cytosol-1 antibodies
-
-### Morphology
-
-- Extensive interface hepatitis
-- Foci of confluent (perivenular or bridging) necrosis or parenchymal collapse
-- **Plasma cell predominance** in mononuclear inflammatory infiltrates
-- Hepatocyte "rosettes" in areas of marked activity
-
-### Clinical Features
-
-- Annual incidence highest among white northern Europeans (1.9 in 100,000)
-- Female predominance (78%)
-- 40% present with acute clinical illness; sometimes fulminant
-- Without treatment: Approximately 40% mortality within 6 months
-- Immunosuppressive therapy effective in 80% of patients
-- 10-year survival rate after liver transplant: 75%
-
-### Summary: Autoimmune Hepatitis
-
-- **Type 1**: Most often in middle-age women; associated with anti-nuclear and anti–smooth muscle antibodies
-- **Type 2**: Most often in children or teenagers; associated with anti–liver kidney microsomal autoantibodies
-- May develop with rapidly progressive acute disease or follow an indolent path
-- **Plasma cells are a prominent characteristic component** of the inflammatory infiltrate
-
----
-
-## Drug- and Toxin-Induced Liver Injury
-
-The liver is the major drug metabolizing and detoxifying organ. Injury may result from:
-- Direct toxicity
-- Hepatic conversion of a xenobiotic compound to an active toxin
-- Immune mechanisms (drug or metabolite acting as hapten)
-
-**Table 16.3** Patterns of Injury in Drug- and Toxin-Induced Hepatic Injury
-
-| Pattern of Injury | Morphologic Findings | Examples of Associated Agents |
+| 損傷模式 | 形態學發現 | 相關藥物例子 |
 |---|---|---|
-| **Cholestatic** | Bland hepatocellular cholestasis, without inflammation | Contraceptive and anabolic steroids, antibiotics, HAART |
-| **Cholestatic hepatitis** | Cholestasis with lobular necrosis and inflammation; may show bile duct destruction | Antibiotics, phenothiazines, statins |
-| **Hepatocellular necrosis** | Spotty hepatocyte necrosis | Methyldopa, phenytoin |
-| **Massive necrosis** | — | Acetaminophen, halothane |
-| **Chronic hepatitis** | — | Isoniazid |
-| **Fatty liver disease** | Large and small droplet fat | Ethanol, corticosteroids, methotrexate, total parenteral nutrition |
-| | "Microvesicular steatosis" (diffuse small droplet fat) | Valproate, tetracycline, aspirin (Reye syndrome), HAART |
-| | Steatohepatitis with Mallory-Denk bodies | Ethanol, amiodarone |
-| **Fibrosis and cirrhosis** | Periportal and pericellular fibrosis | Alcohol, methotrexate, enalapril, vitamin A and other retinoids |
-| **Granulomas** | Noncaseating epithelioid granulomas | Sulfonamides, amiodarone, isoniazid |
-| **Vascular lesions** | Sinusoidal obstruction syndrome (veno-occlusive disease): obliteration of central veins | High-dose chemotherapy, bush teas |
-| | Fibrin ring granulomas | Allopurinol |
-| | Budd-Chiari syndrome | Oral contraceptives |
-| | Peliosis hepatis: blood-filled cavities not lined by endothelial cells | Anabolic steroids, tamoxifen |
+| **膽汁淤積性** | 無炎症的肝細胞性膽汁淤積 | 避孕類固醇、合成類固醇、抗生素 |
+| **膽汁淤積性肝炎** | 膽汁淤積伴小葉壞死與炎症 | 抗生素、phenothiazines、statins |
+| **肝細胞壞死** | 局灶性肝細胞壞死 | Methyldopa、phenytoin |
+| **大片狀壞死** | - | Acetaminophen、halothane |
+| **慢性肝炎** | - | Isoniazid |
+| **脂肪肝疾病** | 大與小滴脂肪 | Ethanol、皮質類固醇、methotrexate |
+| | 「微泡性脂肪變性」（瀰漫性小滴脂肪） | Valproate、tetracycline、阿斯匹靈（Reye syndrome） |
+| **纖維化與肝硬化** | 門脈與竇周纖維化 | Alcohol、methotrexate、enalapril |
+| **肉芽腫** | 非乾酪性上皮樣肉芽腫 | Sulfonamides、amiodarone、isoniazid |
 
-### Key Concepts
+### Acetaminophen
 
-- **Predictable (intrinsic) reactions**: Affect all individuals in a dose-dependent fashion
-- **Unpredictable (idiosyncratic) reactions**: Depend on host idiosyncrasies (immune response propensity or rate of metabolism)
+- 美國導致需要移植的急性肝衰竭最常見原因
+- 毒性劑不是 acetaminophen 本身，而是細胞色素 P-450 系統產生的有毒代謝產物
+- **N-acetylcysteine（NAC）**是解毒劑
 
-**Acetaminophen**:
-- Classic, predictable hepatotoxin
-- **Most common cause of acute liver failure necessitating transplantation** in the United States
-- Toxic agent is not acetaminophen itself but toxic metabolites produced by cytochrome P-450 system
-- Damage begins in centrilobular hepatocytes
+## 酒精性與非酒精性脂肪肝疾病
 
-**Halothane**:
-- Causes fatal immune-mediated hepatitis after repeated exposure
+### 肝細胞脂肪變性（Steatosis）
 
----
-
-## Alcoholic and Nonalcoholic Fatty Liver Disease
-
-Three types of liver alterations are observed:
-1. **Steatosis** (fatty change)
-2. **Steatohepatitis** (alcoholic or NASH)
-3. **Fibrosis**
-
-### Hepatocellular Steatosis
-
-- Lipid droplets range from small (microvesicular) to large (macrovesicular)
-- Accumulation typically begins in centrilobular hepatocytes
-- With increasing extent, spreads outward to midlobule and then periportal regions
-- Macroscopically: Fatty livers are large (4-6 kg), soft, yellow, and greasy
+- 脂肪滴從小（微泡性）到大（巨泡性）不等
+- 堆積從中央靜脈周圍肝細胞開始
+- 巨觀：脂肪肝臟大（4-6 kg）、軟、黃、油膩
 
 ### Steatohepatitis
 
-Changes typically more pronounced with alcohol than in NAFLD:
-
-- **Hepatocyte ballooning**: Single or scattered foci of cells undergo swelling and necrosis
-- **Mallory-Denk bodies**: Tangled skeins of intermediate filaments (including ubiquitinylated keratins 8 and 18); visible as eosinophilic cytoplasmic inclusions
-- **Neutrophil infiltration**: Predominantly neutrophilic infiltration may permeate the lobule
+變化在酒精比 NAFLD 更明顯：
+- **肝細胞氣球樣變**：單個或散在細胞團腫脹與壞死
+- **Mallory-Denk bodies**：中間絲的纏結（包括泛素化角蛋白 8 與 18）；呈嗜酸性細胞質包涵體
+- **嗜中性粒細胞浸潤**
 
 ### Steatofibrosis
 
-- Fibrosis appears first in the centrilobular region as central vein sclerosis
-- Perisinusoidal scarring in the space of Disse of the centrilobular region
-- "Chicken wire fence" pattern encircling individual or small clusters of hepatocytes
-- Eventually creates central portal fibrous septa
-- Leads to **micronodular or Laennec cirrhosis**
-
----
+- 纖維化首先出現在中央靜脈區域（central vein sclerosis）
+- 最終創建 central-portal fibrous septa
+- 導致 micronodular 或 Laennec cirrhosis
 
 ## Alcoholic Liver Disease
 
-Excessive ethanol consumption causes:
-- More than 60% of chronic liver disease in Western countries
-- 40% to 50% of deaths due to cirrhosis
+過量乙醇攝入導致：
+- 西半球超過 60% 的慢性肝臟疾病
+- 肝硬化死亡原因的 40-50%
 
-Among heavy drinkers:
-- 90%-100% develop fatty liver (hepatic steatosis)
-- 10%-35% develop alcoholic hepatitis
-- Only 8%-20% develop cirrhosis
+**Pathogenesis**：
+- **脂肪變性**：乙醇代謝產生大量 NADH，增加底物向脂肪合成的分流，損害脂蛋白組裝與分泌
+- **酒精性肝炎**：Acetaldehyde 誘導脂肪過氧化與 acetaldehyde-蛋白質複合物形成；直接影響粒線體功能與膜流動性
 
-**Forms of alcohol-related liver disease** (overlapping):
-1. Hepatic steatosis
-2. Alcoholic hepatitis
-3. Fibrosis and cirrhosis
-
-### Pathogenesis
-
-- **Steatosis**: 
-  - Metabolism of ethanol generates large amounts of NADH
-  - Increases shunting of substrates away from catabolism toward lipid biosynthesis
-  - Impairs assembly and secretion of lipoproteins
-
-- **Alcoholic hepatitis** (uncertain cause, but possible mechanisms):
-  - **Acetaldehyde**: Induces lipid peroxidation and acetaldehyde-protein adduct formation
-  - Direct effect on mitochondrial function and membrane fluidity
-  - Reactive oxygen species generated during oxidation by microsomal ethanol oxidizing system
-
-**Women are more susceptible** than men (possibly due to decreased gastric metabolism of ethanol and differences in body composition).
-
-### Clinical Features
-
-**Alcoholic steatosis**: May be innocuous or give rise to hepatomegaly with mild elevations of serum bilirubin and alkaline phosphatase.
-
-**Alcoholic hepatitis**:
-- Estimated 15-20 years of excessive drinking necessary to develop alcoholic cirrhosis
-- Each bout of alcoholic hepatitis carries 10%-20% risk for death
-- Manifestations: Malaise, anorexia, weight loss, upper-abdominal discomfort, tender hepatomegaly, fever
-- Laboratory: Hyperbilirubinemia, elevated alkaline phosphatase, neutrophilic leukocytosis, AST and ALT elevated but usually below 500 U/mL
-
-**Manifestations of alcoholic cirrhosis**:
-- Similar to other forms of cirrhosis
-- Ethanol may be major source of calories (displacing other nutrients)
-- Vitamin deficiencies (thiamine, vitamin B12)
-- Impaired digestive function (chronic gastric and intestinal mucosal damage, pancreatitis)
+**女性比男性更易感**（可能是因為乙醇胃代謝減少與身體組成差異）。
 
 ### Summary: Alcoholic Liver Disease
 
-- Three main manifestations: Hepatic steatosis, alcoholic hepatitis, and cirrhosis
-- Cirrhosis typically develops after more than 10 years of heavy drinking
-- Multiple pathologic effects: Changes in lipid metabolism, decreased export of lipoproteins, cell injury from reactive oxygen species and metabolites
-
----
+- 三種主要表現：肝細胞脂肪變性、酒精性肝炎與肝硬化
+- 肝硬化通常在超過 10 年重度飲酒後發生
+- 乙醇代謝改變脂肪代謝、減少脂蛋白輸出、細胞損傷來自活性氧與代謝產物
 
 ## Nonalcoholic Fatty Liver Disease (NAFLD)
 
-NAFLD is a common condition in which fatty liver disease develops in individuals who do not drink alcohol.
+NAFLD 是一種常見疾病，在不飲酒個體中發生。肝臟可顯示 steatosis、steatohepatitis、cirrhosis 的任何類型。
 
-The liver can show any of the three types of changes (steatosis, steatohepatitis, cirrhosis), though inflammation is on average less prominent than in alcoholic liver disease.
-
-**Nonalcoholic steatohepatitis (NASH)** describes overt clinical features with histologic features of hepatitis.
+**Nonalcoholic steatohepatitis（NASH）** 描述有臨床特徵與肝炎組織學特徵的疾病。
 
 ### Associated Conditions
 
-NAFLD is consistently associated with **insulin resistance** and the **metabolic syndrome**:
-- Type 2 diabetes (or family history)
-- Obesity (BMI >30 kg/m² in whites; >25 kg/m² in Asians)
-- Dyslipidemia (hypertriglyceridemia, low HDL cholesterol, high LDL cholesterol)
-- Hypertension
+NAFLD 與胰島素抵抗與代謝症候群一致相關：
+- 2 型糖尿病（或家族史）
+- 肥胖（BMI >30 kg/m²）
+- 血脂異常
+- 高血壓
 
 ### Pathogenesis
 
-Key initiating events:
-- Development of obesity
-- Insulin resistance (within adipose tissue and liver)
+關鍵起始事件：
+- 肥胖發展
+- 胰島素抵抗（脂肪組織與肝臟內）
 
-This increases:
-- Mobilization of free fatty acids from adipose tissue
-- Synthesis of fatty acids within hepatocytes
+這增加了：
+- 脂肪組織動員游離脂肪酸
+- 肝細胞內脂肪酸合成
 
-Mechanisms predisposing to NASH:
-- Excessive intrahepatic lipids enhance insulin resistance
-- Sensitize hepatocytes to toxic effects of inflammatory cytokines
-- Inflammasome activation (release of pro-inflammatory IL-1)
-- Reactive oxygen species, induction of ER stress, disruption of mitochondrial function
-
-### Clinical Features
-
-- Most common cause of incidental elevation of serum transaminases
-- Most individuals with steatosis are asymptomatic
-- Liver biopsy required to identify NASH
-
-**Natural history**:
-- Isolated fatty liver: Minimal risk for progression to cirrhosis
-- NASH: ~11% progression to cirrhosis over 15 years
-- NASH cirrhosis: ~7% decompensation over 6.5 years
-
-**Therapy**: Lifestyle modifications leading to weight loss (diet and exercise) are the most effective form of treatment.
+NASH 的易感機制：
+- 過量的肝內脂肪增強胰島素抵抗
+- 使肝細胞對發炎細胞激素毒性敏感
+- Inflammasome 活化（促發炎 IL-1 釋放）
+- 活性氧、誘導 ER stress、粒線體功能障礙
 
 ### Summary: NAFLD
 
-- Associated with metabolic syndrome, obesity, type 2 diabetes, dyslipidemia, and/or hypertension
-- May show all changes associated with alcoholic liver disease
-- Pediatric NAFLD is increasingly recognized; histologic pattern differs somewhat from adults
+- 與代謝症候群、肥胖、2 型糖尿病、血脂異常與/或高血壓相關
+- 可顯示與酒精性肝病相同的所有變化
+- 肝臟活檢是確診 NASH 所必需的
 
----
-
-## Inherited Metabolic Liver Diseases
+## 遺傳性代謝肝疾病
 
 ### Hemochromatosis
 
-Caused by excessive absorption of iron, deposited primarily in parenchymal organs (liver, pancreas, heart, joints, endocrine organs).
+由過量吸收鐵質引起，主要沉積在實質器官（肝臟、胰島、心臟、關節、內分泌器官）。
 
-**Most commonly hereditary** (HFE mutations). Also acquired from parenteral administration of iron (transfusions) or conditions with ineffective erythropoiesis (thalassemia, myelodysplastic syndromes).
+**Pathogenesis**：
+- 沒有調控的鐵質排泄途徑；總體鐵通過腸道吸收調控
+- **Hepcidin** 是腸道鐵吸收的關鍵負調節因子
+- **HFE 基因**突變（最常見：**C282Y**）導致 hepcidin 合成減少
 
-In severe hemochromatosis:
-- Total iron may exceed 50 gm (about one-third accumulates in liver)
-- Micronodular cirrhosis
-- Diabetes mellitus (up to 80% of patients)
-- Abnormal skin pigmentation (up to 80%)
+肝臟損傷機制：
+- 脂質過氧化（通過鐵催化自由基反應）
+- 通過活化肝星狀細胞刺激膠原形成
+- 活性氧導致 DNA 損傷 → 增加 HCC 風險
 
-#### Pathogenesis
-
-- No regulated iron excretion from the body; total body iron regulated by intestinal absorption
-- **Hepcidin** is a key negative regulator of intestinal iron uptake
-- HFE gene (chromosome 6) encodes an HLA class I–like molecule that regulates hepcidin synthesis
-- Most common HFE mutation: **C282Y** (cysteine-to-tyrosine at amino acid 282)
-
-Mechanisms of liver injury:
-- Lipid peroxidation via iron-catalyzed free radical reactions
-- Stimulation of collagen formation by activation of hepatic stellate cells
-- DNA damage by reactive oxygen species → predisposition to HCC
-
-#### Morphology
-
-- Golden-yellow hemosiderin granules in cytoplasm of periportal hepatocytes
-- Histochemically stained with Prussian blue
-- Progressive deposition throughout the lobule, bile duct epithelium, and Kupffer cells
-- Liver becomes slightly enlarged and chocolate brown
-- Fibrous septa develop slowly → cirrhosis in an intensely pigmented liver
-
-#### Clinical Features
-
-- Symptoms usually appear in the fifth and sixth decades in men; later in women
-- Male-to-female ratio of clinically significant iron overload: approximately 5:1 to 7:1
-- Principal manifestations:
-  - Hepatomegaly, abdominal pain
-  - Skin pigmentation (particularly sun-exposed areas)
-  - Deranged glucose homeostasis or frank diabetes mellitus
-  - Cardiac dysfunction (arrhythmias, cardiomyopathy)
-  - Atypical arthritis
-  - Hypogonadism
-
-- **Risk for HCC increased 200-fold** in untreated disease
-
-**Treatment**: Regular phlebotomy; life expectancy is normal with treatment.
+**臨床特徵**：
+- 症狀通常在 50-60 歲出現
+- 男性明顯多於女性（5-7:1）
+- **未治療疾病中 HCC 風險增加 200 倍**
 
 ### Wilson Disease
 
-Autosomal recessive disorder caused by mutation of the **ATP7B gene** on chromosome 13:
-- Results in impaired copper excretion into bile
-- Failure to incorporate copper into ceruloplasmin
-- Results in accumulation of toxic levels of copper in many tissues (liver, brain, eye)
+自體隱性遺傳疾病，由 **ATP7B 基因**突變引起：
+- 導致銅排泄到膽汁受損
+- 失敗將銅摻入 ceruloplasmin
+- 導致有毒水平的銅在許多組織（肝臟、腦、眼）累積
 
-**Copper metabolism**:
-- 40%-60% of ingested copper (2-5 mg/day) absorbed in duodenum and proximal small intestine
-- Transported to liver complexed with albumin and histidine
-- Copper incorporated into enzymes and α2-globulin (apoceruloplasmin) → **ceruloplasmin**
-- Circulating ceruloplasmin carries 90%-95% of plasma copper
-- Degraded in lysosomes; copper excreted into bile (primary route of elimination)
-
-#### Morphology
-
-- Mild to moderate fatty change (steatosis) with focal hepatocyte necrosis
-- Acute, fulminant hepatitis (mimics acute viral hepatitis)
-- Chronic hepatitis: Moderate to severe inflammation and hepatocyte necrosis, fatty change, steatohepatitis features
-- Advanced cases: Cirrhosis
-- Copper deposition demonstrated by rhodamine stain or orcein stain
-
-**Neurologic involvement**: Primarily affects basal ganglia. Nearly all patients develop **Kayser-Fleischer rings** (green to brown deposits of copper in Desçemet membrane of the cornea).
-
-#### Clinical Features
-
-- Symptoms usually appear between 6 and 40 years of age
-- Acute or chronic liver disease common presenting features
-- Neuropsychiatric manifestations from deposition in basal ganglia
-
-**Diagnosis**:
-- Low levels of serum ceruloplasmin
-- Increase in hepatic copper content (most sensitive test)
-- Increased urinary excretion of copper (most specific test)
-- Hepatic copper content >250 µg per gram dry weight is diagnostic
-
-**Treatment**: D-penicillamine or Trientine (copper chelation) or zinc-based therapy. Liver transplantation for hepatitis or advanced cirrhosis.
+**臨床特徵**：
+- 症狀通常在 6-40 歲出現
+- 急性或慢性肝臟疾病是常見表現
+- Kayser-Fleischer rings（眼睛 Descemet 膜中銅沉積）
 
 ### α1-Anti-Trypsin (α1AT) Deficiency
 
-Autosomal recessive disorder marked by very low levels of circulating α1AT caused by mutations leading to misfolding of α1AT.
+自體隱性遺傳疾病，由導致 α1AT 錯誤摺疊的突變引起。
 
-**Function of α1AT**: Inhibits proteases (particularly neutrophil elastase, cathepsin G, proteinase 3).
+**缺失效應**：
+- **肺氣腫**：由於 α1AT 功能喪失與過量 protease 活性
+- **肝臟疾病**：由於肝細胞內錯誤摺疊的 α1AT 蛋白累積
 
-**Effects of deficiency**:
-- **Pulmonary emphysema**: Due to loss of α1AT function and excessive protease activity
-- **Liver disease**: Due to hepatocellular accumulation of misfolded α1AT protein
+### Summary: 遺傳性代謝肝疾病
 
-**Genetics**:
-- Gene located on chromosome 14
-- At least 75 α1AT variants identified
-- Most common genotype: **PiMM** (90% of individuals)
-- Most common clinically significant mutation: **PiZ**
-- PiZZ homozygotes: Circulating α1AT levels only 10% of normal
-- Among individuals of northern European descent: PiZZ state affects 1 in 1800 live births
+- **Hemochromatosis**：最常由 HFE 突變引起 → hepcidin 減少 → 腸道鐵吸收增加。鐵累積在肝臟、胰臟與其他組織。
+- **Wilson disease**：ATP7B 功能缺失突變 → 銅在肝臟、腦（基底核）與眼（Kayser-Fleischer rings）累積。
+- **α1AT deficiency**：突變導致錯誤摺疊 → 肝臟毒性；血漿功能缺陷 → 肺氣腫高風險。
 
-#### Pathogenesis
+## 膽汁淤積症候群
 
-- PiZ polypeptide prone to misfolding and aggregation (glutamine-to-lysine substitution at residue 342; E342K)
-- Creates endoplasmic reticulum stress and triggers unfolded protein response → apoptosis
-- Only 10%-15% of PiZZ individuals develop overt clinical liver disease
+### Bilirubin 與膽汁形成
 
-#### Morphology
+**膽紅素代謝**（Fig. 16.22）：
+1. 血紅素被巨噬細胞降解為膽綠素
+2. 膽綠素被膽綠素還原酶還原為膽紅素
+3. 膽紅素與血清白蛋白結合轉運到肝臟
+4. 肝細胞攝取並通過 UDP-glucuronosyltransferase (UGT1A1) 與葡萄糖醛酸結合
+5. 結合膽紅素分泌到膽汁 → 腸道 → 被細菌降解為尿膽素原
 
-- Round-to-oval cytoplasmic globular inclusions in hepatocytes
-- Strongly **PAS positive** and **diastase resistant**
-- Periportal hepatocytes most affected in early/mild disease
-- Central lobular hepatocytes affected later or in more severe disease
+### Jaundice 的病理生理學
 
-#### Clinical Features
+**Table 16.4** 黃疸的主要病因
 
-- 10%-20% of newborns with α1AT deficiency present with neonatal hepatitis with cholestatic jaundice
-- Adolescence: Symptoms related to hepatitis or cirrhosis
-- May remain silent until cirrhosis appears in middle to later adult life
-- HCC develops in 2%-3% of PiZZ adults (usually in setting of cirrhosis)
-
-**Treatment**: Liver transplantation for severe hepatic disease. For pulmonary disease: Avoidance of cigarette smoking.
-
-### Summary: Inherited Metabolic Liver Disease
-
-- **Hemochromatosis**: Most commonly caused by HFE mutations → decreased hepcidin → increased intestinal iron uptake. Iron accumulates in liver, pancreas, and other tissues.
-- **Wilson disease**: Loss-of-function mutations in ATP7B → copper accumulation in liver, brain (basal ganglia), and eyes (Kayser-Fleischer rings)
-- **α1AT deficiency**: Mutations lead to misfolding → liver toxicity; functional deficit in plasma → high risk for emphysema
-
----
-
-## Cholestatic Syndromes
-
-Hepatic bile serves two major functions:
-1. Emulsification of dietary fat through detergent action of bile salts
-2. Elimination of bilirubin, excess cholesterol, xenobiotics, and other waste products
-
-### Bilirubin and Bile Formation
-
-**Bilirubin metabolism** (Fig. 16.22):
-1. Heme degraded to biliverdin by heme oxygenase (in macrophages of spleen, liver, bone marrow)
-2. Biliverdin reduced to bilirubin by biliverdin reductase
-3. Bilirubin binds to serum albumin and is carried to liver
-4. Hepatocytes take up bilirubin and conjugate with glucuronic acid (by UGT1A1)
-5. Conjugated bilirubin excreted into bile → gut → degraded to urobilinogens by bacterial β-glucuronidases
-
-**Bile acids**:
-- Formed by conjugation of bile acids with taurine or glycine
-- Primary human bile acids: **cholic acid** and **chenodeoxycholic acid**
-- 95% of secreted bile acids are reabsorbed (enterohepatic circulation)
-
-### Pathophysiology of Jaundice
-
-**Table 16.4** Major Causes of Jaundice
-
-**Predominantly Unconjugated Hyperbilirubinemia**:
-
-*Excess Production of Bilirubin*:
-- Hemolytic anemias
-- Resorption of blood from internal hemorrhage
-- Ineffective erythropoiesis
-
-*Reduced Hepatic Uptake*:
-- Drug interference with membrane carrier systems
-
-*Impaired Bilirubin Conjugation*:
-- Physiologic jaundice of the newborn
-- Diffuse hepatocellular disease
-
-**Predominantly Conjugated Hyperbilirubinemia**:
-
-*Decreased Hepatocellular Excretion*:
-- Drug-induced canalicular membrane dysfunction
-- Hepatocellular damage or toxicity
-- Total parenteral nutrition, systemic infection
-
-*Impaired Intrahepatic or Extrahepatic Bile Flow*:
-- Inflammatory destruction of intrahepatic bile ducts
-- Gallstones
-- External compression (e.g., carcinoma of the pancreas)
+| 類別 | 病因 |
+|---|---|
+| **非結合性高膽紅素血症** | |
+| 過量產生 | 溶血性貧血、內出血吸收、無效紅血球生成 |
+| 肝攝取減少 | 藥物干擾 |
+| 結合受損 | 新生兒生理性黃疸、瀰漫性肝細胞疾病 |
+| **結合性高膽紅素血症** | |
+| 肝細胞排泄減少 | 藥物性膽管膜功能障礙、肝細胞損傷或毒性 |
+| 肝內或肝外膽流受損 | 發炎性破壞、膽結石、胰頭癌 |
 
 ### Cholestasis
 
-Cholestasis is caused by:
-- Extrahepatic or intrahepatic obstruction of bile channels
-- Defects in hepatocyte bile secretion
+膽汁淤積由以下原因引起：
+- 膽道的外或內部阻塞
+- 肝細胞膽汁分泌缺陷
 
-**Clinical features**:
-- Jaundice, pruritus
-- Skin xanthomas (focal accumulation of cholesterol)
-- Symptoms related to intestinal malabsorption (deficiencies of fat-soluble vitamins A, D, K)
-- Elevated serum alkaline phosphatase and γ-glutamyl transpeptidase (GGT)
-
-#### Morphology
-
-Common to both obstructive and nonobstructive cholestasis:
-- Accumulation of bile pigment within hepatic parenchyma
-- Elongated green-brown plugs of bile in dilated bile canaliculi
-- Rupture of canaliculi → extravasation of bile → phagocytosed by Kupffer cells
-- Bile pigment droplets within hepatocytes (foamy appearance = "feathery degeneration")
-- Occasional apoptotic hepatocytes
+**臨床特徵**：黃疸、瘙癢、皮膚黃瘤、維生素 A/D/K 缺乏（脂肪吸收障礙）。
 
 ### Neonatal Cholestasis
 
-Prolonged conjugated hyperbilirubinemia in the neonate. Major conditions:
-1. **Cholangiopathies**: Primarily biliary atresia
-2. **Neonatal hepatitis**: Various disorders causing conjugated hyperbilirubinemia (greater than 85% have identifiable causes)
-
-**Differentiation** of biliary atresia from nonobstructive neonatal cholestasis is very important (90% discrimination by clinical data alone; 10% require liver biopsy).
+新生兒持續性結合性高膽紅素血症。主要疾病：
+1. **膽道病**：主要是膽道閉鎖
+2. **新生兒肝炎**：各種引起結合性高膽紅素血症的疾病
 
 ### Biliary Atresia
 
-Defined as a complete or partial obstruction of the extrahepatic biliary tree occurring within the first 3 months of life.
+定義為在生命前 3 個月內發生的肝外膽道樹完全或部分阻塞。
 
-- Underlies approximately one-third of cases of neonatal cholestasis
-- Single most frequent cause of death from liver disease in early childhood
-- 50%-60% of children referred for liver transplantation have biliary atresia
-
-**Two major forms**:
-1. **Fetal form** (up to 20%): Associated with other developmental anomalies (thoracic and abdominal)
-2. **Perinatal form** (most common): Apparently normally developed biliary tree is injured and obstructed following birth
-
-**Morphology**:
-- Inflammation and fibrosing stricture of hepatic or common bile ducts
-- Periductular inflammation may extend into intrahepatic bile ducts → progressive destruction
-- In 90% of patients: Obstruction involves bile ducts at or above porta hepatis (not correctable)
-
-**Clinical features**:
-- Infants present with neonatal cholestasis but normal birth weight
-- Stools become acholic as disease progresses
-- Without surgical intervention: Death usually within 2 years of birth
-
-### Autoimmune Cholangiopathies
-
-Two distinct immunologically-mediated disorders involving intrahepatic bile ducts:
-
-**Table 16.5** Main Features of Primary Biliary Cholangitis and Primary Sclerosing Cholangitis
-
-| Parameter | Primary Biliary Cholangitis | Primary Sclerosing Cholangitis |
-|---|---|---|
-| **Age** | Median age 50 years | Median age 30 years |
-| **Gender** | 90% female | 70% male |
-| **Clinical course** | Progressive | Unpredictable, but progressive |
-| **Associated conditions** | Sjögren syndrome (70%), scleroderma (5%), thyroid disease (20%) | Inflammatory bowel disease (70%), pancreatitis (≤25%), idiopathic fibrosing diseases |
-| **Serology** | 95% AMA-positive; 0%-5% AMA-positive; 20% ANA-positive; 40% ANCA-positive | 6% ANA-positive; 65% ANCA-positive |
-| **Duct lesion** | Florid duct lesions and loss of small ducts only | Strictures and beading of large bile ducts; pruning of smaller ducts |
-| **Morphology** | Inflammatory destruction of small to medium intrahepatic ducts | Inflammatory destruction of extrahepatic and large intrahepatic ducts; fibrotic obliteration of medium and small intrahepatic ducts |
+- 約 1/3 的新生兒膽汁淤積病例
+- 兒童肝臟疾病死亡的最常見原因
 
 ### Primary Biliary Cholangitis (PBC)
 
-Autoimmune disease characterized by **nonsuppurative, inflammatory destruction of small-and medium-sized intrahepatic bile ducts**.
+自體免疫疾病，特徵為小至中等肝內膽道的**非化膿性發炎性破壞**。
 
-- Primarily a disease of middle-age women (female-to-male ratio 6:1)
-- Peak incidence: 40-50 years of age
-- Most prevalent in Northern European countries (England, Scotland) and Northern United States (Minnesota)
-- Prevalence: As high as 400 per 1 million cases
-
-**Pathogenesis**:
-- Anti-mitochondrial antibodies most characteristic finding
-- T cells specific for certain mitochondrial enzymes
-- Aberrant expression of MHC class II molecules on bile duct epithelial cells
-- Accumulation of autoreactive T cells around bile ducts
-
-**Morphology**:
-- Interlobular bile ducts actively destroyed by lymphoplasmacytic inflammation with or without granulomas ("**florid duct lesion**")
-- Disease is quite patchy in distribution
-- Ductular reactions follow on duct injury → portal-portal septal fibrosis
-
-**Clinical features**:
-- Most patients diagnosed while asymptomatic (elevated alkaline phosphatase or severe itching)
-- **Hypercholesterolemia** common
-- Anti-mitochondrial antibodies present in 90%-95% of patients
-- Insidious onset with fatigue and pruritus
-
-**Treatment**: Oral ursodeoxycholic acid slows disease progression. Liver transplantation for advanced liver disease.
+- 主要影響中年女性（女:男 6:1）
+- 抗粒線體抗體（AMA）在 90-95% 病人中存在
 
 ### Primary Sclerosing Cholangitis (PSC)
 
-Characterized by **inflammation and obliterative fibrosis of intrahepatic and extrahepatic bile ducts** → dilation of preserved segments.
+特徵為肝內與肝外膽道的**發炎與閉塞性纖維化** → 保留段擴張。
 
-- "Beading" of intrahepatic and extrahepatic biliary tree on MRI
-- Inflammatory bowel disease coexists in approximately 70% of individuals (most commonly ulcerative colitis)
-- Male predominance (2:1)
+- 約 70% 個體同時有發炎性腸道疾病（最常是潰瘤性結腸炎）
+- 男性為主（2:1）
 
-**Pathogenesis**:
-- T cells activated in damaged mucosa of ulcerative colitis migrate to liver
-- Cross-reacting bile duct antigen → autoimmune assault on bile ducts
-- Atypical perinuclear anti-neutrophil cytoplasmic antibodies (pANCA) found in up to 80% of patients
+### Summary: 膽汁淤積疾病
 
-**Morphology**:
-- Large ducts: Neutrophils infiltrating epithelium superimposed on chronic inflammation → strictures
-- Smaller ducts: Little inflammation but striking "**onion-skin**" fibrosis around atrophic duct lumen → obliteration → "tombstone" scar
+- 膽汁淤積發生於膽汁排泄受損 → 黃疸與膽紅素累積
+- **PBC**：自體免疫性肉芽腫性破壞小至中等肝內膽道；最常見於中年女性；與抗粒線體抗體相關
+- **PSC**：進行性發炎性硬化性破壞各級肝內與肝外膽道；最常見於年輕男性；與發炎性腸道疾病強烈相關
 
-**Clinical features**:
-- Often detected by persistent elevation of serum alkaline phosphatase
-- Progressive fatigue, pruritus, and jaundice
-- Acute bouts of ascending cholangitis
-- Chronic pancreatitis and chronic cholecystitis may also be present
+## 循環障礙
 
-**Treatment**: No satisfactory medical treatment. Endoscopic dilation with sphincterotomy or stenting. Liver transplantation is the only definitive treatment.
+### 肝臟流入受損
 
-### Summary: Cholestatic Diseases
+**門靜脈阻塞與血栓形成**：
+- 腹痛
+- 門脈高壓表現（主要食道靜脈曲張）
+- **肝硬化**與門靜脈血栓形成相關（25% 病人）
 
-- Cholestasis occurs with impaired excretion of bile → jaundice and accumulation of bile pigment
-- Large bile duct obstruction most commonly from gallstones and pancreatic head malignancies
-- Neonatal cholestasis associated with cholangiopathies (biliary atresia) and neonatal hepatitis
-- **PBC**: Autoimmune granulomatous destruction of small to medium intrahepatic bile ducts; most often in middle-age women; associated with anti-mitochondrial antibodies
-- **PSC**: Progressive inflammatory and sclerosing destruction of intrahepatic and extrahepatic bile ducts of all sizes; most often in younger men; strong association with inflammatory bowel disease
+### 肝靜脈流出受阻
 
----
+**Budd-Chiari Syndrome**：兩條或多條主要肝靜脈阻塞：
+- 肝臟增大、疼痛、腹水
+- 與高凝狀態相關
 
-## Circulatory Disorders
+**被動充血與中央小葉壞死**：
+- 右心衰竭 → 被動充血
+- 左心衰竭或休克 → 中央小葉壞死
+- Combined →「nutmeg liver」
 
-Hepatic circulatory disorders can be grouped by abnormalities in:
-- **Inflow** (hepatic artery, portal vein)
-- **Flow-through** (sinusoids, cirrhosis)
-- **Outflow** (hepatic veins)
-
-### Impaired Blood Flow Into the Liver
-
-#### Hepatic Artery Compromise
-
-Liver infarcts are rare (thanks to double blood supply). Thrombosis or obstruction of intrahepatic branch of hepatic artery may produce pale or hemorrhagic infarct.
-
-#### Portal Vein Obstruction and Thrombosis
-
-Blockage of extrahepatic portal vein produces:
-- Abdominal pain
-- Manifestations of portal hypertension (principally esophageal varices)
-- Ascites uncommon (because block is presinusoidal)
-
-**Causes**:
-- Cirrhosis (associated with portal vein thrombosis in 25% of patients)
-- Hypercoagulable states (myeloproliferative neoplasms, factor V Leiden, paroxysmal nocturnal hemoglobinuria, antiphospholipid antibody syndrome)
-- Inflammatory processes (pancreatitis, intraabdominal sepsis)
-- Trauma
-
-**Intrahepatic portal vein radicle obstruction**: Schistosomiasis (eggs lodge in smallest portal vein branches). "Obliterative portal venopathy" in HIV disease.
-
-### Impaired Blood Flow Through the Liver
-
-Most common intrahepatic cause: **cirrhosis**. Also: Sickle cell disease, disseminated intravascular coagulation, eclampsia, intrasinusoidal metastasis.
-
-### Hepatic Venous Outflow Obstruction
-
-#### Sinusoidal Obstruction Syndrome
-
-Obstruction of smallest intrahepatic hepatic vein branches (formally veno-occlusive disease).
-
-**Causes**:
-- Jamaican bush tea (pyrrolizidine alkaloids)
-- Allogeneic hematopoietic stem cell transplantation (usually within first 3 weeks)
-- High-dose chemotherapy
-
-#### Budd-Chiari Syndrome
-
-Obstruction of two or more major hepatic veins:
-- Liver enlargement, pain, and ascites
-- Rarely fatal if untreated
-
-**Associated with**:
-- Hypercoagulable states
-- Intraabdominal cancers (particularly HCC)
-- Pregnancy or oral contraceptive use combined with thrombophilic disorder
-
-**Morphology**:
-- Liver: Swollen, red-purple, tense capsule
-- Hemorrhagic collapse alternating with preserved/regenerating parenchyma
-- Severe centrilobular congestion and necrosis
-
-### Passive Congestion and Centrilobular Necrosis
-
-**Right-sided cardiac decompensation** → passive congestion of the liver:
-- Liver slightly enlarged, tense, cyanotic, with rounded edges
-- Congestion of centrilobular sinusoids
-- Centrilobular hepatocytes become atrophic
-
-**Left-sided cardiac failure or shock** → hepatic hypoperfusion → **centrilobular necrosis**.
-
-**Combined hypoperfusion and retrograde congestion** → "**nutmeg liver**" (variegated mottled red appearance on cut surface).
-
-### Summary: Circulatory Disorders
-
-- **Portal vein obstruction**: May cause portal hypertension, esophageal varices, ascites
-- **Impaired intrahepatic blood flow**: Most commonly caused by cirrhosis
-- **Outflow obstruction**: Hepatic vein thrombosis (Budd-Chiari syndrome) and sinusoidal obstruction syndrome
-
----
-
-## Nodules and Tumors
+## 結節與腫瘤
 
 ### Focal Nodular Hyperplasia
 
-Solitary or multiple hyperplastic hepatocellular nodules that may develop in the noncirrhotic liver.
+可能發生在非硬化肝臟的孤立或_multiple_增生的肝細胞結節。
 
-- Arises from local alterations in hepatic parenchymal blood supply
-- Well-demarcated, poorly encapsulated nodule
-- **Central gray-white, depressed stellate scar** with fibrous septa radiating to periphery
+- 由肝實質血流供應的局部改變引起
+- 特徵：**中央灰白色星狀疤痕**，纖維隔膜向四周放射
 
-**Morphology**:
-- Central scar contains large abnormal vessels and ductular reactions
-- Hyperplastic regions composed of normal hepatocytes separated by thickened sinusoidal plates
+### Hepatocellular Adenoma
 
-### Benign Neoplasms
+良性肝細胞腫瘤。與性激素暴露相關（口服避孕藥、合成類固醇）。
 
-**Cavernous hemangiomas** are the most common benign liver tumors.
+### Hepatocellular Carcinoma (HCC)
 
-### Hepatocellular Adenomas
+全球最常見的原發性肝癌。
 
-Benign neoplasms from hepatocytes. Associated with sex hormone exposure (oral contraceptive pills, anabolic steroids).
+**高發區**：亞洲（東南亞、中國、韓國、台灣）與撒哈拉以南非洲。
 
-- May cause pain (pressure on liver capsule or hemorrhagic necrosis)
-- Occasionally rupture → life-threatening intraabdominal bleeding
+**致病因子**：
+- 病毒感染（HBV、HCV）
+- 毒素（黃麴毒素、酒精）
+- 遺傳疾病（hemochromatosis、α1AT deficiency、Wilson disease）
+- 代謝症候群、肥胖、糖尿病、NAFLD
 
-### Malignant Neoplasms
+**形態學**：
+- **單灶性**（通常大團塊）
+- **多灶性**，廣泛分佈的結節
+- **瀰漫性浸潤性癌症**
 
-**Hepatocellular carcinoma (HCC)** is the most common primary liver cancer. **Cholangiocarcinoma** is a distant second.
+**組織學**：高分化的細胞像正常肝細胞；粗大樑狀或假腺體模式生長。血管侵襲常見 → 肝內與肝外轉移。
 
-#### Hepatocellular Carcinoma (HCC)
-
-Globally accounts for approximately 5.4% of all cancers.
-
-**High incidence areas** (>85% of cases): Asia (southeast China, Korea, Taiwan) and sub-Saharan Africa.
-- HBV transmitted vertically; carrier state starts in infancy
-- Exposure to **aflatoxin** synergistically increases risk
-- Peak incidence: 20-40 years of age
-- In almost 50% of cases: Tumor appears in absence of cirrhosis
-
-**Western countries**: Incidence rapidly rising (largely due to HCV).
-- Rarely manifests before 60 years of age
-- In almost 90% of cases: Malignancy emerges after cirrhosis
-
-**Male predominance**: 3:1 in low-incidence areas; 8:1 in high-incidence areas.
-
-**Pathogenesis**:
-
-*Underlying factors*:
-- Viral infections (HBV, HCV)
-- Toxic injuries (aflatoxin, alcohol)
-- Hereditary disorders (hemochromatosis, α1AT deficiency, Wilson disease)
-- Metabolic syndrome, obesity, diabetes mellitus, NAFLD
-
-*Molecular changes*:
-- **Gain of function** mutations in beta-catenin (up to 40% of HCCs)
-- **Loss of function** mutations in TP53 (up to 60% of HCCs)
-
-*Premalignant precursors*:
-- Large-cell change and small-cell change
-- Dysplastic nodules (low-grade and high-grade)
-- High-grade dysplastic nodules are probably the most important precursor of HCC
-
-**Morphology**:
-
-*Patterns*:
-1. Unifocal (usually large) mass
-2. Multifocal, widely distributed nodules
-3. Diffusely infiltrative cancer
-
-HCC may arise within dysplastic nodules → "nodule-in-nodule" growth.
-
-*Histology*:
-- Well-differentiated: Cells look like normal hepatocytes; grow as thick trabeculae or pseudoglandular patterns
-- Vascular invasion common → intrahepatic and extrahepatic metastases
-
-**Clinical features**:
-- Variable; often masked by underlying cirrhosis or chronic hepatitis
-- Elevated serum α-fetoprotein in 50% of advanced HCC
-- Imaging studies (ultrasonography, CT, MRI) for detection
-- Increasing arterialization during HCC development and progression is characteristic
-
-**Treatment**: Surgical removal, ablation (embolization, microwave radiation, freezing), liver transplantation, sorafenib ( kinase inhibitor).
+<figure>
+<figcaption>Fig. 16.20 Hepatocellular carcinoma. (A) Gross appearance demonstrating a large mass with areas of hemorrhage and necrosis. (B) Histologic appearance showing trabecular growth pattern with cytologically malignant hepatocytes.</figcaption>
+</figure>
 
 ### Cholangiocarcinoma (CCA)
 
-Second most common primary malignant tumor of the liver after HCC.
+膽管癌是肝臟第二常見的原發性惡性腫瘤（僅次於 HCC）。
 
-- 3% of gastrointestinal cancers in the United States (2000-3000 new cases/year)
-- Much more common in areas where liver flukes are endemic (30-40 times higher rates)
+- 在肝吸蟲流行區（泰國、東亞）發生率高 30-40 倍
+- 風險因素：肝吸蟲感染、PSC、膽結石、纖維囊性疾病、B/C 型肝炎、NAFLD
 
-**Risk factors** (all share ability to cause chronic inflammation and cholestasis):
-- Infestation by liver flukes (Opisthorchis, Clonorchis species)
-- Chronic inflammatory disease of large bile ducts (such as PSC)
-- Hepatolithiasis
-- Fibropolycystic liver disease
-- Hepatitis B and C
-- NAFLD
+**形態學**：
+- 肝外膽管型：通常較小（早期引起阻塞）
+- 肝內膽管型：發生在非硬化肝臟；可能產生單一巨大腫瘤
 
-**Morphology**:
-- Extrahepatic: Generally small at diagnosis (cause obstruction early)
-- Intrahepatic: Occur in noncirrhotic livers; may produce single massive tumor
+**組織學**：黏液性腺癌。通常中至高分化。典型引起顯著 desmoplasia。
 
-**Histology**: Mucin-producing adenocarcinomas. Most are well to moderately differentiated. Typically incite marked desmoplasia.
+### Summary: 肝臟腫瘤
 
-### Summary: Liver Tumors
+- 肝臟是轉移癌最常見部位（結腸、肺、乳腺）
+- **HCC**：最常見的原發性肝癌；病因包括 HBV、HCV、酒精性肝硬化、hemochromatosis、黃麴毒素
+- **膽管癌**：膽管腫瘤；在肝吸蟲流行區相對常見
 
-- Liver is the most common site of metastatic cancers (colon, lung, breast)
-- **Hepatocellular adenomas**: Benign; associated with oral contraceptives and androgens; subclassified with varying malignant potential
-- **HCC**: Most common primary malignant liver tumor; etiologic agents include HBV, HCV, alcoholic cirrhosis, hemochromatosis, aflatoxins
-- **Cholangiocarcinoma**: Tumor of bile ducts; relatively common where liver flukes are endemic
-
----
-
-## Gallbladder
+## 膽囊
 
 ### Gallstone Disease
 
-Gallstones afflict 10%-20% of adults in Western countries.
+膽結石影響西方國家 10-20% 的成年人。
 
-**Two main types of gallstones**:
-1. **Cholesterol stones** (80% of stones in Western countries): Contain crystalline cholesterol monohydrate
-2. **Pigment stones**: Made of bilirubin calcium salts
+**兩種主要類型的膽結石**：
+1. **膽固醇結石**（西方國家的 80%）
+2. **色素結石**
 
 #### Pathogenesis
 
-Bile is the only significant pathway for elimination of excess cholesterol.
+膽汁是消除過量膽固醇的唯一重要途徑。當膽固醇濃度超過膽汁的溶解能力（過飽和），膽固醇從溶液中結晶出來。
 
-When cholesterol concentrations exceed the solubilizing capacity of bile (supersaturation), cholesterol crystallizes out of solution.
+**促進膽固醇結石形成的因素**：
+- **膽囊運動減退（淤積）**：促進成核
+- **黏液過度分泌**：困住結晶 → 聚集形成結石
 
-**Cholesterol gallstone formation enhanced by**:
-- **Hypomotility of gallbladder (stasis)**: Promotes nucleation
-- **Mucus hypersecretion**: Traps crystals → aggregation into stones
-
-**Pigment stones form when** bile contains high concentration of unconjugated bilirubin (chronic extravascular red cell hemolysis or biliary tract infections).
+**色素結石**在膽汁含有高濃度非結合膽紅素時形成（慢性血管外溶血或膽道感染）。
 
 #### Risk Factors
 
-**Table 16.6** Risk Factors for Gallstones
-
-| Cholesterol Stones | Pigment Stones |
-|---|---|
-| Demography: Northern Europeans, North and South Americans, Native Americans, Mexican Americans | Demography: Asian more than Western, rural more than urban |
-| Advancing age | Chronic hemolysis (sickle cell anemia, hereditary spherocytosis) |
-| Female sex hormones | Biliary infection |
-| Female gender | Gastrointestinal disorders (ileal disease, ileal resection or bypass, cystic fibrosis) |
-| Oral contraceptives | |
-| Pregnancy | |
-| Obesity and insulin resistance | |
-| Rapid weight reduction | |
-| Gallbladder stasis | |
-| Inborn disorders of bile acid metabolism | |
-| Dyslipidemia syndromes | |
-
-#### Morphology
-
-**Cholesterol stones**:
-- Exclusively in gallbladder
-- 50%-100% cholesterol
-- Pure: Pale yellow
-- Ovoid and firm; usually several with faceted surfaces
-- Most radiolucent (20% radiopaque due to calcium carbonate)
-
-**Pigment stones**:
-- May arise anywhere in biliary tree
-- **Black pigment stones**: Found in sterile gallbladder bile; small, numerous, fragile; 50%-75% radiopaque
-- **Brown stones**: Found in infected intrahepatic or extrahepatic ducts; single or few, soft, soaplike; radiolucent
-
-#### Clinical Features
-
-70%-80% of individuals with gallstones remain asymptomatic throughout life.
-
-**Symptoms** (when they occur):
-- Right upper-quadrant or epigastric pain (excruciating, constant or spasmodic)
-- "Biliary" pain from gallbladder/biliary tree obstruction or inflammation
-
-**Complications**:
-- Empyema, perforation, fistulas
-- Obstructive cholestasis and pancreatitis
-- Gallstone ileus (large stone erodes into small bowel)
+<figure>
+<figcaption>Table 16.6 Risk Factors for Gallstones.</figcaption>
+</figure>
 
 ### Cholecystitis
 
-Inflammation of the gallbladder. May be acute, chronic, or acute superimposed on chronic. Almost always associated with gallstones.
-
-#### Chronic Cholecystitis
-
-- May follow repeated bouts of acute cholecystitis
-- Most develop without antecedent acute attacks
-- Associated with gallstones (but gallstones not essential for initiation of inflammation)
-- Most gallbladders removed for gallstones show features of chronic cholecystitis
-
-**Morphology**:
-- Gallbladder may be contracted, normal size, or enlarged
-- Submucosa and subserosa often thickened from fibrosis
-- Collections of lymphocytes in wall
-- **Rokitansky-Aschoff sinuses**: Outpouchings of mucosal epithelium through wall
+膽囊炎是膽囊的炎症，可為急性、慢性或慢性基礎上的急性。幾乎總是與膽結石相關。
 
 #### Acute Calculous Cholecystitis
 
-Precipitated in 90% of cases by obstruction of gallbladder neck or cystic duct.
+90% 的病例由膽囊頸或膽囊管阻塞誘發。
 
-**Mechanisms of injury**:
-- Phospholipases derived from mucosa hydrolyze biliary lecithin to lysolecithin (toxic to mucosa)
-- Protective glycoprotein mucous layer disrupted
-- Prostaglandins released → enhance inflammation
-- Distention and increased intraluminal pressure → compromised blood flow
+**損傷機制**：
+- 來源於黏膜的 phospholipases 水解膽汁 lecithin 為 lysolecithin（對黏膜有毒）
+- 保護性糖蛋白黏液層被破壞
+- 前列腺素釋放 → 增強炎症
+- 擴張與增加腔內壓力 → 血供受損
 
-**Morphology**:
-- Gallbladder: Enlarged, tense, bright red or blotchy, violaceous
-- Subserosal hemorrhages
-- Fibrinopurulent exudate on serosa
-- Lumen filled with cloudy or turbid bile (with fibrin, blood, pus)
-- **Empyema**: When exudate is mostly pus
-- **Gangrenous cholecystitis**: Green-black, necrotic wall
+#### Chronic Cholecystitis
 
-#### Acute Acalculous Cholecystitis
+可能跟隨反覆急性發作或無前驅急性攻擊而發展。與膽結石相關（但結石對起始炎症非必需）。形態學：膽囊可能收縮、正常大小或增大；submucosa 與 subserosa 常因纖維化而增厚。
 
-5%-12% of acute cholecystitis cases have no gallstones. Most occur in seriously ill patients.
+### Gallbladder Carcinoma
 
-**Predisposing insults**:
-- Major surgery
-- Severe trauma
-- Severe burns
-- Sepsis
+膽囊最常見的惡性腫瘤。
+- 與膽結石相關（95% 病例）
+- 預後很差（5 年存活率 5-12%）
 
-#### Clinical Features
+### Summary: 膽囊疾病
 
-**Acute calculous cholecystitis**:
-- Biliary pain lasting more than 6 hours
-- Severe, steady, upper abdominal pain radiating to right shoulder
-- Fever, nausea, leukocytosis, prostration
-- Right subcostal tenderness and rigidity
-- Symptoms may resolve spontaneously (1-10 days) but recurrence common
-- Approximately 25% of symptomatic patients require surgical intervention
-
-**Complications**:
-- Bacterial superinfection → cholangitis or sepsis
-- Gallbladder perforation → local abscess or diffuse peritonitis
-- Biliary enteric fistula
-- Aggravation of preexisting medical illness
-
-### Carcinoma of the Gallbladder
-
-Most common malignancy of the extrahepatic biliary tract.
-- Slightly more common in women
-- Occurs most frequently in seventh decade
-- Incidence in the United States: 1 in 50,000
-- Mean 5-year survival rate: 5%-12%
-
-**Risk factors**:
-- Gallstones (present in 95% of cases)
-- Chronic inflammation
-- Carcinogenic derivatives of bile acids
-- Primary sclerosing cholangitis
-
-**Morphology**:
-- **Infiltrating pattern**: Poorly defined area of diffuse wall thickening and induration
-- **Exophytic pattern**: Irregular, cauliflower mass into lumen with underlying wall invasion
-
-Most are adenocarcinomas; about 5% are squamous cell carcinomas or have adenosquamous differentiation.
-
-**Clinical features**: Insidious; indistinguishable from cholelithiasis (abdominal pain, jaundice, anorexia, nausea, vomiting). Very poor prognosis (only 10% diagnosed at resectable stage).
-
-### Summary: Gallbladder Diseases
-
-- **Cholelithiasis**: Most common gallbladder disease; cholesterol stones most common in Western countries; risk factors include age, female gender, estrogen use, obesity, heredity
-- **Cholecystitis**: Almost always associated with cholelithiasis; acute calculous cholecystitis is most common reason for emergency cholecystectomy
-- **Gallbladder cancer**: Almost always associated with gallstones; very poor prognosis due to advanced stage at diagnosis
+- **膽石症**：最常見的膽囊疾病；膽固醇結石在西方國家最常見
+- **膽囊炎**：幾乎總是與膽石症相關；急性結石性膽囊炎是急診膽囊切除術最常見原因
+- **膽囊癌**：幾乎總是與膽石症相關；因晚期確診預後很差

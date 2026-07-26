@@ -5,494 +5,347 @@ title: "Chapter 17: Pancreas"
 
 # Chapter 17: Pancreas
 
-## Congenital Anomalies
+## 章節導讀
 
-Pancreatic development is a complex process involving fusion of dorsal and ventral primordia; subtle deviations in this process frequently give rise to congenital variations in pancreatic anatomy. While most of these do not cause clinical disease, variants (especially in ductal anatomy) can present challenges to the endoscopist and the surgeon. For example, failure to recognize idiosyncratic anatomy could result in inadvertent severing of a pancreatic duct during surgery, resulting in **pancreatitis**.
+本章節涵蓋胰臟疾病的病理學。首先介紹胰臟的先天發育異常（pancreas divisum、annular pancreas、ectopic pancreas、congenital cysts），接著系統說明 pancreatitis——這是臨床上最重要的胰臟炎症性疾病，分為急性與慢性兩大類。
 
-### Agenesis
+**急性胰臟炎**的重點包括：膽結石與酒精是最常見的兩大成因（共 >80%）；其發病機制是胰臟酶的 autodigestion（自我消化）——被困激活的 trypsin 啟動其他胰酶，導致組織損傷與炎症。形態學從輕度的間質水腫與脂肪壞死到重度的出血壞死性胰臟炎。
 
-Very rarely, the pancreas may be totally absent, a condition usually (but not invariably) associated with additional severe malformations that are incompatible with life. **Pancreatic duodenal homeobox 1 (PDX1)** is a homeodomain transcription factor critical for normal pancreatic development, and germline mutations of this gene have been associated with **pancreatic agenesis**.
+**慢性胰臟炎**以不可逆的腺體破壞、纖維化為特徵，長期酒精濫用是其最主要病因。胰臟囊性腫瘤（serous cystadenoma、mucinous cystic neoplasm、IPMN）的組織學特徵、惡性潛能與臨床處置原則也在本章節中介紹。
+
+胰臟癌（pancreatic ductal adenocarcinoma）是最致命的癌症之一，5 年存活率僅 8%。重點說明其 precursor lesions（PanINs）、常見基因突變（KRAS、CDKN2A/p16、SMAD4、TP53）與臨床特徵。
+
+## 先天發育異常
 
 ### Pancreas Divisum
 
-**Pancreas divisum** is the most common congenital anomaly of the pancreas, with an incidence of 3% to 10%.
+**Pancreas divisum** 是胰臟最常見的先天異常，發生率 3-10%。
 
-- In most individuals, the **main pancreatic duct** (the **duct of Wirsung**) joins the common bile duct just proximal to the **papilla of Vater**
-- The **accessory pancreatic duct** (the **duct of Santorini**) drains into the duodenum through a separate **minor papilla**
-- **Pancreas divisum** is caused by a failure of fusion of the fetal duct systems of the dorsal and ventral pancreatic primordia
-- The bulk of the pancreas (formed by the dorsal pancreatic primordium) drains into the duodenum through the small-caliber minor papilla
-- The duct of Wirsung in individuals with divisum drains only a small portion of the head of the gland through the papilla of Vater
-- More than 95% of individuals are asymptomatic
-- The remaining 5% develop **acute pancreatitis** or **chronic pancreatitis**, possibly related to inadequate drainage of pancreatic secretions through the minor papilla
+- 在大多數個體，**主胰管（Wirsung 管）**在乳頭 Vater 附近與總膽管匯合
+- **副胰管（Santorini 管）**通過獨立的**小乳頭**排入十二指腸
+- Pancreas divisum 由於胎兒背側與腹側胰臟導管系統融合失敗引起
+- 超過 95% 的個體無症狀
+- 其餘 5% 發生**急性胰臟炎**或**慢性胰臟炎**，可能與通過小乳頭的胰液排出不當有關
 
 ### Annular Pancreas
 
-**Annular pancreas** is a relatively uncommon variant of pancreatic fusion in which a ring of pancreatic tissue completely encircles the duodenum. It can manifest with signs and symptoms of duodenal obstruction such as:
-
-- Gastric distention
-- Vomiting
+**Annular pancreas** 是胰臟融合的一種相對少見變異，其中一圈胰臟組織完全圍繞十二指腸。可表現十二指腸阻塞的體徵與症狀（如胃膨脹、嘔吐）。
 
 ### Ectopic Pancreas
 
-Aberrantly situated, or **ectopic**, pancreatic tissue occurs in about 2% of the population.
+異位胰臟組織約發生在 2% 的人口。
 
-**Favored sites:**
-- Stomach and duodenum (most common)
-- Jejunum
-- Meckel diverticulum
-- Ileum
+- 最常見於胃與十二指腸
+- 通常位於黏膜下層
+- 由正常胰臟腺泡組成，偶有胰島
+- 通常是偶然發現且無症狀
 
-**Characteristics:**
-- These embryologic rests typically are small (ranging from millimeters to centimeters in diameter)
-- Located in the submucosa
-- Composed of normal pancreatic acini with occasional islets
-- Usually incidental and asymptomatic
-- May become inflamed, leading to pain
-- Rarely can cause mucosal bleeding
-- Approximately 2% of **pancreatic neuroendocrine tumors** (Chapter 20) arise in ectopic pancreatic tissue
+## 胰臟炎
 
-### Congenital Cysts
+### Acute Pancreatitis
 
-**Congenital cysts** result from anomalous development of the pancreatic ducts.
+**急性胰臟炎**是一種可逆性炎症疾病，嚴重程度各異，從局灶性水腫與脂肪壞死到廣泛出血性壞死。在西方世界年發生率約 **10-20/100,000 人**。
 
-- In **polycystic disease**, the kidneys, liver, and pancreas may all contain cysts (Chapter 14)
-- Congenital cysts generally are unilocular and range from microscopic to 5 cm in diameter
-- Lined by either uniform cuboidal or flattened epithelium
-- Enclosed in a thin, fibrous capsule
-- These benign cysts contain clear serous fluid
-- Important distinction from **pancreatic cystic neoplasms**, which often are mucinous (discussed later)
+#### Etiology
 
----
+在美國，急性胰臟炎最常見的原因是**膽結石**嵌塞在總膽管（"gallstone pancreatitis"），其次是**過量酒精攝入**。兩者合計佔急性胰臟炎病例的 **>80%**。
 
-## Pancreatitis
+**Table 17.1** 急性胰臟炎的致病因素
 
-Inflammatory disorders of the pancreas are divided into **acute** and **chronic** forms:
-
-- In **acute pancreatitis**, function can return to normal if the underlying cause of inflammation is removed
-- **Chronic pancreatitis** causes irreversible destruction of exocrine pancreas
-
----
-
-## Acute Pancreatitis
-
-**Acute pancreatitis** is a reversible inflammatory disorder that varies in severity, from focal edema and fat necrosis to widespread hemorrhagic necrosis. This is a relatively common condition, with an annual incidence of **10 to 20 per 100,000 people** in the Western world.
-
-### Etiology
-
-The most common cause of acute pancreatitis in the United States is the impaction of **gallstones** within the common bile duct, impeding the flow of pancreatic enzymes through the ampulla of Vater ("gallstone pancreatitis"); this is closely followed by **pancreatitis secondary to excessive alcohol intake**. Overall, **gallstones and alcoholism account for greater than 80%** of acute pancreatitis cases, with the remaining caused by a multitude of factors (**Table 17.1**).
-
-**Table 17.1** Etiologic Factors in Acute Pancreatitis
-
-| Category | Factors |
+| 類別 | 因素 |
 |---|---|
-| **Metabolic** | Alcoholism*, Hyperlipoproteinemia, Hypercalcemia, Drugs (e.g., azathioprine) |
-| **Genetic** | Mutations in the cationic trypsinogen (PRSS1) and trypsin inhibitor (SPINK1) genes |
-| **Mechanical** | Gallstones*, Trauma, Iatrogenic injury, Perioperative injury, Endoscopic procedures with dye injection |
-| **Vascular** | Shock, Atheroembolism, Polyarteritis nodosa |
-| **Infectious** | Mumps, Coxsackievirus |
-
-*Most common causes in the United States.
-
-**Additional etiologic factors include:**
-
-- **Non–gallstone-related obstruction** of the pancreatic ducts (e.g., due to pancreatic cancer or other periampullary neoplasms, pancreas divisum, biliary "sludge," or parasites, particularly *Ascaris lumbricoides* and *Clonorchis sinensis*)
-- **Medications** including anti-convulsants, cancer chemotherapeutic agents, thiazide diuretics, estrogens, and more than 85 others in clinical use
-- **Infections** with mumps virus or coxsackievirus, which can directly infect pancreatic exocrine cells
-- **Metabolic disorders** including hypertriglyceridemia, hyperparathyroidism, and other hypercalcemic states
-- **Ischemia** due to vascular thrombosis, embolism, vasculitis, or shock
-- **Trauma**, both blunt force and iatrogenic during surgery or endoscopy
-- **Germline mutations** involving genes encoding pancreatic enzymes or their inhibitors:
-  - **Hereditary pancreatitis** is a rare autosomal dominant disease with 80% penetrance, characterized by recurrent attacks of severe pancreatitis, usually beginning in childhood
-  - Caused by mutations in the **PRSS1 gene**, which encodes **trypsinogen**, the proenzyme of pancreatic trypsin
-  - Pathogenic mutations alter the site through which trypsin cleaves and inactivates itself, abrogating an important negative feedback mechanism
-  - This defect leads to hyperactivation of trypsin and many other digestive enzymes that require trypsin cleavage for their activation
-  - Loss-of-function mutations in genes that encode protease inhibitors such as **SPINK1** are less commonly associated with hereditary pancreatitis
-
-**Note:** 10% to 20% of cases of acute pancreatitis have no identifiable cause (**idiopathic pancreatitis**), although a growing body of evidence suggests that many may have an underlying genetic basis. A subset of these so-called idiopathic pancreatitis patients has underlying germ line mutations of the **CFTR gene** with symptoms predominantly restricted to the pancreas (Chapter 7).
-
-### Pathogenesis
-
-Acute pancreatitis appears to be caused by **autodigestion** of the pancreas by inappropriately activated pancreatic enzymes. Once activated trypsin is capable of converting other zymogen forms of pancreatic enzymes to their active forms. Premature activation of trypsin within the substance of the pancreas can unleash these proenzymes (e.g., **phospholipases** and **elastases**), leading to tissue injury and inflammation. Trypsin also converts prekallikrein to its activated form, thus sparking the kinin system, and, by activation of **factor XII (Hageman factor)**, also sets in motion the clotting and complement systems (Chapter 4).
-
-**Three pathways can incite the initial enzyme activation that may lead to acute pancreatitis (Fig. 17.1):**
-
-1. **Pancreatic duct obstruction**
-   - Impaction of a gallstone or biliary sludge, or extrinsic compression of the ductal system by a mass
-   - Blocks ductal flow, increases intraductal pressure, and allows accumulation of an enzyme-rich interstitial fluid
-   - Since **lipase** is secreted in an active form, local fat necrosis may result
-   - Injured tissues, periacinar myofibroblasts, and leukocytes release pro-inflammatory cytokines that promote local inflammation and interstitial edema through a leaky microvasculature
-   - Edema further compromises local blood flow, causing vascular insufficiency and ischemic injury to acinar cells
-
-2. **Primary acinar cell injury**
-   - This pathogenic mechanism comes into play in acute pancreatitis caused by ischemia, viral infections (e.g., mumps), drugs, and direct trauma to the pancreas
-
-3. **Defective intracellular transport of proenzymes within acinar cells**
-   - In normal acinar cells, digestive enzymes intended for zymogen granules (and eventually extracellular release) and hydrolytic enzymes destined for lysosomes are transported in discrete pathways after synthesis in the endoplasmic reticulum
-   - In some animal models of metabolic injury, proenzymes and lysosomal hydrolases become packaged together
-   - This results in proenzyme activation, lysosomal rupture (action of phospholipases), and local release of activated enzymes
-   - The role of this mechanism in human acute pancreatitis is not clear
-
-**Alcohol consumption** may cause pancreatitis by several mechanisms:
-- Alcohol transiently increases pancreatic exocrine secretion and contraction of the **sphincter of Oddi**
-- Alcohol also has direct toxic effects on acinar cells, including induction of oxidative stress
-- Chronic alcohol ingestion results in the secretion of protein-rich pancreatic fluid, leading to deposition of inspissated protein plugs and obstruction of small pancreatic ducts
-
-### Morphology
-
-The basic alterations in acute pancreatitis are:
-
-1. **Microvascular leakage** causing edema
-2. **Necrosis of fat** by lipases
-3. **An acute inflammatory reaction**
-4. **Proteolytic destruction** of pancreatic parenchyma
-5. **Destruction of blood vessels** leading to interstitial hemorrhage
-
-**In mild forms:**
-- Interstitial edema and focal areas of fat necrosis in the pancreas and peripancreatic fat (Fig. 17.2A)
-- **Fat necrosis** results from enzymatic destruction of fat cells
-- The released fatty acids combine with calcium to form insoluble salts that precipitate in situ
-
-**In more severe forms (acute necrotizing pancreatitis):**
-- Damage involves acinar and ductal cells, the islets of Langerhans, and blood vessels
-- Macroscopically: red-black hemorrhagic areas interspersed with foci of yellow-white, chalky fat necrosis (Fig. 17.2B)
-- Fat necrosis can also occur in extrapancreatic fat (omentum, bowel mesentery, subcutaneous fat)
-- Peritoneum contains serous, slightly turbid, brown-tinged fluid with globules of fat
-- In the most severe form (**hemorrhagic pancreatitis**): extensive parenchymal necrosis accompanied by diffuse hemorrhage within the substance of the gland
-
-### Clinical Features
-
-**Abdominal pain** is the cardinal manifestation of acute pancreatitis. Its severity varies from mild and uncomfortable to severe and incapacitating.
-
-**Diagnosis:**
-- Acute pancreatitis is diagnosed primarily by the presence of elevated plasma levels of **amylase** and **lipase**
-- Exclusion of other causes of abdominal pain
-- In 80% of cases, acute pancreatitis is mild and self-limiting
-- The remaining 20% develop severe disease
-
-**Full-blown acute pancreatitis** is a medical emergency. Affected individuals usually experience the sudden onset of an "acute abdomen" with pain, guarding, and absence of bowel sounds. The pain is constant, intense, and referred to the upper back; it must be differentiated from pain of other causes such as perforated peptic ulcer, biliary colic, acute cholecystitis with rupture, and occlusion of mesenteric vessels with infarction of the bowel.
-
-**Manifestations of severe acute pancreatitis** (attributable to systemic release of digestive enzymes and explosive activation of the inflammatory response):
-- Leukocytosis
-- **Disseminated intravascular coagulation** (Chapter 12)
-- **Acute respiratory distress syndrome** (due to diffuse alveolar damage) (Chapter 13)
-- Diffuse fat necrosis
-- **Peripheral vascular collapse (shock)** due to increased microvascular permeability and resultant hypovolemia
-- **Endotoxemia** (from breakdown of the barriers between gastrointestinal flora and the bloodstream)
-- **Renal failure** due to acute tubular necrosis (Chapter 14)
-
-**Laboratory findings:**
-- Markedly elevated serum **amylase** during the first 24 hours
-- Rising serum **lipase** levels within 72–96 hours
-- **Hypocalcemia** can result from precipitation of calcium in areas of fat necrosis; if persistent, it is a poor prognostic sign
-- Enlarged inflamed pancreas can be visualized by **computed tomography (CT)** or **magnetic resonance imaging (MRI)**
-
-**Management:**
-- Supportive therapy (e.g., maintaining blood pressure and alleviating pain)
-- "Resting" the pancreas by total restriction of oral food and fluids
-- In 40% to 60% of cases of acute necrotizing pancreatitis, the necrotic debris becomes infected (usually by gram-negative organisms from the alimentary tract)
-
-**Prognosis:**
-- Most individuals with acute pancreatitis eventually recover
-- Some 5% die from shock during the first week of illness
-- **Acute respiratory distress syndrome** and **renal failure** are ominous complications
-- Sequelae include sterile or infected pancreatic "abscesses" or **pancreatic pseudocysts**
-
----
-
-## Pancreatic Pseudocysts
-
-A common sequela of acute pancreatitis (and in particular, alcoholic pancreatitis) is a **pancreatic pseudocyst**.
-
-- Liquefied areas of necrotic pancreatic tissue become walled off by fibrous tissue to form a cystic space
-- **Lacks an epithelial lining** (hence the designation "pseudo")
-- Cyst contents are rich in pancreatic enzymes
-- Laboratory assessment of the cyst aspirate can be diagnostic
-- Pseudocysts account for approximately **75% of all pancreatic cysts**
-- Many pseudocysts spontaneously resolve
-- Can become secondarily infected
-- Larger pseudocysts can compress or even perforate into adjacent structures
-
-### Morphology
-
-- Pseudocysts usually are solitary
-- Commonly attached to the surface of the gland and involve peripancreatic tissues (lesser omental sac, retroperitoneum between stomach and transverse colon or liver) (Fig. 17.3A)
-- Range in diameter from 2 cm to 30 cm
-- Composed of necrotic debris encased by walls of granulation tissue and fibroblasts lacking an epithelial lining (see Fig. 17.3B)
-- If infected, a **pancreatic abscess** is formed
-
----
-
-## Chronic Pancreatitis
-
-**Chronic pancreatitis** is characterized by long-standing inflammation that leads to irreversible destruction of the exocrine pancreas, followed eventually by loss of the islets of Langerhans. Recurrent bouts of acute pancreatitis (regardless of etiology) can evolve over time into chronic pancreatitis. The prevalence of chronic pancreatitis is difficult to determine but probably ranges between **0.04% and 5%** of the U.S. population.
-
-### Etiology
-
-By far the most common cause of chronic pancreatitis is **long-term alcohol abuse**. Middle-aged men constitute the bulk of patients in this etiologic group.
-
-**Less common causes of chronic pancreatitis:**
-
-- **Duct obstruction**: Long-standing obstruction of pancreatic duct e.g., by pseudocysts, calculi, neoplasms, or pancreas divisum
-- **Tropical pancreatitis**: Poorly characterized heterogeneous disorder seen in Africa and Asia, with a subset of cases having a hereditary basis
-- **Hereditary pancreatitis**: Due to mutations in the pancreatic trypsinogen gene (PRSS1), or the SPINK1 gene encoding a trypsin inhibitor (see **Table 17.1**)
-- **Chronic pancreatitis associated with CFTR mutations** (Chapter 7)
-- **Autoimmune pancreatitis**: Pathogenically distinct form of chronic pancreatitis associated with the presence of **IgG4-secreting plasma cells** in the pancreas. It is one manifestation of **IgG-related disease** (Chapter 5), which may involve multiple tissues. Important to recognize because it responds to steroid therapy.
-
-**Note:** As many as 40% of individuals with chronic pancreatitis have no recognizable predisposing factors. A growing number of these "idiopathic" cases are associated with inherited mutations in genes (e.g., **CFTR**) important for normal pancreatic exocrine function. Recent studies have also identified polymorphisms in genes encoding exocrine pancreatic enzymes, including **carboxypeptidase A1 (CPA1)** and **lipase (CEL)**, that may confer increased susceptibility to chronic pancreatitis.
-
-### Pathogenesis
-
-Although the pathogenesis of chronic pancreatitis is not well defined, several hypotheses are proposed:
-
-1. **Ductal obstruction by concretions**: Many inciting agents (e.g., alcohol) increase the protein concentration of pancreatic secretions, and these proteins can form ductal plugs
-
-2. **Toxic-metabolic**: Toxins, including alcohol and its metabolites, can exert a direct toxic effect on acinar cells, leading to lipid accumulation, acinar cell loss, and eventually parenchymal fibrosis
-
-3. **Oxidative stress**: Alcohol-induced oxidative stress may generate free radicals in acinar cells, leading to membrane damage (Chapter 2), and subsequent expression of chemokines like **interleukin-8 (IL-8)**, which recruits inflammatory cells. Oxidative stress also promotes the fusion of lysosomes and zymogen granules with resulting acinar cell necrosis, inflammation, and fibrosis
-
-4. **Inappropriate activation of pancreatic enzymes** due to mutations affecting genes mentioned earlier
-
-In contrast to acute pancreatitis, a variety of **profibrogenic cytokines**, such as **transforming growth factor-β (TGF-β)**, **connective tissue growth factor**, and **platelet-derived growth factor**, are secreted in chronic pancreatitis by infiltrating immune cells such as macrophages. These cytokines induce the activation and proliferation of periacinar myofibroblasts ("pancreatic stellate cells"), which deposit collagen and give rise to fibrosis.
-
-### Morphology
-
-**Chronic pancreatitis** is characterized by:
-
-- **Parenchymal fibrosis**
-- Reduced number and size of acini
-- Variable dilation of the pancreatic ducts
-- Relative sparing of the islets of Langerhans initially
-- **Acinar loss** is a constant feature, usually with a chronic inflammatory infiltrate around remaining lobules and ducts
-- Ductal epithelium may be atrophied or hyperplastic or exhibit **squamous metaplasia**
-- Ductal concretions may be noted (Fig. 17.4B)
-- Remaining islets of Langerhans become embedded in the sclerotic tissue and may fuse and appear enlarged; eventually they also disappear
-- On gross evaluation, the gland is hard, sometimes with extremely dilated ducts and visible calcified concretions
-
-**Autoimmune pancreatitis (AIP)** is a distinct form of chronic pancreatitis characterized by:
-
-- Striking infiltration of the pancreas by lymphocytes and plasma cells, many of which are positive for **IgG4**
-- "Swirling" fibrosis
-- **Venulitis** (lymphoplasmacytic sclerosing pancreatitis)
-
-### Clinical Features
-
-**Chronic pancreatitis** manifests as:
-
-- Repeated bouts of jaundice
-- Vague indigestion
-- Persistent or recurrent abdominal and back pain
-- May be entirely silent until **pancreatic insufficiency** and **diabetes mellitus** develop (the latter as a consequence of islet destruction)
-
-**Attacks can be precipitated by:**
-- Alcohol abuse
-- Overeating (increases demand on pancreatic secretions)
-- Opiates or other drugs that increase the muscle tone of the sphincter of Oddi
-
-**Diagnosis:**
-- Requires a high degree of clinical suspicion
-- During an attack of abdominal pain: mild fever and modest elevations of serum amylase
-- In end-stage disease: acinar destruction may be so advanced that enzyme elevations are absent
-- **Gallstone-induced obstruction**: jaundice or elevated levels of serum alkaline phosphatase
-- Visualization of **calcifications within the pancreas** by CT or ultrasonography is very helpful
-- Weight loss and hypoalbuminemic edema from malabsorption caused by pancreatic exocrine insufficiency
-
-**Long-term outlook:**
-- Usually not acutely life-threatening
-- 50% mortality rate over 20 to 25 years
-
-**Common long-term sequelae:**
-- **Insufficiency of pancreatic exocrine enzymes** with consequent malabsorption and deficiency of fat-soluble vitamins (Chapter 8)
-- Exocrine insufficiency typically predates endocrine dysfunction
-- Patients with severe loss of islets can develop **diabetes mellitus** (Chapter 20)
-- Severe chronic pain may dominate the clinical picture
-- **Pancreatic pseudocysts** develop in about 10% of patients
-
-**Most feared long-term complication: Pancreatic cancer**
-- Risk for malignant transformation in adult-onset disease: modest (no more than 5% at 20 years)
-- **Chronic pancreatitis that begins in childhood** (e.g., hereditary pancreatitis secondary to PRSS1 mutations): 40% to 55% lifetime risk for pancreatic cancer
-- It is not unusual for patients with PRSS1 mutations to undergo prophylactic pancreatectomy
-
----
-
-## Summary: Pancreatitis
-
-- **Acute pancreatitis** is characterized by inflammation and reversible parenchymal damage that ranges from focal edema and fat necrosis to widespread parenchymal necrosis and hemorrhage; the clinical presentation varies widely, from mild abdominal pain to rapidly fatal vascular collapse
-- **Chronic pancreatitis** is characterized by irreversible parenchymal damage and scar formation; clinical presentations include chronic malabsorption (due to pancreatic exocrine insufficiency) and diabetes mellitus (due to islet cell loss)
-- Both entities share similar pathogenic mechanisms, and recurrent acute pancreatitis can result in chronic pancreatitis
-- **Ductal obstruction** and **long-term alcohol abuse** are the most common causes in both forms
-- Inappropriate activation of pancreatic digestive enzymes (due to mutations in genes encoding trypsinogen or trypsin inhibitors) and primary acinar injury (due to toxins, infections, ischemia, or trauma) also cause pancreatitis
-
----
-
-## Pancreatic Neoplasms
-
-Pancreatic exocrine neoplasms can be **cystic** or **solid**. Some tumors are benign, while others are among the most lethal of all malignancies.
-
-### Cystic Neoplasms
-
-Cystic neoplasms are diverse tumors that range from harmless benign cysts to invasive, potentially lethal, cancers. Approximately **5% to 15% of all pancreatic cysts** are neoplastic; these constitute less than 5% of all pancreatic neoplasms.
-
-- Some are almost always benign (e.g., **serous cystadenoma**)
-- Others, such as **mucinous cystic neoplasms**, can be benign or malignant
-
-#### Serous Cystadenomas
-
-- Account for approximately **25% of all pancreatic cystic neoplasms**
-- Composed of **glycogen-rich cuboidal cells** surrounding small cysts containing clear, straw-colored fluid (Fig. 17.5)
-- Tumors typically manifest in the seventh decade of life with nonspecific symptoms such as abdominal pain
-- Female-to-male ratio: **2:1**
-- **Almost uniformly benign**; surgical resection is curative in the vast majority of patients
-- Most serous cystadenomas carry somatic loss of function mutations of the **von Hippel-Lindau (VHL)** tumor suppressor gene, which is a negative regulator of **hypoxia-inducible factor 1 alpha (HIF-1-alpha)** (Chapter 6)
-
-#### Mucinous Cystic Neoplasms
-
-- Close to **95%** arise in women, usually in the body or tail of the pancreas
-- Manifest as painless, slow-growing masses
-- Cystic spaces are filled with thick, tenacious **mucin**
-- Cysts are lined by a **columnar mucinous epithelium** with an associated densely cellular stroma resembling that of the ovary (Fig. 17.6)
-- Based on the degree of cytologic and architectural atypia in the epithelial lining, noninvasive mucinous cystic neoplasms are classified as harboring **low-grade, moderate, or severe dysplasia**
-- Up to **one-third** of these cysts can be associated with an **invasive adenocarcinoma**
-- Distal pancreatectomy for noninvasive mucinous cysts typically is curative, even in the setting of severe dysplasia
-
-#### Intraductal Papillary Mucinous Neoplasms (IPMNs)
-
-- In contrast with mucinous cystic neoplasms, **IPMNs** occur more frequently in **men** than in women
-- More frequently involve the **head of the pancreas**
-- Arise in the main pancreatic ducts, or one of its major branch ducts
-- Lack the cellular stroma seen in mucinous cystic neoplasms (Fig. 17.7)
-- As with mucinous cystic neoplasms, the epithelia of noninvasive IPMNs harbor various grades of dysplasia
-- A subset of lesions is associated with **invasive adenocarcinoma**
-- "Colloid" carcinomas of the pancreas (adenocarcinomas associated with abundant extracellular mucin production) nearly always represent malignant transformation of an IPMN
-- Up to **two-thirds** of IPMNs harbor oncogenic mutations of **GNAS** on chromosome 20q13, which encodes the alpha subunit of a stimulatory G-protein, **Gs** (Chapter 20)
-- Constitutive activation of this G-protein results in an intracellular cascade that promotes cell proliferation
-
----
-
-### Pancreatic Carcinoma
-
-**Infiltrating ductal adenocarcinoma of the pancreas** (more commonly referred to as pancreatic cancer) is the **third leading cause of cancer deaths** in the United States, preceded only by lung and colon cancers.
-
-- Close to **49,000 Americans** were diagnosed with pancreatic cancer in 2015
-- Virtually all will die in a short period after diagnosis
-- **5-year survival rate: 8%** (dismal)
+| **代謝性** | 酒精中毒*、高脂蛋白血症、高鈣血症、藥物（如 azathioprine） |
+| **遺傳性** | cationic trypsinogen（PRSS1）與 trypsin inhibitor（SPINK1）基因突變 |
+| **機械性** | 膽結石*、創傷、醫源性損傷、圍手術期損傷、內視鏡操作 |
+| **血管性** | 休克、粥樣栓塞、結節性多發性血管炎 |
+| **感染性** | 腮腺炎、Coxsackie 病毒 |
+
+*美國最常見原因。
 
 #### Pathogenesis
 
-Pancreatic cancer arises as a consequence of inherited and acquired mutations in cancer-associated genes. In a pattern analogous to that seen in the multi-step progression of colon cancer (Chapter 6), there is a progressive accumulation of genetic changes in pancreatic epithelium as it proceeds from nonneoplastic, to noninvasive precursor lesions, to invasive carcinoma (Fig. 17.8).
+急性胰臟炎似乎是由於不當激活的胰臟酶對胰臟的自我消化（autodigestion）引起。一旦 trypsin 在胰臟實質內被激活，就能將其他胰酶的酶原形式轉化為活性形式。Trypsin 的過早激活可釋放這些酶原（如 phospholipases、elastases），導致組織損傷與炎症。
 
-While both **intraductal papillary mucinous neoplasms** and **mucinous cystic neoplasms** can progress to invasive adenocarcinoma, the most common antecedent lesions of pancreatic cancer arise in small ducts and ductules, and are called **pancreatic intraepithelial neoplasias (PanINs)**.
+**三條可引發急性胰臟炎起始酶激活的途徑**（Fig. 17.1）：
 
-**Evidence for the precursor relationship of PanINs to frank malignancy:**
-- Microscopic lesions often found adjacent to infiltrating carcinomas
-- The two share a number of genetic alterations
-- Epithelial cells in PanINs show dramatic **telomere shortening**, potentially predisposing these lesions to pathogenic chromosomal abnormalities
+1. **胰管阻塞**
+   - 膽結石或膽汁污泥嵌塞，或腫塊外在壓迫胰管系統
+   - 阻斷導管流、增加導管內壓、導致富含酶的間質液積聚
+   - 因為 **lipase** 以活性形式分泌，局部脂肪壞死可能隨即發生
+   - 受損組織、periacinar myofibroblasts 與白血球釋放促發炎細胞激素
 
-**The recent sequencing of the pancreatic cancer genome** has confirmed that four genes are most commonly affected by somatic mutations:
+2. **原發性腺泡細胞損傷**
+   - 在缺血、病毒感染（如腮腺炎）、藥物與直接胰臟創傷引起的急性胰臟炎中起作用
 
-| Gene | Type | Frequency | Function |
-|---|---|---|---|
-| **KRAS** | Oncogene | >90% | Constitutively active; activates intracellular signaling pathways that promote carcinogenesis |
-| **CDKN2A/p16** | Tumor suppressor | 95% | Critical role in cell-cycle control; inactivation removes an important checkpoint |
-| **SMAD4** | Tumor suppressor | 55% | Important role in signal transduction downstream of the TGF-β receptor |
-| **TP53** | Tumor suppressor | 50–70% | Enforces cell-cycle checkpoints; induces apoptosis or senescence |
+3. **腺泡細胞內 proenzymes 轉運缺陷**
+   - 在正常腺泡細胞中，消化酶與溶酶體水解酶被包裝在不同途徑中
+   - 在某些動物模型中，proenzymes 與溶酶體水解酶被一起包裝
+   - 這導致 proenzyme 激活、溶酶體破裂與酶的局部釋放
 
-- **BRCA2** is also mutated late in a subset of pancreatic cancers
+**酒精**可能通過多種機制引起胰臟炎：
+- 短暫增加胰液分泌與 oddi 括約肌收縮
+- 對腺泡細胞有直接毒性作用
+- 慢性酒精攝入導致蛋白質豐富的胰液分泌，導致小胰管中蛋白質 plug 沉積
 
-**Risk factors:**
-- Primarily a disease of older adults (80% of cases occur between 60 and 80 years of age)
-- **Smoking** is the strongest environmental influence (doubles the risk)
-- **Long-standing chronic pancreatitis** and **diabetes mellitus** are associated with a modestly increased risk
-- These two entities have a **bidirectional link** with pancreatic cancer:
-  - Tumors arising in the head of the pancreas often cause chronic pancreatitis in the distal parenchyma
-  - Diabetes caused by duct obstruction and subsequent pancreatitis may be the manifestation of an underlying neoplasm
-  - Approximately 1% of the older adult population with new-onset diabetes harbor an unsuspected pancreatic cancer
-- **Familial clustering** of pancreatic cancer has been reported
-- Growing number of inherited genetic defects increase pancreatic cancer risk
-- **Germ line mutations of BRCA2** are seen in approximately 10% of cases arising in individuals of Ashkenazi Jewish heritage
+<figure>
+<figcaption>Fig. 17.1 Pathogenesis of acute pancreatitis. The inciting event may be pancreatic duct obstruction, primary acinar cell injury, or defective intracellular transport. These result in premature activation of pancreatic enzymes, especially trypsin, leading to tissue injury and inflammation.</figcaption>
+</figure>
 
 #### Morphology
 
-**Location:**
-- **60%** arise in the head of the gland
-- **15%** in the body
-- **5%** in the tail
-- **20%** diffusely involve the entire organ
+急性胰臟炎的基本變化：
 
-**Gross appearance:**
-- Usually are hard, gray-white, stellate, poorly defined masses (Fig. 17.9A)
+1. **微血管滲漏**導致水腫
+2. **脂肪壞死**由 lipases 引起
+3. **急性炎症反應**
+4. **胰臟實質的蛋白溶解性破壞**
+5. **血管破壞**導致間質出血
 
-**Two characteristic features:**
-1. **Highly invasive** (even "early" invasive pancreatic cancers invade peripancreatic tissues extensively)
-2. **Intense desmoplastic response** (dense fibrosis)
+**輕度形式**：
+- 間質水腫與胰臟與胰周脂肪的局灶性脂肪壞死（Fig. 17.2A）
+- **脂肪壞死**由酶性破壞脂肪細胞引起
+- 釋放的脂肪酸與鈣結合形成不溶性鹽，在局部沉澱
 
-**Carcinomas of the head of the pancreas:**
-- Most carcinomas of the head of the pancreas obstruct the distal common bile duct
-- In 50% of such cases, there is marked distention of the biliary tree
-- Patients typically exhibit **jaundice**
-- Carcinomas of the body and tail do not impinge on the biliary tract
+**更嚴重形式（急性壞死性胰臟炎）**：
+- 損傷涉及腺泡與導管細胞、蘭氏小島與血管
+- 巨觀：紅黑色出血區域交錯黃白色粉筆樣脂肪壞死區（Fig. 17.2B）
+- 脂肪壞死也可發生在胰外脂肪（網膜、腸繫膜、皮下脂肪）
+- **出血性胰臟炎**：廣泛實質壞死伴胰臟內瀰漫性出血
 
-**Extension:**
-- Often extend through the retroperitoneal space, entrapping adjacent nerves (accounting for pain)
-- Occasionally invade the spleen, adrenal glands, vertebral column, transverse colon, and stomach
-- **Peripancreatic, gastric, mesenteric, omental, and portahepatic lymph nodes** frequently involved
-- **Liver** often enlarged with metastatic deposits
-- Distant metastases may occurprincipally to the lungs and bones
-
-**Microscopic examination:**
-- Usually a moderately to poorly differentiated **adenocarcinoma**
-- Forming abortive glands with mucin secretion or cell clusters
-- Exhibiting an aggressive, deeply infiltrative growth pattern (see Fig. 17.9B)
-- Dense stromal fibrosis accompanies tumor invasion
-- Proclivity for **perineural invasion** within and beyond the organ
-- **Lymphatic invasion** also commonly seen
-
-**Less common variants:**
-- **Adenosquamous carcinomas**: focal squamous differentiation in addition to glandular differentiation
-- **Undifferentiated carcinomas**: osteoclast-like giant cells of monocytic lineage intermixed within the neoplasm
+<figure>
+<figcaption>Fig. 17.2 (A) Focal fat necrosis in acute pancreatitis. (B) Acute necrotizing pancreatitis with extensive hemorrhage and fat necrosis.</figcaption>
+</figure>
 
 #### Clinical Features
 
-- Typically remain silent until their extension impinges on some other structure
-- **Pain** usually is the first symptom (but by that point often beyond cure)
-- **Obstructive jaundice** can be associated with carcinoma in the head of the pancreas
-- **Weight loss, anorexia, and generalized malaise and weakness** are manifestations of advanced disease
-- **Migratory thrombophlebitis (Trousseau syndrome)** occurs in about 10% of patients (attributable to elaboration of platelet-aggregating factors and pro-coagulants from the tumor or its necrotic products) (Chapter 6)
-- **New-onset diabetes** is the first manifestation of pancreatic cancer in some patients
+**腹痛**是急性胰臟炎的典型表現。嚴重程度從輕度不適到嚴重衰弱不等。
 
-**Clinical course:**
-- Rapidly progressive and often distressingly brief
-- Less than **20%** of pancreatic cancers are resectable at the time of diagnosis
+**診斷**：
+- 主要基於血漿 **amylase** 與 **lipase** 升高
+- 排除其他腹痛原因
+- 80% 的病例為輕度且自限性
+- 其餘 20% 發生嚴重疾病
 
-**Diagnosis:**
-- No specific or sensitive enough biomarkers for useful screening (e.g., carcinoembryonic and CA19-9 antigens)
-- **Endoscopic ultrasonography** and **high-resolution CT scans** are helpful for investigation in cases of suspected cancer but are not practical screening tests
+**嚴重急性胰臟炎的表現**（因全身釋放消化酶與爆炸性炎症反應激活）：
+- 白血球增多
+- **瀰漫性血管內凝血（DIC）**
+- **急性呼吸窘迫症候群（ARDS）**
+- 瀰漫性脂肪壞死
+- **外周血管虛脫（休克）**由微血管通透性增加與低血容量引起
+- **內毒素血症**
+- **腎衰竭**由急性腎小管壞死引起
 
----
+**實驗室發現**：
+- 血漿 **amylase** 在前 24 小時顯著升高
+- 血漿 **lipase** 在 72-96 小時升高
+- **低鈣血症**可由脂肪壞死區域的鈣沉澱引起
 
-## Summary: Pancreatic Neoplasms
+**管理**：
+- 支持性治療
+- 禁食讓胰臟「休息」
+- 40-60% 的急性壞死性胰臟炎病例，壞死碎片會被感染
 
-- Pancreatic cancer probably arises from noninvasive precursor lesions (most commonly, **PanINs**), developing by progressive accumulation of mutations of oncogenes (e.g., **KRAS**) and tumor suppressor genes (e.g., **CDKN2A/p16**, **TP53**, and **SMAD4**)
-- Typically, these neoplasms are **ductal adenocarcinomas** that produce an intense desmoplastic response
-- Most pancreatic cancers are diagnosed at an advanced stage, accounting for the high mortality rate
-- **Obstructive jaundice** is a feature of carcinoma of the head of the pancreas; many patients also experience debilitating pain
-- Carcinomas of the tail of the pancreas are often not detected until late in their course
+**預後**：
+- 多數最終康復
+- 約 5% 在第一週死於休克
+- **ARDS** 與**腎衰竭**是不祥的併發症
 
----
+### Pancreatic Pseudocysts
 
-## Suggested Readings
+急性胰臟炎（尤其是酒精性胰臟炎）的一個常見後遺症是 **pancreatic pseudocyst**。
 
-1. Andersen DK, Andren-Sandberg Å, Duell EJ, et al: Pancreatitis-diabetes-pancreatic cancer: summary of an NIDDK-NCI workshop, Pancreas 42:1227–1237, 2013.
+- 壞死的胰臟組織液化區域被纖維組織包圍形成囊狀空間
+- **缺乏上皮襯覆**（因此稱為「假」囊腫）
+- 囊內容物富含胰臟酶
+- 佔所有胰臟囊腫的約 **75%**
+- 許多 pseudocysts 會自發消退
 
-2. Bailey P, Chang DK, Nones K, et al: Genomic analyses identify molecular subtypes of pancreatic cancer, Nature 531:47–52, 2016.
+### Chronic Pancreatitis
 
-3. Dellinger EP, Forsmark CE, Layer P, et al: Determinant-based classification of acute pancreatitis severity: an international multidisciplinary consultation, Ann Surg 256:875–880, 2012.
+**慢性胰臟炎**以長期炎症為特徵，導致胰外分泌腺的不可逆破壞，最終導致蘭氏小島的丟失。盛行率約 **0.04-5%**。
 
-4. Hart PA, Zen Y, Chari ST: Recent advances in autoimmune pancreatitis, Gastroenterology 149:39–51, 2015.
+#### Etiology
 
-5. Knudson ES, O'Reilly EM, Brody JR, et al: Genetic diversity of pancreatic ductal adenocarcinoma and opportunities for precision medicine, Gastroenterology 150:48–63, 2016.
+慢性胰臟炎遠遠最常見的原因是**長期酒精濫用**。
 
-6. Ryan DP, Hong TS, Bardeesy N: Pancreatic adenocarcinoma, N Engl J Med 371:1039–1049, 2014.
+**較少見的原因**：
+- **導管阻塞**：長期胰管阻塞（如 pseudocysts、結石、腫瘤或 pancreas divisum）
+- **熱帶胰臟炎**
+- **遺傳性胰臟炎**：由 PRSS1 或 SPINK1 基因突變引起
+- **CFTR 突變相關慢性胰臟炎**
+- **自體免疫性胰臟炎**：以胰臟中 IgG4 分泌漿細胞浸潤為特徵，是 IgG4 相關疾病的表現之一
 
-7. Shelton CA, Whitcomb DC: Genetics and treatment options for recurrent acute and chronic pancreatitis, Curr Treat Options Gastroenterol 12:359–371, 2014.
+#### Pathogenesis
 
-8. Tanaka M, et al: International consensus guidelines 2012 for the management of IPMN and MCN of the pancreas, Pancreatology 12:183–197, 2012.
+發病機制尚不明確定義，但多個假設：
+
+1. **導管被 concretions 阻塞**：許多啟動因素（如酒精）增加胰液中的蛋白質濃度，這些蛋白質可形成導管 plug
+2. **毒性-代謝**：毒素（包括酒精及其代謝產物）對腺泡細胞有直接毒性作用
+3. **氧化壓力**：酒精誘導的氧化壓力可能產生自由基
+4. **不當的胰臟酶激活**：由前述基因突變引起
+
+在慢性胰臟炎中，各種**促纖維化細胞激素**（如 TGF-β、connective tissue growth factor、PDGF）由浸潤的免疫細胞（如 macrophages）分泌，誘導周圍腺泡 myofibroblasts（胰星狀細胞）的活化與增殖，導致膠原蛋白沉積與纖維化。
+
+#### Morphology
+
+慢性胰臟炎的特徵：
+- **實質纖維化**
+- 腺泡數量與大小減少
+- 胰管不同程度擴張
+- 蘭氏小島相對初期不受影響
+- **腺泡丟失**是恆定特徵
+- 導管上皮可能萎縮或增生，或呈鱗狀化生
+- 可見導管 concretions（Fig. 17.4B）
+- 最終蘭氏小島也消失
+
+**自體免疫性胰臟炎（AIP）**是慢性胰臟炎的一種獨特形式：
+- 顯著淋巴細胞與漿細胞浸潤
+- 許多漿細胞為 **IgG4 陽性**
+- 「漩渦狀」纖維化
+- **靜脈炎**（lymphoplasmacytic sclerosing pancreatitis）
+
+<figure>
+<figcaption>Fig. 17.4 Chronic pancreatitis. (A) Gross appearance showing a hard, fibrotic pancreas with dilated ducts. (B) Histologic appearance showing parenchymal fibrosis, loss of acini, and dilated ducts with protein plugs.</figcaption>
+</figure>
+
+#### Clinical Features
+
+慢性胰臟炎表現為：
+- 反覆膽黃疸發作
+- 模糊的消化不良
+- 持續或復發性腹部與背部疼痛
+- 直到**胰外分泌不足**與**糖尿病**發生之前可能完全無症狀
+
+**診斷**：
+- 需要高度的臨床警覺
+- CT 或超聲可見**胰臟鈣化**有幫助
+- 體重減輕與低白蛋白水腫來自胰外分泌不足引起的吸收不良
+
+**長期後遺症**：
+- **胰外分泌不足**：脂肪與脂溶性維生素吸收不良
+- **糖尿病**：蘭氏小島嚴重丟失
+- 嚴重慢性疼痛可能主導臨床症狀
+- 約 10% 病人發展 **pancreatic pseudocysts**
+
+**最可怕的長期併發症：胰臟癌**
+- 成年發病疾病的惡性轉化風險：適度（20 年不超過 5%）
+- **兒童期開始的慢性胰臟炎**（如 PRSS1 突變相關的遺傳性胰臟炎）：40-55% 終生胰臟癌風險
+
+### Summary: 胰臟炎
+
+- **急性胰臟炎**以炎症與可逆性實質損傷為特徵，範圍從局灶性水腫與脂肪壞死到廣泛實質壞死與出血；臨床表現多變，從輕度腹痛到迅速致命。
+- **慢性胰臟炎**以不可逆實質損傷與疤痕形成為特徵；臨床表現包括慢性吸收不良（胰外分泌不足）與糖尿病（蘭氏小島細胞丟失）。
+- 兩者有相似的發病機制，反覆急性胰臟炎可演變為慢性胰臟炎。
+- **導管阻塞**與**長期酒精濫用**是兩種形式的最常見原因。
+
+## 胰臟腫瘤
+
+### 囊性腫瘤
+
+囊性腫瘤是多样的肿瘤，從無害的囊腫到侵襲性潛在致命性癌症不等。
+
+#### Serous Cystadenomas
+
+- 約佔所有胰臟囊性腫瘤的 **25%**
+- 由富含糖原的立方細胞組成，周圍是小囊腔（Fig. 17.5）
+- 腫瘤通常在第七個十年表現
+- **幾乎普遍良性**；手術切除通常可根治
+
+#### Mucinous Cystic Neoplasms
+
+- 約 **95%** 發生在女性，通常在胰體或尾部
+- 囊腔充滿稠厚黏稠的 **黏蛋白**
+- 囊腫襯覆**柱狀黏液上皮**，伴有緻密細胞性間質（類似卵巢）
+- 根據上皮襯覆的細胞與結構非典型程度，非侵襲性黏液囊性腫瘤分為低度、中度或重度發育不良
+- 高達 **1/3** 的這些囊腫可能與**侵襲性腺癌**相關
+
+#### Intraductal Papillary Mucinous Neoplasms (IPMNs)
+
+- 與黏液囊性腫瘤不同，**IPMNs** 更常見於**男性**
+- 更常涉及胰頭
+- 起源于主胰管或其主要分支管
+- 缺乏黏液囊性腫瘤中的細胞性間質（Fig. 17.7）
+- 與黏液囊性腫瘤一樣，非侵襲性 IPMNs 的上皮襯覆有各種程度的發育不良
+- 一部分病變與**侵襲性腺癌**相關
+- 高達 **2/3** 的 IPMNs 有 **GNAS**  oncogenic mutations
+
+<figure>
+<figcaption>Fig. 17.5 Serous cystadenoma. (A) Gross appearance showing a cystic tumor with a central stellate scar. (B) Microscopic appearance showing glycogen-rich cuboidal cells lining small cysts.</figcaption>
+</figure>
+
+### Pancreatic Carcinoma
+
+**胰浸潤性導管腺癌**（通常稱為胰臟癌）是美國**癌症死因第三位**，僅次於肺癌與結腸癌。
+
+- 確診後幾乎所有人在短時間內死亡
+- **5 年存活率：8%**（悲慘）
+
+#### Pathogenesis
+
+胰臟癌是由遺傳性與後天性癌症相關基因突變累積的結果。在一個類似結腸癌多步進程的模式中，胰臟上皮經歷從非腫瘤性到非侵襲性前驅病變到侵襲性癌的進行性遺傳變化累積。
+
+胰臟癌最常見的前驅病變是起源於小導管與導管小葉的 **pancreatic intraepithelial neoplasias（PanINs）**。
+
+**胰臟癌基因組測序**確認了四個最常受 somatic mutations 影響的基因：
+
+| 基因 | 類型 | 頻率 | 功能 |
+|---|---|---|---|
+| **KRAS** | 致癌基因 | >90% | 組成性激活；激活促進致癌的細胞內信號通路 |
+| **CDKN2A/p16** | 腫瘤抑制基因 | 95% | 細胞週期控制的關鍵角色 |
+| **SMAD4** | 腫瘤抑制基因 | 55% | TGF-β 受體下游信號傳導的重要角色 |
+| **TP53** | 腫瘤抑制基因 | 50-70% | 執行細胞週期檢查點；誘導凋亡或衰老 |
+
+**風險因素**：
+- 主要是老年疾病（80% 病例在 60-80 歲之間）
+- **吸菸**是最強的環境影響因素（加倍風險）
+- **長期慢性胰臟炎**與**糖尿病**與適度增加的風險相關
+
+#### Morphology
+
+**位置**：
+- **60%** 起源於胰頭
+- **15%** 在胰體
+- **5%** 在胰尾
+- **20%** 瀰漫性累及整個器官
+
+**巨觀外觀**：
+- 通常為硬、灰白色、星芒狀、境界不清的團塊（Fig. 17.9A）
+
+**兩個特徵**：
+1. **高度侵襲性**（即使「早期」侵襲性胰臟癌也廣泛侵襲胰周組織）
+2. **強度 desmoplastic response**（緻密纖維化）
+
+**顯微鏡檢查**：
+- 通常為中至高分化 **腺癌**
+- 形成不成熟腺體，黏蛋白分泌或細胞簇
+- 呈侵襲性、深層浸潤性生長模式（Fig. 17.9B）
+- 緻密基質纖維化伴隨腫瘤侵襲
+- 神經周圍浸潤的傾向
+
+<figure>
+<figcaption>Fig. 17.9 Pancreatic ductal adenocarcinoma. (A) Gross appearance of a hard, white-gray tumor in the pancreatic head. (B) Microscopic appearance showing infiltrating glands with desmoplastic stroma.</figcaption>
+</figure>
+
+#### Clinical Features
+
+- 通常在侵襲到其他結構之前保持無症狀
+- **疼痛**通常是第一個症狀（但此時往往已無法治愈）
+- **阻塞性黃疸**可與胰頭癌相關
+- **體重減輕、食慾不振、全身不適與虛弱**是晚期疾病表現
+- ** migratory thrombophlebitis（Trousseau syndrome）**發生在約 10% 病人
+
+**臨床過程**：
+- 快速進展，通常令人苦惱地短暫
+- 只有不到 **20%** 的胰臟癌在確診時可切除
+
+**治療**：
+- 手術切除
+- 化療與放療
+- 對於晚期疾病：palliative therapy
+
+### Summary: 胰臟腫瘤
+
+- 胰臟癌可能起源於非侵襲性前驅病變（最常見的 **PanINs**），通過致癌基因（如 **KRAS**）與腫瘤抑制基因（如 **CDKN2A/p16**、**TP53**、**SMAD4**）的進行性突變累積發展。
+- 典型為**導管腺癌**，產生強度 desmoplastic response。
+- 多數胰臟癌確診時已屬晚期，導致高死亡率。
+- **阻塞性黃疸**是胰頭癌的特徵；多數病人也經歷衰弱的疼痛。
